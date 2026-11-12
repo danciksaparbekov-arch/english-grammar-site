@@ -76,30 +76,40 @@ export default {
     const system = SYSTEM_PROMPT + (unit ? `\nСейчас ученица открыла тему: ${unit}.` : "");
 
     if (!env.GEMINI_API_KEY) return json({ error: "ключ API не настроен" }, 500, origin);
-    const model = env.GEMINI_MODEL || "gemini-2.5-flash";
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
+    // Основная модель + запасные (через запятую): при перегрузке/отсутствии модели пробуем следующую
+    const models = [env.GEMINI_MODEL || "gemini-3.8-flash"]
+      .concat(String(env.GEMINI_FALLBACK || "").split(","))
+      .map(s => s.trim()).filter(Boolean).slice(0, 3);
+    const payload = JSON.stringify({
+      systemInstruction: { parts: [{ text: system }] },
+      contents,
+      // модели 3.x тратят часть лимита на «размышления» — запас побольше
+      generationConfig: { temperature: 0.5, maxOutputTokens: 4096 }
+    });
 
-    let r;
-    try {
-      r = await fetch(url, {
-        method: "POST",
-        headers: { "Content-Type": "application/json", "x-goog-api-key": env.GEMINI_API_KEY },
-        body: JSON.stringify({
-          systemInstruction: { parts: [{ text: system }] },
-          contents,
-          generationConfig: { temperature: 0.5, maxOutputTokens: 1024 }
-        })
-      });
-    } catch (e) {
-      return json({ error: "сервис недоступен" }, 502, origin);
+    let r, data = {};
+    for (const model of models) {
+      const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
+      try {
+        r = await fetch(url, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", "x-goog-api-key": env.GEMINI_API_KEY },
+          body: payload
+        });
+      } catch (e) {
+        r = null;
+        continue;
+      }
+      data = await r.json().catch(() => ({}));
+      if (r.ok || ![404, 500, 503].includes(r.status)) break;
     }
-
-    const data = await r.json().catch(() => ({}));
+    if (!r) return json({ error: "сервис недоступен" }, 502, origin);
     if (!r.ok) {
+      if (r.status === 503) return json({ error: "модель сейчас перегружена, попробуйте через минуту" }, 502, origin);
       // Подробности ошибки Google наружу не отдаём
       return json({ error: r.status === 429 ? "лимит модели исчерпан, попробуйте позже" : "ошибка модели (" + r.status + ")" }, 502, origin);
     }
-    const reply = (data.candidates?.[0]?.content?.parts || []).map(p => p.text || "").join("").trim();
+    const reply = (data.candidates?.[0]?.content?.parts || []).filter(p => !p.thought).map(p => p.text || "").join("").trim();
     if (!reply) return json({ error: "пустой ответ модели" }, 502, origin);
     return json({ reply }, 200, origin);
   }
