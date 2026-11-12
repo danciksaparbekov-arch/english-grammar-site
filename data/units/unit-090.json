@@ -1,0 +1,312 @@
+{
+  "id": 90,
+  "title": "enough",
+  "summary": "Слово **enough** («достаточно»): **enough money**, **tall enough**, **enough for / enough to**.",
+  "ru": "## Что значит enough\n**Enough** значит «достаточно, хватает». Это слово ставится по-разному — до существительного и после прилагательного.\n\n## enough + существительное\nПеред существительным **enough** стоит **перед** ним.\n> Is there **enough sugar** in your coffee? — В кофе достаточно сахара?\n> We didn't have **enough players**. — У нас не хватало игроков.\n> You've got **enough money**. — У тебя достаточно денег.\n\n## прилагательное + enough\nПосле прилагательного или наречия **enough** стоит **после** него.\n> It isn't **warm enough**. — Недостаточно тепло.\n> Is it **loud enough** for you? — Достаточно громко для тебя?\n> He isn't **old enough**. — Он недостаточно взрослый.\n> Запомните: **enough money**, но **tall enough**.\n\n## enough без существительного\nЕсли понятно, о чём речь, существительное можно не говорить.\n> I've got some money, but not **enough**. — У меня есть деньги, но не хватает.\n> No, thanks. I've had **enough**. — Нет, спасибо. С меня хватит.\n> You don't go out **enough**. — Ты мало гуляешь.\n\n## enough for ... / enough to ...\n- **enough for** + человек или вещь:\n> This pullover isn't big **enough for me**. — Этот свитер мне маловат.\n- **enough to** + глагол:\n> I haven't got enough money **to buy** a car. — У меня не хватает денег на машину.\n> Is your English good enough **to have** a conversation? — Достаточно ли твоего английского для беседы?\n- вместе: **enough ... for somebody to ...**\n> There aren't enough chairs **for everybody to sit** down. — Стульев не хватает, чтобы все сели.\n\n## Типичные ошибки\n- ~~money enough~~ → **enough money**\n- ~~enough warm~~ → **warm enough**\n- ~~enough for buy a car~~ → enough **to buy** a car\n- ~~too much enough~~ → **enough** (без too)",
+  "en": "## What is enough?\n**Enough** means «as much as we need». Its place in the sentence depends on what comes with it.\n\n## enough + noun\n**Enough** comes **before** a noun.\n> Is there **enough sugar** in your coffee?\n> We didn't have **enough players**.\n> You've got **enough money**.\n\n## adjective + enough\n**Enough** comes **after** an adjective or adverb.\n> It isn't **warm enough**.\n> Is it **loud enough** for you?\n> He isn't **old enough**.\nRemember: **enough money**, but **tall enough**.\n\n## enough without a noun\n> I've got some money, but not **enough**.\n> No, thanks. I've had **enough**.\n> You don't go out **enough**.\n\n## enough for ... / enough to ...\n- **enough for** + person or thing:\n> This pullover isn't big **enough for me**.\n- **enough to** + verb:\n> I haven't got enough money **to buy** a car.\n> Is your English good enough **to have** a conversation?\n- both: **enough ... for somebody to ...**\n> There aren't enough chairs **for everybody to sit** down.\n\n## Common mistakes\n- ~~money enough~~ → **enough money**\n- ~~enough warm~~ → **warm enough**\n- ~~enough for buy~~ → enough **to buy**",
+  "structure": "## Порядок слов\n| Что с enough | Порядок | Пример |\n|---|---|---|\n| существительное | **enough** + noun | enough money, enough time |\n| прилагательное | adjective + **enough** | tall enough, warm enough |\n| наречие | adverb + **enough** | fast enough, loudly enough |\n| глагол | verb + **enough** | I don't sleep enough. |\n| ничего | **enough** | I've had enough. |\n\n## Отрицание\n> Подлежащее + **isn't / hasn't got / doesn't** + enough ...\n> She **hasn't got enough** time. · The room **isn't big enough**.\n\n## enough for / enough to\n| Конструкция | Пример |\n|---|---|\n| enough (+ noun) **for** + someone/something | enough money **for** a car |\n| adjective + enough **to** + verb | old enough **to** drive |\n| enough + noun **to** + verb | enough time **to** finish |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "enough + существительное",
+      "instruction": "Вставьте **enough** и слово из скобок.",
+      "example": "(money) She hasn't got **enough money**.",
+      "items": [
+        {
+          "text": "We can't play football. We haven't got {{enough players}}.",
+          "hint": "players"
+        },
+        {
+          "text": "Hurry up! We haven't got {{enough time}}.",
+          "hint": "time"
+        },
+        {
+          "text": "I can't make a cake. I haven't got {{enough eggs}}.",
+          "hint": "eggs"
+        },
+        {
+          "text": "There aren't {{enough chairs}} for everybody.",
+          "hint": "chairs"
+        },
+        {
+          "text": "He can't buy the bike. He hasn't got {{enough money}}.",
+          "hint": "money"
+        },
+        {
+          "text": "Is there {{enough milk}} for everyone?",
+          "hint": "milk"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "прилагательное + enough",
+      "instruction": "Вставьте прилагательное из скобок и **enough**.",
+      "items": [
+        {
+          "text": "Take a coat. It isn't {{warm enough}} outside.",
+          "hint": "warm"
+        },
+        {
+          "text": "He can't reach the shelf. He isn't {{tall enough}}.",
+          "hint": "tall"
+        },
+        {
+          "text": "Can you hear the TV? Is it {{loud enough}}?",
+          "hint": "loud"
+        },
+        {
+          "text": "She can't drive yet. She isn't {{old enough}}.",
+          "hint": "old"
+        },
+        {
+          "text": "I can't carry this bag. I'm not {{strong enough}}.",
+          "hint": "strong"
+        },
+        {
+          "text": "We can't sit here. The table isn't {{big enough}} for six people.",
+          "hint": "big"
+        },
+        {
+          "text": "The soup isn't {{hot enough}}.",
+          "hint": "hot"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "Do we have ___ to eat?",
+          "options": [
+            "enough food",
+            "food enough",
+            "enough of food"
+          ],
+          "answer": 0,
+          "why": "Перед существительным: **enough food**."
+        },
+        {
+          "q": "This room isn't ___ for a party.",
+          "options": [
+            "enough big",
+            "big enough",
+            "enough bigger"
+          ],
+          "answer": 1,
+          "why": "После прилагательного: **big enough**."
+        },
+        {
+          "q": "I'm not tall enough ___ the top shelf.",
+          "options": [
+            "to reach",
+            "for reach",
+            "for to reach"
+          ],
+          "answer": 0,
+          "why": "enough **to** + глагол."
+        },
+        {
+          "q": "This jacket isn't big enough ___ me.",
+          "options": [
+            "to",
+            "for",
+            "than"
+          ],
+          "answer": 1,
+          "why": "enough **for** + человек."
+        },
+        {
+          "q": "You don't practise ___. You must practise more.",
+          "options": [
+            "enough",
+            "enough much",
+            "much enough"
+          ],
+          "answer": 0,
+          "why": "После глагола — **enough**."
+        },
+        {
+          "q": "Would you like more cake? — No, thanks. I've had ___.",
+          "options": [
+            "enough",
+            "too",
+            "enough of"
+          ],
+          "answer": 0,
+          "why": "I've had **enough** — с меня хватит."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «У меня недостаточно времени»?",
+          "options": [
+            "I haven't time enough.",
+            "I haven't got enough time.",
+            "I haven't enough of time."
+          ],
+          "answer": 1,
+          "why": "**enough time**."
+        },
+        {
+          "q": "Как сказать «Он достаточно взрослый, чтобы водить машину»?",
+          "options": [
+            "He's old enough to drive.",
+            "He's enough old to drive.",
+            "He's old enough for drive."
+          ],
+          "answer": 0,
+          "why": "old **enough to** drive."
+        },
+        {
+          "q": "Как сказать «Этого достаточно для всех»?",
+          "options": [
+            "It's enough for everybody.",
+            "It's enough to everybody.",
+            "It's for everybody enough."
+          ],
+          "answer": 0,
+          "why": "enough **for** + человек."
+        },
+        {
+          "q": "Как сказать «Здесь недостаточно тепло»?",
+          "options": [
+            "It isn't enough warm here.",
+            "It isn't warm enough here.",
+            "It isn't warmly enough here."
+          ],
+          "answer": 1,
+          "why": "**warm enough**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **enough**.",
+      "items": [
+        {
+          "prompt": "(I / not / have / enough money / to buy a car)",
+          "answers": [
+            "I don't have enough money to buy a car.",
+            "I haven't got enough money to buy a car.",
+            "I haven't enough money to buy a car."
+          ]
+        },
+        {
+          "prompt": "(the water / not / hot enough)",
+          "answers": [
+            "The water isn't hot enough.",
+            "The water is not hot enough.",
+            "The water's not hot enough."
+          ]
+        },
+        {
+          "prompt": "(is / your English / good enough / to read the book?)",
+          "answers": [
+            "Is your English good enough to read the book?"
+          ]
+        },
+        {
+          "prompt": "(there / not / enough chairs / for everybody)",
+          "answers": [
+            "There aren't enough chairs for everybody.",
+            "There are not enough chairs for everybody."
+          ]
+        },
+        {
+          "prompt": "(he / not / old enough / to vote)",
+          "answers": [
+            "He isn't old enough to vote.",
+            "He is not old enough to vote.",
+            "He's not old enough to vote."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **enough**.",
+      "items": [
+        {
+          "prompt": "У нас достаточно времени.",
+          "answers": [
+            "We have enough time.",
+            "We've got enough time.",
+            "We have got enough time."
+          ]
+        },
+        {
+          "prompt": "Эта квартира недостаточно большая для нас.",
+          "answers": [
+            "This flat isn't big enough for us.",
+            "This flat is not big enough for us.",
+            "This apartment isn't big enough for us.",
+            "This apartment is not big enough for us."
+          ]
+        },
+        {
+          "prompt": "Ты достаточно взрослый, чтобы решить.",
+          "answers": [
+            "You're old enough to decide.",
+            "You are old enough to decide."
+          ]
+        },
+        {
+          "prompt": "Спасибо, с меня хватит.",
+          "answers": [
+            "Thanks, I've had enough.",
+            "Thank you, I've had enough.",
+            "No, thanks. I've had enough.",
+            "No, thank you. I've had enough."
+          ]
+        },
+        {
+          "prompt": "Ты мало спишь.",
+          "answers": [
+            "You don't sleep enough.",
+            "You don't get enough sleep."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте **enough**.",
+      "items": [
+        {
+          "prompt": "У вас достаточно времени для хобби?",
+          "sample": "I don't have enough time for my hobbies."
+        },
+        {
+          "prompt": "Достаточно ли хорош ваш английский, чтобы смотреть фильмы?",
+          "sample": "My English isn't good enough to watch films without subtitles."
+        },
+        {
+          "prompt": "Ваша квартира достаточно большая?",
+          "sample": "Our flat is big enough for four people."
+        },
+        {
+          "prompt": "Что вы хотели бы делать, но у вас не хватает денег или времени?",
+          "sample": "I haven't got enough money to travel."
+        }
+      ]
+    }
+  ]
+}

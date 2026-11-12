@@ -1,0 +1,105 @@
+{
+  "id": 103,
+  "title": "up over through etc. (prepositions)",
+  "summary": "Предлоги движения: **up, down, over, across, through, into, out of, along, past, round, from, to** — куда и как мы идём.",
+  "ru": "## Предлоги движения\nОни показывают направление: куда, откуда, через что мы движемся.\n> She walked **up** the hill. — Она поднялась на холм.\n> He ran **into** the shop. — Он вбежал в магазин.\n\n## Главные предлоги\n- **up / down** — вверх / вниз: *We went **up** the stairs and **down** the street.*\n- **into / out of** — внутрь / из: *She went **into** the room. He came **out of** the bank.*\n- **over** — через что-то высокое, поверх: *The cat jumped **over** the fence.*\n- **across** — поперёк, на другую сторону: *We walked **across** the bridge. She swam **across** the river.*\n- **through** — сквозь, через что-то с объёмом: *The train goes **through** a tunnel. We walked **through** the forest.*\n- **along** — вдоль: *They walked **along** the beach.*\n- **past** — мимо: *I walked **past** your house today.*\n- **round / around** — вокруг: *We walked **round** the lake.*\n- **from ... to ...** — от ... до ...: *It's 20 km **from** here **to** the city.*\n\n## Сравните\n- **over** — перепрыгнуть или перейти *через* препятствие; **across** — пересечь плоскость; **through** — пройти *внутри*.\n> I walked **across** the park. — Я прошла через парк (по поверхности).\n> I walked **through** the forest. — Я шла через лес (среди деревьев).\n\n## Типичные ошибки\n- ~~She went in the shop.~~ (когда вошла) → She went **into** the shop.\n- ~~He came from of the room.~~ → He came **out of** the room.\n- ~~We walked next the river.~~ → We walked **along** the river.",
+  "en": "## Prepositions of movement\nThey show direction: where we go, where we come from, what we pass.\n> She walked **up** the hill.\n> He ran **into** the shop.\n\n## Main prepositions\n- **up / down**: *We went **up** the stairs and **down** the street.*\n- **into / out of**: *She went **into** the room. He came **out of** the bank.*\n- **over**: *The cat jumped **over** the fence.*\n- **across**: *We walked **across** the bridge. She swam **across** the river.*\n- **through**: *The train goes **through** a tunnel. We walked **through** the forest.*\n- **along**: *They walked **along** the beach.*\n- **past**: *I walked **past** your house today.*\n- **round / around**: *We walked **round** the lake.*\n- **from ... to ...**: *It's 20 km **from** here **to** the city.*\n\n## Compare\n> I walked **across** the park. (on the surface)\n> I walked **through** the forest. (between the trees)\n\n## Common mistakes\n- ~~She went in the shop.~~ → She went **into** the shop.\n- ~~He came from of the room.~~ → He came **out of** the room.",
+  "structure": "## Схема\n| Предлог | Значение | Пример |\n|---|---|---|\n| up / down | вверх / вниз | up the stairs |\n| into / out of | внутрь / изнутри | into the room, out of the car |\n| over | через (препятствие) | over the wall |\n| across | на другую сторону | across the road |\n| through | сквозь | through the door |\n| along | вдоль | along the river |\n| past | мимо | past the bank |\n| round | вокруг | round the lake |\n\n## Формула\n> Глагол движения + **предлог** + место\n> She **walked past** the school. · He **ran into** the house.\n\n## Запомните\n- **out of** — это два слова: ~~out the car~~ → **out of the car**.\n- **from ... to ...** для расстояния и маршрута: *from Bishkek to Osh*.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Выберите предлог движения",
+      "instruction": "Вставьте: **up, down, into, out of, over, across, through, along, past, round**.",
+      "items": [
+        { "text": "She opened the door and walked {{into}} the kitchen." },
+        { "text": "The children ran {{down}} the hill." },
+        { "text": "We climbed {{up}} the mountain in three hours." },
+        { "text": "The horse jumped {{over}} the wall." },
+        { "text": "He took his keys {{out of}} his pocket." },
+        { "text": "The river is wide. We can't swim {{across}} it." },
+        { "text": "The bus drove {{past}} the school without stopping." },
+        { "text": "The road goes {{through}} the forest." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Маршрут",
+      "instruction": "Вставьте предлог: **along, round, from, to, across, past**.",
+      "items": [
+        { "text": "It takes two hours to drive {{from}} Bishkek {{to}} Cholpon-Ata." },
+        { "text": "We walked {{along|beside}} the river for a mile." },
+        { "text": "There's a path {{round|around}} the lake. It takes an hour to walk." },
+        { "text": "Go {{along|down}} this street and turn left at the bank." },
+        { "text": "Go {{across}} the bridge and then {{past}} the station." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный предлог",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "The thief ran ___ the house through the window.", "options": ["out of", "up", "across"], "answer": 0, "why": "Вышел изнутри → **out of**." },
+        { "q": "We walked ___ the park on our way to work.", "options": ["into", "through", "out"], "answer": 1, "why": "Пройти через парк → **through**." },
+        { "q": "Be careful when you go ___ the road.", "options": ["across", "along", "up"], "answer": 0, "why": "Перейти дорогу → **across**." },
+        { "q": "The plane flew ___ the mountains.", "options": ["into", "over", "along"], "answer": 1, "why": "Над горами, поверх → **over**." },
+        { "q": "I walked ___ your house yesterday, but you weren't at home.", "options": ["past", "through", "into"], "answer": 0, "why": "Мимо дома → **past**." },
+        { "q": "She came ___ the room and sat down.", "options": ["out of", "into", "over"], "answer": 1, "why": "Вошла внутрь → **into**." },
+        { "q": "The old man walked slowly ___ the stairs. (вверх)", "options": ["down", "up", "round"], "answer": 1, "why": "Вверх → **up**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Мы шли вдоль реки»?", "options": ["We walked along the river.", "We walked into the river.", "We walked through the river."], "answer": 0, "why": "**along** — вдоль." },
+        { "q": "Как сказать «Он вышел из машины»?", "options": ["He got from the car.", "He got out of the car.", "He got out the car of."], "answer": 1, "why": "**out of** + место." },
+        { "q": "Как сказать «Кошка прыгнула через забор»?", "options": ["The cat jumped through the fence.", "The cat jumped along the fence.", "The cat jumped over the fence."], "answer": 2, "why": "Через препятствие сверху → **over**." },
+        { "q": "Как сказать «Мы шли вокруг озера»?", "options": ["We walked round the lake.", "We walked past the lake round.", "We walked over round the lake."], "answer": 0, "why": "**round** (или around) + место." },
+        { "q": "Как сказать «От дома до школы 500 метров»?", "options": ["From my house at school it's 500 metres.", "It's 500 metres from my house to the school.", "It's 500 metres of my house to school."], "answer": 1, "why": "**from ... to ...**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов в скобках (глагол в Past simple).",
+      "items": [
+        { "prompt": "(she / walk / into / the room)", "answers": ["She walked into the room."] },
+        { "prompt": "(we / drive / through / a tunnel)", "answers": ["We drove through a tunnel."] },
+        { "prompt": "(the boy / run / down / the stairs)", "answers": ["The boy ran down the stairs."] },
+        { "prompt": "(they / swim / across / the lake)", "answers": ["They swam across the lake."] },
+        { "prompt": "(I / walk / past / the bank)", "answers": ["I walked past the bank."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        { "prompt": "Она вышла из дома в восемь утра.", "answers": ["She went out of the house at eight in the morning.", "She came out of the house at eight in the morning.", "She left the house at eight in the morning.", "She went out of the house at eight a.m."] },
+        { "prompt": "Мы поднялись по лестнице.", "answers": ["We went up the stairs.", "We walked up the stairs.", "We climbed up the stairs.", "We went up the staircase."] },
+        { "prompt": "Поезд идёт через тоннель.", "answers": ["The train goes through a tunnel.", "The train goes through the tunnel.", "The train is going through a tunnel.", "The train is going through the tunnel."] },
+        { "prompt": "Иди по этой улице.", "answers": ["Go along this street.", "Walk along this street.", "Go down this street.", "Walk down this street."] },
+        { "prompt": "Мальчик перепрыгнул через лужу.", "answers": ["The boy jumped over a puddle.", "The boy jumped over the puddle."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        { "prompt": "How do you get from your home to work or school?", "sample": "I walk along my street, then I go through the park to the bus stop." },
+        { "prompt": "What do you walk past every day?", "sample": "I walk past a bakery every day, and it smells great." },
+        { "prompt": "Do you go up or down any stairs at home?", "sample": "I go up the stairs to my flat. It's on the fifth floor." },
+        { "prompt": "Describe a short walk you like.", "sample": "I like to walk round the lake near my home." }
+      ]
+    }
+  ]
+}

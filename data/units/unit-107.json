@@ -1,0 +1,321 @@
+{
+  "id": 107,
+  "title": "go in, fall off, run away etc. (phrasal verbs 1)",
+  "summary": "Фразовые глаголы без дополнения: **get up, sit down, come back, go out, run away, fall off** — глагол + короткое слово, которое меняет или уточняет значение.",
+  "ru": "## Что такое фразовый глагол\nЭто глагол + маленькое слово (**in, out, up, down, on, off, away, back**). Вместе они дают новое значение: **go out** — выйти, **come back** — вернуться, **sit down** — сесть.\n> She **got up** at seven. — Она встала в семь.\n> Please **sit down**. — Пожалуйста, садитесь.\n> The thief **ran away**. — Вор убежал.\n\n## Фразовые глаголы без дополнения\nВ этом юните — глаголы, после которых не нужен предмет: сам глагол + слово уже заканчивают мысль.\n\n## Самые частые\n- **get up** — вставать: *I get up at 6.*\n- **sit down / stand up** — сесть / встать: *Everyone stood up.*\n- **come in / go in** — войти: *Come in, please!*\n- **come out / go out** — выйти, пойти гулять: *Are you going out tonight?*\n- **come back / go back** — вернуться: *When will you come back?*\n- **run away** — убежать: *The dog ran away.*\n- **fall off / fall down** — упасть: *He fell off his bike.*\n- **hurry up** — поторопиться: *Hurry up! We're late.*\n- **wake up** — проснуться: *I woke up early.*\n- **grow up** — вырасти: *She grew up in Osh.*\n- **look out** — осторожно: *Look out! There's a car!*\n- **take off / land** — взлетать / приземляться: *The plane took off at nine.*\n- **turn round** — повернуться: *She turned round and smiled.*\n\n## Фразовый глагол + предлог\nИногда после фразового глагола идёт ещё предлог + место:\n> He **fell off** his bike. (не ~~fell off from~~)\n> The cat **jumped out of** the box.\n> She **came back to** Bishkek last week.\n\n## Типичные ошибки\n- ~~I woke up at six o'clock and get up.~~ → I woke up and **got up**.\n- ~~He is sit down.~~ → He **is sitting down** / He **sat down**.\n- ~~Come to in!~~ → **Come in!**\n- ~~She grew in Osh.~~ → She **grew up** in Osh.",
+  "en": "## What is a phrasal verb?\nA verb + a small word (**in, out, up, down, on, off, away, back**). Together they have a new meaning: **go out**, **come back**, **sit down**.\n> She **got up** at seven.\n> Please **sit down**.\n> The thief **ran away**.\n\n## Phrasal verbs without an object\nIn this unit the verb + small word is complete. We don't need a noun after it.\n\n## Common ones\n- **get up**: *I get up at 6.*\n- **sit down / stand up**: *Everyone stood up.*\n- **come in / go in**: *Come in, please!*\n- **come out / go out**: *Are you going out tonight?*\n- **come back / go back**: *When will you come back?*\n- **run away**: *The dog ran away.*\n- **fall off / fall down**: *He fell off his bike.*\n- **hurry up**: *Hurry up! We're late.*\n- **wake up**: *I woke up early.*\n- **grow up**: *She grew up in Osh.*\n- **look out**: *Look out! There's a car!*\n- **take off / land**: *The plane took off at nine.*\n- **turn round**: *She turned round and smiled.*\n\n## With a preposition\nSometimes a preposition + place follows:\n> He **fell off** his bike.\n> The cat **jumped out of** the box.\n> She **came back to** Bishkek last week.\n\n## Common mistakes\n- ~~Come to in!~~ → **Come in!**\n- ~~She grew in Osh.~~ → She **grew up** in Osh.\n- ~~He is sit down.~~ → He **sat down.**",
+  "structure": "## Формула\n> Подлежащее + **глагол + частица**\n> I **get up** at seven. · The plane **took off**.\n> Подлежащее + **глагол + частица** + предлог + место\n> She **came back to** Osh. · He **fell off** the horse.\n\n## Частые пары\n| Фразовый глагол | Значение |\n|---|---|\n| get up | вставать |\n| sit down | сесть |\n| stand up | встать |\n| come in / go in | войти |\n| come out / go out | выйти |\n| come back / go back | вернуться |\n| run away | убежать |\n| fall off / fall down | упасть |\n| hurry up | торопиться |\n| wake up | проснуться |\n| grow up | вырасти |\n\n## Вопрос и отрицание\n> Do you **get up** early? — No, I **don't get up** before eight.\n> Did he **come back**? — Yes, he **came back** yesterday.\n\n## Запомните\n- Глагол меняется (get → got), а частица остаётся: **get up → got up**.\n- Значение часто не равно сумме слов: **look out** = «осторожно!».",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Выберите фразовый глагол",
+      "instruction": "Вставьте глагол в нужной форме: **get up, sit down, come in, go out, come back, run away, fall off, hurry up**.",
+      "items": [
+        {
+          "text": "I {{get up}} at 6.30 every morning."
+        },
+        {
+          "text": "Please {{sit down}}. The doctor will see you soon."
+        },
+        {
+          "text": "'May I {{come in}}?' 'Yes, of course.'"
+        },
+        {
+          "text": "The boy {{fell off}} his bike and hurt his knee."
+        },
+        {
+          "text": "We're late! {{Hurry up}}!"
+        },
+        {
+          "text": "She {{went out}} with her friends last night."
+        },
+        {
+          "text": "The cat saw the dog and {{ran away}}."
+        },
+        {
+          "text": "I'm leaving now, but I'll {{come back|be back|go back}} at five."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Что за частица?",
+      "instruction": "Вставьте слово: **up, down, out, in, off, away, back**.",
+      "items": [
+        {
+          "text": "I woke {{up}} at seven and got up."
+        },
+        {
+          "text": "The plane took {{off}} on time."
+        },
+        {
+          "text": "She went to Moscow, but now she's come {{back}}."
+        },
+        {
+          "text": "Look {{out}}! The ball is coming!"
+        },
+        {
+          "text": "He stood {{up}} to give his seat to an old lady."
+        },
+        {
+          "text": "Please come {{in}} and sit {{down}}."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I ___ at seven o'clock yesterday.",
+          "options": [
+            "got up",
+            "get up",
+            "getting up"
+          ],
+          "answer": 0,
+          "why": "Past simple от get up → **got up**."
+        },
+        {
+          "q": "The door is open. Come ___.",
+          "options": [
+            "on",
+            "in",
+            "away"
+          ],
+          "answer": 1,
+          "why": "**Come in** — входи."
+        },
+        {
+          "q": "He ___ his horse and broke his arm.",
+          "options": [
+            "fell off",
+            "fell on",
+            "fell out"
+          ],
+          "answer": 0,
+          "why": "**fell off** — упал с."
+        },
+        {
+          "q": "They're not at home. They ___.",
+          "options": [
+            "went out",
+            "went to out",
+            "go outs"
+          ],
+          "answer": 0,
+          "why": "**went out** — вышли, ушли."
+        },
+        {
+          "q": "Where did you ___? — I grew up in Naryn.",
+          "options": [
+            "grow up",
+            "grow on",
+            "grown up"
+          ],
+          "answer": 0,
+          "why": "После did — основная форма: **grow up**."
+        },
+        {
+          "q": "___! There's a bus!",
+          "options": [
+            "Look at",
+            "Look out",
+            "Look up"
+          ],
+          "answer": 1,
+          "why": "**Look out!** — осторожно!"
+        },
+        {
+          "q": "My dog ___ yesterday and I can't find it.",
+          "options": [
+            "ran away",
+            "run away",
+            "runs off to"
+          ],
+          "answer": 0,
+          "why": "Past simple → **ran away**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Садитесь, пожалуйста»?",
+          "options": [
+            "Please sit down.",
+            "Please sit to down.",
+            "Please seat down."
+          ],
+          "answer": 0,
+          "why": "**sit down**."
+        },
+        {
+          "q": "Как сказать «Я вырос в деревне»?",
+          "options": [
+            "I grew in a village.",
+            "I grew up in a village.",
+            "I growed up in a village."
+          ],
+          "answer": 1,
+          "why": "**grow up** → grew up."
+        },
+        {
+          "q": "Как сказать «Самолёт взлетел»?",
+          "options": [
+            "The plane took off.",
+            "The plane took out.",
+            "The plane went off up."
+          ],
+          "answer": 0,
+          "why": "**take off** → took off."
+        },
+        {
+          "q": "Как сказать «Он упал с дерева»?",
+          "options": [
+            "He fell off from the tree.",
+            "He fell off the tree.",
+            "He fell of the tree."
+          ],
+          "answer": 1,
+          "why": "**fall off** + the tree (без from)."
+        },
+        {
+          "q": "Как сказать «Скоро вернусь»?",
+          "options": [
+            "I'll be back soon.",
+            "I'll come soon out.",
+            "I'll back come soon."
+          ],
+          "answer": 0,
+          "why": "**be back / come back** — вернуться."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов в скобках (Past simple).",
+      "items": [
+        {
+          "prompt": "(I / get up / at six / yesterday)",
+          "answers": [
+            "I got up at six yesterday.",
+            "Yesterday I got up at six."
+          ]
+        },
+        {
+          "prompt": "(the thief / run away)",
+          "answers": [
+            "The thief ran away."
+          ]
+        },
+        {
+          "prompt": "(she / come back / from Paris / last week)",
+          "answers": [
+            "She came back from Paris last week.",
+            "Last week she came back from Paris."
+          ]
+        },
+        {
+          "prompt": "(the child / fall off / the chair)",
+          "answers": [
+            "The child fell off the chair."
+          ]
+        },
+        {
+          "prompt": "(we / go out / on Saturday evening)",
+          "answers": [
+            "We went out on Saturday evening.",
+            "On Saturday evening we went out."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        {
+          "prompt": "Поторопись! Мы опаздываем.",
+          "answers": [
+            "Hurry up! We're late.",
+            "Hurry up! We are late.",
+            "Hurry up, we're late.",
+            "Hurry up, we are late.",
+            "Hurry up! We're going to be late."
+          ]
+        },
+        {
+          "prompt": "Она вошла и села.",
+          "answers": [
+            "She came in and sat down.",
+            "She went in and sat down."
+          ]
+        },
+        {
+          "prompt": "Я проснулась рано, но не встала.",
+          "answers": [
+            "I woke up early, but I didn't get up.",
+            "I woke up early but I didn't get up.",
+            "I woke up early, but I did not get up."
+          ]
+        },
+        {
+          "prompt": "Мальчик упал с велосипеда.",
+          "answers": [
+            "The boy fell off his bike.",
+            "The boy fell off his bicycle.",
+            "The boy fell off the bike.",
+            "The boy fell off the bicycle."
+          ]
+        },
+        {
+          "prompt": "Они вернулись домой поздно.",
+          "answers": [
+            "They came back home late.",
+            "They came back late.",
+            "They got back home late.",
+            "They got back late.",
+            "They went back home late."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What time do you get up?",
+          "sample": "I get up at seven o'clock."
+        },
+        {
+          "prompt": "Where did you grow up?",
+          "sample": "I grew up in Bishkek."
+        },
+        {
+          "prompt": "Do you go out in the evening? Where?",
+          "sample": "Yes, I often go out with my friends. We go to a café."
+        },
+        {
+          "prompt": "When did you last come back home late? What did you do?",
+          "sample": "I came back home at midnight yesterday. I sat down and had some tea."
+        }
+      ]
+    }
+  ]
+}

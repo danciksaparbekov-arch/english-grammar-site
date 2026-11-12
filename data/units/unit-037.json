@@ -1,0 +1,312 @@
+{
+  "id": 37,
+  "title": "there was/were there has/have been",
+  "summary": "**There was / There were** — «был(о/и)» в прошлом, **There has/have been** — «был(о/и)» с результатом сейчас, **There will be** — «будет».",
+  "ru": "## There is → there was\nЧтобы сказать, что что-то было в прошлом, меняем **is/are** на **was/were**.\n> There is a good film on TV tonight. — Сегодня по телевизору хороший фильм.\n> There **was** a good film on TV last night. — Вчера вечером по телевизору был хороший фильм.\n> There **were** 250 rooms in the hotel. — В гостинице было 250 номеров.\n\n- **there was** — один предмет или неисчисляемое\n- **there were** — несколько предметов\n\n## Отрицание и вопросы\n> There wasn't a bank in the village. — В деревне не было банка.\n> There weren't any chairs. — Стульев не было.\n> Was there a party last Friday? — Была вечеринка в прошлую пятницу? — Yes, there was. / No, there wasn't.\n> Were there any letters for me? — Были письма для меня? — Yes, there were. / No, there weren't.\n\n## there has been / there have been\nКогда у прошлого события есть результат **сейчас** или время не названо, говорим **there has been / there have been**.\n> Look! There's been an accident. — Смотри! Произошла авария. (there's been = there has been)\n> There have been many accidents on this road. — На этой дороге было много аварий.\nНо если есть точное время в прошлом (yesterday, last night), нужно **there was**:\n> There was an accident last night. — Вчера вечером была авария.\n> ~~There has been an accident last night.~~\n\n## there will be\nДля будущего: **there will be** («будет, будут») — одна форма для всех.\n> There will be a lot of people at the party. — На вечеринке будет много людей.\n> I think there will be snow tomorrow. — Думаю, завтра будет снег.\n> There won't be any problems. — Проблем не будет.\n> Will there be a test tomorrow? — Завтра будет контрольная?\n\n## Типичные ошибки\n- ~~There was two cars.~~ → There **were** two cars.\n- ~~Was there any students?~~ → **Were** there any students?\n- ~~There has been an accident yesterday.~~ → There **was** an accident yesterday.\n- ~~There will be a lot of people tomorrow?~~ → **Will there be** a lot of people tomorrow?",
+  "en": "## There is → there was\nTo talk about the past, we change **is/are** to **was/were**.\n> There is a good film on TV tonight.\n> There **was** a good film on TV last night.\n> There **were** 250 rooms in the hotel.\n\n- **there was** — one thing or an uncountable noun\n- **there were** — more than one thing\n\n## Negative and questions\n> There wasn't a bank in the village.\n> There weren't any chairs.\n> Was there a party last Friday? — Yes, there was. / No, there wasn't.\n> Were there any letters for me? — Yes, there were. / No, there weren't.\n\n## there has been / there have been\nWe use **there has been / there have been** when the past event has a result now, or the time is not given.\n> Look! There's been an accident.\n> There have been many accidents on this road.\nWith a finished time (yesterday, last night) we use **there was**:\n> There was an accident last night.\n> ~~There has been an accident last night.~~\n\n## there will be\nFor the future: **there will be**.\n> There will be a lot of people at the party.\n> I think there will be snow tomorrow.\n> There won't be any problems.\n> Will there be a test tomorrow?\n\n## Common mistakes\n- ~~There was two cars.~~ → There **were** two cars.\n- ~~Was there any students?~~ → **Were** there any students?\n- ~~There has been an accident yesterday.~~ → There **was** an accident yesterday.",
+  "structure": "## Времена\n| Время | Единственное | Множественное |\n|---|---|---|\n| Настоящее | there is | there are |\n| Прошедшее | there was | there were |\n| Present perfect | there has been | there have been |\n| Будущее | there will be | there will be |\n\n## Отрицание\n| Время | Форма |\n|---|---|\n| Прошедшее | there wasn't / there weren't |\n| Present perfect | there hasn't been / there haven't been |\n| Будущее | there won't be |\n\n## Вопросы и краткие ответы\n| Вопрос | Краткие ответы |\n|---|---|\n| Was there a test? | Yes, there was. / No, there wasn't. |\n| Were there any problems? | Yes, there were. / No, there weren't. |\n| Will there be a party? | Yes, there will. / No, there won't. |\n\n## Формула\n> **There was / were** + предмет + (время в прошлом)\n> **There has / have been** + предмет (без точного времени)\n> **There will be** + предмет\n\n## Запомните\n- с yesterday / last week / in 2020 — только **there was / were**;\n- **there's been** = there has been.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "was или were",
+      "instruction": "Вставьте **was** или **were**.",
+      "items": [
+        {
+          "text": "There {{was}} a big storm last night."
+        },
+        {
+          "text": "There {{were}} a lot of people at the concert."
+        },
+        {
+          "text": "There {{was}} no milk in the fridge yesterday."
+        },
+        {
+          "text": "{{Were}} there any problems with the trip?"
+        },
+        {
+          "text": "{{Was}} there a bank in your old town?"
+        },
+        {
+          "text": "There {{wasn't|was not}} a car near the house, but there were two bikes."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Какая форма",
+      "instruction": "Вставьте **there was / there were / there has been / there have been / there will be**.",
+      "items": [
+        {
+          "text": "I think {{there will be|there'll be}} a lot of snow tomorrow."
+        },
+        {
+          "text": "Be careful! {{There's been|There has been}} an accident on this road."
+        },
+        {
+          "text": "{{There were}} two cats in the garden yesterday."
+        },
+        {
+          "text": "Look at the river! {{There has been|There's been}} a lot of rain."
+        },
+        {
+          "text": "{{There was}} a party at my house last Saturday."
+        },
+        {
+          "text": "There are no tickets now, but {{there will be|there'll be}} some tomorrow."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "When we arrived, ___ no taxis at the station.",
+          "options": [
+            "there was",
+            "there were",
+            "there is"
+          ],
+          "answer": 1,
+          "why": "Прошлое + множественное число (no taxis) → **there were**."
+        },
+        {
+          "q": "___ a lot of people at the party last Sunday?",
+          "options": [
+            "Was there",
+            "Were there",
+            "Is there"
+          ],
+          "answer": 1,
+          "why": "Прошлое + a lot of people (множ.) → **Were there**."
+        },
+        {
+          "q": "There ___ a test tomorrow. Don't worry.",
+          "options": [
+            "won't be",
+            "wasn't",
+            "hasn't been"
+          ],
+          "answer": 0,
+          "why": "tomorrow → будущее → **there won't be**."
+        },
+        {
+          "q": "There ___ an accident last night.",
+          "options": [
+            "has been",
+            "was",
+            "have been"
+          ],
+          "answer": 1,
+          "why": "last night (точное время) → **there was**."
+        },
+        {
+          "q": "Look! There ___ a mistake in the text.",
+          "options": [
+            "were",
+            "'s been",
+            "will be"
+          ],
+          "answer": 1,
+          "why": "Результат сейчас, не названо время → **there's been**."
+        },
+        {
+          "q": "___ any problems yesterday?",
+          "options": [
+            "Was there",
+            "Were there",
+            "Will there be"
+          ],
+          "answer": 1,
+          "why": "yesterday + множ. → **Were there any**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Вчера в парке было много людей»?",
+          "options": [
+            "There was a lot of people in the park yesterday.",
+            "There were a lot of people in the park yesterday.",
+            "There have been a lot of people in the park yesterday."
+          ],
+          "answer": 1,
+          "why": "people — множ. + yesterday → **there were**."
+        },
+        {
+          "q": "Как сказать «Завтра будет дождь»?",
+          "options": [
+            "There will be rain tomorrow.",
+            "There will rain tomorrow.",
+            "There is will rain tomorrow."
+          ],
+          "answer": 0,
+          "why": "**there will be + существительное**."
+        },
+        {
+          "q": "Как спросить «Была ли вчера контрольная?»",
+          "options": [
+            "Was there a test yesterday?",
+            "Has there been a test yesterday?",
+            "Were there a test yesterday?"
+          ],
+          "answer": 0,
+          "why": "yesterday + один предмет → **Was there**."
+        },
+        {
+          "q": "Как сказать «Не было проблем»?",
+          "options": [
+            "There weren't any problems.",
+            "There wasn't any problems.",
+            "There not were any problems."
+          ],
+          "answer": 0,
+          "why": "problems — множ. → **weren't**."
+        },
+        {
+          "q": "Как сказать «Здесь было много аварий» (сейчас, без точного времени)?",
+          "options": [
+            "There was many accidents here.",
+            "There have been many accidents here.",
+            "There has been many accidents here."
+          ],
+          "answer": 1,
+          "why": "Множественное → **there have been**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение или вопрос.",
+      "items": [
+        {
+          "prompt": "(there / a good film / on TV / last night)",
+          "answers": [
+            "There was a good film on TV last night.",
+            "Last night there was a good film on TV."
+          ]
+        },
+        {
+          "prompt": "(there / not / any / tickets / yesterday)",
+          "answers": [
+            "There weren't any tickets yesterday.",
+            "There were not any tickets yesterday.",
+            "Yesterday there weren't any tickets.",
+            "Yesterday there were not any tickets."
+          ]
+        },
+        {
+          "prompt": "(there / many accidents / on this road)",
+          "answers": [
+            "There have been many accidents on this road.",
+            "There've been many accidents on this road."
+          ]
+        },
+        {
+          "prompt": "(there / a lot of people / at the party / tomorrow)",
+          "answers": [
+            "There will be a lot of people at the party tomorrow.",
+            "Tomorrow there will be a lot of people at the party.",
+            "There'll be a lot of people at the party tomorrow.",
+            "Tomorrow there'll be a lot of people at the party."
+          ]
+        },
+        {
+          "prompt": "(there / a bank / in the village / ? / last year)",
+          "answers": [
+            "Was there a bank in the village last year?",
+            "Was there a bank in the village?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **there was / were / has been / have been / will be**.",
+      "items": [
+        {
+          "prompt": "Вчера в классе было двадцать студентов.",
+          "answers": [
+            "There were twenty students in the class yesterday.",
+            "Yesterday there were twenty students in the class.",
+            "There were twenty students in the classroom yesterday.",
+            "Yesterday there were twenty students in the classroom.",
+            "There were 20 students in the class yesterday.",
+            "Yesterday there were 20 students in the class."
+          ]
+        },
+        {
+          "prompt": "Завтра будет вечеринка.",
+          "answers": [
+            "There will be a party tomorrow.",
+            "Tomorrow there will be a party.",
+            "There'll be a party tomorrow.",
+            "Tomorrow there'll be a party."
+          ]
+        },
+        {
+          "prompt": "В холодильнике не было еды.",
+          "answers": [
+            "There wasn't any food in the fridge.",
+            "There was no food in the fridge.",
+            "There wasn't food in the fridge."
+          ]
+        },
+        {
+          "prompt": "Смотри! Произошла авария.",
+          "answers": [
+            "Look! There's been an accident.",
+            "Look! There has been an accident."
+          ]
+        },
+        {
+          "prompt": "Завтра будет контрольная?",
+          "answers": [
+            "Will there be a test tomorrow?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What was there in your room when you were a child?",
+          "sample": "There was a small bed and a lot of toys."
+        },
+        {
+          "prompt": "How many people were there at your last birthday?",
+          "sample": "There were ten people at my birthday."
+        },
+        {
+          "prompt": "Was there a good film on TV last night?",
+          "sample": "No, there wasn't."
+        },
+        {
+          "prompt": "What will there be in your city in 20 years?",
+          "sample": "There will be more cars and more tall buildings."
+        },
+        {
+          "prompt": "Something there wasn't in your childhood",
+          "sample": "There weren't any smartphones when I was a child."
+        }
+      ]
+    }
+  ]
+}

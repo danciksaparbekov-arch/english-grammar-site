@@ -43,6 +43,15 @@
     if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); form.requestSubmit(); }
   });
 
+  // Вызов из упражнений: открыть чат и сразу отправить вопрос
+  window.Chat = {
+    ask(text) {
+      if (panel.hidden) { panel.hidden = false; greet(); }
+      input.value = String(text).slice(0, 1500);
+      form.requestSubmit();
+    }
+  };
+
   form.addEventListener("submit", async e => {
     e.preventDefault();
     const text = input.value.trim();

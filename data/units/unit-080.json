@@ -1,0 +1,292 @@
+{
+  "id": 80,
+  "title": "all most some any no/none",
+  "summary": "Слова all, most, some, any, no/none: без of в общих утверждениях, с of перед the/my/these и местоимениями (most of them).",
+  "ru": "## Слова количества\n**all, most, some, any, no / none** показывают, какая часть: все, большинство, некоторые, никакие.\n| | значение |\n|---|---|\n| **all** | все |\n| **most** | большинство |\n| **some** | некоторые, несколько |\n| **any** | какие-нибудь (в вопросах и отрицаниях) |\n| **no / none** | никакие |\n\n## Без of: вообще, в целом\nКогда говорим о людях и предметах **вообще**, слово ставим прямо перед существительным — **без of** и **без the**:\n> **Most people** drive too fast. — Большинство людей ездит слишком быстро.\n> **Some birds** can't fly. — Некоторые птицы не умеют летать.\n> **All cities** have problems. — У всех городов есть проблемы.\n> He's got **no friends**. — У него нет друзей.\n\n## С of: конкретные люди и вещи\nКогда речь о **конкретной группе** (the, this, my, these...), нужно **of**:\n> **Most of the children** at this school are under 11. — Большинство детей в этой школе младше 11.\n> **Some of these books** are very old. — Некоторые из этих книг очень старые.\n> **None of my friends** live near me. — Никто из моих друзей не живёт рядом.\nС **all** слово **of** обычно опускают: *all the students, all my life*.\n\n## all of it / most of them / none of us\nЕсли существительное не называем, ставим **of + it / them / us / you**:\n> You can have some of this cake, but not **all of it**. — Можно взять часть торта, но не весь.\n> Do you know those people? — **Most of them**, but not **all of them**.\n> **Some of us** are going out tonight. — Некоторые из нас идут гулять.\n> How many books have you read? — **None of them.**\n\n## Типичные ошибки\n- ~~Most of people like music.~~ → **Most people** like music.\n- ~~Some of birds can't fly.~~ → **Some birds** can't fly.\n- ~~Most the students passed.~~ → **Most of the** students passed.",
+  "en": "## Quantity words\n**all, most, some, any, no / none** tell us how many: everyone, nearly everyone, a few, not any.\n\n## Without of: in general\nWe use these words **directly before a noun** (no *the*, no *of*) when we speak about things in general:\n> **Most people** drive too fast.\n> **Some birds** can't fly.\n> **All cities** have problems.\n> He's got **no friends**.\n\n## With of: specific people and things\nWhen we mean a specific group (the, this, my, these ...), we need **of**:\n> **Most of the children** at this school are under 11.\n> **Some of these books** are very old.\n> **None of my friends** live near me.\nWith **all**, we usually leave out of: *all the students, all my life*.\n\n## all of it / most of them / none of us\nWithout a noun we use **of + it / them / us / you**:\n> You can have some of this cake, but not **all of it**.\n> Do you know those people? — **Most of them**, but not **all of them**.\n> **Some of us** are going out tonight.\n> How many books have you read? — **None of them.**\n\n## Common mistakes\n- ~~Most of people like music.~~ → **Most people** like music.\n- ~~Some of birds can't fly.~~ → **Some birds** can't fly.\n- ~~Most the students passed.~~ → **Most of the** students passed.",
+  "structure": "## Без of и с of\n| В общем | Конкретно |\n|---|---|\n| all / most / some / any / no + noun | all (of) / most of / some of / any of / none of + **the / this / my / these ...** + noun |\n| Most people like music. | Most of the people here like music. |\n| Some books are good. | Some of my books are good. |\n\n## Формулы\n> **most / some / any** + существительное (в общем)\n> **most of / some of / any of / none of** + **the / my / this / these** + существительное\n> **all of it / most of them / some of us / none of you** (местоимение)\n\n## Особенности\n> **all** + the / my — обычно без of: *all the students, all my life*\n> **no** + noun, **none** (of) без noun\n> **not ... any**: *I don't want any of this money.*",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вставьте of, если нужно",
+      "instruction": "Вставьте **of**, если нужно. Если не нужно, напишите **-**.",
+      "items": [
+        {
+          "text": "Most {{-}} people like music."
+        },
+        {
+          "text": "Some {{of}} these books are very old."
+        },
+        {
+          "text": "All {{-}} cities have traffic."
+        },
+        {
+          "text": "None {{of}} my friends smoke."
+        },
+        {
+          "text": "Most {{of}} the shops in the city are closed on Sunday."
+        },
+        {
+          "text": "I didn't read any {{of}} these books."
+        },
+        {
+          "text": "Some {{-}} children are afraid of dogs."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Что вставить?",
+      "instruction": "Вставьте **it**, **them**, **us** или **you**.",
+      "items": [
+        {
+          "text": "You can have some of this cake, but not all of {{it}}."
+        },
+        {
+          "text": "I know most of {{them}}, but not all of them."
+        },
+        {
+          "text": "Some of {{us}} are going to the cinema. Would you like to come?"
+        },
+        {
+          "text": "How many of these books have you read? — None of {{them}}."
+        },
+        {
+          "text": "Do you want some of this cheese? — No, I don't want any of {{it}}."
+        },
+        {
+          "text": "Most of {{you}} have done the work. Well done!"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "___ people drive to work in cars.",
+          "options": [
+            "Most",
+            "Most of",
+            "The most"
+          ],
+          "answer": 0,
+          "why": "В общем → **Most people**."
+        },
+        {
+          "q": "___ the students in my class are 18.",
+          "options": [
+            "Most",
+            "The most",
+            "Most of"
+          ],
+          "answer": 2,
+          "why": "Перед **the** нужен **of** → **Most of the**."
+        },
+        {
+          "q": "___ my friends live in this city.",
+          "options": [
+            "None",
+            "None of",
+            "No of"
+          ],
+          "answer": 1,
+          "why": "**None of** + my."
+        },
+        {
+          "q": "I don't want ___ of this soup.",
+          "options": [
+            "any",
+            "no",
+            "some of"
+          ],
+          "answer": 0,
+          "why": "**not ... any of** → **any**."
+        },
+        {
+          "q": "She's got ___ time for hobbies.",
+          "options": [
+            "none",
+            "no",
+            "none of"
+          ],
+          "answer": 1,
+          "why": "**no + noun**."
+        },
+        {
+          "q": "— Have you got any questions? — ___.",
+          "options": [
+            "No",
+            "None",
+            "No of"
+          ],
+          "answer": 1,
+          "why": "Без существительного → **None**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "Some of people are late.",
+            "Some people are late.",
+            "Some the people are late."
+          ],
+          "answer": 1,
+          "why": "В общем → **Some people**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Most of this money is mine.",
+            "Most this money is mine.",
+            "Most of money is mine."
+          ],
+          "answer": 0,
+          "why": "**Most of this money**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "All of my friends are here.",
+            "All my friends are here.",
+            "Both are correct."
+          ],
+          "answer": 2,
+          "why": "Оба варианта верны: **all (of) my friends**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Do you know them? — Most of them.",
+            "Do you know them? — Most them.",
+            "Do you know them? — The most of them."
+          ],
+          "answer": 0,
+          "why": "Местоимение → **most of them**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение.",
+      "items": [
+        {
+          "prompt": "(most / the shops / in this town / close / at 6)",
+          "answers": [
+            "Most of the shops in this town close at 6.",
+            "Most of the shops in this town are closed at 6."
+          ]
+        },
+        {
+          "prompt": "(some / children / not like / vegetables)",
+          "answers": [
+            "Some children don't like vegetables.",
+            "Some children do not like vegetables."
+          ]
+        },
+        {
+          "prompt": "(none / my friends / live / near me)",
+          "answers": [
+            "None of my friends live near me.",
+            "None of my friends lives near me."
+          ]
+        },
+        {
+          "prompt": "(all / the students / pass / the exam)",
+          "answers": [
+            "All the students passed the exam.",
+            "All of the students passed the exam.",
+            "All the students pass the exam.",
+            "All of the students pass the exam."
+          ]
+        },
+        {
+          "prompt": "(I / not / read / any / these books)",
+          "answers": [
+            "I haven't read any of these books.",
+            "I didn't read any of these books.",
+            "I don't read any of these books."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Большинство людей любит музыку.",
+          "answers": [
+            "Most people like music.",
+            "Most people love music."
+          ]
+        },
+        {
+          "prompt": "Некоторые из этих фильмов очень скучные.",
+          "answers": [
+            "Some of these films are very boring.",
+            "Some of these movies are very boring."
+          ]
+        },
+        {
+          "prompt": "Никто из моих друзей не знает.",
+          "answers": [
+            "None of my friends know.",
+            "None of my friends knows.",
+            "None of my friends know it.",
+            "None of my friends knows it."
+          ]
+        },
+        {
+          "prompt": "Я съела весь торт. (all of it)",
+          "answers": [
+            "I ate all of it.",
+            "I've eaten all of it.",
+            "I ate all of the cake."
+          ]
+        },
+        {
+          "prompt": "Большинство из них в школе.",
+          "answers": [
+            "Most of them are at school."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Что делает большинство ваших друзей по выходным?",
+          "sample": "Most of my friends go to the cinema on weekends."
+        },
+        {
+          "prompt": "Какие из ваших вещей/книг старые?",
+          "sample": "Some of my books are very old."
+        },
+        {
+          "prompt": "Что из еды вы не любите? (none / any)",
+          "sample": "I don't like any of these vegetables."
+        }
+      ]
+    }
+  ]
+}

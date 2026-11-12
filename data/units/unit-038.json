@@ -1,0 +1,306 @@
+{
+  "id": 38,
+  "title": "It ...",
+  "summary": "Слово **it** в безличных предложениях: время, день, расстояние, погода и конструкции вроде **It's nice to ...**. По-русски подлежащего здесь нет, а в английском оно обязательно.",
+  "ru": "## Зачем нужен it\nПо-русски мы говорим «Поздно», «Холодно», «Далеко», без подлежащего. В английском предложение **не бывает без подлежащего**, поэтому ставим **it**. Само по себе it здесь ничего не значит.\n> It's late. — Поздно.\n> It's cold. — Холодно.\n\n## Время и день\n> What time is it? — Который час?\n> It's half past ten. — Половина одиннадцатого.\n> What day is it today? — Какой сегодня день?\n> It's Thursday. — Четверг.\n> It's time to go home. — Пора идти домой.\n> It was my birthday yesterday. — Вчера был мой день рождения.\n\n## Расстояние\n> How far is it from here to the station? — Как далеко отсюда до станции?\n> It's two kilometres. — Два километра.\n> It isn't far. — Это недалеко.\n> It's a long way to the airport. — До аэропорта далеко.\nВ вопросах и отрицаниях используем **far**, в утверждениях — **a long way**.\n\n## Погода\n> It's raining. — Идёт дождь.\n> It isn't snowing. — Снег не идёт.\n> Does it rain a lot here? — Здесь часто идёт дождь?\n> It's sunny / windy / cold / hot / cloudy / foggy. — Солнечно / ветрено / холодно / жарко / облачно / туманно.\n\n## it и there\nСравните:\n> It rains a lot in winter. — Зимой часто идёт дождь.\n> There is a lot of rain in winter. — Зимой много дождей.\n> It was windy. — Было ветрено.\n> There was a strong wind. — Был сильный ветер.\n\n## It's nice to ... и подобные\nМожно начать фразу с **it** и закончить её глаголом с **to**.\n> It's nice to see you again. — Приятно снова тебя видеть.\n> It's difficult to learn Chinese. — Трудно выучить китайский.\n> It isn't safe to swim here. — Здесь опасно плавать.\n> Прилагательные: easy, difficult, impossible, dangerous, safe, expensive, interesting, nice, wonderful, terrible.\n\n## Типичные ошибки\n- ~~Is cold today.~~ → **It's** cold today.\n- ~~Today is raining.~~ → **It's** raining today.\n- ~~Is two kilometres from here.~~ → **It's** two kilometres from here.\n- ~~It's long way.~~ → It's **a** long way.",
+  "en": "## Why do we need it?\nIn English every sentence needs a subject. When there is no real subject, we use **it**.\n> It's late.\n> It's cold.\n\n## Time and day\n> What time is it?\n> It's half past ten.\n> What day is it today?\n> It's Thursday.\n> It's time to go home.\n> It was my birthday yesterday.\n\n## Distance\n> How far is it from here to the station?\n> It's two kilometres.\n> It isn't far.\n> It's a long way to the airport.\nWe use **far** in questions and negatives. We use **a long way** in positive sentences.\n\n## Weather\n> It's raining.\n> It isn't snowing.\n> Does it rain a lot here?\n> It's sunny / windy / cold / hot / cloudy / foggy.\n\n## it and there\n> It rains a lot in winter.\n> There is a lot of rain in winter.\n> It was windy.\n> There was a strong wind.\n\n## It's nice to ... etc.\n> It's nice to see you again.\n> It's difficult to learn Chinese.\n> It isn't safe to swim here.\nUseful adjectives: easy, difficult, impossible, dangerous, safe, expensive, interesting, nice, wonderful, terrible.\n\n## Common mistakes\n- ~~Is cold today.~~ → **It's** cold today.\n- ~~Today is raining.~~ → **It's** raining today.\n- ~~It's long way.~~ → It's **a** long way.",
+  "structure": "## Что описывает it\n| Тема | Вопрос | Ответ |\n|---|---|---|\n| Время | What time is it? | It's six o'clock. |\n| День / дата | What day is it? | It's Monday. / It's 5 May. |\n| Расстояние | How far is it? | It's three miles. / It's a long way. |\n| Погода | What's the weather like? | It's cold and windy. |\n\n## Отрицание и вопрос\n| | Пример |\n|---|---|\n| Отрицание | It isn't far. · It isn't raining. |\n| Вопрос | Is it far? · Is it raining? |\n| Прошлое | It was cold. · It wasn't sunny. |\n\n## Формулы\n> **It's** + прилагательное (погода, время)\n> **It's** + (расстояние) + **from ... to ...**\n> **It's** + прилагательное + **to** + глагол\n> **It's nice to see you.** · **It was difficult to find the house.**\n\n## Запомните\n- **it** нельзя пропускать;\n- **far** — в вопросах и отрицаниях, **a long way** — в утверждениях;\n- **it** (общее состояние) ≠ **there is** (наличие чего-то).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "it, it's или is it",
+      "instruction": "Вставьте **it**, **it's**, **it isn't** или **is it**.",
+      "items": [
+        {
+          "text": "What time {{is it}}?"
+        },
+        {
+          "text": "{{It's|It is}} Friday today."
+        },
+        {
+          "text": "{{It's|It is}} very cold in here. Close the window."
+        },
+        {
+          "text": "How far {{is it}} from your house to the school?"
+        },
+        {
+          "text": "{{It isn't|It is not|It's not}} raining now. We can go out."
+        },
+        {
+          "text": "It was my birthday yesterday, and {{it was}} a great day."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "far или a long way",
+      "instruction": "Вставьте **far** или **a long way**.",
+      "items": [
+        {
+          "text": "Is it {{far|a long way}} from here to the beach?"
+        },
+        {
+          "text": "It's {{a long way|far}} to the airport. We need a taxi."
+        },
+        {
+          "text": "We can walk. It isn't {{far|a long way}}."
+        },
+        {
+          "text": "It's {{a long way|far}} from Bishkek to Moscow."
+        },
+        {
+          "text": "How {{far}} is it to the post office?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "___ cold today. Take a coat.",
+          "options": [
+            "It's",
+            "Is",
+            "There's"
+          ],
+          "answer": 0,
+          "why": "Погода → **It's** cold."
+        },
+        {
+          "q": "___ is it from here to the park? — Two kilometres.",
+          "options": [
+            "How long",
+            "How far",
+            "How much"
+          ],
+          "answer": 1,
+          "why": "Расстояние → **How far**."
+        },
+        {
+          "q": "___ raining? I'd like to go out.",
+          "options": [
+            "Is it",
+            "Is there",
+            "Does it"
+          ],
+          "answer": 0,
+          "why": "Сейчас идёт? → **Is it raining?**"
+        },
+        {
+          "q": "It's difficult ___ English in a month.",
+          "options": [
+            "learn",
+            "to learn",
+            "learning to"
+          ],
+          "answer": 1,
+          "why": "**It's difficult to + глагол**."
+        },
+        {
+          "q": "___ a lot of rain in spring in my city.",
+          "options": [
+            "It's",
+            "There is",
+            "It has"
+          ],
+          "answer": 1,
+          "why": "**There is** a lot of rain = много дождей."
+        },
+        {
+          "q": "What day ___ today?",
+          "options": [
+            "it is",
+            "is it",
+            "is"
+          ],
+          "answer": 1,
+          "why": "Вопрос: **What day is it?**"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Сегодня тепло»?",
+          "options": [
+            "Is warm today.",
+            "It's warm today.",
+            "Today warm."
+          ],
+          "answer": 1,
+          "why": "Нужно подлежащее **it**."
+        },
+        {
+          "q": "Как сказать «Приятно познакомиться»?",
+          "options": [
+            "It's nice to meet you.",
+            "Is nice to meet you.",
+            "It nice meeting you."
+          ],
+          "answer": 0,
+          "why": "**It's nice to + глагол**."
+        },
+        {
+          "q": "Как сказать «Здесь опасно плавать»?",
+          "options": [
+            "It's dangerous swim here.",
+            "It's dangerous to swim here.",
+            "Dangerous to swim here."
+          ],
+          "answer": 1,
+          "why": "**It's dangerous to swim**."
+        },
+        {
+          "q": "Как сказать «Это далеко отсюда»?",
+          "options": [
+            "It's a long way from here.",
+            "It's long way from here.",
+            "Is a long way from here."
+          ],
+          "answer": 0,
+          "why": "В утверждении — **a long way**."
+        },
+        {
+          "q": "Как спросить «Часто ли здесь идёт снег?»",
+          "options": [
+            "Does it snow a lot here?",
+            "Is it snow a lot here?",
+            "Does snow a lot here?"
+          ],
+          "answer": 0,
+          "why": "Присутствует глагол snow → **Does it snow ...?**"
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение или вопрос с **it**.",
+      "items": [
+        {
+          "prompt": "(what / time / it / ?)",
+          "answers": [
+            "What time is it?"
+          ]
+        },
+        {
+          "prompt": "(it / not / far / from here)",
+          "answers": [
+            "It isn't far from here.",
+            "It is not far from here.",
+            "It's not far from here."
+          ]
+        },
+        {
+          "prompt": "(it / snow / a lot / in winter)",
+          "answers": [
+            "It snows a lot in winter."
+          ]
+        },
+        {
+          "prompt": "(nice / see / you / again)",
+          "answers": [
+            "It's nice to see you again.",
+            "It is nice to see you again."
+          ]
+        },
+        {
+          "prompt": "(it / dangerous / swim / in the river)",
+          "answers": [
+            "It's dangerous to swim in the river.",
+            "It is dangerous to swim in the river."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Не забудьте **it**.",
+      "items": [
+        {
+          "prompt": "Сегодня холодно.",
+          "answers": [
+            "It's cold today.",
+            "It is cold today.",
+            "Today it's cold.",
+            "Today it is cold."
+          ]
+        },
+        {
+          "prompt": "Пора идти домой.",
+          "answers": [
+            "It's time to go home.",
+            "It is time to go home."
+          ]
+        },
+        {
+          "prompt": "Какой сегодня день?",
+          "answers": [
+            "What day is it today?",
+            "What day is it?"
+          ]
+        },
+        {
+          "prompt": "Отсюда до школы недалеко.",
+          "answers": [
+            "It isn't far from here to the school.",
+            "It's not far from here to the school.",
+            "It is not far from here to school.",
+            "It isn't far from here to school.",
+            "It's not far from here to school.",
+            "It is not far from here to the school."
+          ]
+        },
+        {
+          "prompt": "Трудно выучить китайский.",
+          "answers": [
+            "It's difficult to learn Chinese.",
+            "It is difficult to learn Chinese.",
+            "It's hard to learn Chinese.",
+            "It is hard to learn Chinese."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What's the weather like today?",
+          "sample": "It's sunny and warm today."
+        },
+        {
+          "prompt": "How far is it from your home to your work or school?",
+          "sample": "It's about three kilometres."
+        },
+        {
+          "prompt": "What time is it now where you are?",
+          "sample": "It's ten o'clock."
+        },
+        {
+          "prompt": "What is easy for you to do? What is difficult?",
+          "sample": "It's easy to cook. It's difficult to get up early."
+        },
+        {
+          "prompt": "What is the weather usually like in winter in your city?",
+          "sample": "It's cold and it snows a lot."
+        }
+      ]
+    }
+  ]
+}

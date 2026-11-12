@@ -1,0 +1,301 @@
+{
+  "id": 39,
+  "title": "I am I don't etc.",
+  "summary": "Короткие ответы и сокращения: **Yes, I am. / No, I don't. / She isn't, but he is.** Повторять всё предложение не нужно: достаточно вспомогательного глагола.",
+  "ru": "## Не повторяем лишнее\nВ русском мы отвечаем «Да, умею» или «Нет, не люблю». В английском то же самое: после вспомогательного глагола остальное не повторяем.\n> Are you tired? — Yes, **I am**. — Ты устал? — Да.\n> Do you like jazz? — No, **I don't**. — Ты любишь джаз? — Нет.\n> I haven't got a car, but my sister **has**. — У меня нет машины, а у сестры есть.\n\n## Какие слова можно использовать\nam/is/are, was/were, have/has, do/does/did, can, could, will, would, must, should, might.\n> A: Can you swim? B: Yes, I **can**.\n> A: Did he phone? B: No, he **didn't**.\n> A: Will she come? B: She **might**.\n> A: Are you going now? B: Yes, I'm afraid I **must**.\n\n## Утвердительный ответ: полная форма\nВ утвердительном ответе **нельзя** сокращать (’m, ’s, ’ve).\n> Are you ready? — Yes, I **am**. (не ~~Yes, I'm.~~)\n> Is he a doctor? — Yes, he **is**. (не ~~Yes, he's.~~)\n> Have you got a pen? — Yes, I **have**. (не ~~Yes, I've.~~)\n> She isn't tired but he **is**. (не ~~but he's~~)\nОтрицательные краткие формы допустимы: **No, I'm not. / No, he isn't. / No, I haven't.**\n\n## Контраст: утверждение и отрицание\n> Sam likes tea, but I **don't**. — Сэм любит чай, а я нет.\n> I don't like tea, but Sam **does**. — Я не люблю чай, а Сэм любит.\n> She's here, but they **aren't**. — Она здесь, а их нет.\n\n## Какой вспомогательный глагол выбрать\nСмотрите на глагол в вопросе или в первой части:\n- is / are / am → **is / are / am**\n- like, work, play → **do / does**\n- liked, worked → **did**\n- can → **can**; will → **will**\n\n## Типичные ошибки\n- ~~Yes, I'm.~~ → Yes, **I am**.\n- ~~Do you like it? — Yes, I like.~~ → Yes, **I do**.\n- ~~Can she cook? — No, she don't.~~ → No, she **can't**.\n- ~~Yes, I do.~~ в ответ на Are you ...? → Yes, **I am**.",
+  "en": "## We don't repeat everything\nIn short answers we use only the auxiliary verb. We don't repeat the rest.\n> Are you tired? — Yes, **I am**.\n> Do you like jazz? — No, **I don't**.\n> I haven't got a car, but my sister **has**.\n\n## Which verbs can we use?\nam/is/are, was/were, have/has, do/does/did, can, could, will, would, must, should, might.\n> A: Can you swim? B: Yes, I **can**.\n> A: Did he phone? B: No, he **didn't**.\n> A: Will she come? B: She **might**.\n> A: Are you going now? B: Yes, I'm afraid I **must**.\n\n## Positive answers: no short forms\nIn positive answers we cannot use 'm, 's, 've.\n> Are you ready? — Yes, I **am**. (not ~~Yes, I'm.~~)\n> Is he a doctor? — Yes, he **is**.\n> Have you got a pen? — Yes, I **have**.\n> She isn't tired but he **is**.\nNegative short forms are fine: **No, I'm not. / No, he isn't. / No, I haven't.**\n\n## Contrast\n> Sam likes tea, but I **don't**.\n> I don't like tea, but Sam **does**.\n> She's here, but they **aren't**.\n\n## Which auxiliary?\n- is / are / am → **is / are / am**\n- like, work, play → **do / does**\n- liked, worked → **did**\n- can → **can**; will → **will**\n\n## Common mistakes\n- ~~Yes, I'm.~~ → Yes, **I am**.\n- ~~Do you like it? — Yes, I like.~~ → Yes, **I do**.\n- ~~Can she cook? — No, she don't.~~ → No, she **can't**.",
+  "structure": "## Краткие ответы\n| Вопрос | Да | Нет |\n|---|---|---|\n| Are you ...? | Yes, I am. | No, I'm not. |\n| Is he ...? | Yes, he is. | No, he isn't. |\n| Do you ...? | Yes, I do. | No, I don't. |\n| Does she ...? | Yes, she does. | No, she doesn't. |\n| Did they ...? | Yes, they did. | No, they didn't. |\n| Have you ...? | Yes, I have. | No, I haven't. |\n| Can he ...? | Yes, he can. | No, he can't. |\n| Will you ...? | Yes, I will. | No, I won't. |\n\n## Контраст в одном предложении\n| Первая часть | Вторая часть |\n|---|---|\n| I like tea, | but she doesn't. |\n| I don't like tea, | but she does. |\n| He can swim, | but I can't. |\n| We were late, | but they weren't. |\n\n## Формула\n> Yes / No, + подлежащее + **вспомогательный глагол** (am, is, do, did, can, have ...)\n\n## Запомните\n- нельзя: ~~Yes, I'm / Yes, he's / Yes, I've~~; нужно: **Yes, I am / Yes, he is / Yes, I have**;\n- вопрос с **do/does/did** → ответ с **do/does/did**; вопрос с **be** → ответ с **be**.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Короткие ответы",
+      "instruction": "Дайте короткий ответ. Подумайте, какой вспомогательный глагол нужен.",
+      "example": "Are you tired? — Yes, **I am**.",
+      "items": [
+        {
+          "text": "Do you like pizza? — Yes, {{I do}}."
+        },
+        {
+          "text": "Is your brother a student? — No, {{he isn't|he's not}}."
+        },
+        {
+          "text": "Can you drive? — Yes, {{I can}}."
+        },
+        {
+          "text": "Did she call you yesterday? — No, {{she didn't|she did not}}."
+        },
+        {
+          "text": "Are they at home? — Yes, {{they are}}."
+        },
+        {
+          "text": "Have you got a bike? — No, {{I haven't|I have not}}."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Но...",
+      "instruction": "Закончите предложение: нужный вспомогательный глагол.",
+      "example": "I like coffee, but my sister **doesn't**.",
+      "items": [
+        {
+          "text": "I'm hungry, but Tom {{isn't|is not}}."
+        },
+        {
+          "text": "Anna can play the piano, but I {{can't|cannot}}."
+        },
+        {
+          "text": "I don't like fish, but my brother {{does}}."
+        },
+        {
+          "text": "He has a car, but we {{don't|do not}}."
+        },
+        {
+          "text": "They weren't late, but I {{was}}."
+        },
+        {
+          "text": "She hasn't got a phone, but he {{has}}."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный ответ",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "Are you ready? — Yes, ___.",
+          "options": [
+            "I'm",
+            "I am",
+            "I do"
+          ],
+          "answer": 1,
+          "why": "В утвердительном ответе краткая форма не используется: **Yes, I am**."
+        },
+        {
+          "q": "Does Kate speak French? — No, ___.",
+          "options": [
+            "she don't",
+            "she doesn't",
+            "she isn't"
+          ],
+          "answer": 1,
+          "why": "Вопрос с does → **she doesn't**."
+        },
+        {
+          "q": "Can he swim? — Yes, ___.",
+          "options": [
+            "he can",
+            "he does",
+            "he is"
+          ],
+          "answer": 0,
+          "why": "Вопрос с can → **he can**."
+        },
+        {
+          "q": "Did you see the film? — No, ___.",
+          "options": [
+            "I don't",
+            "I didn't",
+            "I haven't"
+          ],
+          "answer": 1,
+          "why": "Вопрос с did → **I didn't**."
+        },
+        {
+          "q": "Have they got a house? — Yes, ___.",
+          "options": [
+            "they've",
+            "they have",
+            "they do"
+          ],
+          "answer": 1,
+          "why": "Нельзя **they've** в утвердительном ответе → **they have**."
+        },
+        {
+          "q": "I'm not tired, but my friends ___.",
+          "options": [
+            "are",
+            "do",
+            "aren't"
+          ],
+          "answer": 0,
+          "why": "Контраст: утверждение с be → **are**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильный ответ",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Do you like tea? — «Нет».",
+          "options": [
+            "No, I don't.",
+            "No, I'm not.",
+            "No, I don't like."
+          ],
+          "answer": 0,
+          "why": "Вопрос с do → **No, I don't**."
+        },
+        {
+          "q": "Is she at home? — «Да».",
+          "options": [
+            "Yes, she's.",
+            "Yes, she is.",
+            "Yes, she does."
+          ],
+          "answer": 1,
+          "why": "**Yes, she is** (без краткой формы)."
+        },
+        {
+          "q": "Will you come tomorrow? — «Нет».",
+          "options": [
+            "No, I won't.",
+            "No, I don't.",
+            "No, I'm not."
+          ],
+          "answer": 0,
+          "why": "Вопрос с will → **I won't**."
+        },
+        {
+          "q": "I work on Sundays, but my sister ___.",
+          "options": [
+            "doesn't",
+            "isn't",
+            "don't"
+          ],
+          "answer": 0,
+          "why": "sister = she → **doesn't**."
+        },
+        {
+          "q": "Were you late? — «Да».",
+          "options": [
+            "Yes, I was.",
+            "Yes, I did.",
+            "Yes, I am."
+          ],
+          "answer": 0,
+          "why": "Вопрос с were → **I was**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Ответьте на вопросы",
+      "instruction": "Ответьте коротко: **Yes, ...** или **No, ...** (с вспомогательным глаголом).",
+      "items": [
+        {
+          "prompt": "Do you speak Spanish? (No)",
+          "answers": [
+            "No, I don't."
+          ]
+        },
+        {
+          "prompt": "Is it raining? (Yes)",
+          "answers": [
+            "Yes, it is."
+          ]
+        },
+        {
+          "prompt": "Can your mother cook? (Yes)",
+          "answers": [
+            "Yes, she can."
+          ]
+        },
+        {
+          "prompt": "Did you go to work yesterday? (No)",
+          "answers": [
+            "No, I didn't."
+          ]
+        },
+        {
+          "prompt": "Have you got a brother? (Yes)",
+          "answers": [
+            "Yes, I have."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Составьте предложения с but",
+      "instruction": "Напишите предложение с **but** по образцу.",
+      "items": [
+        {
+          "prompt": "I like tea. / My friend doesn't like tea.",
+          "answers": [
+            "I like tea, but my friend doesn't.",
+            "I like tea but my friend doesn't."
+          ]
+        },
+        {
+          "prompt": "I can't swim. / My brother can swim.",
+          "answers": [
+            "I can't swim, but my brother can.",
+            "I can't swim but my brother can."
+          ]
+        },
+        {
+          "prompt": "She is at home. / He isn't at home.",
+          "answers": [
+            "She is at home, but he isn't.",
+            "She is at home but he isn't.",
+            "She's at home, but he isn't.",
+            "She's at home but he isn't."
+          ]
+        },
+        {
+          "prompt": "We went to the party. / They didn't go to the party.",
+          "answers": [
+            "We went to the party, but they didn't.",
+            "We went to the party but they didn't."
+          ]
+        },
+        {
+          "prompt": "I haven't got a car. / My sister has got a car.",
+          "answers": [
+            "I haven't got a car, but my sister has.",
+            "I haven't got a car but my sister has."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте коротко и добавьте одно предложение с **but**. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Do you like coffee? (about you and a friend)",
+          "sample": "Yes, I do, but my friend doesn't."
+        },
+        {
+          "prompt": "Can you cook? (about you and your mum)",
+          "sample": "No, I can't, but my mum can."
+        },
+        {
+          "prompt": "Are you tired today?",
+          "sample": "Yes, I am. / No, I'm not."
+        },
+        {
+          "prompt": "Did you watch TV yesterday?",
+          "sample": "No, I didn't."
+        },
+        {
+          "prompt": "Have you got a dog or a cat?",
+          "sample": "I haven't got a dog, but my friend has."
+        }
+      ]
+    }
+  ]
+}

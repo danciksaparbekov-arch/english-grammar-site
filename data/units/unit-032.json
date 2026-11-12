@@ -1,0 +1,305 @@
+{
+  "id": 32,
+  "title": "must mustn't needn't",
+  "summary": "**must** — «надо, нужно», **mustn't** — «нельзя», **needn't** — «не нужно, нет необходимости». Эти слова легко перепутать!",
+  "ru": "## must: нужно, необходимо\n**must + глагол** — когда мы считаем, что что-то необходимо сделать.\n> I must call my mother today. — Мне нужно позвонить маме сегодня.\n> You must see this film! — Тебе обязательно нужно посмотреть этот фильм!\n> We must hurry. — Нам надо поторопиться.\nФорма одна для всех лиц: ~~he musts~~ → he **must**. После must — глагол без to.\n\n## О прошлом: had to\nУ must нет прошедшего времени. О прошлом говорим **had to**.\n> I had to wait for an hour yesterday. — Вчера мне пришлось ждать час.\n> ~~I must wait yesterday.~~\n\n## mustn't: нельзя\n**mustn't (must not)** — делать это нельзя, это неправильно или опасно.\n> You mustn't touch the stove. It's hot! — Нельзя трогать плиту. Она горячая!\n> I mustn't forget my passport. — Мне нельзя забыть паспорт.\n\n## needn't: не нужно\n**needn't (need not)** — делать это не обязательно, в этом нет необходимости.\n> You needn't wait for me. — Тебе не нужно меня ждать.\n> We needn't buy bread. We have some. — Нам не нужно покупать хлеб. Он есть.\n\n## Главное отличие\nБольшая ловушка для русскоязычных: **mustn't ≠ «не должен» в смысле «не нужно»**.\n> You **mustn't** go there. — Тебе **нельзя** туда идти. (запрет)\n> You **needn't** go there. — Тебе **не нужно** туда идти. (можно, но не обязательно)\n\n## Типичные ошибки\n- ~~I must to go.~~ → I must go.\n- ~~He musts work.~~ → He must work.\n- ~~Must you go?~~ — так говорят, но чаще: **Do you have to go?** (см. следующий юнит)\n- ~~You mustn't pay. It's free.~~ → You **needn't** pay. It's free.\n- ~~We must go there yesterday.~~ → We **had to** go there yesterday.",
+  "en": "## must: it is necessary\nWe use **must + verb** when we think it is necessary to do something.\n> I must call my mother today.\n> You must see this film!\n> We must hurry.\nThe form is the same for every person: ~~he musts~~ → he **must**. No **to** after must.\n\n## The past: had to\nMust has no past form. For the past we use **had to**.\n> I had to wait for an hour yesterday.\n> Not: ~~I must wait yesterday.~~\n\n## mustn't: it is wrong or dangerous\n**mustn't (must not)** means \"don't do this\".\n> You mustn't touch the stove. It's hot!\n> I mustn't forget my passport.\n\n## needn't: it is not necessary\n**needn't (need not)** means you can do it, but it is not necessary.\n> You needn't wait for me.\n> We needn't buy bread. We have some.\n\n## The big difference\n> You **mustn't** go there. (it is forbidden or wrong)\n> You **needn't** go there. (it is not necessary)\n\n## Common mistakes\n- ~~I must to go.~~ → I must go.\n- ~~He musts work.~~ → He must work.\n- ~~You mustn't pay. It's free.~~ → You **needn't** pay. It's free.\n- ~~We must go there yesterday.~~ → We **had to** go there yesterday.",
+  "structure": "## Формы\n| Подлежащее | Утверждение | Отрицание |\n|---|---|---|\n| I / we / you / they | must + глагол | mustn't + глагол |\n| he / she / it | must + глагол | mustn't + глагол |\n| I / we / you / they | — | needn't + глагол |\n| he / she / it | — | needn't + глагол |\n\n## Значения\n| Форма | Значение | Пример |\n|---|---|---|\n| must | необходимо | I must go now. |\n| mustn't | нельзя | You mustn't smoke here. |\n| needn't | не нужно | You needn't come. |\n| had to | пришлось (прошлое) | I had to go home. |\n\n## Формула\n> Подлежащее + **must / mustn't / needn't** + глагол без to\n> I **must** go. · You **mustn't** be late. · We **needn't** hurry.\n\n## Запомните\n- нет -s в 3-м лице, нет to после must;\n- прошлое — только **had to**;\n- **mustn't** (запрет) и **needn't** (не обязательно) — разные по смыслу.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "must или mustn't",
+      "instruction": "Вставьте **must** или **mustn't** по смыслу.",
+      "items": [
+        {
+          "text": "You {{must}} wear a seat belt in the car. It's the law."
+        },
+        {
+          "text": "You {{mustn't|must not}} drive fast. It's dangerous."
+        },
+        {
+          "text": "The exam is tomorrow. I {{must}} study tonight."
+        },
+        {
+          "text": "Children {{mustn't|must not}} play with matches."
+        },
+        {
+          "text": "I {{mustn't|must not}} forget Mum's birthday."
+        },
+        {
+          "text": "We {{must}} leave now, or we'll miss the train."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "mustn't или needn't",
+      "instruction": "Вставьте **mustn't** (нельзя) или **needn't** (не нужно).",
+      "items": [
+        {
+          "text": "You {{needn't|need not}} wait. The bus comes every five minutes."
+        },
+        {
+          "text": "You {{mustn't|must not}} wait here. It's dangerous."
+        },
+        {
+          "text": "We {{needn't|need not}} hurry. We have a lot of time."
+        },
+        {
+          "text": "You {{mustn't|must not}} tell anybody. It's a secret."
+        },
+        {
+          "text": "I {{needn't|need not}} take an umbrella. It isn't raining."
+        },
+        {
+          "text": "You {{mustn't|must not}} be late for the interview."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "must или had to",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I ___ go to the dentist yesterday.",
+          "options": [
+            "must",
+            "had to",
+            "musts"
+          ],
+          "answer": 1,
+          "why": "yesterday → прошлое → **had to**."
+        },
+        {
+          "q": "Hurry up! We ___ be at school at eight.",
+          "options": [
+            "had to",
+            "must",
+            "musts"
+          ],
+          "answer": 1,
+          "why": "Сейчас, необходимо → **must**."
+        },
+        {
+          "q": "Last week she ___ work on Saturday.",
+          "options": [
+            "must",
+            "had to",
+            "must to"
+          ],
+          "answer": 1,
+          "why": "last week → **had to**."
+        },
+        {
+          "q": "He ___ see a doctor. He looks very ill.",
+          "options": [
+            "musts",
+            "must",
+            "must to"
+          ],
+          "answer": 1,
+          "why": "must без -s и без to."
+        },
+        {
+          "q": "We ___ walk home last night. There were no buses.",
+          "options": [
+            "must",
+            "had to",
+            "mustn't"
+          ],
+          "answer": 1,
+          "why": "last night → **had to**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "mustn't или needn't",
+      "instruction": "Выберите правильный вариант по смыслу.",
+      "items": [
+        {
+          "q": "You ___ touch that wire. It's dangerous.",
+          "options": [
+            "needn't",
+            "mustn't",
+            "don't must"
+          ],
+          "answer": 1,
+          "why": "Опасно → запрет → **mustn't**."
+        },
+        {
+          "q": "You ___ bring food. We have plenty.",
+          "options": [
+            "mustn't",
+            "needn't",
+            "must"
+          ],
+          "answer": 1,
+          "why": "Не обязательно → **needn't**."
+        },
+        {
+          "q": "Visitors ___ feed the animals. It's forbidden.",
+          "options": [
+            "needn't",
+            "mustn't",
+            "can"
+          ],
+          "answer": 1,
+          "why": "Запрещено → **mustn't**."
+        },
+        {
+          "q": "You ___ finish it today. You can do it tomorrow.",
+          "options": [
+            "mustn't",
+            "needn't",
+            "must"
+          ],
+          "answer": 1,
+          "why": "Можно и завтра → не нужно → **needn't**."
+        },
+        {
+          "q": "You ___ shout. The baby is asleep.",
+          "options": [
+            "needn't",
+            "mustn't",
+            "don't must"
+          ],
+          "answer": 1,
+          "why": "Нельзя шуметь → **mustn't**."
+        },
+        {
+          "q": "Which sentence is correct?",
+          "options": [
+            "She must to go.",
+            "She musts go.",
+            "She must go."
+          ],
+          "answer": 2,
+          "why": "must + глагол без to и без -s."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов.",
+      "items": [
+        {
+          "prompt": "(I / must / clean / my room)",
+          "answers": [
+            "I must clean my room."
+          ]
+        },
+        {
+          "prompt": "(you / mustn't / open / this box)",
+          "answers": [
+            "You mustn't open this box.",
+            "You must not open this box."
+          ]
+        },
+        {
+          "prompt": "(we / needn't / buy / tickets)",
+          "answers": [
+            "We needn't buy tickets.",
+            "We need not buy tickets."
+          ]
+        },
+        {
+          "prompt": "(Sue / must / call / the doctor)",
+          "answers": [
+            "Sue must call the doctor."
+          ]
+        },
+        {
+          "prompt": "(they / mustn't / be / late)",
+          "answers": [
+            "They mustn't be late.",
+            "They must not be late."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **must**, **mustn't**, **needn't** или **had to**.",
+      "items": [
+        {
+          "prompt": "Мне нужно идти домой.",
+          "answers": [
+            "I must go home.",
+            "I have to go home.",
+            "I've got to go home."
+          ]
+        },
+        {
+          "prompt": "Здесь нельзя курить.",
+          "answers": [
+            "You mustn't smoke here.",
+            "You must not smoke here.",
+            "You can't smoke here.",
+            "You cannot smoke here."
+          ]
+        },
+        {
+          "prompt": "Тебе не нужно мне звонить.",
+          "answers": [
+            "You needn't call me.",
+            "You need not call me.",
+            "You needn't phone me.",
+            "You need not phone me."
+          ]
+        },
+        {
+          "prompt": "Вчера мне пришлось рано встать.",
+          "answers": [
+            "I had to get up early yesterday.",
+            "Yesterday I had to get up early."
+          ]
+        },
+        {
+          "prompt": "Нам нельзя опаздывать.",
+          "answers": [
+            "We mustn't be late.",
+            "We must not be late."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте о себе полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Something you must do this week",
+          "sample": "I must finish my project this week."
+        },
+        {
+          "prompt": "Something you mustn't forget",
+          "sample": "I mustn't forget to pay the bill."
+        },
+        {
+          "prompt": "Something you needn't do at the weekend",
+          "sample": "I needn't get up early at the weekend."
+        },
+        {
+          "prompt": "A rule at school or work: what mustn't you do?",
+          "sample": "We mustn't use our phones in class."
+        },
+        {
+          "prompt": "Something you had to do last week",
+          "sample": "I had to go to the bank last week."
+        }
+      ]
+    }
+  ]
+}

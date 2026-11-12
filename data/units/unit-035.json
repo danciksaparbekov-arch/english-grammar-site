@@ -1,0 +1,303 @@
+{
+  "id": 35,
+  "title": "Would you like ...? I'd like ...",
+  "summary": "**Would you like ...?** — вежливое предложение или приглашение, **I'd like ...** — вежливое «я хочу». Не путайте с **Do you like ...?**",
+  "ru": "## Would you like ...? — предложение\nКогда мы что-то предлагаем, говорим **Would you like ...?** («Хотите ...?»). Это вежливее, чем Do you want ...?\n> Would you like some tea? — Хотите чаю?\n> Would you like a sandwich? — Хотите бутерброд?\n> What would you like, tea or coffee? — Что вы хотите, чай или кофе?\nОтвечаем: **Yes, please.** / **No, thank you.**\n\n## Would you like to ...? — приглашение\n**Would you like to + глагол?** — приглашаем сделать что-то.\n> Would you like to come to my party? — Хочешь прийти на мою вечеринку?\n> What would you like to do tonight? — Что бы ты хотел сделать сегодня вечером?\nСогласие: **Yes, I'd love to.** / **Yes, I'd like to.** Отказ: **I'm sorry, I can't.**\n\n## I'd like ... — вежливое «хочу»\n**I'd like** = **I would like**. Это вежливый способ сказать «мне хотелось бы».\n> I'd like a coffee, please. — Мне, пожалуйста, кофе.\n> I'd like to see the menu. — Я хотел бы посмотреть меню.\n> I'd like some information about trains. — Мне нужна информация о поездах.\nВ магазине, кафе, в разговоре со взрослыми это звучит лучше, чем **I want**.\n\n## Would you like ...? и Do you like ...?\nЭто разные вопросы!\n> **Would you like** some coffee? — Хотите кофе? (сейчас, предложение)\n> **Do you like** coffee? — Вы любите кофе? (вообще, в целом)\n> I'd like an apple. — Я бы съел яблоко (сейчас).\n> I like apples. — Я люблю яблоки (всегда).\n\n## Типичные ошибки\n- ~~Would you like going?~~ → Would you like **to go**?\n- ~~I'd like go.~~ → I'd like **to go**.\n- ~~Do you like some tea?~~ (если предлагаете) → **Would you like** some tea?\n- ~~I would to like a tea.~~ → I **would like** a tea.",
+  "en": "## Would you like ...? — offering\nWe use **Would you like ...?** to offer things. It is more polite than Do you want ...?\n> Would you like some tea?\n> Would you like a sandwich?\n> What would you like, tea or coffee?\nWe answer: **Yes, please.** / **No, thank you.**\n\n## Would you like to ...? — inviting\nWe use **Would you like to + verb?** to invite someone.\n> Would you like to come to my party?\n> What would you like to do tonight?\nAnswers: **Yes, I'd love to.** / **I'm sorry, I can't.**\n\n## I'd like ... — a polite way to say \"I want\"\n**I'd like** = **I would like**.\n> I'd like a coffee, please.\n> I'd like to see the menu.\n> I'd like some information about trains.\n\n## Would you like ...? and Do you like ...?\n> **Would you like** some coffee? (now, an offer)\n> **Do you like** coffee? (in general)\n> I'd like an apple. (now)\n> I like apples. (always)\n\n## Common mistakes\n- ~~Would you like going?~~ → Would you like **to go**?\n- ~~I'd like go.~~ → I'd like **to go**.\n- ~~I would to like a tea.~~ → I **would like** a tea.",
+  "structure": "## Предложение и приглашение\n| Форма | Пример | Ответ |\n|---|---|---|\n| Would you like + существительное? | Would you like some water? | Yes, please. / No, thank you. |\n| Would you like to + глагол? | Would you like to dance? | Yes, I'd love to. / Sorry, I can't. |\n| What would you like (to do)? | What would you like to eat? | I'd like a pizza. |\n\n## Просьба / желание\n| Форма | Пример |\n|---|---|\n| I'd like + существительное | I'd like a glass of water. |\n| I'd like to + глагол | I'd like to sit here. |\n| I'd like some / a ... , please | I'd like a ticket, please. |\n\n## Формулы\n> **Would you like** + существительное? · **Would you like to** + глагол?\n> **I'd like** + существительное · **I'd like to** + глагол\n\n## Сравнение\n| Would you like ...? | Do you like ...? |\n|---|---|\n| Хотите (сейчас)? | Любите (вообще)? |\n| Would you like some tea? | Do you like tea? |\n\n## Запомните\n- **would** не меняется, -s не нужно: **Would he like ...?**\n- краткая форма: **I'd = I would** (не ~~I had~~ в этом значении).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Would you like ...?",
+      "instruction": "Вставьте **would**, **like** или **to**.",
+      "items": [
+        {
+          "text": "{{Would}} you like some coffee?"
+        },
+        {
+          "text": "Would you {{like}} a piece of cake?"
+        },
+        {
+          "text": "Would you like {{to}} come to the cinema with us?"
+        },
+        {
+          "text": "What would you {{like}} to drink?"
+        },
+        {
+          "text": "Would your sister like {{to}} join us for dinner?"
+        },
+        {
+          "text": "{{Would}} he like to see the photos?"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "I'd like ...",
+      "instruction": "Вставьте **I'd like**, **like** или **to**.",
+      "items": [
+        {
+          "text": "(in a café) {{I'd like|I would like}} a cup of tea, please."
+        },
+        {
+          "text": "I'd {{like}} to ask you a question."
+        },
+        {
+          "text": "I'd like {{to}} buy a ticket to London."
+        },
+        {
+          "text": "(in a shop) {{I'd like|I would like}} to try this jacket, please."
+        },
+        {
+          "text": "I'm tired. I'd like {{to}} go home now."
+        },
+        {
+          "text": "{{I'd like|I would like}} some information about the bus, please."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Would you like или Do you like",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "___ some water? (предложение, сейчас)",
+          "options": [
+            "Do you like",
+            "Would you like",
+            "Are you like"
+          ],
+          "answer": 1,
+          "why": "Предложение → **Would you like**."
+        },
+        {
+          "q": "___ tennis? (вообще)",
+          "options": [
+            "Would you like",
+            "Do you like",
+            "Does you like"
+          ],
+          "answer": 1,
+          "why": "Общая симпатия → **Do you like**."
+        },
+        {
+          "q": "___ to come to my birthday party?",
+          "options": [
+            "Would you like",
+            "Do you would like",
+            "Are you like"
+          ],
+          "answer": 0,
+          "why": "Приглашение → **Would you like to**."
+        },
+        {
+          "q": "I ___ a glass of juice, please.",
+          "options": [
+            "like",
+            "would like",
+            "would to like"
+          ],
+          "answer": 1,
+          "why": "Вежливая просьба → **I'd like** = I would like."
+        },
+        {
+          "q": "I ___ pizza. It's my favourite food.",
+          "options": [
+            "like",
+            "would like",
+            "'d like"
+          ],
+          "answer": 0,
+          "why": "Любимая еда в целом → **like**."
+        },
+        {
+          "q": "What ___ to do tomorrow?",
+          "options": [
+            "do you like",
+            "would you like",
+            "you would like"
+          ],
+          "answer": 1,
+          "why": "Вопрос о желании: **would you like**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как предложить чай?",
+          "options": [
+            "Would you like some tea?",
+            "Do you like some tea?",
+            "Would you like to some tea?"
+          ],
+          "answer": 0,
+          "why": "Предложение предмета: **Would you like + существительное?**"
+        },
+        {
+          "q": "Как сказать «Я хотел бы поехать в Париж»?",
+          "options": [
+            "I'd like go to Paris.",
+            "I'd like to go to Paris.",
+            "I'd like going to Paris."
+          ],
+          "answer": 1,
+          "why": "**I'd like to + глагол**."
+        },
+        {
+          "q": "Как принять приглашение на ужин?",
+          "options": [
+            "Yes, I'd love to.",
+            "Yes, I love to.",
+            "Yes, I would to."
+          ],
+          "answer": 0,
+          "why": "**Yes, I'd love to.**"
+        },
+        {
+          "q": "Что вежливее в кафе?",
+          "options": [
+            "I want a coffee.",
+            "I'd like a coffee, please.",
+            "Give me a coffee."
+          ],
+          "answer": 1,
+          "why": "**I'd like ...** звучит вежливо."
+        },
+        {
+          "q": "Какой вопрос верный?",
+          "options": [
+            "Would you like to going?",
+            "Would you like to go?",
+            "Do you would like to go?"
+          ],
+          "answer": 1,
+          "why": "**Would you like to go?**"
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение или вопрос из слов.",
+      "items": [
+        {
+          "prompt": "(you / would like / some / tea / ?)",
+          "answers": [
+            "Would you like some tea?"
+          ]
+        },
+        {
+          "prompt": "(I / would like / to see / the menu)",
+          "answers": [
+            "I'd like to see the menu.",
+            "I would like to see the menu."
+          ]
+        },
+        {
+          "prompt": "(what / you / would like / for dinner / ?)",
+          "answers": [
+            "What would you like for dinner?"
+          ]
+        },
+        {
+          "prompt": "(she / would like / to visit / Rome)",
+          "answers": [
+            "She would like to visit Rome.",
+            "She'd like to visit Rome."
+          ]
+        },
+        {
+          "prompt": "(you / would like / to dance / ?)",
+          "answers": [
+            "Would you like to dance?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **would like** / **I'd like**.",
+      "items": [
+        {
+          "prompt": "Хотите чаю?",
+          "answers": [
+            "Would you like some tea?",
+            "Would you like tea?"
+          ]
+        },
+        {
+          "prompt": "Я бы хотел кофе, пожалуйста.",
+          "answers": [
+            "I'd like a coffee, please.",
+            "I would like a coffee, please.",
+            "I'd like some coffee, please.",
+            "I would like some coffee, please.",
+            "I'd like a cup of coffee, please.",
+            "I would like a cup of coffee, please.",
+            "I'd like coffee, please.",
+            "I would like coffee, please."
+          ]
+        },
+        {
+          "prompt": "Хочешь пойти погулять?",
+          "answers": [
+            "Would you like to go for a walk?",
+            "Would you like to go for a walk?"
+          ]
+        },
+        {
+          "prompt": "Что вы хотите съесть?",
+          "answers": [
+            "What would you like to eat?"
+          ]
+        },
+        {
+          "prompt": "Я люблю шоколад.",
+          "answers": [
+            "I like chocolate."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What would you like to eat tonight?",
+          "sample": "I'd like some pasta."
+        },
+        {
+          "prompt": "Where would you like to go on holiday?",
+          "sample": "I'd like to go to the sea."
+        },
+        {
+          "prompt": "What would you like to do this weekend?",
+          "sample": "I'd like to visit my friends."
+        },
+        {
+          "prompt": "Invite a friend to do something",
+          "sample": "Would you like to go to the cinema on Saturday?"
+        },
+        {
+          "prompt": "Offer a friend a drink",
+          "sample": "Would you like some juice?"
+        }
+      ]
+    }
+  ]
+}

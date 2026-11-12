@@ -1,0 +1,329 @@
+{
+  "id": 68,
+  "title": "a/an and the",
+  "summary": "Разница между неопределённым (**a/an**) и определённым (**the**) артиклем: «один из многих» против «тот самый, понятный из ситуации».",
+  "ru": "## a / an — один из многих\nИспользуем, когда говорим о предмете **впервые** или когда не важно, какой именно.\n> I've got **a** car. — У меня есть машина. (одна из многих машин)\n> Can I ask **a** question? — Можно задать вопрос?\n> Is there **a** hotel near here? — Здесь есть гостиница рядом?\n> Lisa is **a** student. — Лиза — студентка. (одна из многих студенток)\n\n## the — тот самый\nИспользуем, когда **собеседнику понятно**, о каком предмете речь: он уже упоминался, он один, или ситуация всё объясняет.\n> Can you open **the** window? — Открой окно. (то, что в этой комнате)\n> I'm going to clean **the** car tomorrow. — Завтра помою машину. (мою машину)\n> We enjoyed our holiday. **The** hotel was very nice. — Нам понравился отпуск. Гостиница была очень хорошая. (та, в которой жили)\n> Paris is **the** capital of France. — Париж — столица Франции. (она единственная)\n\n## a, потом the\nПервое упоминание — **a**, повторное — **the**.\n> I bought **a** jacket and **a** shirt. **The** jacket was cheap, but **the** shirt was expensive.\n> — Я купила куртку и рубашку. Куртка была дешёвой, а рубашка дорогой.\n\n## the — «и так понятно, о чём речь»\nЧасто говорим **the**, если в ситуации ясно, какой предмет:\n- **комната**: the door, the floor, the ceiling, the light\n- **дом**: the kitchen, the garden, the roof, the bathroom\n- **город**: the centre, the station, the airport, the post office\n> 'Where's Tom?' 'In **the** kitchen.' — Где Том? — На кухне (в нашем доме).\n> Turn off **the** light and close **the** door. — Выключи свет и закрой дверь.\n\n## Только один — всегда the\nЕсли предмет в мире один, или один в определённой группе, ставим **the**: the sun, the moon, the youngest student in the class, the biggest city in the country.\n\n## Типичные ошибки\n- ~~I saw a film. A film was great.~~ → I saw a film. **The** film was great.\n- ~~Close a door, please.~~ (какую-то?) → Close **the** door, please.\n- ~~She is the teacher.~~ (если просто профессия) → She is **a** teacher.",
+  "en": "## a / an — one of many\nWe use **a / an** when we mention something for the **first time** or when it doesn't matter which one.\n> I've got **a** car. (there are many cars and I have one)\n> Can I ask **a** question?\n> Is there **a** hotel near here?\n> Lisa is **a** student.\n\n## the — the one we both know\nWe use **the** when it is clear which thing or person we mean. It may have been mentioned before, there may be only one, or the situation makes it clear.\n> Can you open **the** window?\n> I'm going to clean **the** car tomorrow. (= my car)\n> We enjoyed our holiday. **The** hotel was very nice.\n> Paris is **the** capital of France.\n\n## First a, then the\n> I bought **a** jacket and **a** shirt. **The** jacket was cheap, but **the** shirt was expensive.\n\n## Clear from the situation\nWe say **the** for parts of a room, a house or a town:\n- a room: the door, the floor, the ceiling, the light\n- a house: the kitchen, the garden, the roof\n- a town: the centre, the station, the airport\n> 'Where's Tom?' 'In **the** kitchen.'\n> Turn off **the** light and close **the** door.\n\n## Only one\nIf there is only one, we use **the**: the sun, the moon, the youngest student in the class.\n\n## Common mistakes\n- ~~I saw a film. A film was great.~~ → I saw a film. **The** film was great.\n- ~~She is the teacher.~~ (just her job) → She is **a** teacher.",
+  "structure": "## Сравнение\n| a / an | the |\n|---|---|\n| один из многих | тот самый, известный |\n| первое упоминание | повторное упоминание |\n| профессия: I'm **a** nurse | единственный: **the** sun |\n| Is there **a** bank here? | **The** bank is closed. |\n\n## Формулы\n> **a / an** + исчисляемое в ед. ч.: a car, an idea\n> **the** + любое существительное (ед. и мн. ч., исчисляемое и нет): the car, the cars, the water\n\n## Порядок упоминания\n> I've got **a** dog. **The** dog is big.\n> There is **a** book on the table. **The** book is mine.\n\n## Устойчивое the\n> the door · the window · the floor · the light · the kitchen · the garden · the station · the airport · the centre",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "a или the?",
+      "instruction": "Вставьте **a / an** или **the**.",
+      "example": "I saw a man. __ man was tall. → **The** man was tall.",
+      "items": [
+        {
+          "text": "I've got {{a}} car. {{The}} car is old."
+        },
+        {
+          "text": "There is {{a}} cat in the garden. {{The}} cat is black."
+        },
+        {
+          "text": "I bought {{a}} book. {{The}} book is interesting."
+        },
+        {
+          "text": "She has {{an}} apple. {{The}} apple is red."
+        },
+        {
+          "text": "We stayed at {{a}} hotel. {{The}} hotel was nice."
+        },
+        {
+          "text": "He has {{a}} dog and {{a}} cat. {{The}} dog is big."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Что понятно по ситуации",
+      "instruction": "Вставьте **a / an** или **the**.",
+      "items": [
+        {
+          "text": "Can you open {{the}} window? It's hot."
+        },
+        {
+          "text": "Turn off {{the}} light, please."
+        },
+        {
+          "text": "'Where's Tom?' 'He's in {{the}} kitchen.'"
+        },
+        {
+          "text": "Is there {{a}} bank near here?"
+        },
+        {
+          "text": "I'm going to {{the}} post office."
+        },
+        {
+          "text": "She is {{a}} doctor."
+        },
+        {
+          "text": "Paris is {{the}} capital of France."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Мини-рассказ",
+      "instruction": "Вставьте **a, an** или **the**.",
+      "items": [
+        {
+          "text": "I have {{a}} sister. {{The}} sister lives in London."
+        },
+        {
+          "text": "Last week I bought {{an}} umbrella. {{The}} umbrella is yellow."
+        },
+        {
+          "text": "I stayed in {{a}} hotel in Rome. {{The}} hotel was near {{the}} station."
+        },
+        {
+          "text": "There is {{a}} cafe in our street. {{The}} cafe is very small."
+        },
+        {
+          "text": "Ann has {{a}} bag and {{a}} hat. {{The}} bag is new."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "a / an или the?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "It's a nice day. Let's go to ___ park.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 2,
+          "why": "Подразумеваем знакомый парк → **the**."
+        },
+        {
+          "q": "My brother is ___ engineer.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 1,
+          "why": "Профессия, гласный → **an**."
+        },
+        {
+          "q": "Can I ask ___ question?",
+          "options": [
+            "a",
+            "the",
+            "an"
+          ],
+          "answer": 0,
+          "why": "Один из многих → **a**."
+        },
+        {
+          "q": "The sun is ___ star.",
+          "options": [
+            "the",
+            "a",
+            "an"
+          ],
+          "answer": 1,
+          "why": "Определение: **a star**."
+        },
+        {
+          "q": "I'm tired. I'm going to ___ bed.",
+          "options": [
+            "a",
+            "an",
+            "—"
+          ],
+          "answer": 2,
+          "why": "go to bed — без артикля (см. Unit 70)."
+        },
+        {
+          "q": "Is there ___ hotel near here?",
+          "options": [
+            "a",
+            "the",
+            "—"
+          ],
+          "answer": 0,
+          "why": "Один из многих → **a hotel**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите артикль по смыслу",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I bought a jacket. ___ jacket was cheap.",
+          "options": [
+            "A",
+            "The",
+            "An"
+          ],
+          "answer": 1,
+          "why": "Повторное упоминание → **The**."
+        },
+        {
+          "q": "Paris is ___ capital of France.",
+          "options": [
+            "a",
+            "the",
+            "an"
+          ],
+          "answer": 1,
+          "why": "Единственная → **the**."
+        },
+        {
+          "q": "Lisa is ___ student.",
+          "options": [
+            "a",
+            "the",
+            "an"
+          ],
+          "answer": 0,
+          "why": "Одна из многих → **a student**."
+        },
+        {
+          "q": "Close ___ door, please. (мы оба знаем, какая)",
+          "options": [
+            "a",
+            "the",
+            "an"
+          ],
+          "answer": 1,
+          "why": "Понятно из ситуации → **the**."
+        },
+        {
+          "q": "Mark is ___ youngest in our class.",
+          "options": [
+            "a",
+            "the",
+            "an"
+          ],
+          "answer": 1,
+          "why": "Один такой → **the youngest**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **a / an / the**.",
+      "items": [
+        {
+          "prompt": "(I / see / dog) + (dog / be / big)",
+          "answers": [
+            "I see a dog. The dog is big.",
+            "I saw a dog. The dog was big."
+          ]
+        },
+        {
+          "prompt": "(she / buy / bag) + (bag / be / expensive)",
+          "answers": [
+            "She bought a bag. The bag was expensive.",
+            "She buys a bag. The bag is expensive."
+          ]
+        },
+        {
+          "prompt": "(he / be / doctor)",
+          "answers": [
+            "He is a doctor.",
+            "He's a doctor."
+          ]
+        },
+        {
+          "prompt": "(can you / close / window / please)",
+          "answers": [
+            "Can you close the window, please?",
+            "Can you close the window please?"
+          ]
+        },
+        {
+          "prompt": "(Tokyo / be / capital of Japan)",
+          "answers": [
+            "Tokyo is the capital of Japan."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "У меня есть сестра. Сестру зовут Анна.",
+          "answers": [
+            "I have a sister. The sister's name is Anna.",
+            "I've got a sister. The sister's name is Anna.",
+            "I have a sister. Her name is Anna."
+          ]
+        },
+        {
+          "prompt": "Выключи свет, пожалуйста.",
+          "answers": [
+            "Turn off the light, please.",
+            "Please turn off the light.",
+            "Turn the light off, please."
+          ]
+        },
+        {
+          "prompt": "Он в саду.",
+          "answers": [
+            "He's in the garden.",
+            "He is in the garden."
+          ]
+        },
+        {
+          "prompt": "Она медсестра.",
+          "answers": [
+            "She's a nurse.",
+            "She is a nurse."
+          ]
+        },
+        {
+          "prompt": "Здесь есть магазин? Магазин закрыт.",
+          "answers": [
+            "Is there a shop here? The shop is closed."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите 4–5 предложений, используя **a / an** и **the**.",
+      "items": [
+        {
+          "prompt": "Write about your home.",
+          "sample": "I live in a flat. The flat is small but nice. There is a kitchen and a bedroom. The kitchen is my favourite room."
+        },
+        {
+          "prompt": "Write about your day.",
+          "sample": "I have a job. The job is interesting. I have lunch at the office."
+        },
+        {
+          "prompt": "Do you have a pet? Describe it.",
+          "sample": "I have a cat. The cat is white and very lazy."
+        },
+        {
+          "prompt": "What is your job or study? Where?",
+          "sample": "I'm a student. I study at a university in the city."
+        },
+        {
+          "prompt": "Is there a cafe near your home? Describe it.",
+          "sample": "There is a cafe near my home. The cafe is small and the coffee is good."
+        }
+      ]
+    }
+  ]
+}

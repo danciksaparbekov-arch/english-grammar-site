@@ -1,0 +1,319 @@
+{
+  "id": 97,
+  "title": "from ... to until since for",
+  "summary": "Предлоги **from ... to**, **until / till**, **since** и **for**: начало, конец и длительность периода времени.",
+  "ru": "## from ... to — «с ... до»\nНачало и конец периода.\n> The shop is open **from** 9 **to** 6. — Магазин открыт с 9 до 6.\n> We work **from** Monday **to** Friday. — Мы работаем с понедельника по пятницу.\nМожно **from ... until / till**.\n\n## until / till — «до»\n**Until** (или **till**) показывает, до какого момента что-то продолжается.\n> I'll wait **until** 6 o'clock. — Я подожду до шести.\n> We stayed there **until** Sunday. — Мы остались там до воскресенья.\n> Wait here **until** I come back. — Подожди здесь, пока я не вернусь.\n\n## since и for — перфект\nС present perfect (и present perfect continuous) употребляем **since** и **for**.\n\n**since + момент в прошлом** — «с … (момента)»:\n> I've lived here **since** 2019. — Я живу здесь с 2019 года.\n> She's been ill **since** Monday. — Она больна с понедельника.\n> It's been raining **since** morning. — Дождь идёт с утра.\n\n**for + период** — «в течение, уже … (времени)»:\n> I've lived here **for** five years. — Я живу здесь пять лет.\n> She's been ill **for** three days. — Она болеет три дня.\n> It's been raining **for** two hours. — Дождь идёт два часа.\n\n## Как выбрать: since или for\n| Вопрос | Слово | Примеры |\n|---|---|---|\n| **когда началось** (точка) | **since** | since 2019, since Monday, since 8 o'clock, since I was a child |\n| **как долго** (период) | **for** | for five years, for three days, for two hours, for a long time |\n\n## for без present perfect\n**for** также употребляется с прошедшим и будущим.\n> We stayed there **for** a week. — Мы пробыли там неделю.\n> I'll be away **for** two days. — Меня не будет два дня.\n\n## Типичные ошибки\n- ~~I live here since 2019.~~ → I **have lived** here since 2019. (present perfect)\n- ~~I've lived here since five years.~~ → I've lived here **for** five years.\n- ~~I've been here for Monday.~~ → I've been here **since** Monday.\n- ~~from Monday for Friday~~ → from Monday **to** Friday.",
+  "en": "## from ... to\nThe start and the end of a period.\n> The shop is open **from** 9 **to** 6.\n> We work **from** Monday **to** Friday.\nYou can also say **from ... until / till**.\n\n## until / till\n**Until** (or **till**) shows the time when something stops.\n> I'll wait **until** 6 o'clock.\n> We stayed there **until** Sunday.\n> Wait here **until** I come back.\n\n## since and for\nWe use **since** and **for** with the present perfect (and present perfect continuous).\n\n**since + a point in time** — when it started:\n> I've lived here **since** 2019.\n> She's been ill **since** Monday.\n> It's been raining **since** morning.\n\n**for + a period of time** — how long:\n> I've lived here **for** five years.\n> She's been ill **for** three days.\n> It's been raining **for** two hours.\n\n## How to choose\n| Question | Word | Examples |\n|---|---|---|\n| **when did it start?** | **since** | since 2019, since Monday, since 8 o'clock |\n| **how long?** | **for** | for five years, for three days, for two hours |\n\n## for in other tenses\n> We stayed there **for** a week.\n> I'll be away **for** two days.\n\n## Common mistakes\n- ~~I live here since 2019.~~ → I **have lived** here since 2019.\n- ~~I've lived here since five years.~~ → I've lived here **for** five years.\n- ~~I've been here for Monday.~~ → I've been here **since** Monday.",
+  "structure": "## from / to / until\n| Конструкция | Значение | Пример |\n|---|---|---|\n| **from ... to ...** | с ... до ... | from 9 to 5 |\n| **from ... until ...** | с ... до ... | from Monday until Friday |\n| **until / till** | до | until 6 o'clock |\n\n## since / for\n| Слово | Что после | Пример |\n|---|---|---|\n| **since** | точка во времени | I've known her **since** 2015. |\n| **for** | период времени | I've known her **for** ten years. |\n\n## Формула с perfect\n> have / has + V3 + **since** + момент\n> have / has + V3 + **for** + период\n\n## Сравните\n| since | for |\n|---|---|\n| since **Monday** | for **three days** |\n| since **2020** | for **four years** |\n| since **7 o'clock** | for **two hours** |\n| since **I was a child** | for **a long time** |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "for или since?",
+      "instruction": "Вставьте **for** или **since**.",
+      "items": [
+        {
+          "text": "I've lived in this flat {{for}} six years."
+        },
+        {
+          "text": "He has worked here {{since}} January."
+        },
+        {
+          "text": "We've been friends {{since}} school."
+        },
+        {
+          "text": "She has been in bed {{for}} two days."
+        },
+        {
+          "text": "It's been raining {{since}} 5 o'clock."
+        },
+        {
+          "text": "They've been married {{for}} a long time."
+        },
+        {
+          "text": "I haven't seen Tom {{since}} last week."
+        },
+        {
+          "text": "I've had this phone {{for}} three months."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "from, to, until",
+      "instruction": "Вставьте **from**, **to** или **until**.",
+      "items": [
+        {
+          "text": "The bank is open {{from}} 9 {{to|until|till}} 4."
+        },
+        {
+          "text": "I'll stay here {{until|till}} Friday."
+        },
+        {
+          "text": "We have English lessons {{from}} Monday {{to|until|till}} Thursday."
+        },
+        {
+          "text": "Please wait {{until|till}} the film finishes."
+        },
+        {
+          "text": "The museum is closed {{until|till}} 10 o'clock."
+        },
+        {
+          "text": "The exam is {{from}} 2 pm {{to|until|till}} 4 pm."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "She has lived here ___ 2020.",
+          "options": [
+            "for",
+            "since",
+            "until"
+          ],
+          "answer": 1,
+          "why": "2020 — точка во времени → **since**."
+        },
+        {
+          "q": "I've been waiting ___ an hour.",
+          "options": [
+            "since",
+            "for",
+            "from"
+          ],
+          "answer": 1,
+          "why": "an hour — период → **for**."
+        },
+        {
+          "q": "We stayed at the hotel ___ Sunday.",
+          "options": [
+            "until",
+            "since",
+            "for"
+          ],
+          "answer": 0,
+          "why": "до воскресенья → **until**."
+        },
+        {
+          "q": "He hasn't called me ___ Monday.",
+          "options": [
+            "for",
+            "from",
+            "since"
+          ],
+          "answer": 2,
+          "why": "Monday — точка → **since**."
+        },
+        {
+          "q": "They've known each other ___ ten years.",
+          "options": [
+            "for",
+            "since",
+            "until"
+          ],
+          "answer": 0,
+          "why": "ten years — период → **for**."
+        },
+        {
+          "q": "I work ___ 9 to 6.",
+          "options": [
+            "since",
+            "from",
+            "until"
+          ],
+          "answer": 1,
+          "why": "**from 9 to 6**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Я живу здесь с 2018 года»?",
+          "options": [
+            "I live here since 2018.",
+            "I have lived here since 2018.",
+            "I have lived here for 2018."
+          ],
+          "answer": 1,
+          "why": "Present perfect + **since** + год."
+        },
+        {
+          "q": "Как сказать «Она больна уже три дня»?",
+          "options": [
+            "She is ill since three days.",
+            "She has been ill for three days.",
+            "She has been ill since three days."
+          ],
+          "answer": 1,
+          "why": "Период (three days) → **for**."
+        },
+        {
+          "q": "Как сказать «Подожди здесь, пока я не вернусь»?",
+          "options": [
+            "Wait here until I come back.",
+            "Wait here since I come back.",
+            "Wait here for I come back."
+          ],
+          "answer": 0,
+          "why": "**until** — «до тех пор, пока»."
+        },
+        {
+          "q": "Как сказать «Я не видела его с понедельника»?",
+          "options": [
+            "I haven't seen him since Monday.",
+            "I haven't seen him for Monday.",
+            "I don't see him since Monday."
+          ],
+          "answer": 0,
+          "why": "**since** + момент."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **for** или **since**. Используйте present perfect.",
+      "example": "(I / live / here / 2019) → I've lived here since 2019.",
+      "items": [
+        {
+          "prompt": "(we / know / each other / ten years)",
+          "answers": [
+            "We've known each other for ten years.",
+            "We have known each other for ten years."
+          ]
+        },
+        {
+          "prompt": "(she / work / here / 2022)",
+          "answers": [
+            "She has worked here since 2022.",
+            "She's worked here since 2022."
+          ]
+        },
+        {
+          "prompt": "(I / have / this bag / three years)",
+          "answers": [
+            "I've had this bag for three years.",
+            "I have had this bag for three years."
+          ]
+        },
+        {
+          "prompt": "(they / be / married / June)",
+          "answers": [
+            "They have been married since June.",
+            "They've been married since June."
+          ]
+        },
+        {
+          "prompt": "(he / be / ill / a week)",
+          "answers": [
+            "He has been ill for a week.",
+            "He's been ill for a week."
+          ]
+        },
+        {
+          "prompt": "(it / rain / this morning)",
+          "answers": [
+            "It has been raining since this morning.",
+            "It's been raining since this morning.",
+            "It has rained since this morning.",
+            "It's rained since this morning."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        {
+          "prompt": "Магазин открыт с 8 до 8.",
+          "answers": [
+            "The shop is open from 8 to 8.",
+            "The shop is open from eight to eight.",
+            "The store is open from 8 to 8.",
+            "The store is open from eight to eight."
+          ]
+        },
+        {
+          "prompt": "Я жду тебя с двух часов.",
+          "answers": [
+            "I've been waiting for you since two o'clock.",
+            "I have been waiting for you since two o'clock.",
+            "I've been waiting for you since 2 o'clock.",
+            "I have been waiting for you since 2 o'clock.",
+            "I've been waiting for you since two.",
+            "I have been waiting for you since two."
+          ]
+        },
+        {
+          "prompt": "Мы остаёмся здесь до пятницы.",
+          "answers": [
+            "We are staying here until Friday.",
+            "We're staying here until Friday.",
+            "We are staying here till Friday.",
+            "We're staying here till Friday.",
+            "We stay here until Friday.",
+            "We stay here till Friday."
+          ]
+        },
+        {
+          "prompt": "Они живут в Бишкеке пять лет.",
+          "answers": [
+            "They have lived in Bishkek for five years.",
+            "They've lived in Bishkek for five years.",
+            "They have been living in Bishkek for five years.",
+            "They've been living in Bishkek for five years."
+          ]
+        },
+        {
+          "prompt": "Я не ела с утра.",
+          "answers": [
+            "I haven't eaten since this morning.",
+            "I haven't eaten since the morning.",
+            "I have not eaten since this morning.",
+            "I haven't had anything to eat since this morning.",
+            "I haven't eaten since morning."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте **for / since / until / from ... to**.",
+      "items": [
+        {
+          "prompt": "Как долго вы живёте в вашем городе?",
+          "sample": "I've lived in Bishkek for twenty years."
+        },
+        {
+          "prompt": "С какого времени вы учите английский?",
+          "sample": "I've been learning English since September."
+        },
+        {
+          "prompt": "С какого по какое время вы работаете или учитесь?",
+          "sample": "I work from 9 to 6."
+        },
+        {
+          "prompt": "Как долго у вас есть телефон?",
+          "sample": "I've had this phone for two years."
+        }
+      ]
+    }
+  ]
+}

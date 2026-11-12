@@ -1,0 +1,91 @@
+{
+  "id": 57,
+  "title": "have",
+  "summary": "**have** и **have got** (иметь, болеть), прошедшее **had**, а также **have** в значениях «есть, пить, принимать» (have breakfast, have a shower) — здесь have got нельзя.",
+  "ru": "## have и have got: иметь\nГоворя о том, что у нас есть, можно использовать **have** или **have got** — смысл тот же.\n> I **have** a new car. = I**'ve got** a new car. — У меня новая машина.\n> Sue **has** long hair. = Sue **has got** long hair. — У Сью длинные волосы.\n> **Do** they **have** any children? = **Have** they **got** any children?\n> Tim **doesn't have** a job. = Tim **hasn't got** a job.\n> How much time **do** you **have**? = How much time **have** you **got**?\nТо же и с болезнями:\n> I **have** a headache. = I've got a headache. — У меня болит голова.\n> **Do** you **have** a cold? = **Have** you **got** a cold? — У тебя простуда?\nДругие: toothache, a cough, a sore throat, a temperature (температура), flu (грипп).\n\n## Прошедшее: had (без got)\nВ прошедшем времени говорим **had**; вопрос и отрицание — с **did**. **Had got** обычно не используют.\n> When I met Sue, she **had** short hair. — Когда я познакомился с Сью, у неё были короткие волосы.\n> He **didn't have** any money. — У него не было денег.\n> **Did** you **have** a good time? — Ты хорошо провёл время?\n\n## have в значении «есть, пить, принимать, проводить»\nВ этих выражениях have значит **есть / пить / принимать / проводить**. **Have got** здесь **нельзя**.\n- еда и питьё: **have** breakfast / lunch / dinner, a sandwich, a cup of coffee, something to eat\n- действия: **have** a shower, a bath, a rest, a swim, a walk, a look\n- события: **have** a party, a holiday, a nice time, a baby, an accident, a dream\n> 'Where's Ann?' 'She's **having** lunch.' — Она обедает.\n> I don't usually **have** breakfast. — Я обычно не завтракаю.\n> We're **having** a party next week. — На следующей неделе у нас вечеринка.\n> **Have** a nice time! — Хорошо вам повеселиться!\n- ~~I've got breakfast at eight.~~ → I **have** breakfast at eight.\n- ~~She's having long hair.~~ → She **has** (got) long hair. (в этом значении не используем -ing)\n\n## Типичные ошибки\n- ~~Do you have got a pen?~~ → **Do you have** a pen? / **Have you got** a pen?\n- ~~I haven't breakfast.~~ → I **don't have** breakfast.\n- ~~I had got a headache yesterday.~~ → I **had** a headache yesterday.",
+  "en": "## have and have got: possession\nWhen we talk about things we own or characteristics, we can use **have** or **have got**. The meaning is the same.\n> I **have** a new car. = I**'ve got** a new car.\n> Sue **has** long hair. = Sue **has got** long hair.\n> **Do** they **have** any children? = **Have** they **got** any children?\n> Tim **doesn't have** a job. = Tim **hasn't got** a job.\n> How much time **do** you **have**? = How much time **have** you **got**?\nIt is the same for illnesses:\n> I **have** a headache. = I've got a headache.\n> **Do** you **have** a cold? = **Have** you **got** a cold?\nAlso: toothache, a cough, a sore throat, a temperature, flu.\n\n## Past: had (without got)\n> When I met Sue, she **had** short hair.\n> He **didn't have** any money.\n> **Did** you **have** a good time?\n\n## have = eat, drink, take, spend\nIn these expressions we **cannot** use have got.\n- food and drink: **have** breakfast / lunch / dinner, a sandwich, a cup of coffee, something to eat\n- actions: **have** a shower, a bath, a rest, a swim, a walk, a look\n- events: **have** a party, a holiday, a nice time, a baby, an accident, a dream\n> 'Where's Ann?' 'She's **having** lunch.'\n> I don't usually **have** breakfast.\n> We're **having** a party next week.\n> **Have** a nice time!\n- ~~I've got breakfast at eight.~~ → I **have** breakfast at eight.\n\n## Common mistakes\n- ~~Do you have got a pen?~~ → **Do you have** a pen? / **Have you got** a pen?\n- ~~I haven't breakfast.~~ → I **don't have** breakfast.\n- ~~I had got a headache yesterday.~~ → I **had** a headache yesterday.",
+  "structure": "## have / have got (иметь)\n| | have | have got |\n|---|---|---|\n| Утверждение | I have a bike. | I've got a bike. |\n| (he / she / it) | She has a bike. | She's got a bike. |\n| Отрицание | I don't have a bike. | I haven't got a bike. |\n| (he / she / it) | He doesn't have a bike. | He hasn't got a bike. |\n| Вопрос | Do you have a bike? | Have you got a bike? |\n| (he / she / it) | Does she have a bike? | Has she got a bike? |\n\n## Прошедшее время\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| I had a bike. | I didn't have a bike. | Did you have a bike? |\n\n## have = есть, пить, принимать (только have, без got)\n| Вопрос / отрицание | Пример |\n|---|---|\n| Do you have breakfast? | I don't have breakfast. |\n| Did you have a shower? | We didn't have a party. |\n\n## Памятка\n> **have got** — только для «иметь» и болезней (настоящее время).\n> **have breakfast / a shower / a party** — только **have** (+ do/did в вопросе и отрицании).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "have или have got",
+      "instruction": "Вставьте пропущенное слово.",
+      "items": [
+        { "text": "I {{have|'ve}} a brother and a sister." },
+        { "text": "She {{has|'s}} got blue eyes." },
+        { "text": "{{Do}} you have a pen?" },
+        { "text": "{{Have}} you got any money?" },
+        { "text": "He {{doesn't|does not}} have a car." },
+        { "text": "We {{haven't|have not}} got any bread." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Прошедшее время",
+      "instruction": "Вставьте **had**, **didn't have** или **did ... have**.",
+      "items": [
+        { "text": "When I was a child, I {{had}} a small dog." },
+        { "text": "We {{didn't have|did not have}} a TV in our old flat." },
+        { "text": "{{Did}} you have a good holiday?" },
+        { "text": "She {{had}} a headache yesterday." },
+        { "text": "They {{didn't have|did not have}} enough time." },
+        { "text": "How much money {{did}} you have?" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I usually ___ breakfast at eight.", "options": ["have", "have got", "am having got"], "answer": 0, "why": "Для еды — только have." },
+        { "q": "___ a nice time at the party!", "options": ["Have", "Have got", "Having"], "answer": 0, "why": "Have a nice time!" },
+        { "q": "She ___ a cold. She is staying at home.", "options": ["have", "has", "is having"], "answer": 1, "why": "she → has." },
+        { "q": "Do you ___ any brothers?", "options": ["have got", "have", "has"], "answer": 1, "why": "После Do — have." },
+        { "q": "I ___ a shower every morning.", "options": ["have", "have got", "has"], "answer": 0, "why": "have a shower — без got." },
+        { "q": "We ___ a car when I was young.", "options": ["didn't have", "haven't got", "don't have"], "answer": 0, "why": "Прошлое — didn't have." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «У меня болит голова»?", "options": ["I have a headache.", "I am having a headache now.", "I headache have."], "answer": 0, "why": "have a headache." },
+        { "q": "Как сказать «Я не завтракаю»?", "options": ["I haven't breakfast.", "I don't have breakfast.", "I haven't got breakfast."], "answer": 1, "why": "Для завтрака — do + have." },
+        { "q": "Как сказать «У тебя есть сестра?»", "options": ["Do you have a sister?", "Have you a sister got?", "Do you have got a sister?"], "answer": 0, "why": "Do you have ...? или Have you got ...?" },
+        { "q": "Как сказать «У них была вечеринка»?", "options": ["They had a party.", "They had got a party.", "They has a party."], "answer": 0, "why": "Past: had a party." },
+        { "q": "Как сказать «Она сейчас обедает»?", "options": ["She has got lunch now.", "She's having lunch.", "She has lunch now."], "answer": 1, "why": "Сейчас — Present Continuous: she's having lunch." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **have**.",
+      "items": [
+        { "prompt": "(we / a party / next Saturday) — Present Continuous", "answers": ["We're having a party next Saturday.", "We are having a party next Saturday."] },
+        { "prompt": "(she / not / a car) — Present Simple, с have", "answers": ["She doesn't have a car.", "She does not have a car."] },
+        { "prompt": "(you / a good time / yesterday?) — вопрос", "answers": ["Did you have a good time yesterday?"] },
+        { "prompt": "(I / a shower / every morning)", "answers": ["I have a shower every morning.", "I have a shower every day."] },
+        { "prompt": "(they / any children?) — вопрос с have", "answers": ["Do they have any children?", "Have they got any children?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        { "prompt": "What do you usually have for breakfast?", "sample": "I usually have tea and a sandwich for breakfast." },
+        { "prompt": "Do you have any brothers or sisters?", "sample": "I have one brother." },
+        { "prompt": "What did you have for dinner yesterday?", "sample": "I had soup and rice for dinner." },
+        { "prompt": "Do you have a shower in the morning or in the evening?", "sample": "I have a shower in the morning." },
+        { "prompt": "What are you having for lunch today?", "sample": "I'm having pasta for lunch today." }
+      ]
+    }
+  ]
+}

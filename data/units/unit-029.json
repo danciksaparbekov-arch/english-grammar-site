@@ -1,0 +1,107 @@
+{
+  "id": 29,
+  "title": "will/shall (2)",
+  "summary": "**I'll ...** — когда решаем или предлагаем помощь прямо в момент речи; **Shall I / Shall we ...?** — предложение и вопрос «как лучше?».",
+  "ru": "## I'll ... — решение в момент речи\nКогда мы **только что решили** что-то сделать или хотим **предложить помощь**, используем **I'll** (I will).\n> My bag is very heavy. — **I'll carry** it for you. — Сумка очень тяжёлая. — Я понесу её.\n> **I'll phone** you tomorrow, OK? — Я позвоню завтра, ладно?\n> It's cold. **I'll close** the window. — Холодно. Я закрою окно.\n\n## I think I'll ... / I don't think I'll ...\nЭто частые фразы, когда мы решаем прямо сейчас.\n> I'm tired. I **think I'll go** to bed early. — Я устала. Пожалуй, лягу спать пораньше.\n> It's a nice day. I **think I'll sit** in the garden. — Хороший день. Пожалуй, посижу в саду.\n> It's raining. I **don't think I'll go** out. — Дождь. Пожалуй, не пойду гулять.\n\n## Не present simple!\nВ таких предложениях нельзя использовать present simple.\n- ~~I phone you tomorrow.~~ → I'**ll phone** you tomorrow.\n- ~~I think I go to bed early.~~ → I think I'**ll go** to bed early.\n\n## Но если решение принято раньше\nКогда план или договорённость **уже есть**, I'll не используем.\n> I'm working tomorrow. (не I'll work)\n> There's a good film on TV tonight. I'm **going to watch** it. (не I'll watch)\n> What are you doing at the weekend? (не What will you do)\n\n## Shall I ...? / Shall we ...?\n**Shall I / shall we** — вопрос «Предложить? Это хорошая идея?». Только с I и we.\n> It's very warm here. **Shall I open** the window? — Здесь жарко. Открыть окно?\n> **Shall I phone** you this evening? — Yes, please. — Позвонить тебе вечером? — Да, пожалуйста.\n> It's a nice day. **Shall we go** for a walk? — Хороший день. Пойдём гулять?\n> What **shall I wear**? — Что мне надеть?\n> Where **shall we go** for our holidays? — Куда нам поехать в отпуск?\n> What time **shall we meet**? — Во сколько встретимся?\n\n## Типичные ошибки\n- ~~Shall you help me?~~ → **Will** you help me? / Can you help me?\n- ~~I'll to carry it.~~ → I'll carry it.\n- ~~Shall I to open the window?~~ → Shall I open the window?",
+  "en": "## I'll ... — a decision at the moment of speaking\nWe use **I'll** (I will) when we **decide** to do something at the moment of speaking, or when we **offer** to do something.\n> My bag is very heavy. — **I'll carry** it for you.\n> **I'll phone** you tomorrow, OK?\n> It's cold. **I'll close** the window.\n\n## I think I'll ... / I don't think I'll ...\nWe often say this when we decide something now.\n> I'm tired. I **think I'll go** to bed early.\n> It's a nice day. I **think I'll sit** in the garden.\n> It's raining. I **don't think I'll go** out.\n\n## Not the present simple!\n- ~~I phone you tomorrow.~~ → I'**ll phone** you tomorrow.\n- ~~I think I go to bed early.~~ → I think I'**ll go** to bed early.\n\n## But not for earlier plans\nWe don't use **I'll** for something we decided before (Units 26–27).\n> I'm working tomorrow. (not I'll work)\n> There's a good film on TV tonight. I'm **going to watch** it. (not I'll watch)\n> What are you doing at the weekend? (not What will you do)\n\n## Shall I ...? / Shall we ...?\n**Shall I / shall we ...?** = Do you think this is a good idea? We use it only with I and we.\n> It's very warm here. **Shall I open** the window?\n> **Shall I phone** you this evening? — Yes, please.\n> It's a nice day. **Shall we go** for a walk?\n> What **shall I wear**?\n> Where **shall we go** for our holidays?\n> What time **shall we meet**?\n\n## Common mistakes\n- ~~Shall you help me?~~ → **Will** you help me?\n- ~~I'll to carry it.~~ → I'll carry it.\n- ~~Shall I to open the window?~~ → Shall I open the window?",
+  "structure": "## I'll — решение и предложение\n| Ситуация | Пример |\n|---|---|\n| предложить помощь | My bag is heavy. — I'll carry it. |\n| решить сейчас | I'm hungry. I'll make a sandwich. |\n| обещать | I'll call you tomorrow. |\n| отказ (отрицание) | I won't tell anybody. |\n\n## Формулы\n> **I'll** + глагол (без to)\n> I **think I'll** + глагол · I **don't think I'll** + глагол\n\n## Shall I / Shall we\n| Конструкция | Значение | Пример |\n|---|---|---|\n| **Shall I** + глагол ...? | предложить сделать самому | Shall I open the window? |\n| **Shall we** + глагол ...? | предложить сделать вместе | Shall we go for a walk? |\n| **What shall I** + глагол ...? | спросить совета | What shall I wear? |\n| **Where / What time shall we** + глагол ...? | договориться | What time shall we meet? |\n\n## Краткие ответы\n- Shall I open the window? — Yes, please. / No, thanks.\n- Shall we go? — Yes, let's. / OK.\n\n## Когда не I'll\n| Что | Как сказать |\n|---|---|\n| уже договорились | I'm meeting Tom tomorrow. |\n| давно решили | I'm going to learn English. |\n| решаем сейчас | I'll have the soup. |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Предложите помощь",
+      "instruction": "Допишите ответ с **I'll** и глаголом из скобок.",
+      "example": "My bag is very heavy. (carry) → I'll carry it for you.",
+      "items": [
+        { "text": "My bag is very heavy. — I {{will carry|'ll carry}} it for you.", "hint": "carry" },
+        { "text": "I'm going on holiday. — OK, I {{will send|'ll send}} you a postcard.", "hint": "send" },
+        { "text": "I don't want this banana. — I {{will eat|'ll eat}} it.", "hint": "eat" },
+        { "text": "Is there a chair? — Don't worry, I {{will sit|'ll sit}} on the floor.", "hint": "sit" },
+        { "text": "How do I use this camera? — I {{will show|'ll show}} you.", "hint": "show" },
+        { "text": "Are you coming with me? — No, I {{will stay|'ll stay}} here.", "hint": "stay" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "I think I'll ...",
+      "instruction": "Допишите предложение с **I think I'll** или **I don't think I'll**.",
+      "items": [
+        { "text": "I'm tired. I think {{I'll|I will}} go to bed early.", "hint": "go" },
+        { "text": "It's a nice day. I think {{I'll|I will}} sit in the garden.", "hint": "sit" },
+        { "text": "It's raining. I don't think {{I'll|I will}} go out.", "hint": "go" },
+        { "text": "The film is long. I don't think {{I'll|I will}} watch it.", "hint": "watch" },
+        { "text": "I'm hungry. I think {{I'll|I will}} have a sandwich.", "hint": "have" },
+        { "text": "It's too expensive. I don't think {{I'll|I will}} buy it.", "hint": "buy" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "It's hot here. ___ I open the window?", "options": ["Will", "Shall", "Do"], "answer": 1, "why": "Предложение с I → **Shall I ...?**" },
+        { "q": "I'm tired. I think I ___ to bed early.", "options": ["go", "will go", "'ll to go"], "answer": 1, "why": "Решение сейчас → **I'll go**." },
+        { "q": "___ we go for a walk?", "options": ["Shall", "Do", "Are"], "answer": 0, "why": "Предложение сделать вместе → **Shall we ...?**" },
+        { "q": "I ___ phone you tomorrow, OK?", "options": ["will", "am phone", "phone"], "answer": 0, "why": "Обещание → **I'll phone**." },
+        { "q": "What ___ I wear to the party?", "options": ["shall", "do", "am"], "answer": 0, "why": "Просим совета → **What shall I wear?**" },
+        { "q": "I ___ tennis tomorrow. I've already arranged it.", "options": ["will play", "am playing", "play will"], "answer": 1, "why": "Уже договорились → present continuous." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "«Давай я тебе помогу?»", "options": ["Shall I help you?", "Do I will help you?", "I shall you help?"], "answer": 0, "why": "**Shall I help you?**" },
+        { "q": "«Пожалуй, я останусь дома».", "options": ["I think I stay at home.", "I think I'll stay at home.", "I think I'll to stay at home."], "answer": 1, "why": "**I think I'll stay**." },
+        { "q": "«Куда нам пойти вечером?»", "options": ["Where shall we go this evening?", "Where we shall go this evening?", "Where do we shall go this evening?"], "answer": 0, "why": "**Where shall we go?**" },
+        { "q": "«Завтра у меня работа» (давно известно).", "options": ["I'll work tomorrow.", "I'm working tomorrow.", "I work will tomorrow."], "answer": 1, "why": "Запланировано → present continuous." },
+        { "q": "«Не думаю, что я поеду».", "options": ["I don't think I'll go.", "I think I won't go to.", "I won't think I'll go."], "answer": 0, "why": "**I don't think I'll go**." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Shall или will?",
+      "instruction": "Вставьте **shall** или **will** (**'ll**).",
+      "items": [
+        { "text": "It's a nice day. {{Shall}} we go to the park?", "hint": "shall / will" },
+        { "text": "I'm sorry I'm late. I {{won't|will not}} do it again.", "hint": "will not" },
+        { "text": "What time {{shall}} we meet tomorrow?", "hint": "shall / will" },
+        { "text": "{{Shall}} I carry your bag for you?", "hint": "shall / will" },
+        { "text": "Don't worry. I {{will|'ll}} help you.", "hint": "will" },
+        { "text": "What {{shall}} I cook for dinner?", "hint": "shall / will" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение или вопрос с **I'll** или **shall**.",
+      "items": [
+        { "prompt": "(it's warm / I / open / the window?)", "answers": ["Shall I open the window?"] },
+        { "prompt": "(I / phone / you / tomorrow)", "answers": ["I'll phone you tomorrow.", "I will phone you tomorrow."] },
+        { "prompt": "(what / we / eat / tonight?)", "answers": ["What shall we eat tonight?"] },
+        { "prompt": "(I / think / I / go / to bed early)", "answers": ["I think I'll go to bed early.", "I think I will go to bed early."] },
+        { "prompt": "(I / not / think / I / go out)", "answers": ["I don't think I'll go out.", "I don't think I will go out.", "I do not think I will go out."] },
+        { "prompt": "(we / go / for a walk?)", "answers": ["Shall we go for a walk?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о том, что вы решите или предложите.",
+      "items": [
+        { "prompt": "Вы устали. Что вы решите сделать?", "sample": "I think I'll go to bed early." },
+        { "prompt": "Подруга несёт тяжёлую сумку. Предложите помощь.", "sample": "Shall I carry your bag?" },
+        { "prompt": "Предложите другу сходить куда-нибудь.", "sample": "Shall we go to the cinema?" },
+        { "prompt": "Вы решили не выходить из дома. Почему?", "sample": "It's cold. I don't think I'll go out." },
+        { "prompt": "Пообещайте что-нибудь другу.", "sample": "I'll call you tomorrow." }
+      ]
+    }
+  ]
+}

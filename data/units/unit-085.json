@@ -1,0 +1,297 @@
+{
+  "id": 85,
+  "title": "quickly/badly/suddenly etc. (adverbs)",
+  "summary": "Наречия отвечают на вопрос «как?»: прилагательное + -ly (quickly), особые слова well, hard, fast, late, early.",
+  "ru": "## Наречие: как?\n**Прилагательное** описывает существительное (*a quick train*). **Наречие** описывает действие: **как** что-то происходит (*the train stopped quickly*). Обычно оно образуется так: **прилагательное + -ly**.\n| прилагательное | наречие |\n|---|---|\n| quick | quick**ly** |\n| bad | bad**ly** |\n| sudden | sudden**ly** |\n| careful | careful**ly** |\n| quiet | quiet**ly** |\nПравописание: **-y → -ily**: *easy → easily, heavy → heavily*.\n> The train stopped **suddenly**. — Поезд внезапно остановился.\n> I opened the door **slowly**. — Я медленно открыла дверь.\n> Please listen **carefully**. — Пожалуйста, слушайте внимательно.\n\n## Прилагательное или наречие?\n- **прилагательное** — к существительному / после be, look, feel: *Sue is **quiet**. Be **careful**!*\n- **наречие** — к глаголу: *Sue speaks **quietly**. Listen **carefully**.*\n> It was a **bad** game. — Our team played **badly**.\n> I feel **nervous**. — I waited **nervously**.\n\n## hard, fast, late, early\nЭти слова одинаковы и как прилагательное, и как наречие:\n> Sue's job is **hard**. → Sue works **hard**. (не ~~hardly~~)\n> Ben is a **fast** runner. → Ben can run **fast**.\n> The bus was **late**. → I went to bed **late**.\n**hardly** — это «едва ли», совсем другое слово!\n\n## good → well\n> Your English is **good**. — Your English is **very good**.\n> You speak English **very well**. (не ~~very good~~)\n> Our team played **well**.\n**well** — ещё и прилагательное («здоровый»): *How are you? — I'm very **well**, thank you.*\n\n## Типичные ошибки\n- ~~Sue speaks very quiet.~~ → Sue speaks very **quietly**.\n- ~~Listen careful.~~ → Listen **carefully**.\n- ~~He plays football good.~~ → He plays football **well**.\n- ~~She works hardly.~~ → She works **hard**.",
+  "en": "## Adverbs: how?\nAn **adjective** describes a noun (*a quick train*). An **adverb** describes a verb: **how** something happens (*the train stopped quickly*). Most adverbs are **adjective + -ly**.\n| adjective | adverb |\n|---|---|\n| quick | quick**ly** |\n| bad | bad**ly** |\n| sudden | sudden**ly** |\n| careful | careful**ly** |\nSpelling: **-y → -ily**: *easy → easily, heavy → heavily*.\n> The train stopped **suddenly**. · I opened the door **slowly**. · Please listen **carefully**.\n\n## Adjective or adverb?\n- adjective: with a noun or after be / look / feel: *Sue is **quiet**. Be **careful**!*\n- adverb: with a verb: *Sue speaks **quietly**. Listen **carefully**.*\n> It was a **bad** game. — Our team played **badly**.\n\n## hard, fast, late, early\nThey are the same as adjectives and adverbs:\n> Sue's job is **hard**. → Sue works **hard**. (not ~~hardly~~)\n> Ben is a **fast** runner. → Ben can run **fast**.\n> The bus was **late**. → I went to bed **late**.\n\n## good → well\n> Your English is **good**. → You speak English **well**. (not ~~very good~~)\n**well** is also an adjective (= healthy): *I'm very **well**, thank you.*\n\n## Common mistakes\n- ~~Sue speaks very quiet.~~ → Sue speaks very **quietly**.\n- ~~He plays football good.~~ → He plays football **well**.\n- ~~She works hardly.~~ → She works **hard**.",
+  "structure": "## Образование наречий\n| правило | прилагательное → наречие |\n|---|---|\n| + -ly | slow → slowly, quiet → quietly |\n| -y → -ily | easy → easily, angry → angrily, heavy → heavily |\n| особые | good → **well** |\n| то же слово | hard, fast, late, early |\n\n## Формулы\n> подлежащее + глагол + **наречие**: *She sings beautifully.*\n> **be / look / feel** + прилагательное: *She is quiet.*\n> **very** + наречие: *very slowly, very well*\n\n## Место наречия\n> *He drives fast.* · *She spoke quietly.* · *They played badly.*\n> Наречие способа обычно стоит **после глагола** или после дополнения: *She opened the door slowly.*",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Образуйте наречие",
+      "instruction": "Образуйте наречие от слова в скобках.",
+      "items": [
+        {
+          "text": "The train stopped {{suddenly}}. (sudden)"
+        },
+        {
+          "text": "Please speak {{slowly}}. (slow)"
+        },
+        {
+          "text": "He drives very {{carefully}}. (careful)"
+        },
+        {
+          "text": "She won the game {{easily}}. (easy)"
+        },
+        {
+          "text": "It's raining {{heavily}}. (heavy)"
+        },
+        {
+          "text": "The children played {{quietly}}. (quiet)"
+        },
+        {
+          "text": "Our team played {{badly}}. (bad)"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Прилагательное или наречие?",
+      "instruction": "Вставьте слово из скобок в нужной форме — прилагательное или наречие.",
+      "items": [
+        {
+          "text": "Sue is a {{quiet}} girl. (quiet)"
+        },
+        {
+          "text": "Sue speaks {{quietly}}. (quiet)"
+        },
+        {
+          "text": "That was a {{bad}} film. (bad)"
+        },
+        {
+          "text": "I feel {{nervous}} before exams. (nervous)"
+        },
+        {
+          "text": "He waited {{nervously}} for the call. (nervous)"
+        },
+        {
+          "text": "Be {{careful}}! The floor is wet. (careful)"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "Listen ___, please.",
+          "options": [
+            "careful",
+            "carefully",
+            "carefuly"
+          ],
+          "answer": 1,
+          "why": "К глаголу — наречие **carefully**."
+        },
+        {
+          "q": "Your English is very ___.",
+          "options": [
+            "well",
+            "good",
+            "badly"
+          ],
+          "answer": 1,
+          "why": "После be — прилагательное **good**."
+        },
+        {
+          "q": "She sings very ___.",
+          "options": [
+            "good",
+            "well",
+            "nice"
+          ],
+          "answer": 1,
+          "why": "К глаголу — **well**."
+        },
+        {
+          "q": "He works ___ every day.",
+          "options": [
+            "hardly",
+            "hard",
+            "harder"
+          ],
+          "answer": 1,
+          "why": "hard — и прилагательное, и наречие."
+        },
+        {
+          "q": "The bus was ___ today.",
+          "options": [
+            "lately",
+            "late",
+            "latelly"
+          ],
+          "answer": 1,
+          "why": "После was — прилагательное **late**."
+        },
+        {
+          "q": "I went to bed ___ last night.",
+          "options": [
+            "lately",
+            "late",
+            "latest"
+          ],
+          "answer": 1,
+          "why": "**went to bed late**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "He speaks English good.",
+            "He speaks English well.",
+            "He speaks well English."
+          ],
+          "answer": 1,
+          "why": "**well** — наречие от good."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "She runs very fast.",
+            "She runs very fastly.",
+            "She runs very fastlier."
+          ],
+          "answer": 0,
+          "why": "**fast** — и прилагательное, и наречие."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "It rained heavy.",
+            "It rained heavily.",
+            "It rained heavyly."
+          ],
+          "answer": 1,
+          "why": "**heavily** (-y → -ily)."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "They arrived early.",
+            "They arrived earlily.",
+            "They arrived to early."
+          ],
+          "answer": 0,
+          "why": "**early** — и прилагательное, и наречие."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "She looked at me angry.",
+            "She looked at me angrily.",
+            "She looked at me anger."
+          ],
+          "answer": 1,
+          "why": "**angrily** описывает, как она смотрела."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с наречием.",
+      "items": [
+        {
+          "prompt": "(she / sing / beautiful)",
+          "answers": [
+            "She sings beautifully."
+          ]
+        },
+        {
+          "prompt": "(the dog / run / fast)",
+          "answers": [
+            "The dog runs fast."
+          ]
+        },
+        {
+          "prompt": "(please / drive / careful)",
+          "answers": [
+            "Please drive carefully.",
+            "Drive carefully, please."
+          ]
+        },
+        {
+          "prompt": "(he / play / the guitar / good)",
+          "answers": [
+            "He plays the guitar well."
+          ]
+        },
+        {
+          "prompt": "(they / work / hard / every day)",
+          "answers": [
+            "They work hard every day.",
+            "Every day they work hard."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Она медленно говорит по-английски.",
+          "answers": [
+            "She speaks English slowly."
+          ]
+        },
+        {
+          "prompt": "Мы тихо вошли в комнату.",
+          "answers": [
+            "We came into the room quietly.",
+            "We entered the room quietly.",
+            "We went into the room quietly."
+          ]
+        },
+        {
+          "prompt": "Он очень хорошо плавает.",
+          "answers": [
+            "He swims very well."
+          ]
+        },
+        {
+          "prompt": "Идёт сильный дождь.",
+          "answers": [
+            "It's raining heavily.",
+            "It is raining heavily.",
+            "It's raining hard.",
+            "It is raining hard."
+          ]
+        },
+        {
+          "prompt": "Не говори так громко.",
+          "answers": [
+            "Don't speak so loudly.",
+            "Don't talk so loudly.",
+            "Do not speak so loudly.",
+            "Do not talk so loudly."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя наречия. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Как вы говорите по-английски?",
+          "sample": "I speak English slowly, but I understand well."
+        },
+        {
+          "prompt": "Как вы работаете или учитесь?",
+          "sample": "I study hard and work carefully."
+        },
+        {
+          "prompt": "Как вы обычно ходите / ездите?",
+          "sample": "I walk quickly when I'm late."
+        }
+      ]
+    }
+  ]
+}

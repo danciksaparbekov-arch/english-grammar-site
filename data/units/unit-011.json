@@ -1,0 +1,110 @@
+{
+  "id": 11,
+  "title": "worked/got/went etc. (past simple)",
+  "summary": "Past simple — действие, которое **закончилось в прошлом**: правильные глаголы + **-ed** (worked), неправильные имеют особую форму (went, saw).",
+  "ru": "## Когда используем\nPast simple — это законченное действие в прошлом: **вчера, на прошлой неделе, в 2019 году, три дня назад**.\n> I **cleaned** my teeth this morning. — Сегодня утром я почистил зубы.\n> We **enjoyed** the party last night. — Вчера вечером нам понравилась вечеринка.\n> Terry **worked** in a bank from 1986 to 1993. — Терри работал в банке с 1986 по 1993.\nФорма одна для **всех лиц**: I / he / she / we / they **worked**. Никакого -s.\n\n## Правильные глаголы: + -ed\n> work → work**ed**, stay → stay**ed**, clean → clean**ed**\n> arrive → arriv**ed** (на -e: просто + d), dance → danc**ed**\n\n## Правила написания\n- Согласная + **y** → **-ied**: try → tried, study → studied, copy → copied\n- Одна гласная + одна согласная в коротком слове → **удваиваем**: stop → stopped, plan → planned\n- Гласная + y: просто + ed: play → played, stay → stayed\n\n## Неправильные глаголы\nУ них особая форма — её нужно запомнить.\n> go → **went**, get → **got**, see → **saw**, have → **had**, do → **did**\n> make → **made**, take → **took**, come → **came**, buy → **bought**, eat → **ate**\n> write → **wrote**, meet → **met**, speak → **spoke**, give → **gave**, leave → **left**\n> I usually get up early, but this morning I **got** up at 9.30.\n> Jim **came** into the room, **took** off his coat and **sat** down.\n\n## Слова-подсказки\n**yesterday, last night / week / year, ago, in 2015, when I was ...**\n\n## Типичные ошибки\n- ~~I go to the cinema yesterday.~~ → I **went** to the cinema yesterday.\n- ~~We worked-ed.~~ → We **worked**.\n- ~~She studyed.~~ → She **studied**.\n- ~~He goed home.~~ → He **went** home.\n- ~~I stoped.~~ → I **stopped**.",
+  "en": "## When do we use it?\nWe use the past simple for **finished actions in the past**: yesterday, last week, in 2019, three days ago.\n> I **cleaned** my teeth this morning.\n> We **enjoyed** the party last night.\n> Terry **worked** in a bank from 1986 to 1993.\nThe form is the same for **all subjects**: I / he / she / we / they **worked**. No -s.\n\n## Regular verbs: + -ed\n> work → work**ed**, stay → stay**ed**, clean → clean**ed**\n> arrive → arriv**ed** (ends in -e: just + d), dance → danc**ed**\n\n## Spelling\n- Consonant + **y** → **-ied**: try → tried, study → studied, copy → copied\n- Short word, one vowel + one consonant → **double** the consonant: stop → stopped, plan → planned\n- Vowel + y: just + ed: play → played, stay → stayed\n\n## Irregular verbs\nThese have special past forms. You have to learn them.\n> go → **went**, get → **got**, see → **saw**, have → **had**, do → **did**\n> make → **made**, take → **took**, come → **came**, buy → **bought**, eat → **ate**\n> write → **wrote**, meet → **met**, speak → **spoke**, give → **gave**, leave → **left**\n\n## Time words\n**yesterday, last night / week / year, ago, in 2015, when I was ...**\n\n## Common mistakes\n- ~~I go to the cinema yesterday.~~ → I **went** to the cinema yesterday.\n- ~~She studyed.~~ → She **studied**.\n- ~~He goed home.~~ → He **went** home.",
+  "structure": "## Правильные глаголы\n| Правило | Present | Past |\n|---|---|---|\n| + ed | work, clean, start | worked, cleaned, started |\n| на -e: + d | arrive, dance, like | arrived, danced, liked |\n| согласная + y → ied | try, study, copy | tried, studied, copied |\n| удвоение согласной | stop, plan, shop | stopped, planned, shopped |\n| гласная + y: + ed | play, stay, enjoy | played, stayed, enjoyed |\n\n## Часто встречающиеся неправильные глаголы\n| Present | Past | Present | Past |\n|---|---|---|---|\n| go | went | buy | bought |\n| get | got | eat | ate |\n| see | saw | drink | drank |\n| have | had | write | wrote |\n| do | did | meet | met |\n| make | made | speak | spoke |\n| take | took | give | gave |\n| come | came | leave | left |\n| read | read /red/ | think | thought |\n| say | said | sit | sat |\n\n## Формула\n> Подлежащее + **глагол в прошедшей форме** (одинаковая для всех лиц)\n> She **worked** late. · We **went** home. · They **saw** a film.\n\n## Особенности\n- **was / were** — прошедшее от be (см. unit 10).\n- **read** пишется одинаково в present и past, но произносится /red/ в past.\n- Отрицание и вопросы — в unit 12.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Правильные глаголы",
+      "instruction": "Поставьте глагол в скобках в past simple.",
+      "items": [
+        { "text": "I {{cleaned}} my teeth three times yesterday.", "hint": "clean" },
+        { "text": "It was hot in the room, so I {{opened}} the window.", "hint": "open" },
+        { "text": "The concert {{started}} at 7.30 and {{finished}} at 10.", "hint": "start / finish" },
+        { "text": "When I was a child, I {{wanted}} to be a doctor.", "hint": "want" },
+        { "text": "It {{rained}} all day yesterday.", "hint": "rain" },
+        { "text": "We {{stayed}} at a very nice hotel last year.", "hint": "stay" },
+        { "text": "She {{studied}} French at school.", "hint": "study" },
+        { "text": "The bus {{stopped}} and I got off.", "hint": "stop" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Неправильные глаголы",
+      "instruction": "Напишите past simple этих глаголов.",
+      "items": [
+        { "text": "get → {{got}}" },
+        { "text": "see → {{saw}}" },
+        { "text": "buy → {{bought}}" },
+        { "text": "go → {{went}}" },
+        { "text": "eat → {{ate}}" },
+        { "text": "write → {{wrote}}" },
+        { "text": "have → {{had}}" },
+        { "text": "take → {{took}}" },
+        { "text": "come → {{came}}" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "Yesterday I ___ to the market.", "options": ["go", "went", "goed"], "answer": 1, "why": "go → **went**." },
+        { "q": "She ___ a lovely dress last week.", "options": ["buyed", "buy", "bought"], "answer": 2, "why": "buy → **bought**." },
+        { "q": "We ___ a good film on Sunday.", "options": ["saw", "see", "seen"], "answer": 0, "why": "see → **saw**." },
+        { "q": "They ___ in Berlin in 2018.", "options": ["live", "lived", "lives"], "answer": 1, "why": "Законченное действие в прошлом: **lived**." },
+        { "q": "He ___ his keys yesterday.", "options": ["losted", "lose", "lost"], "answer": 2, "why": "lose → **lost**." },
+        { "q": "The shop ___ at 5 o'clock yesterday.", "options": ["closeed", "closed", "close"], "answer": 1, "why": "На -e: просто + d → **closed**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант грамматически верный.",
+      "items": [
+        { "q": "Как сказать «Вчера он пришёл поздно»?", "options": ["He comed late yesterday.", "He came late yesterday.", "He comes late yesterday."], "answer": 1, "why": "come → **came**." },
+        { "q": "Как сказать «Она изучала английский»?", "options": ["She studyed English.", "She studied English.", "She studed English."], "answer": 1, "why": "study → **studied**." },
+        { "q": "Как сказать «Мы поужинали в 7»?", "options": ["We have dinner at 7 yesterday.", "We had dinner at 7.", "We haved dinner at 7."], "answer": 1, "why": "have → **had**." },
+        { "q": "Как сказать «Он остановился»?", "options": ["He stoped.", "He stopped.", "He stoppeed."], "answer": 1, "why": "stop → удваиваем p: **stopped**." },
+        { "q": "Как сказать «Я позвонила маме два дня назад»?", "options": ["I phoned my mum two days ago.", "I phone my mum two days ago.", "I phones my mum two days ago."], "answer": 0, "why": "ago → past simple: **phoned**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Что вы делали вчера?",
+      "instruction": "Составьте предложение в past simple.",
+      "items": [
+        { "prompt": "(I / get up / at 7 o'clock / yesterday)", "answers": ["I got up at 7 o'clock yesterday.", "I got up at seven o'clock yesterday.", "Yesterday I got up at 7 o'clock.", "Yesterday I got up at seven o'clock.", "I got up at 7 yesterday.", "Yesterday I got up at 7."] },
+        { "prompt": "(we / see / a good film / last night)", "answers": ["We saw a good film last night.", "Last night we saw a good film."] },
+        { "prompt": "(she / buy / a new bag / on Saturday)", "answers": ["She bought a new bag on Saturday.", "On Saturday she bought a new bag."] },
+        { "prompt": "(they / arrive / at the station / early)", "answers": ["They arrived at the station early."] },
+        { "prompt": "(Tom / write / a letter / to his friend)", "answers": ["Tom wrote a letter to his friend."] },
+        { "prompt": "(my parents / go / to the seaside / last summer)", "answers": ["My parents went to the seaside last summer.", "Last summer my parents went to the seaside."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте past simple.",
+      "items": [
+        { "prompt": "Вчера мы ходили в кино.", "answers": ["We went to the cinema yesterday.", "Yesterday we went to the cinema.", "We went to the movies yesterday.", "Yesterday we went to the movies."] },
+        { "prompt": "Она купила новые туфли.", "answers": ["She bought new shoes.", "She bought some new shoes.", "She bought a new pair of shoes."] },
+        { "prompt": "Я потерял ключи.", "answers": ["I lost my keys."] },
+        { "prompt": "Он написал письмо.", "answers": ["He wrote a letter."] },
+        { "prompt": "Мы встретили Тома на улице.", "answers": ["We met Tom in the street.", "We met Tom on the street."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите о своём вчерашнем дне, используя past simple. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Во сколько вы встали вчера?", "sample": "I got up at seven o'clock." },
+        { "prompt": "Что вы ели на завтрак?", "sample": "I ate bread and cheese and drank tea." },
+        { "prompt": "Куда вы ходили вчера?", "sample": "I went to the shop and to the park." },
+        { "prompt": "Что вы смотрели или читали вчера вечером?", "sample": "I watched a film in the evening." },
+        { "prompt": "Что вы купили на прошлой неделе?", "sample": "I bought a new jacket last week." }
+      ]
+    }
+  ]
+}

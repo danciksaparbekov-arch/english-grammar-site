@@ -1,0 +1,341 @@
+{
+  "id": 71,
+  "title": "I like music, I hate exams",
+  "summary": "**Без the** в общих высказываниях: **I like music, I hate exams**; игры и спорт, языки и предметы. Сравнение: **flowers / the flowers**.",
+  "ru": "## Общий смысл — без the\nКогда говорим о чём-то **вообще**, о множестве предметов или веществе в целом, **the не нужен**.\n> I like **music**, especially **classical music**. — Я люблю музыку, особенно классическую.\n> We don't eat **meat** very often. — Мы не очень часто едим мясо.\n> Life is not possible without **water**. — Жизнь невозможна без воды.\n> I hate **exams**. — Ненавижу экзамены.\n> I'm not very good at writing **letters**. — Я не очень хорошо пишу письма.\nНельзя: ~~I like the music~~ (если вообще музыку), ~~I hate the exams~~.\n\n## Спорт и игры — без the\n> My favourite sports are **tennis** and **skiing**. — Мои любимые виды спорта — теннис и лыжи.\n> I play **football** every weekend.\nНе говорим ~~the tennis~~, ~~the football~~.\n\n## Языки и предметы — без the\n> Do you think **English** is difficult? — Как думаешь, английский сложный?\n> Tom's brother is studying **physics** and **chemistry**. — Брат Тома изучает физику и химию.\n> I'm interested in **history** and **geography**.\nНе говорим ~~the English~~, ~~the history~~ (когда это предмет вообще).\n\n## flowers или the flowers?\n- **Без the** — **вообще**: *Flowers are beautiful.* (все цветы)\n- **С the** — **конкретные**: *This is a lovely garden. **The** flowers are beautiful.* (цветы в этом саду)\n> I don't like cold **weather**. — Не люблю холодную погоду (вообще).\n> **The weather** isn't very good today. — Сегодня погода не очень (сегодняшняя).\n> We don't eat **fish** very often. — Мы нечасто едим рыбу.\n> We had a nice meal last night. **The fish** was very good. — Вчера мы хорошо поужинали. Рыба была очень вкусная (та, что мы ели).\n> Are you interested in **history**? — Вам интересна история (вообще)?\n> Are you interested in **the history** of your country? — А история вашей страны (конкретная)?\n\n## Простое правило\n- Вообще о чём-то (любые, всякие) → **без the**.\n- Конкретные, понятные собеседнику, особые → **the**.\n\n## Типичные ошибки\n- ~~I like the music.~~ (вообще) → I like **music**.\n- ~~The life is not easy.~~ → **Life** is not easy.\n- ~~I hate the exams.~~ → I hate **exams**.\n- ~~My favourite sport is the tennis.~~ → My favourite sport is **tennis**.\n- ~~She studies the English.~~ → She studies **English**.",
+  "en": "## General ideas — no the\nWhen we talk about something **in general** (all things of one kind, or a material), we don't use **the**.\n> I like **music**, especially **classical music**.\n> We don't eat **meat** very often.\n> Life is not possible without **water**.\n> I hate **exams**.\n> I'm not very good at writing **letters**.\nNot ~~I like the music~~, ~~I hate the exams~~.\n\n## Sports and games\n> My favourite sports are **tennis** and **skiing**.\nNo **the** before sports and games.\n\n## Languages and school subjects\n> Do you think **English** is difficult?\n> Tom's brother is studying **physics** and **chemistry**.\n> I'm interested in **history** and **geography**.\n\n## flowers or the flowers?\n- No **the** = in general: *Flowers are beautiful.*\n- **the** = particular: *This is a lovely garden. **The** flowers are beautiful.*\n> I don't like cold **weather**. (in general)\n> **The weather** isn't very good today. (today)\n> We don't eat **fish** very often. (in general)\n> We had a nice meal. **The fish** was very good. (the fish we ate)\n> Are you interested in **history**? (in general)\n> Are you interested in **the history** of your country? (particular)\n\n## Simple rule\n- General (all, any) → **no the**.\n- Particular, known to both → **the**.\n\n## Common mistakes\n- ~~I like the music.~~ → I like **music**.\n- ~~I hate the exams.~~ → I hate **exams**.\n- ~~My favourite sport is the tennis.~~ → My favourite sport is **tennis**.\n- ~~She studies the English.~~ → She studies **English**.",
+  "structure": "## Формулы\n> **Вообще** (мн. число или неисчисляемое) → без the: **Flowers** are beautiful. · I like **music**.\n> **Конкретное** → the: **The** flowers in this garden are beautiful. · I like **the** music in this film.\n\n## Сравнение\n| Вообще (без the) | Конкретно (с the) |\n|---|---|\n| I like music. | I like the music in this café. |\n| Flowers are beautiful. | The flowers here are beautiful. |\n| Do you like fish? | The fish was delicious. |\n| I'm interested in history. | I'm interested in the history of my city. |\n| English is difficult. | The English test was difficult. |\n\n## Без the всегда\n- **Игры и спорт**: tennis, football, skiing\n- **Языки**: English, Russian, Kyrgyz\n- **Предметы**: physics, history, chemistry, geography",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "the или без the?",
+      "instruction": "Вставьте **the** или поставьте **-** (пусто). Если артикль не нужен, напишите **-**.",
+      "example": "I like ... flowers. → I like **-** flowers (без the).",
+      "items": [
+        {
+          "text": "I like {{-|—|–|0}} music, especially {{-|—|–|0}} classical music."
+        },
+        {
+          "text": "We don't eat {{-|—|–|0}} meat very often."
+        },
+        {
+          "text": "My favourite sport is {{-|—|–|0}} tennis."
+        },
+        {
+          "text": "I'm interested in {{-|—|–|0}} history."
+        },
+        {
+          "text": "{{-|—|–|0}} English is easy for me."
+        },
+        {
+          "text": "I hate {{-|—|–|0}} exams."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Общее или конкретное?",
+      "instruction": "Вставьте **the** или **-**.",
+      "items": [
+        {
+          "text": "This is a lovely garden. {{The}} flowers are beautiful."
+        },
+        {
+          "text": "I love {{-|—|–|0}} flowers. They make me happy."
+        },
+        {
+          "text": "{{The}} weather isn't good today."
+        },
+        {
+          "text": "I don't like cold {{-|—|–|0}} weather."
+        },
+        {
+          "text": "We had a good meal last night. {{The}} fish was delicious."
+        },
+        {
+          "text": "We don't eat {{-|—|–|0}} fish very often."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Ответьте",
+      "instruction": "Вставьте **the** или **-** (пусто).",
+      "items": [
+        {
+          "text": "Tom studies {{-|—|–|0}} physics and {{-|—|–|0}} chemistry."
+        },
+        {
+          "text": "Are you good at {{-|—|–|0}} football?"
+        },
+        {
+          "text": "I'm not interested in {{-|—|–|0}} politics."
+        },
+        {
+          "text": "Do you like {{-|—|–|0}} cold weather?"
+        },
+        {
+          "text": "{{The}} music in this film is great."
+        },
+        {
+          "text": "I like {{-|—|–|0}} coffee, but I don't like {{-|—|–|0}} tea."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "the или нет?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I'm not good at ___.",
+          "options": [
+            "the football",
+            "football",
+            "a football"
+          ],
+          "answer": 1,
+          "why": "Игры — без the."
+        },
+        {
+          "q": "___ life is not easy.",
+          "options": [
+            "The",
+            "—",
+            "A"
+          ],
+          "answer": 1,
+          "why": "О жизни вообще → без the."
+        },
+        {
+          "q": "My sister is studying ___.",
+          "options": [
+            "the biology",
+            "biology",
+            "a biology"
+          ],
+          "answer": 1,
+          "why": "Предметы — без the."
+        },
+        {
+          "q": "___ weather is very nice today.",
+          "options": [
+            "The",
+            "—",
+            "A"
+          ],
+          "answer": 0,
+          "why": "Сегодняшняя погода → **The**."
+        },
+        {
+          "q": "I love ___ chocolate.",
+          "options": [
+            "the",
+            "—",
+            "a"
+          ],
+          "answer": 1,
+          "why": "Вообще → без the."
+        },
+        {
+          "q": "Do you speak ___ English?",
+          "options": [
+            "the",
+            "—",
+            "an"
+          ],
+          "answer": 1,
+          "why": "Языки — без the."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Общее или конкретное?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I like ___. (все цветы)",
+          "options": [
+            "flowers",
+            "the flowers",
+            "a flowers"
+          ],
+          "answer": 0,
+          "why": "Вообще → без the."
+        },
+        {
+          "q": "___ in your garden are lovely. (конкретные)",
+          "options": [
+            "Flowers",
+            "The flowers",
+            "Flower"
+          ],
+          "answer": 1,
+          "why": "Конкретные → **The flowers**."
+        },
+        {
+          "q": "We don't eat ___ very often. (рыбу вообще)",
+          "options": [
+            "the fish",
+            "fish",
+            "a fish"
+          ],
+          "answer": 1,
+          "why": "Вообще → без the."
+        },
+        {
+          "q": "___ was delicious. (рыба, которую мы ели)",
+          "options": [
+            "Fish",
+            "The fish",
+            "A fish"
+          ],
+          "answer": 1,
+          "why": "Конкретная → **The fish**."
+        },
+        {
+          "q": "Are you interested in ___ of your country?",
+          "options": [
+            "history",
+            "the history",
+            "a history"
+          ],
+          "answer": 1,
+          "why": "Конкретная история → **the history**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение со словами в скобках.",
+      "items": [
+        {
+          "prompt": "(I / like / music)",
+          "answers": [
+            "I like music."
+          ]
+        },
+        {
+          "prompt": "(she / hate / exams)",
+          "answers": [
+            "She hates exams."
+          ]
+        },
+        {
+          "prompt": "(we / play / tennis / on Sunday)",
+          "answers": [
+            "We play tennis on Sunday.",
+            "We are playing tennis on Sunday.",
+            "We're playing tennis on Sunday."
+          ]
+        },
+        {
+          "prompt": "(he / study / physics / at university)",
+          "answers": [
+            "He studies physics at university.",
+            "He is studying physics at university.",
+            "He's studying physics at university."
+          ]
+        },
+        {
+          "prompt": "(the music / in this film / be / great)",
+          "answers": [
+            "The music in this film is great.",
+            "The music in this film's great."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Я люблю музыку.",
+          "answers": [
+            "I like music.",
+            "I love music."
+          ]
+        },
+        {
+          "prompt": "Мы редко едим мясо.",
+          "answers": [
+            "We don't eat meat very often.",
+            "We rarely eat meat.",
+            "We seldom eat meat.",
+            "We don't often eat meat.",
+            "We don't eat meat often.",
+            "We hardly ever eat meat."
+          ]
+        },
+        {
+          "prompt": "Она изучает английский.",
+          "answers": [
+            "She studies English.",
+            "She is studying English.",
+            "She's studying English."
+          ]
+        },
+        {
+          "prompt": "Погода сегодня хорошая.",
+          "answers": [
+            "The weather is nice today.",
+            "The weather's nice today.",
+            "The weather is good today.",
+            "The weather's good today.",
+            "The weather is fine today.",
+            "The weather's fine today.",
+            "Today the weather is good.",
+            "Today the weather is nice.",
+            "Today the weather's nice."
+          ]
+        },
+        {
+          "prompt": "Мой любимый вид спорта — теннис.",
+          "answers": [
+            "My favourite sport is tennis.",
+            "My favorite sport is tennis."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями.",
+      "items": [
+        {
+          "prompt": "What do you like? (music, sports, films)",
+          "sample": "I like music, especially pop music."
+        },
+        {
+          "prompt": "What do you hate?",
+          "sample": "I hate exams and cold weather."
+        },
+        {
+          "prompt": "What is your favourite sport?",
+          "sample": "My favourite sport is tennis."
+        },
+        {
+          "prompt": "What subjects do you study or like?",
+          "sample": "I like English and history."
+        },
+        {
+          "prompt": "Do you like the weather today?",
+          "sample": "The weather is nice today. I like it."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": 95,
+  "title": "Give me that book! Give it to me!",
+  "summary": "Глаголы с двумя дополнениями (**give, show, send, buy**): **give me the book** и **give the book to me**; порядок, когда дополнение — местоимение.",
+  "ru": "## Два дополнения\nНекоторые глаголы могут иметь **два** дополнения: кому? и что? Это give (дать), show (показать), send (послать), buy (купить), tell (сказать), bring (принести), lend (одолжить).\n> I **gave** Tom a book. — Я дала Тому книгу.\n> Can you **show** me your photos? — Покажешь мне свои фото?\n\n## Два порядка слов\nСказать можно двумя способами.\n1. **глагол + кому + что** (без to / for)\n> I gave **Tom the book**. — Я дала Тому книгу.\n> She sent **me a letter**. — Она прислала мне письмо.\n2. **глагол + что + to / for + кому**\n> I gave **the book to Tom**.\n> She sent **a letter to me**.\n\n## to или for?\n- **to** — give, send, show, lend, tell, bring: give it **to** me\n- **for** — buy, make, cook, get: I bought a present **for** my mother. — Я купила подарок маме.\n> Can you **make** a sandwich **for** me? = Can you make me a sandwich?\n\n## Если «что» — местоимение (it, them)\nКогда «что» — **it** или **them**, ставим его сразу после глагола, а потом **to / for + кому**.\n> Give **it to me**. — Дай мне это. (не ~~Give me it~~)\n> I sent **them to her**. — Я послала их ей.\n> Show **them to us**. — Покажи их нам.\n\n## Если «кому» — местоимение\nКогда местоимение — человек (me, him, her, us, them), порядок свободный.\n> Give **me** the keys. = Give the keys **to me**.\n> Can you lend **him** some money? = Can you lend some money **to him**?\n\n## Типичные ошибки\n- ~~Give me it.~~ → Give **it to me**.\n- ~~Give to me the book.~~ → Give **me the book**. / Give the book **to me**.\n- ~~She sent to me a letter.~~ → She sent **me a letter**.\n- ~~I bought to my mother a present.~~ → I bought **my mother a present**. / I bought a present **for my mother**.",
+  "en": "## Two objects\nSome verbs can have **two** objects: a person and a thing. For example give, show, send, buy, tell, bring, lend.\n> I **gave** Tom a book.\n> Can you **show** me your photos?\n\n## Two word orders\nThere are two ways to say it.\n1. **verb + person + thing** (no to / for)\n> I gave **Tom the book**.\n> She sent **me a letter**.\n2. **verb + thing + to / for + person**\n> I gave **the book to Tom**.\n> She sent **a letter to me**.\n\n## to or for?\n- **to** — give, send, show, lend, tell, bring: give it **to** me\n- **for** — buy, make, cook, get: I bought a present **for** my mother.\n> Can you **make** a sandwich **for** me? = Can you make me a sandwich?\n\n## When the thing is a pronoun (it, them)\nWhen the thing is **it** or **them**, we put it right after the verb, then **to / for + person**.\n> Give **it to me**. (not ~~Give me it~~)\n> I sent **them to her**.\n> Show **them to us**.\n\n## When the person is a pronoun\nWhen the person is a pronoun (me, him, her, us, them), both orders are fine.\n> Give **me** the keys. = Give the keys **to me**.\n> Can you lend **him** some money? = Can you lend some money **to him**?\n\n## Common mistakes\n- ~~Give me it.~~ → Give **it to me**.\n- ~~Give to me the book.~~ → Give **me the book**.\n- ~~She sent to me a letter.~~ → She sent **me a letter**.",
+  "structure": "## Два способа\n| Способ | Формула | Пример |\n|---|---|---|\n| 1 | verb + **person** + **thing** | I gave **Tom the key**. |\n| 2 | verb + **thing** + **to / for** + person | I gave **the key to Tom**. |\n\n## Когда «что» = it / them\n| Правильно | Неправильно |\n|---|---|\n| Give **it to** me. | ~~Give me it.~~ |\n| Show **them to** her. | ~~Show her them.~~ |\n| Buy **it for** him. | ~~Buy him it.~~ |\n\n## Какое слово после вещи\n| to | for |\n|---|---|\n| give, send, show, lend, tell, bring | buy, make, cook, get, find |\n\n## Формы местоимений\n| Подлежащее | I | he | she | we | they |\n|---|---|---|---|---|---|\n| Дополнение | **me** | **him** | **her** | **us** | **them** |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вставьте местоимение",
+      "instruction": "Вставьте правильное местоимение (me, him, her, us, them).",
+      "example": "I like Tom. I often send **him** letters.",
+      "items": [
+        { "text": "My sister is in London. I often write to {{her}}." },
+        { "text": "You are my friend. I'll give {{you}} my phone number." },
+        { "text": "We are your parents. Why don't you phone {{us}}?" },
+        { "text": "I haven't got a pen. Can you give {{me}} one?" },
+        { "text": "They are waiting. Tell {{them}} to come in." },
+        { "text": "Tom is ill. Please send {{him}} some flowers." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Заполните пропуски",
+      "instruction": "Допишите предложение. Используйте слово **to** или **for**.",
+      "items": [
+        { "text": "I gave the keys {{to}} Anna." },
+        { "text": "He bought a present {{for}} his mother." },
+        { "text": "Can you show your photos {{to}} me?" },
+        { "text": "She made a cake {{for}} us." },
+        { "text": "Could you send this letter {{to}} Tom?" },
+        { "text": "I cooked dinner {{for}} my friends." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный порядок",
+      "instruction": "Выберите правильное предложение.",
+      "items": [
+        { "q": "Выберите верный вариант:", "options": ["Give me it.", "Give it to me.", "Give to me it."], "answer": 1, "why": "**it** — сразу после глагола, потом **to me**." },
+        { "q": "Выберите верный вариант:", "options": ["She sent a letter me.", "She sent to me a letter.", "She sent me a letter."], "answer": 2, "why": "verb + person + thing." },
+        { "q": "Выберите верный вариант:", "options": ["I bought a present to my sister.", "I bought a present for my sister.", "I bought for my sister a present."], "answer": 1, "why": "С buy используем **for**." },
+        { "q": "Выберите верный вариант:", "options": ["Show them to us.", "Show us them.", "Show to us them."], "answer": 0, "why": "**them** — после глагола, затем **to us**." },
+        { "q": "Выберите верный вариант:", "options": ["Can you lend me ten dollars?", "Can you lend to me ten dollars?", "Can you lend ten dollars me?"], "answer": 0, "why": "verb + me + thing." },
+        { "q": "Выберите верный вариант:", "options": ["Tell to me the truth.", "Tell me the truth.", "Tell the truth me."], "answer": 1, "why": "С tell: **tell me** + thing (без to)." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "to, for или ничего?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        { "q": "My mother made a cake ___ me.", "options": ["to", "for", "(ничего)"], "answer": 1, "why": "make → **for**." },
+        { "q": "I sent the photos ___ him.", "options": ["to", "for", "(ничего)"], "answer": 0, "why": "send → **to**." },
+        { "q": "Can you buy ___ me a coffee?", "options": ["to", "for", "(ничего)"], "answer": 2, "why": "buy **me** a coffee (без предлога)." },
+        { "q": "Where is my pen? Bring ___ to me, please.", "options": ["it", "me it", "to it"], "answer": 0, "why": "**Bring it to me.**" },
+        { "q": "He showed ___ his new flat.", "options": ["to us", "us", "for us"], "answer": 1, "why": "He showed **us** his new flat." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Перепишите предложения",
+      "instruction": "Перепишите предложение, заменив слова в скобках на местоимение.",
+      "example": "Give the book to Tom. → Give it to him.",
+      "items": [
+        { "prompt": "Show your photos to me. (→ them)", "answers": ["Show them to me."] },
+        { "prompt": "I gave the keys to Anna. (→ them / her)", "answers": ["I gave them to her."] },
+        { "prompt": "She bought a present for her mother. (→ it / her)", "answers": ["She bought it for her.", "She bought it for her mother."] },
+        { "prompt": "Can you send the letter to us? (→ it)", "answers": ["Can you send it to us?"] },
+        { "prompt": "I sent the flowers to my wife. (→ them / her)", "answers": ["I sent them to her."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов. Используйте **to / for** или порядок «кому + что».",
+      "items": [
+        { "prompt": "(I / give / my brother / a book)", "answers": ["I gave my brother a book.", "I give my brother a book.", "I'll give my brother a book."] },
+        { "prompt": "(she / send / me / a postcard)", "answers": ["She sent me a postcard.", "She sends me a postcard."] },
+        { "prompt": "(can you / show / the map / to me?)", "answers": ["Can you show the map to me?"] },
+        { "prompt": "(he / buy / a ticket / for her)", "answers": ["He bought a ticket for her.", "He buys a ticket for her."] },
+        { "prompt": "(please / give / it / to him)", "answers": ["Please give it to him.", "Please, give it to him."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        { "prompt": "Дай мне этот телефон.", "answers": ["Give me this phone.", "Give me that phone.", "Give this phone to me.", "Give that phone to me."] },
+        { "prompt": "Дай его мне.", "answers": ["Give it to me."] },
+        { "prompt": "Я купила подарок для сестры.", "answers": ["I bought a present for my sister.", "I bought my sister a present.", "I bought a gift for my sister."] },
+        { "prompt": "Она показала нам фотографии.", "answers": ["She showed us the photos.", "She showed us the pictures.", "She showed us the photographs.", "She showed us photos.", "She showed us the photos.", "She showed the photos to us."] },
+        { "prompt": "Пошли им это письмо.", "answers": ["Send this letter to them.", "Send them this letter.", "Send them the letter.", "Send the letter to them.", "Send them that letter.", "Send that letter to them."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями.",
+      "items": [
+        { "prompt": "Что вы подарили другу или маме на день рождения?", "sample": "I gave my mother some flowers." },
+        { "prompt": "Что вы покупаете себе и семье?", "sample": "I bought my sister a book." },
+        { "prompt": "Кому вы часто пишете сообщения?", "sample": "I often send messages to my friend Anna." }
+      ]
+    }
+  ]
+}

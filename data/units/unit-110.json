@@ -1,0 +1,345 @@
+{
+  "id": 110,
+  "title": "When ...",
+  "summary": "Придаточные с **when**: в прошлом (**When I was young, ...**) и в будущем — после **when** используем настоящее время, а не **will** (**When I get home, I'll call you**).",
+  "ru": "## when — «когда»\n**When** соединяет два события: что происходит, когда происходит другое.\n> **When** I was a child, I lived in a village. — Когда я была ребёнком, я жила в деревне.\n> I always have tea **when** I get up. — Я всегда пью чай, когда встаю.\n\n## Про будущее: when + настоящее время\nЭто главное правило юнита. Если мы говорим о будущем, то после **when** ставим **Present simple**, а не **will**.\n> **When** I get home, I'll phone you. — Когда я приду домой, я тебе позвоню.\n> I'll call you **when** I arrive. — Я позвоню, когда приеду.\n> **When** it stops raining, we'll go out. — Когда дождь прекратится, мы выйдем.\nПо-русски после «когда» стоит будущее время («когда я приду»), поэтому так и хочется поставить **will**. В английском так нельзя.\n\n## Порядок частей\nМожно поставить **when**-часть в начале (тогда запятая) или в конце (без запятой).\n> **When** she comes, we'll start. = We'll start **when** she comes.\n\n## Другие слова с тем же правилом\nПосле **while, before, after, as soon as, until** о будущем тоже используем настоящее.\n> **Before** I leave, I'll lock the door. — Перед уходом я запру дверь.\n> Wait here **until** I come back. — Подожди здесь, пока я не вернусь.\n> I'll call you **as soon as** I get there. — Позвоню, как только приеду.\n\n## Типичные ошибки\n- ~~When I will get home, I'll call you.~~ → **When I get home**, I'll call you.\n- ~~I'll tell her when she will come.~~ → I'll tell her **when she comes**.\n- ~~When I'll arrive, I'll text you.~~ → **When I arrive**, I'll text you.\n- ~~When I was a child I live in Osh.~~ → When I was a child, I **lived** in Osh. (в прошлом — past simple в обеих частях)",
+  "en": "## when\n**When** joins two events: what happens at the time of another event.\n> **When** I was a child, I lived in a village.\n> I always have tea **when** I get up.\n\n## Future: when + present\nThis is the main rule. When we talk about the future, we use **present simple** after **when**, not **will**.\n> **When** I get home, I'll phone you.\n> I'll call you **when** I arrive.\n> **When** it stops raining, we'll go out.\n\n## Word order\nThe **when**-part can come first (use a comma) or second (no comma).\n> **When** she comes, we'll start. = We'll start **when** she comes.\n\n## Other words with the same rule\nAfter **while, before, after, as soon as, until** we also use the present for the future.\n> **Before** I leave, I'll lock the door.\n> Wait here **until** I come back.\n> I'll call you **as soon as** I get there.\n\n## Common mistakes\n- ~~When I will get home, I'll call you.~~ → **When I get home**, I'll call you.\n- ~~I'll tell her when she will come.~~ → I'll tell her **when she comes**.\n- ~~When I'll arrive, I'll text you.~~ → **When I arrive**, I'll text you.",
+  "structure": "## Схема\n| О чём говорим | Конструкция | Пример |\n|---|---|---|\n| привычка | when + Present simple, Present simple | When I'm tired, I sleep. |\n| прошлое | when + Past simple, Past simple | When I was ten, we moved. |\n| будущее | when + **Present simple**, **will** + глагол | When I get home, I'll call you. |\n\n## Формулы\n> **When** + подлежащее + глагол (настоящее), подлежащее + **will** + глагол\n> Подлежащее + **will** + глагол + **when** + подлежащее + глагол (настоящее)\n\n## Запомните\n- Нельзя: ~~when I will...~~ — всегда **when I + Present simple**.\n- То же с **before, after, as soon as, until, while**.\n- Частая ошибка для русскоязычных — **will** после *when* из-за русского «когда ...».\n\n## Вопросы с when\n> **When** does the film start? — **When** will you come back? (это вопрос, здесь will нормально)",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Present simple после when",
+      "instruction": "Поставьте глагол в скобках в нужную форму (Present simple или will + глагол).",
+      "items": [
+        {
+          "text": "When I {{get}} home, I'll have a shower. (get)",
+          "hint": "get"
+        },
+        {
+          "text": "I'll call you when I {{arrive}}. (arrive)",
+          "hint": "arrive"
+        },
+        {
+          "text": "When she {{comes}}, we'll start the meeting. (come)",
+          "hint": "come"
+        },
+        {
+          "text": "We'll go out when it {{stops}} raining. (stop)",
+          "hint": "stop"
+        },
+        {
+          "text": "I {{will tell|'ll tell}} him when I see him. (tell)",
+          "hint": "tell"
+        },
+        {
+          "text": "When the film {{finishes}}, we'll go home. (finish)",
+          "hint": "finish"
+        },
+        {
+          "text": "When you {{are|'re}} ready, I'll wait outside. (be)",
+          "hint": "be"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "when / before / after / until",
+      "instruction": "Вставьте **when, before, after, until** по смыслу.",
+      "items": [
+        {
+          "text": "I'll wait here {{until|till}} you come back."
+        },
+        {
+          "text": "{{Before}} I leave, I'll turn off the lights."
+        },
+        {
+          "text": "I'll have lunch {{after}} I finish my work."
+        },
+        {
+          "text": "{{When}} I was young, I lived near the sea."
+        },
+        {
+          "text": "Call me {{when|as soon as}} you get there."
+        },
+        {
+          "text": "Wash your hands {{before}} you eat."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I'll phone you when I ___ home.",
+          "options": [
+            "will get",
+            "get",
+            "am getting"
+          ],
+          "answer": 1,
+          "why": "После **when** о будущем — Present simple: **get**."
+        },
+        {
+          "q": "When we ___ in Rome, we'll visit the Colosseum.",
+          "options": [
+            "are",
+            "will be",
+            "were"
+          ],
+          "answer": 0,
+          "why": "Будущее после when → Present simple."
+        },
+        {
+          "q": "When I was ten, we ___ to Bishkek.",
+          "options": [
+            "move",
+            "moved",
+            "will move"
+          ],
+          "answer": 1,
+          "why": "В прошлом → Past simple: **moved**."
+        },
+        {
+          "q": "I'll send you a message as soon as I ___.",
+          "options": [
+            "arrive",
+            "will arrive",
+            "arrived"
+          ],
+          "answer": 0,
+          "why": "После **as soon as** тоже Present simple."
+        },
+        {
+          "q": "I'll wait until she ___.",
+          "options": [
+            "will come",
+            "comes",
+            "came"
+          ],
+          "answer": 1,
+          "why": "После **until** в будущем — **comes**."
+        },
+        {
+          "q": "When it ___ dark, we'll go home.",
+          "options": [
+            "gets",
+            "will get",
+            "got"
+          ],
+          "answer": 0,
+          "why": "Present simple: **gets**."
+        },
+        {
+          "q": "___ you finish, tell me.",
+          "options": [
+            "When",
+            "Then",
+            "Because"
+          ],
+          "answer": 0,
+          "why": "**When you finish** — когда закончишь."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Когда я приеду, я позвоню»?",
+          "options": [
+            "When I will arrive, I'll call.",
+            "When I arrive, I'll call.",
+            "When I'll arrive, I call."
+          ],
+          "answer": 1,
+          "why": "**When I arrive, I'll call**."
+        },
+        {
+          "q": "Как сказать «Я скажу ей, когда она придёт»?",
+          "options": [
+            "I'll tell her when she comes.",
+            "I'll tell her when she will come.",
+            "I tell her when she'll come."
+          ],
+          "answer": 0,
+          "why": "После when — **comes**."
+        },
+        {
+          "q": "Как сказать «Когда я была маленькой, я жила в Оше»?",
+          "options": [
+            "When I was small, I live in Osh.",
+            "When I am small, I lived in Osh.",
+            "When I was small, I lived in Osh."
+          ],
+          "answer": 2,
+          "why": "Прошлое → Past simple."
+        },
+        {
+          "q": "Как сказать «Подожди, пока я не закончу»?",
+          "options": [
+            "Wait until I finish.",
+            "Wait until I will finish.",
+            "Wait until I'll finish."
+          ],
+          "answer": 0,
+          "why": "**until I finish**."
+        },
+        {
+          "q": "Как сказать «Позвони мне, как только приедешь»?",
+          "options": [
+            "Call me as soon as you will arrive.",
+            "Call me as soon as you arrive.",
+            "Call me as soon as you'll arrive."
+          ],
+          "answer": 1,
+          "why": "**as soon as you arrive**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Соедините предложения",
+      "instruction": "Соедините два предложения с помощью **when**. Первое событие — в части с when.",
+      "example": "I'll get home. I'll call you. → **When I get home, I'll call you.**",
+      "items": [
+        {
+          "prompt": "I'll finish work. I'll go shopping.",
+          "answers": [
+            "When I finish work, I'll go shopping.",
+            "When I finish work I'll go shopping.",
+            "When I finish work, I will go shopping.",
+            "When I finish work I will go shopping."
+          ]
+        },
+        {
+          "prompt": "She'll arrive. She'll phone me.",
+          "answers": [
+            "When she arrives, she'll phone me.",
+            "When she arrives she'll phone me.",
+            "When she arrives, she will phone me.",
+            "When she arrives she will phone me."
+          ]
+        },
+        {
+          "prompt": "We'll get to the hotel. We'll have dinner.",
+          "answers": [
+            "When we get to the hotel, we'll have dinner.",
+            "When we get to the hotel we'll have dinner.",
+            "When we get to the hotel, we will have dinner.",
+            "When we get to the hotel we will have dinner."
+          ]
+        },
+        {
+          "prompt": "It'll stop raining. We'll go for a walk.",
+          "answers": [
+            "When it stops raining, we'll go for a walk.",
+            "When it stops raining we'll go for a walk.",
+            "When it stops raining, we will go for a walk.",
+            "When it stops raining we will go for a walk."
+          ]
+        },
+        {
+          "prompt": "I'll see Tom. I'll give him the book.",
+          "answers": [
+            "When I see Tom, I'll give him the book.",
+            "When I see Tom I'll give him the book.",
+            "When I see Tom, I will give him the book.",
+            "When I see Tom I will give him the book."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        {
+          "prompt": "Когда я приду домой, я приготовлю ужин.",
+          "answers": [
+            "When I get home, I'll cook dinner.",
+            "When I get home I'll cook dinner.",
+            "When I get home, I will cook dinner.",
+            "When I get home I will cook dinner.",
+            "When I come home, I'll cook dinner.",
+            "When I come home I'll cook dinner.",
+            "When I come home, I will cook dinner.",
+            "When I come home I will cook dinner.",
+            "When I get home, I'll make dinner.",
+            "When I come home, I'll make dinner."
+          ]
+        },
+        {
+          "prompt": "Я позвоню тебе, когда приеду.",
+          "answers": [
+            "I'll call you when I arrive.",
+            "I will call you when I arrive.",
+            "I'll phone you when I arrive.",
+            "I will phone you when I arrive.",
+            "I'll call you when I get there.",
+            "I will call you when I get there."
+          ]
+        },
+        {
+          "prompt": "Подожди, пока дождь не прекратится.",
+          "answers": [
+            "Wait until it stops raining.",
+            "Wait until the rain stops.",
+            "Wait till it stops raining.",
+            "Wait till the rain stops."
+          ]
+        },
+        {
+          "prompt": "Когда мне было десять, я жил в деревне.",
+          "answers": [
+            "When I was ten, I lived in a village.",
+            "When I was ten I lived in a village.",
+            "When I was ten years old, I lived in a village."
+          ]
+        },
+        {
+          "prompt": "Скажи мне, когда будешь готова.",
+          "answers": [
+            "Tell me when you're ready.",
+            "Tell me when you are ready.",
+            "Tell me when you are ready"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Закончите предложения о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "When I get home today, I ...",
+          "sample": "When I get home today, I'll have dinner and watch a film."
+        },
+        {
+          "prompt": "When I was a child, I ...",
+          "sample": "When I was a child, I played outside every day."
+        },
+        {
+          "prompt": "I'll be happy when ...",
+          "sample": "I'll be happy when I finish my exams."
+        },
+        {
+          "prompt": "As soon as I finish this lesson, I ...",
+          "sample": "As soon as I finish this lesson, I'll have a cup of tea."
+        }
+      ]
+    }
+  ]
+}

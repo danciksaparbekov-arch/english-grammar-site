@@ -1,0 +1,91 @@
+{
+  "id": 53,
+  "title": "I went to the shop to ...",
+  "summary": "**to + глагол** отвечает на вопрос «зачем?» (I went to the shop **to buy** bread), а **for + существительное** — «за чем?» (for bread); а также **wait for**.",
+  "ru": "## to + глагол: зачем?\nЧтобы объяснить **цель** действия («для того чтобы»), в английском используем **to + глагол**. Отдельного слова «чтобы» не нужно.\n> Paula went to the shop **to buy** a newspaper. — Паула пошла в магазин, чтобы купить газету.\n> 'Why are you going out?' — '**To get** some bread.' — Зачем ты выходишь? — Купить хлеба.\n> Sue turned on the TV **to watch** the news. — Сью включила телевизор, чтобы посмотреть новости.\n> I'd like to go to Spain **to learn** Spanish. — Я хочу поехать в Испанию, чтобы выучить испанский.\n\n## money / time to + глагол\n> We need some money **to buy** food. — Нам нужны деньги, чтобы купить еды.\n> I haven't got time **to watch** TV. — У меня нет времени смотреть телевизор.\n\n## to + глагол или for + существительное\nЕсли после цели идёт **глагол** — **to**. Если **существительное** — **for**.\n| to + глагол | for + существительное |\n|---|---|\n| I went to the shop **to buy** a newspaper. | I went to the shop **for** a newspaper. |\n| They're going to Scotland **to see** friends. | They're going to Scotland **for** a holiday. |\n| We need money **to buy** food. | We need money **for** food. |\n- ~~I went to the shop for buy bread.~~ → I went to the shop **to buy** bread. (или **for** bread)\n\n## wait for\nС глаголом **wait** (ждать) нужен предлог **for**.\n> Please **wait for** me. — Пожалуйста, подожди меня.\n> Are you **waiting for** the bus? — Ты ждёшь автобус?\nЕсли после wait идёт глагол — **wait to**: Hurry up! I'm **waiting to go**.\nЕсли ждём, пока **кто-то что-то сделает**: **wait for + кто-то + to + глагол**.\n> I'm **waiting for John to phone**. — Я жду, пока позвонит Джон.\n\n## Типичные ошибки\n- ~~I wait the bus.~~ → I **wait for** the bus.\n- ~~I came here for to learn English.~~ → I came here **to learn** English.\n- ~~I'm waiting that he calls.~~ → I'm waiting **for him to call**.",
+  "en": "## to + verb: why?\nWe use **to + verb** to say why somebody does something.\n> Paula went to the shop **to buy** a newspaper.\n> 'Why are you going out?' — '**To get** some bread.'\n> Sue turned on the TV **to watch** the news.\n> I'd like to go to Spain **to learn** Spanish.\n\n## money / time to + verb\n> We need some money **to buy** food.\n> I haven't got time **to watch** TV.\n\n## to + verb or for + noun\nBefore a verb we use **to**. Before a noun we use **for**.\n| to + verb | for + noun |\n|---|---|\n| I went to the shop **to buy** a newspaper. | I went to the shop **for** a newspaper. |\n| They're going to Scotland **to see** friends. | They're going to Scotland **for** a holiday. |\n| We need money **to buy** food. | We need money **for** food. |\n- ~~I went to the shop for buy bread.~~ → I went to the shop **to buy** bread.\n\n## wait for\n> Please **wait for** me.\n> Are you **waiting for** the bus?\n> Hurry up! I'm **waiting to go**.\n> I'm **waiting for John to phone**.\n\n## Common mistakes\n- ~~I wait the bus.~~ → I **wait for** the bus.\n- ~~I came here for to learn English.~~ → I came here **to learn** English.",
+  "structure": "## Формулы\n| Что | Конструкция | Пример |\n|---|---|---|\n| Цель (глагол) | to + глагол | I called to ask about the job. |\n| Цель (сущ.) | for + существительное | I called for information. |\n| Ждать кого/что | wait for + сущ./местоимение | Wait for me. |\n| Ждать, чтобы сделать | wait to + глагол | I'm waiting to see the doctor. |\n| Ждать, пока кто-то сделает | wait for + кто-то + to + глагол | Wait for her to finish. |\n\n## Вопрос и ответ\n> **Why** did you go there? — **To** meet a friend. / **For** a meeting.\n\n## Полезные сочетания\n- money **to** buy · time **to** read · a reason **to** smile\n- go to the shop **for** milk · go to a café **for** lunch\n\n## Памятка\n> После **to** — глагол. После **for** — существительное.\n> **wait** всегда с **for** (если нет глагола сразу после).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Зачем я туда пошёл?",
+      "instruction": "Допишите предложения с **to + глагол**.",
+      "items": [
+        { "text": "I went to the post office {{to buy|to get|to send}} some stamps." },
+        { "text": "She went to the café {{to meet|to see}} her friend." },
+        { "text": "We went to the supermarket {{to buy|to get}} some food." },
+        { "text": "He went to the bank {{to get|to take|to change}} some money." },
+        { "text": "They went to the park {{to play}} football." },
+        { "text": "I went to the library {{to borrow|to get|to take}} a book." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "to или for?",
+      "instruction": "Вставьте **to** или **for**.",
+      "items": [
+        { "text": "I went to the shop {{for}} some milk." },
+        { "text": "I went to the shop {{to}} buy some milk." },
+        { "text": "We need money {{for}} food." },
+        { "text": "She came here {{to}} study English." },
+        { "text": "Are you waiting {{for}} the bus?" },
+        { "text": "They're going to Italy {{for}} a holiday." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I'm calling ___ ask about the price.", "options": ["for", "to", "for to"], "answer": 1, "why": "Цель с глаголом — to." },
+        { "q": "He went to the shop ___ bread.", "options": ["to", "for", "for buy"], "answer": 1, "why": "Перед существительным — for." },
+        { "q": "I'm waiting ___ my friend.", "options": ["to", "for", "at"], "answer": 1, "why": "wait for + кто-то." },
+        { "q": "We need a pen ___ write a letter.", "options": ["for", "to", "that"], "answer": 1, "why": "Цель с глаголом — to." },
+        { "q": "Please wait for me ___ finish.", "options": ["to", "for to", "for"], "answer": 0, "why": "wait for + кто-то + to + глагол: wait for me to finish." },
+        { "q": "I haven't got time ___ cook today.", "options": ["for", "to", "of"], "answer": 1, "why": "time to + глагол." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Я жду автобус»?", "options": ["I wait the bus.", "I'm waiting for the bus.", "I'm waiting to the bus."], "answer": 1, "why": "wait for." },
+        { "q": "Как сказать «Я пошёл в магазин за хлебом»?", "options": ["I went to the shop for bread.", "I went to the shop to bread.", "I went to the shop for buy bread."], "answer": 0, "why": "for + существительное." },
+        { "q": "Как сказать «Я учу английский, чтобы найти работу»?", "options": ["I learn English for find a job.", "I learn English to find a job.", "I learn English for a find job."], "answer": 1, "why": "Цель с глаголом — to + глагол." },
+        { "q": "Как сказать «Я жду, пока она позвонит»?", "options": ["I'm waiting that she calls.", "I'm waiting for her to call.", "I'm waiting to her call."], "answer": 1, "why": "wait for + кто-то + to + глагол." },
+        { "q": "Как сказать «Нам нужны деньги на еду»?", "options": ["We need money for food.", "We need money to food.", "We need money for eat."], "answer": 0, "why": "for + существительное." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Напишите предложение: куда пошёл и зачем.",
+      "items": [
+        { "prompt": "(I / go / the market / buy / vegetables)", "answers": ["I went to the market to buy vegetables.", "I go to the market to buy vegetables.", "I'm going to the market to buy vegetables."] },
+        { "prompt": "(Tom / go / the station / meet / his sister)", "answers": ["Tom went to the station to meet his sister.", "Tom goes to the station to meet his sister.", "Tom is going to the station to meet his sister.", "Tom's going to the station to meet his sister."] },
+        { "prompt": "(we / need / money / buy / a car)", "answers": ["We need money to buy a car.", "We need some money to buy a car."] },
+        { "prompt": "(she / go / the chemist's / some medicine) — с for", "answers": ["She went to the chemist's for some medicine.", "She went to the chemist's for medicine.", "She goes to the chemist's for some medicine.", "She goes to the chemist's for medicine."] },
+        { "prompt": "(I / wait / Ben / call)", "answers": ["I'm waiting for Ben to call.", "I am waiting for Ben to call.", "I wait for Ben to call."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Why do you learn English?", "sample": "I learn English to travel and to talk to people." },
+        { "prompt": "Why do you go to the supermarket?", "sample": "I go to the supermarket to buy food." },
+        { "prompt": "What do you go to a café for?", "sample": "I go to a café for coffee." },
+        { "prompt": "What do you usually wait for in the morning?", "sample": "I usually wait for the bus." },
+        { "prompt": "Why did you go out last weekend?", "sample": "I went out to meet my friends." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": 14,
+  "title": "I was doing (past continuous) and I did (past simple)",
+  "summary": "Past simple — законченное действие целиком, past continuous — действие в процессе; часто длинное действие (**was doing**) прерывается коротким (**did**).",
+  "ru": "## Два прошедших времени — две разные картинки\n**Past simple (I did)** — действие **завершено**, мы видим его целиком от начала до конца.\n> We **played** tennis yesterday morning. — Мы играли в теннис вчера утром (и закончили).\n> Jack **read** a book yesterday. — Джек прочитал книгу вчера.\n> Did you **watch** the film last night? — Ты смотрел фильм вчера вечером?\n\n**Past continuous (I was doing)** — действие **шло в какой-то момент**, мы не знаем, когда оно закончилось.\n> At 10.30 we **were playing** tennis. — В 10.30 мы играли в теннис.\n> Jack **was reading** a book when the phone rang. — Джек читал книгу, когда зазвонил телефон.\n> It **wasn't raining** when I got up. — Когда я встала, дождя не было.\n\n## Когда они встречаются в одном предложении\nДлинное действие (continuous) шло, и тут **случилось** короткое (simple).\n> I **was walking** home when I **met** Lucy. — Я шла домой, когда встретила Люси.\n> Jenny **fell** asleep while she **was reading**. — Дженни уснула, пока читала.\n> It **was raining** when we **went** out. — Шёл дождь, когда мы вышли.\n\n## when и while\n- **when** + past simple (короткое действие): *when the phone **rang***\n- **while** + past continuous (долгое действие): *while she **was reading***\n> **When** the phone rang, Jack was reading. = Jack was reading **when** the phone rang.\n\n## Сравните\n> Jack **was reading** when the phone rang. (книга ещё не прочитана)\n> Jack **read** a book yesterday. (книга прочитана целиком)\n> I **was having** a shower when the phone rang. (душ ещё шёл)\n> I **had** a shower and went to bed. (закончил)\n\n## Типичные ошибки\n- ~~I walked home when I was meeting Lucy.~~ → I **was walking** home when I **met** Lucy.\n- ~~When the phone was ringing, Jack was reading.~~ → When the phone **rang**, ...\n- ~~While she read, she fell asleep.~~ → While she **was reading**, she fell asleep.\n- ~~I was seeing Tom yesterday.~~ → I **saw** Tom yesterday.",
+  "en": "## Two past tenses, two pictures\n**Past simple (I did)** — a **complete** action. We see it from beginning to end.\n> We **played** tennis yesterday morning.\n> Jack **read** a book yesterday.\n> Did you **watch** the film last night?\n\n**Past continuous (I was doing)** — an action **in progress** at a certain time. We don't know when it finished.\n> At 10.30 we **were playing** tennis.\n> Jack **was reading** a book when the phone rang.\n> It **wasn't raining** when I got up.\n\n## Using both in one sentence\nA longer action (continuous) was happening, and a shorter action (simple) **interrupted** it.\n> I **was walking** home when I **met** Lucy.\n> Jenny **fell** asleep while she **was reading**.\n> It **was raining** when we **went** out.\n\n## when and while\n- **when** + past simple: *when the phone **rang***\n- **while** + past continuous: *while she **was reading***\n> **When** the phone rang, Jack was reading. = Jack was reading **when** the phone rang.\n\n## Compare\n> Jack **was reading** when the phone rang. (he hadn't finished the book)\n> Jack **read** a book yesterday. (he finished it)\n> I **was having** a shower when the phone rang. (I was in the shower)\n> I **had** a shower and went to bed. (it's finished)\n\n## Common mistakes\n- ~~I walked home when I was meeting Lucy.~~ → I **was walking** home when I **met** Lucy.\n- ~~While she read, she fell asleep.~~ → While she **was reading**, she fell asleep.\n- ~~I was seeing Tom yesterday.~~ → I **saw** Tom yesterday.",
+  "structure": "## Сравнение форм\n| | Past simple | Past continuous |\n|---|---|---|\n| Утверждение | I worked. / He went. | I was working. / They were working. |\n| Отрицание | I didn't work. | I wasn't working. / We weren't working. |\n| Вопрос | Did you work? | Were you working? |\n| Краткий ответ | Yes, I did. / No, I didn't. | Yes, I was. / No, we weren't. |\n| Смысл | действие закончено | действие шло в момент в прошлом |\n\n## Формула «длинное + короткое»\n> **was / were + -ing** (длинное) + **when** + **past simple** (короткое)\n> I **was cooking** when the phone **rang**.\n> **While** + **was / were + -ing**, + **past simple**\n> **While** I **was cooking**, the phone **rang**.\n\n## when и while\n| Слово | После него | Пример |\n|---|---|---|\n| when | past simple (событие) | when the phone **rang** |\n| while | past continuous (процесс) | while I **was working** |\n\n## Что нельзя\n- глаголы-состояния (**know, like, want**) в continuous: ~~I was knowing~~ → I **knew**.\n- два коротких действия подряд — оба simple: He **opened** the door and **went** in.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Past simple или past continuous?",
+      "instruction": "Поставьте глагол в скобках в нужную форму.",
+      "items": [
+        { "text": "Carol {{broke}} her arm last week. It happened when she {{was painting}} her room.", "hint": "break / paint" },
+        { "text": "The train {{arrived}} at the station and Paula {{got}} off.", "hint": "arrive / get" },
+        { "text": "Yesterday Sue {{was walking}} along the road when she {{met}} Jim.", "hint": "walk / meet" },
+        { "text": "Two friends {{were waiting}} for her at the station.", "hint": "wait" },
+        { "text": "I {{was having}} a bath when the phone {{rang}}.", "hint": "have / ring" },
+        { "text": "We {{watched}} a film last night. It {{was}} very interesting.", "hint": "watch / be" },
+        { "text": "It {{was raining}} when we {{left}} the house.", "hint": "rain / leave" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "when или while?",
+      "instruction": "Вставьте **when** или **while**.",
+      "items": [
+        { "text": "Jack was reading {{when}} the phone rang." },
+        { "text": "Jenny fell asleep {{while|when}} she was reading." },
+        { "text": "I was walking home {{when}} it started to rain." },
+        { "text": "They arrived {{while|when}} we were having dinner." },
+        { "text": "{{When}} I saw Tom, he was waiting for a bus." },
+        { "text": "{{While|When}} we were playing football, it began to rain." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I ___ in the garden when it started to rain.", "options": ["worked", "was working", "were working"], "answer": 1, "why": "Процесс, который прервали → **was working**." },
+        { "q": "When I ___ home, my mother was cooking.", "options": ["arrived", "was arriving", "arrive"], "answer": 0, "why": "Короткое событие → past simple **arrived**." },
+        { "q": "What ___ you doing when I called?", "options": ["did", "was", "were"], "answer": 2, "why": "you → **were** doing." },
+        { "q": "She ___ the film last night. It was great.", "options": ["watched", "was watching", "were watching"], "answer": 0, "why": "Фильм посмотрен целиком → **watched**." },
+        { "q": "He ___ TV when the lights went out.", "options": ["watched", "was watching", "watching"], "answer": 1, "why": "Процесс в момент события → **was watching**." },
+        { "q": "We ___ tennis from 10 to 11.30.", "options": ["were playing", "played", "was playing"], "answer": 1, "why": "Законченное действие с началом и концом → **played**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант грамматически верный.",
+      "items": [
+        { "q": "«Он спал, когда я пришла»", "options": ["He slept when I came.", "He was sleeping when I came.", "He was sleeping when I was coming."], "answer": 1, "why": "Длинное действие + короткое: was sleeping + came." },
+        { "q": "«Я упала, пока бежала»", "options": ["I fell while I was running.", "I was falling while I ran.", "I fell when I was ran."], "answer": 0, "why": "while + was running; fell — короткое." },
+        { "q": "«Шёл дождь, когда мы вышли»", "options": ["It rained when we were going out.", "It was raining when we went out.", "It raining when we went out."], "answer": 1, "why": "Процесс (was raining) + событие (went out)." },
+        { "q": "«Мы видели Тома в парке»", "options": ["We were seeing Tom in the park.", "We saw Tom in the park.", "We seeing Tom in the park."], "answer": 1, "why": "Законченное событие → saw." },
+        { "q": "«Я не слушала, когда он говорил»", "options": ["I didn't listen when he was talking.", "I wasn't listening when he was talking.", "I wasn't listening when he talking."], "answer": 1, "why": "Два процесса в одно время: wasn't listening, was talking." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Закончите предложения",
+      "instruction": "Составьте предложение: длинное действие в past continuous, короткое в past simple.",
+      "items": [
+        { "prompt": "(I / have / a bath / when / the phone / ring)", "answers": ["I was having a bath when the phone rang."] },
+        { "prompt": "(we / walk / in the park / when / it / start / to rain)", "answers": ["We were walking in the park when it started to rain."] },
+        { "prompt": "(Tom / cook / dinner / when / the lights / go out)", "answers": ["Tom was cooking dinner when the lights went out."] },
+        { "prompt": "(she / fall / asleep / while / she / watch / TV)", "answers": ["She fell asleep while she was watching TV."] },
+        { "prompt": "(when / I / see / Anna / she / wait / for a bus)", "answers": ["When I saw Anna, she was waiting for a bus."] },
+        { "prompt": "(they / break / a window / while / they / play / football)", "answers": ["They broke a window while they were playing football."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Выберите past simple или past continuous.",
+      "items": [
+        { "prompt": "Я готовила ужин, когда позвонила мама.", "answers": ["I was cooking dinner when my mum phoned.", "I was cooking dinner when my mother phoned.", "I was cooking dinner when my mum called.", "I was cooking dinner when my mother called.", "I was cooking dinner when my mom called.", "I was cooking dinner when my mom phoned.", "I was cooking dinner when Mum phoned.", "I was cooking dinner when Mum called.", "I was cooking dinner when my mum rang.", "I was cooking dinner when my mother rang.", "I was cooking dinner when my mom rang."] },
+        { "prompt": "Вчера мы смотрели интересный фильм.", "answers": ["We watched an interesting film yesterday.", "Yesterday we watched an interesting film.", "We watched an interesting movie yesterday.", "Yesterday we watched an interesting movie.", "We watched a very interesting film yesterday."] },
+        { "prompt": "Шёл дождь, когда я вышла из дома.", "answers": ["It was raining when I left the house.", "It was raining when I left home.", "It was raining when I went out.", "It was raining when I left.", "It was raining when I went out of the house."] },
+        { "prompt": "Что ты делал, когда я позвонила?", "answers": ["What were you doing when I phoned?", "What were you doing when I called?", "What were you doing when I rang?"] },
+        { "prompt": "Он не смотрел телевизор в 8 часов.", "answers": ["He wasn't watching TV at 8.", "He wasn't watching TV at 8 o'clock.", "He wasn't watching TV at eight.", "He was not watching TV at 8.", "He was not watching TV at 8 o'clock.", "He was not watching TV at eight.", "He wasn't watching TV at eight o'clock.", "He was not watching TV at eight o'clock."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Составьте предложения о себе, используя when или while. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Что вы делали, когда вам вчера кто-то позвонил?", "sample": "I was cooking when my friend phoned." },
+        { "prompt": "Что вы делали вчера в 8 вечера?", "sample": "At 8 o'clock yesterday I was watching TV." },
+        { "prompt": "Что случилось, пока вы шли в школу или на работу?", "sample": "I saw an old friend while I was walking to work." },
+        { "prompt": "Что вы делали в прошлое воскресенье утром?", "sample": "Last Sunday I cleaned the flat and then I went shopping." },
+        { "prompt": "Какая была погода, когда вы вышли из дома сегодня?", "sample": "It was snowing when I left home." }
+      ]
+    }
+  ]
+}

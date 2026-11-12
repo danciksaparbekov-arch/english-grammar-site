@@ -1,0 +1,316 @@
+{
+  "id": 8,
+  "title": "I am doing and I do (present continuous and present simple)",
+  "summary": "Сравнение: **present continuous** — действие происходит сейчас, **present simple** — привычка или общий факт; глаголы like, want, know в continuous не используются.",
+  "ru": "## Две формы — два смысла\nВ русском обе ситуации звучат одинаково («Я работаю»), а в английском нужно выбрать.\n\n**Present continuous (am / is / are + -ing)** — **сейчас**, в момент речи.\n> Please be quiet. I'**m working**. — Тише, я (сейчас) работаю.\n> Tom **is having** a shower at the moment. — Том сейчас принимает душ.\n> Take an umbrella. It'**s raining**. — Возьми зонт. Идёт дождь.\n\n**Present simple (I do)** — **вообще**, всегда или регулярно.\n> I **work** every day from 9 to 5.30. — Я работаю каждый день с 9 до 5.30.\n> Tom **has** a shower every morning. — Том принимает душ каждое утро.\n> It **rains** a lot in winter. — Зимой часто идут дожди.\n\n## Сигнальные слова\n- **continuous**: now, at the moment, today, Look!, Listen!\n- **simple**: always, usually, often, sometimes, never, every day, at weekends\n\n## Сравните\n> Jim **plays** the guitar. (он умеет и часто играет) → Jim **is playing** the guitar now. (играет сейчас)\n> **Does** he play the guitar? — Yes, he does. · **Is** he playing the guitar? — No, he isn't.\n\n## Глаголы, которые не используем в continuous\nГлаголы состояния, чувств и мнений обычно стоят **только в present simple**:\n**like, love, hate, want, need, prefer, know, understand, remember, forget, believe, mean**\n> I'm tired. I **want** to go home. (не ~~I'm wanting~~)\n> Do you **know** that girl? — Yes, but I don't **remember** her name.\n> I don't **understand**. What do you **mean**?\n\n## Типичные ошибки\n- ~~Please be quiet. I work.~~ → I'**m working**.\n- ~~Tom has a shower now.~~ → Tom **is having** a shower now.\n- ~~I am liking this music.~~ → I **like** this music.\n- ~~I'm knowing the answer.~~ → I **know** the answer.\n- ~~What do you do now?~~ → What **are you doing** now?",
+  "en": "## Two forms, two meanings\n**Present continuous (am / is / are + -ing)** — something is happening **now**.\n> Please be quiet. I'**m working**.\n> Tom **is having** a shower at the moment.\n> Take an umbrella. It'**s raining**.\n\n**Present simple (I do)** — things that are true **in general**, or happen **always / regularly**.\n> I **work** every day from 9 to 5.30.\n> Tom **has** a shower every morning.\n> It **rains** a lot in winter.\n\n## Time words\n- **continuous**: now, at the moment, today, Look!, Listen!\n- **simple**: always, usually, often, sometimes, never, every day, at weekends\n\n## Compare\n> Jim **plays** the guitar. → Jim **is playing** the guitar now.\n> **Does** he play the guitar? — Yes, he does. · **Is** he playing the guitar? — No, he isn't.\n\n## Verbs we don't use in the continuous\nUse only the present simple with:\n**like, love, hate, want, need, prefer, know, understand, remember, forget, believe, mean**\n> I'm tired. I **want** to go home. (not ~~I'm wanting~~)\n> I don't **understand**. What do you **mean**?\n\n## Common mistakes\n- ~~Please be quiet. I work.~~ → I'**m working**.\n- ~~I am liking this music.~~ → I **like** this music.\n- ~~What do you do now?~~ → What **are you doing** now?",
+  "structure": "## Сравнение форм\n| | Present continuous | Present simple |\n|---|---|---|\n| Утверждение | I am working. | I work. / He works. |\n| Отрицание | I'm not working. / He isn't working. | I don't work. / He doesn't work. |\n| Вопрос | Are you working? | Do you work? / Does he work? |\n| Краткий ответ | Yes, I am. / No, he isn't. | Yes, I do. / No, he doesn't. |\n| Смысл | сейчас, в этот период | всегда, обычно, вообще |\n\n## Сигнальные слова\n| Continuous | Simple |\n|---|---|\n| now, at the moment, today, Look!, Listen! | always, usually, often, sometimes, never, every day |\n\n## Формулы\n> **am / is / are + -ing** → She **is reading** now.\n> **глагол (+ s с he/she/it)** → She **reads** every evening.\n\n## Глаголы только для present simple\n| Чувства | Мнения / знания | Потребности |\n|---|---|---|\n| like, love, hate, prefer | know, understand, remember, forget, believe, mean | want, need |\n\n> ~~I'm wanting a coffee.~~ → I **want** a coffee.\n> ~~She is knowing the answer.~~ → She **knows** the answer.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Сейчас или всегда?",
+      "instruction": "Поставьте глагол в скобках в present continuous или present simple.",
+      "items": [
+        {
+          "text": "Please be quiet. I {{am working|'m working}}.",
+          "hint": "work"
+        },
+        {
+          "text": "I {{work}} every day from nine to five.",
+          "hint": "work"
+        },
+        {
+          "text": "Tom {{is having|'s having}} a shower at the moment.",
+          "hint": "have"
+        },
+        {
+          "text": "Tom {{has}} a shower every morning.",
+          "hint": "have"
+        },
+        {
+          "text": "Look! It {{is raining|'s raining}}.",
+          "hint": "rain"
+        },
+        {
+          "text": "It {{rains}} a lot in winter here.",
+          "hint": "rain"
+        },
+        {
+          "text": "She {{doesn't watch|does not watch}} TV very often.",
+          "hint": "not / watch"
+        },
+        {
+          "text": "Why {{are}} you wearing a coat? It's not cold.",
+          "hint": "be"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Продолжите ответы",
+      "instruction": "Ответьте на вопросы про Джима (Jim играет на гитаре, но сейчас смотрит телевизор).",
+      "items": [
+        {
+          "text": "Does Jim play the guitar? — Yes, he {{does}}."
+        },
+        {
+          "text": "Is Jim playing the guitar now? — No, he {{isn't|is not}}."
+        },
+        {
+          "text": "Is Jim watching TV now? — Yes, he {{is}}."
+        },
+        {
+          "text": "Does Jim often watch TV? — Yes, he {{does}}."
+        },
+        {
+          "text": "Are you reading this now? — Yes, I {{am}}."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Continuous или simple?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "Listen! Somebody ___ at the door.",
+          "options": [
+            "knocks",
+            "is knocking",
+            "knocking"
+          ],
+          "answer": 1,
+          "why": "Listen! — действие сейчас → continuous."
+        },
+        {
+          "q": "My father ___ in a hospital.",
+          "options": [
+            "is working",
+            "work",
+            "works"
+          ],
+          "answer": 2,
+          "why": "Постоянная работа → present simple, he → works."
+        },
+        {
+          "q": "I ___ the answer. Can you help me?",
+          "options": [
+            "don't know",
+            "am not knowing",
+            "doesn't know"
+          ],
+          "answer": 0,
+          "why": "know — в continuous не используется."
+        },
+        {
+          "q": "What ___ at the moment?",
+          "options": [
+            "do you do",
+            "are you doing",
+            "you do"
+          ],
+          "answer": 1,
+          "why": "At the moment → continuous."
+        },
+        {
+          "q": "They ___ football every Saturday.",
+          "options": [
+            "play",
+            "are playing",
+            "plays"
+          ],
+          "answer": 0,
+          "why": "Every Saturday — регулярно → simple."
+        },
+        {
+          "q": "I ___ tea. Can I have coffee, please?",
+          "options": [
+            "don't like",
+            "am not liking",
+            "doesn't like"
+          ],
+          "answer": 0,
+          "why": "like — только simple."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите ошибку",
+      "instruction": "Выберите правильное предложение.",
+      "items": [
+        {
+          "q": "Как сказать «Я хочу пить»?",
+          "options": [
+            "I'm wanting a drink.",
+            "I want a drink.",
+            "I wants a drink."
+          ],
+          "answer": 1,
+          "why": "want — не используется в continuous."
+        },
+        {
+          "q": "Как сказать «Сейчас она спит»?",
+          "options": [
+            "She sleeps now.",
+            "She is sleeping now.",
+            "She sleeping now."
+          ],
+          "answer": 1,
+          "why": "Сейчас → is sleeping."
+        },
+        {
+          "q": "Как сказать «Он обычно ездит на автобусе»?",
+          "options": [
+            "He usually goes by bus.",
+            "He is usually going by bus.",
+            "He usually go by bus."
+          ],
+          "answer": 0,
+          "why": "Usually → simple, he → goes."
+        },
+        {
+          "q": "Как сказать «Я не понимаю»?",
+          "options": [
+            "I'm not understanding.",
+            "I don't understand.",
+            "I not understand."
+          ],
+          "answer": 1,
+          "why": "understand — только simple."
+        },
+        {
+          "q": "Как спросить «Ты знаешь эту девушку?»",
+          "options": [
+            "Are you knowing that girl?",
+            "Do you know that girl?",
+            "Does you know that girl?"
+          ],
+          "answer": 1,
+          "why": "know — только simple; you → do."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Ответьте на вопросы",
+      "instruction": "Эльза работает в кафе, и прямо сейчас она готовит кофе. Ответьте кратко на вопросы.",
+      "items": [
+        {
+          "prompt": "Does Elsa work in a café? (Yes, ...)",
+          "answers": [
+            "Yes, she does."
+          ]
+        },
+        {
+          "prompt": "Is Elsa making coffee now? (Yes, ...)",
+          "answers": [
+            "Yes, she is."
+          ]
+        },
+        {
+          "prompt": "Is Elsa cleaning a window now? (No, ...)",
+          "answers": [
+            "No, she isn't.",
+            "No, she's not.",
+            "No, she is not."
+          ]
+        },
+        {
+          "prompt": "Does Elsa clean windows? (No, ...)",
+          "answers": [
+            "No, she doesn't.",
+            "No, she does not."
+          ]
+        },
+        {
+          "prompt": "What is Elsa doing now? (make / coffee)",
+          "answers": [
+            "She's making coffee.",
+            "She is making coffee."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Выберите present simple или present continuous.",
+      "items": [
+        {
+          "prompt": "Он сейчас принимает душ.",
+          "answers": [
+            "He is having a shower now.",
+            "He's having a shower now.",
+            "He is having a shower.",
+            "He's having a shower.",
+            "Now he is having a shower.",
+            "Now he's having a shower."
+          ]
+        },
+        {
+          "prompt": "Она принимает душ каждое утро.",
+          "answers": [
+            "She has a shower every morning.",
+            "She has a shower every day in the morning."
+          ]
+        },
+        {
+          "prompt": "Я не понимаю этот вопрос.",
+          "answers": [
+            "I don't understand this question.",
+            "I do not understand this question.",
+            "I don't understand the question.",
+            "I do not understand the question."
+          ]
+        },
+        {
+          "prompt": "Что ты делаешь?",
+          "answers": [
+            "What are you doing?"
+          ]
+        },
+        {
+          "prompt": "Мои родители живут в Ташкенте.",
+          "answers": [
+            "My parents live in Tashkent."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Что вы делаете прямо сейчас?",
+          "sample": "I'm doing an English exercise."
+        },
+        {
+          "prompt": "Что вы делаете каждое утро?",
+          "sample": "I drink tea and go to work every morning."
+        },
+        {
+          "prompt": "Какая сегодня погода? (use: It's ...)",
+          "sample": "It's cloudy today."
+        },
+        {
+          "prompt": "Что вы любите? (use: I like ...)",
+          "sample": "I like music and cooking."
+        },
+        {
+          "prompt": "Что вы не понимаете в английском? (use: I don't understand ...)",
+          "sample": "I don't understand some prepositions."
+        }
+      ]
+    }
+  ]
+}

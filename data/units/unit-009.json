@@ -1,0 +1,106 @@
+{
+  "id": 9,
+  "title": "I have ... / I've got ...",
+  "summary": "Обладание и характеристики: **I have = I've got** («у меня есть»). Две формы значат одно и то же, но строятся по-разному в отрицании и вопросе.",
+  "ru": "## Две формы — одно значение\nЧтобы сказать «у меня есть», в английском есть два способа: **have** и **have got**.\n> I **have** blue eyes. = I'**ve got** blue eyes. — У меня голубые глаза.\n> Tim **has** two sisters. = Tim **has got** two sisters. — У Тима две сестры.\n> Our car **has** four doors. = Our car **has got** four doors.\n\n## Какая форма с каким подлежащим\n- **I / we / you / they**: **have** или **have got** (краткая: **I've got, we've got, you've got, they've got**)\n- **he / she / it**: **has** или **has got** (краткая: **he's got, she's got, it's got**)\n> Diane isn't well. She'**s got** a headache. — Дайана плохо себя чувствует. У неё болит голова.\n> They like animals. They'**ve got** a horse and three dogs. — Они любят животных. У них лошадь и три собаки.\n\n## Отрицание и вопрос с have got\nВспомогательный глагол — сам **have / has**:\n> I **haven't got** a car. — У меня нет машины.\n> It **hasn't got** a garden. — У него нет сада.\n> **Have** you **got** a camera? — У тебя есть камера?\n> **Has** Ann **got** a car? — У Анны есть машина?\n> What **have** you **got** in your bag? — Что у тебя в сумке?\n\n## Краткие ответы\n> Have you got a camera? — **Yes, I have.** / **No, I haven't.**\n> Has Ann got a car? — **Yes, she has.** / **No, she hasn't.**\nПосле **Yes** краткую форму не используем: не ~~Yes, I've.~~\n\n## Отрицание и вопрос с have (вариант do)\nС **have** (без got) используем **do / does**:\n> They **don't have** any children. (= haven't got)\n> It **doesn't have** a garden. (= hasn't got)\n> **Does** Ann **have** a car? (= Has Ann got a car?)\n> How much money **do** you **have**? (= have you got)\n\n## Типичные ошибки\n- ~~Do you have got a car?~~ → **Have** you got a car? **или** **Do** you **have** a car?\n- ~~She haven't got a car.~~ → She **hasn't** got a car.\n- ~~He has got not a camera.~~ → He **hasn't got** a camera.\n- ~~Yes, I've.~~ → Yes, I **have**.",
+  "en": "## Two ways to say the same thing\nWe use **have** or **have got** to talk about what people own, their family, and how they look or feel.\n> I **have** blue eyes. = I'**ve got** blue eyes.\n> Tim **has** two sisters. = Tim **has got** two sisters.\n> Our car **has** four doors. = Our car **has got** four doors.\n\n## Which form?\n- **I / we / you / they**: **have** or **have got** (short: **I've got, we've got, you've got, they've got**)\n- **he / she / it**: **has** or **has got** (short: **he's got, she's got, it's got**)\n> Diane isn't well. She'**s got** a headache.\n> They like animals. They'**ve got** a horse and three dogs.\n\n## Negative and question with have got\nThe helper is **have / has** itself:\n> I **haven't got** a car.\n> It **hasn't got** a garden.\n> **Have** you **got** a camera?\n> **Has** Ann **got** a car?\n> What **have** you **got** in your bag?\n\n## Short answers\n> Have you got a camera? — **Yes, I have.** / **No, I haven't.**\n> Has Ann got a car? — **Yes, she has.** / **No, she hasn't.**\nNot ~~Yes, I've.~~\n\n## With do / does\nWith **have** (no got) we use **do / does**:\n> They **don't have** any children. (= haven't got)\n> It **doesn't have** a garden. (= hasn't got)\n> **Does** Ann **have** a car? (= Has Ann got a car?)\n\n## Common mistakes\n- ~~Do you have got a car?~~ → **Have** you got a car? **or** **Do** you **have** a car?\n- ~~She haven't got a car.~~ → She **hasn't** got a car.\n- ~~Yes, I've.~~ → Yes, I **have**.",
+  "structure": "## Утверждение\n| Подлежащее | have / have got | Краткая форма |\n|---|---|---|\n| I / we / you / they | have = have got | I've got, we've got, you've got, they've got |\n| he / she / it | has = has got | he's got, she's got, it's got |\n\n## Отрицание\n| Подлежащее | have got | have (с do) |\n|---|---|---|\n| I / we / you / they | haven't got | don't have |\n| he / she / it | hasn't got | doesn't have |\n\n## Вопрос\n| Подлежащее | have got | have (с do) |\n|---|---|---|\n| I / we / you / they | **Have** you got a pen? | **Do** you have a pen? |\n| he / she / it | **Has** she got a pen? | **Does** she have a pen? |\n\n## Краткие ответы\n| | Да | Нет |\n|---|---|---|\n| Have I / we / you / they got ...? | Yes, I / we / you / they have. | No, I / we / you / they haven't. |\n| Has he / she / it got ...? | Yes, he / she / it has. | No, he / she / it hasn't. |\n\n## Формула\n> Подлежащее + **have got / has got** + что-то\n> She **has got** a bike. · They **haven't got** a car. · **Have** you **got** a pen?\n\n## Важно\n- got здесь **не** значит «получил» — это часть формы «у меня есть».\n- **have got** используем для обладания; для действий (have breakfast, have a shower) — только **have** (см. unit 57).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Краткие формы",
+      "instruction": "Напишите краткую форму (**we've got**, **he hasn't got** и т. д.).",
+      "example": "she has got → **she's got**",
+      "items": [
+        { "text": "we have got → {{we've got}}" },
+        { "text": "he has got → {{he's got}}" },
+        { "text": "they have got → {{they've got}}" },
+        { "text": "she has not got → {{she hasn't got|she's not got}}" },
+        { "text": "it has got → {{it's got}}" },
+        { "text": "I have not got → {{I haven't got|I've not got}}" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "have got: утверждение, отрицание, вопрос",
+      "instruction": "Вставьте **have / has / haven't / hasn't** в нужную форму.",
+      "items": [
+        { "text": "I {{have|'ve}} got a brother, but I {{haven't|have not}} got a sister." },
+        { "text": "{{Have}} you got a passport? — Yes, I {{have}}." },
+        { "text": "Tina {{has|'s}} got long hair." },
+        { "text": "It's a nice flat, but it {{hasn't|has not}} got a balcony." },
+        { "text": "{{Has}} your father got a car? — No, he {{hasn't|has not}}." },
+        { "text": "We {{haven't|have not}} got any milk. Let's go to the shop." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "My sister ___ got two cats.", "options": ["have", "has", "is"], "answer": 1, "why": "my sister = she → **has got**." },
+        { "q": "They ___ got a big house.", "options": ["has", "haven't", "doesn't"], "answer": 1, "why": "they → **haven't got**." },
+        { "q": "___ you got a pen?", "options": ["Do", "Have", "Has"], "answer": 1, "why": "you → **Have** you got ...?" },
+        { "q": "___ Tom got a bike?", "options": ["Have", "Does", "Has"], "answer": 2, "why": "Tom = he → **Has** Tom got ...?" },
+        { "q": "She ___ a car. She goes by bus.", "options": ["hasn't got", "haven't got", "doesn't has"], "answer": 0, "why": "she → **hasn't got**." },
+        { "q": "Does your brother ___ a girlfriend?", "options": ["has", "have", "got"], "answer": 1, "why": "После does — **have**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите краткий ответ",
+      "instruction": "Выберите правильный краткий ответ.",
+      "items": [
+        { "q": "Have you got a pen? — Yes, ___.", "options": ["I've", "I have", "I do"], "answer": 1, "why": "**Yes, I have.**" },
+        { "q": "Has she got a car? — No, ___.", "options": ["she hasn't", "she haven't", "she doesn't"], "answer": 0, "why": "**No, she hasn't.**" },
+        { "q": "Do you have a sister? — Yes, ___.", "options": ["I have", "I do", "I'm"], "answer": 1, "why": "Вопрос с do → **Yes, I do.**" },
+        { "q": "Have they got any children? — No, ___.", "options": ["they haven't", "they hasn't", "they don't got"], "answer": 0, "why": "they → **haven't**." },
+        { "q": "Does he have a laptop? — No, ___.", "options": ["he hasn't", "he doesn't", "he haven't"], "answer": 1, "why": "Вопрос с does → **No, he doesn't.**" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте вопросы",
+      "instruction": "Составьте вопрос с **have got**.",
+      "items": [
+        { "prompt": "(you / an umbrella?)", "answers": ["Have you got an umbrella?"] },
+        { "prompt": "(your father / a car?)", "answers": ["Has your father got a car?"] },
+        { "prompt": "(Carol / many friends?)", "answers": ["Has Carol got many friends?"] },
+        { "prompt": "(you / any brothers or sisters?)", "answers": ["Have you got any brothers or sisters?"] },
+        { "prompt": "(how much money / we?)", "answers": ["How much money have we got?"] },
+        { "prompt": "(what / you / in your bag?)", "answers": ["What have you got in your bag?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **have got** или **have**.",
+      "items": [
+        { "prompt": "У меня есть брат.", "answers": ["I've got a brother.", "I have got a brother.", "I have a brother."] },
+        { "prompt": "У неё нет машины.", "answers": ["She hasn't got a car.", "She has not got a car.", "She doesn't have a car.", "She does not have a car.", "She's not got a car."] },
+        { "prompt": "У вас есть время?", "answers": ["Have you got time?", "Have you got any time?", "Have you got the time?", "Do you have time?", "Do you have any time?", "Have you got a minute?"] },
+        { "prompt": "У моего друга голубые глаза.", "answers": ["My friend has got blue eyes.", "My friend has blue eyes.", "My friend's got blue eyes."] },
+        { "prompt": "У нас нет денег.", "answers": ["We haven't got any money.", "We haven't got money.", "We don't have any money.", "We don't have money.", "We have no money.", "We've got no money."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Напишите о себе",
+      "instruction": "Напишите о себе, используя **I've got / I haven't got**. Проверьте по образцу.",
+      "items": [
+        { "prompt": "a camera", "sample": "I've got a camera." },
+        { "prompt": "a bicycle", "sample": "I haven't got a bicycle." },
+        { "prompt": "brothers or sisters", "sample": "I've got one brother and two sisters." },
+        { "prompt": "long hair", "sample": "I haven't got long hair. I've got short hair." },
+        { "prompt": "What have you got in your bag?", "sample": "I've got a phone, a notebook and keys." }
+      ]
+    }
+  ]
+}

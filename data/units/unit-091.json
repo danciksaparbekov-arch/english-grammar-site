@@ -1,0 +1,306 @@
+{
+  "id": 91,
+  "title": "too",
+  "summary": "Слово **too** («слишком»): **too hot**, **too much**, **too many**, **too ... to** — когда чего-то больше, чем нужно.",
+  "ru": "## too = «слишком»\n**Too** значит «больше, чем нужно» — и это обычно плохо.\n> It's **too hot** to work. — Слишком жарко, чтобы работать.\n> This bag is **too heavy**. — Эта сумка слишком тяжёлая.\n\n## too + прилагательное / наречие\n> Don't buy that dress. It's **too expensive**. — Не покупай это платье. Оно слишком дорогое.\n> You're driving **too fast**. — Ты едешь слишком быстро.\n> Запомните: **too** не значит «очень». Очень = **very**.\n> It's **very** nice. (хорошо) — It's **too** hot. (плохо)\n\n## too much / too many\n- **too much** + неисчисляемое: **too much** sugar, **too much** noise, **too much** work\n- **too many** + исчисляемое во множественном числе: **too many** people, **too many** cars\n> There's **too much** traffic. — Слишком много машин на дороге.\n> I've got **too many** things to do. — У меня слишком много дел.\n\n## too ... to ...\nПосле **too + прилагательное** часто идёт **to + глагол** — «слишком …, чтобы …».\n> It's **too late to** call him. — Слишком поздно, чтобы ему звонить.\n> She's **too tired to** walk. — Она слишком устала, чтобы идти.\nЕсли речь о конкретном человеке: **too ... for somebody to ...**\n> The bag is **too heavy for me to** carry. — Сумка слишком тяжёлая, чтобы я её понесла.\nМожно и коротко: **too ... for me**.\n> This coat is **too big for me**. — Это пальто мне слишком велико.\n\n## too и not enough\nОдну и ту же мысль можно сказать двумя способами.\n> It's **too cold** to swim. = It **isn't warm enough** to swim.\n> The room is **too small**. = It **isn't big enough**.\n\n## Типичные ошибки\n- ~~too much people~~ → **too many** people\n- ~~too many money~~ → **too much** money\n- ~~too much hot~~ → **too hot**\n- ~~too tired for walk~~ → too tired **to walk**\n- ~~I'm too happy to see you~~ → I'm **very** happy to see you (если это хорошо, а не проблема)",
+  "en": "## What does too mean?\n**Too** means «more than we want or need». It is usually a problem.\n> It's **too hot** to work.\n> This bag is **too heavy**.\n\n## too + adjective / adverb\n> Don't buy that dress. It's **too expensive**.\n> You're driving **too fast**.\n**Too** is not the same as **very**. It's **very** nice (good). It's **too** hot (bad).\n\n## too much / too many\n- **too much** + uncountable noun: **too much** sugar, **too much** noise\n- **too many** + plural noun: **too many** people, **too many** cars\n> There's **too much** traffic.\n> I've got **too many** things to do.\n\n## too ... to ...\nAfter **too + adjective** we often use **to + verb**.\n> It's **too late to** call him.\n> She's **too tired to** walk.\nTo say who: **too ... for somebody to ...**\n> The bag is **too heavy for me to** carry.\nWe can also say: **too ... for me**.\n> This coat is **too big for me**.\n\n## too and not enough\n> It's **too cold** to swim. = It **isn't warm enough** to swim.\n> The room is **too small**. = It **isn't big enough**.\n\n## Common mistakes\n- ~~too much people~~ → **too many** people\n- ~~too many money~~ → **too much** money\n- ~~too tired for walk~~ → too tired **to walk**",
+  "structure": "## Формулы\n| Конструкция | Пример |\n|---|---|\n| **too** + adjective | It's **too noisy**. |\n| **too** + adverb | He speaks **too fast**. |\n| **too much** + uncountable | **too much** coffee |\n| **too many** + plural | **too many** mistakes |\n| **too** + adjective + **to** + verb | **too tired to** think |\n| **too** + adjective + **for** + person | **too big for** me |\n| **too** + adjective + for + person + **to** + verb | **too difficult for** me **to** understand |\n\n## too vs enough\n| too | not enough |\n|---|---|\n| The tea is **too hot**. | The tea **isn't cool enough**. |\n| It's **too small**. | It **isn't big enough**. |\n| It's **too far** to walk. | It **isn't near enough** to walk. |\n\n## Важно\n- **too** ставим **перед** прилагательным: too cold\n- **enough** ставим **после** прилагательного: cold enough\n- **too** нельзя ставить в конец позитивного ответа вместо **very**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "too + прилагательное",
+      "instruction": "Вставьте **too** и прилагательное из списка: cold, expensive, heavy, tired, late, small.",
+      "example": "I can't carry this bag. It's **too heavy**.",
+      "items": [
+        {
+          "text": "Let's not go swimming. The water is {{too cold}}.",
+          "hint": "cold"
+        },
+        {
+          "text": "I can't buy those shoes. They're {{too expensive}}.",
+          "hint": "expensive"
+        },
+        {
+          "text": "He can't lift the box. It's {{too heavy}}.",
+          "hint": "heavy"
+        },
+        {
+          "text": "I'm going to bed. I'm {{too tired}}.",
+          "hint": "tired"
+        },
+        {
+          "text": "Don't phone her now. It's {{too late}}.",
+          "hint": "late"
+        },
+        {
+          "text": "We can't live here. The flat is {{too small}}.",
+          "hint": "small"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "too much или too many?",
+      "instruction": "Вставьте **too much** или **too many**.",
+      "items": [
+        {
+          "text": "There are {{too many}} people in this room."
+        },
+        {
+          "text": "I can't sleep. There's {{too much}} noise."
+        },
+        {
+          "text": "You eat {{too much}} sugar."
+        },
+        {
+          "text": "She makes {{too many}} mistakes."
+        },
+        {
+          "text": "We've got {{too much}} work today."
+        },
+        {
+          "text": "There are {{too many}} cars in the city centre."
+        },
+        {
+          "text": "I drank {{too much}} coffee yesterday."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "too, very или enough?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I like this flat. It's ___ nice.",
+          "options": [
+            "very",
+            "too",
+            "enough"
+          ],
+          "answer": 0,
+          "why": "Нам нравится — значит **very**, а не too."
+        },
+        {
+          "q": "The soup is ___ hot. I can't eat it.",
+          "options": [
+            "very",
+            "too",
+            "enough"
+          ],
+          "answer": 1,
+          "why": "Нельзя есть — слишком: **too**."
+        },
+        {
+          "q": "The coat is ___ small for me.",
+          "options": [
+            "too",
+            "too much",
+            "enough"
+          ],
+          "answer": 0,
+          "why": "**too** + прилагательное."
+        },
+        {
+          "q": "He's ___ young to drive a car.",
+          "options": [
+            "too much",
+            "too",
+            "enough"
+          ],
+          "answer": 1,
+          "why": "**too young to** drive."
+        },
+        {
+          "q": "It's late. We're ___ tired to go out.",
+          "options": [
+            "too",
+            "very much",
+            "enough"
+          ],
+          "answer": 0,
+          "why": "**too tired to** go out."
+        },
+        {
+          "q": "There are ___ books on this shelf. It's going to fall!",
+          "options": [
+            "too much",
+            "too many",
+            "too"
+          ],
+          "answer": 1,
+          "why": "books — исчисляемое во множественном числе → **too many**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Слишком много людей»?",
+          "options": [
+            "Too many people.",
+            "Too much people.",
+            "Too many peoples."
+          ],
+          "answer": 0,
+          "why": "people — множественное число → **too many**."
+        },
+        {
+          "q": "Как сказать «Слишком много денег»?",
+          "options": [
+            "Too many money.",
+            "Too much money.",
+            "Much too money."
+          ],
+          "answer": 1,
+          "why": "money — неисчисляемое → **too much**."
+        },
+        {
+          "q": "Как сказать «Слишком жарко, чтобы работать»?",
+          "options": [
+            "It's too hot to work.",
+            "It's too hot for work.",
+            "It's too much hot to work."
+          ],
+          "answer": 0,
+          "why": "too + adjective + **to** + verb."
+        },
+        {
+          "q": "Как сказать «Это слишком трудно для меня»?",
+          "options": [
+            "It's too difficult for me.",
+            "It's too difficult to me.",
+            "It's too much difficult for me."
+          ],
+          "answer": 0,
+          "why": "too + adjective + **for** + me."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Перепишите предложения с too",
+      "instruction": "Перепишите предложение с **too**.",
+      "example": "The tea isn't cool enough. → The tea is too hot.",
+      "items": [
+        {
+          "prompt": "The room isn't big enough.",
+          "answers": [
+            "The room is too small.",
+            "The room's too small."
+          ]
+        },
+        {
+          "prompt": "The bag isn't light enough.",
+          "answers": [
+            "The bag is too heavy.",
+            "The bag's too heavy."
+          ]
+        },
+        {
+          "prompt": "The water isn't warm enough.",
+          "answers": [
+            "The water is too cold.",
+            "The water's too cold."
+          ]
+        },
+        {
+          "prompt": "The film isn't short enough.",
+          "answers": [
+            "The film is too long.",
+            "The film's too long."
+          ]
+        },
+        {
+          "prompt": "He isn't old enough to drive.",
+          "answers": [
+            "He is too young to drive.",
+            "He's too young to drive."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **too**.",
+      "items": [
+        {
+          "prompt": "Это слишком дорого для меня.",
+          "answers": [
+            "It's too expensive for me.",
+            "It is too expensive for me.",
+            "This is too expensive for me.",
+            "That's too expensive for me."
+          ]
+        },
+        {
+          "prompt": "Здесь слишком много шума.",
+          "answers": [
+            "There's too much noise here.",
+            "There is too much noise here.",
+            "There's too much noise in here.",
+            "There is too much noise in here."
+          ]
+        },
+        {
+          "prompt": "Слишком поздно, чтобы идти в кино.",
+          "answers": [
+            "It's too late to go to the cinema.",
+            "It is too late to go to the cinema.",
+            "It's too late to go to the movies.",
+            "It is too late to go to the movies."
+          ]
+        },
+        {
+          "prompt": "У меня слишком много друзей на работе.",
+          "answers": [
+            "I have too many friends at work.",
+            "I've got too many friends at work."
+          ]
+        },
+        {
+          "prompt": "Эта сумка слишком тяжёлая, чтобы я её нёс.",
+          "answers": [
+            "This bag is too heavy for me to carry.",
+            "The bag is too heavy for me to carry.",
+            "This bag is too heavy to carry."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте **too**.",
+      "items": [
+        {
+          "prompt": "Что для вас слишком дорого?",
+          "sample": "Big houses are too expensive for me."
+        },
+        {
+          "prompt": "Сколько вы работаете или учитесь? Слишком много?",
+          "sample": "I have too much work this week."
+        },
+        {
+          "prompt": "Что вы не делаете, потому что слишком устали?",
+          "sample": "I'm too tired to go to the gym after work."
+        },
+        {
+          "prompt": "Погода в вашем городе летом/зимой.",
+          "sample": "It's too hot in summer to walk outside."
+        }
+      ]
+    }
+  ]
+}

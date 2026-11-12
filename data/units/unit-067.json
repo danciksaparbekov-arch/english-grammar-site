@@ -1,0 +1,350 @@
+{
+  "id": 67,
+  "title": "a car / some money (countable/uncountable 2)",
+  "summary": "**a/an** и **some**; слова, которые бывают и исчисляемыми, и неисчисляемыми; слова, которые в английском неисчисляемые (**information, advice, news, bread, hair, furniture, work**).",
+  "ru": "## a / an и some\nВыбор зависит от типа существительного:\n- **a / an** + исчисляемое в единственном числе: *I need **a** new car. Would you like **an** apple?*\n- **some** + исчисляемое во множественном числе: *I need **some** new shoes. Would you like **some** apples?*\n- **some** + неисчисляемое: *I need **some** money. Would you like **some** cheese?*\n> Linda bought **a** hat, **some** shoes and **some** perfume. — Линда купила шляпу, туфли и духи.\n\n## some — «немного, несколько»\n**some** означает «какое-то количество», когда мы не уточняем сколько. Часто в утверждениях и в предложениях-предложениях (*Would you like some tea?*).\n\n## Одно слово — два значения\nНекоторые слова бывают и исчисляемыми, и неисчисляемыми — смысл разный.\n> I want something to read. I'm going to buy **a paper** (= a newspaper). — газета\n> I need to make a list. I need **some paper** / **a piece of paper**. — бумага\n> There's **a hair** in my soup. — волосок / She has long **hair**. — волосы\n\n## Слова-ловушки: неисчисляемые в английском\nЭти слова по-русски можно посчитать, а по-английски — **нет**: **information, advice, news, weather, bread, hair, furniture, work**. Нет **a** и нет **-s**.\n> I need **some information** about hotels. (не ~~an information~~, ~~informations~~)\n> It's **nice weather** today. (не ~~a nice weather~~)\n> I've just had **some good news**. (не ~~a good news~~)\n> I'm going to buy **some bread**. (не ~~a bread~~)\n> Sue has got very long **hair**. (не ~~hairs~~)\n> They've got **some nice furniture**. (не ~~furnitures~~)\n> It's **hard work**. (не ~~a hard work~~)\n\n## Как посчитать\n- **a piece of** information / advice / news / furniture / bread\n- **a loaf of** bread, **a slice of** bread\n\n## Глагол\nС неисчисляемыми глагол в единственном числе: *The news **is** good. The weather **is** nice.*\n\n## Типичные ошибки\n- ~~I need an advice.~~ → I need **some advice**. / **a piece of advice**.\n- ~~It's a nice weather.~~ → It's **nice weather**.\n- ~~The news are bad.~~ → The news **is** bad.\n- ~~I like my work, but it's a hard work.~~ → but it's **hard work**.",
+  "en": "## a / an and some\n- **a / an** + singular countable noun: *I need **a** new car. Would you like **an** apple?*\n- **some** + plural countable noun: *I need **some** new shoes.*\n- **some** + uncountable noun: *I need **some** money. Would you like **some** cheese?*\n> Linda bought **a** hat, **some** shoes and **some** perfume.\n\n## Both countable and uncountable\nSome nouns can be both, with different meanings.\n> I'm going to buy **a paper** (= a newspaper).\n> I need **some paper** to write on.\n\n## Words that are uncountable in English\n**information, advice, news, weather, bread, hair, furniture, work** are uncountable. We don't use **a / an** or **-s** with them.\n> I need **some information** about hotels. (not ~~an information~~)\n> It's **nice weather** today. (not ~~a nice weather~~)\n> I've just had **some good news**. (not ~~a good news~~)\n> I'm going to buy **some bread**.\n> Sue has got very long **hair**.\n> They've got **some nice furniture**.\n> It's **hard work**.\n\n## How to count them\n**a piece of** information / advice / news / furniture, **a loaf of** bread, **a slice of** bread.\n\n## Verb\nWith uncountable nouns the verb is singular: *The news **is** good.*\n\n## Common mistakes\n- ~~I need an advice.~~ → I need **some advice**.\n- ~~It's a nice weather.~~ → It's **nice weather**.\n- ~~The news are bad.~~ → The news **is** bad.",
+  "structure": "## a, an, some\n| Существительное | Что ставим | Пример |\n|---|---|---|\n| исчисляемое, ед. ч. | a / an | a car, an apple |\n| исчисляемое, мн. ч. | some | some cars, some apples |\n| неисчисляемое | some | some money, some cheese |\n\n## Ловушки\n| Нельзя | Можно |\n|---|---|\n| ~~an information~~ | some information / a piece of information |\n| ~~informations~~ | some information |\n| ~~an advice~~ | some advice / a piece of advice |\n| ~~a good news~~ | some good news / a piece of news |\n| ~~a bread~~ | some bread / a loaf of bread |\n| ~~hairs~~ (волосы) | hair |\n| ~~furnitures~~ | furniture |\n| ~~a hard work~~ | hard work |\n| ~~a nice weather~~ | nice weather |\n\n## Слова с двумя значениями\n> a paper (газета) / some paper (бумага)\n> a hair (волосок) / hair (волосы)",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "a, an или some?",
+      "instruction": "Вставьте **a / an** или **some**.",
+      "example": "She bought a hat and __ perfume. → **some** perfume",
+      "items": [
+        {
+          "text": "I want to buy {{some}} bread."
+        },
+        {
+          "text": "She bought {{a}} hat and {{some}} shoes."
+        },
+        {
+          "text": "I need {{some}} money for the bus."
+        },
+        {
+          "text": "He is reading {{a}} newspaper."
+        },
+        {
+          "text": "Do you want {{an}} orange?"
+        },
+        {
+          "text": "I read {{a}} magazine and wrote {{some}} letters."
+        },
+        {
+          "text": "She is listening to {{some}} music."
+        },
+        {
+          "text": "Can I have {{some}} water, please?"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Слова-ловушки",
+      "instruction": "Вставьте **some** или слово из подсказки.",
+      "items": [
+        {
+          "text": "I need {{some}} information about trains."
+        },
+        {
+          "text": "He gave me {{some}} advice about my job."
+        },
+        {
+          "text": "I've got {{some}} good news for you."
+        },
+        {
+          "text": "They've got {{some}} nice furniture."
+        },
+        {
+          "text": "She has long {{hair}}.",
+          "hint": "hair / hairs"
+        },
+        {
+          "text": "It's {{hard}} work.",
+          "hint": "hard / a hard"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "is или are?",
+      "instruction": "Вставьте **is** или **are**.",
+      "items": [
+        {
+          "text": "The news {{is}} good today."
+        },
+        {
+          "text": "The furniture {{is}} very old."
+        },
+        {
+          "text": "Where {{is}} the bread?"
+        },
+        {
+          "text": "My shoes {{are}} dirty."
+        },
+        {
+          "text": "The weather {{is}} terrible."
+        },
+        {
+          "text": "Your advice {{is}} very useful."
+        },
+        {
+          "text": "Her hair {{is}} long."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите слово",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I need ___ about hotels in London.",
+          "options": [
+            "an information",
+            "some information",
+            "informations"
+          ],
+          "answer": 1,
+          "why": "information — неисчисляемое → **some information**."
+        },
+        {
+          "q": "It's ___ today.",
+          "options": [
+            "a nice weather",
+            "nice weather",
+            "nice weathers"
+          ],
+          "answer": 1,
+          "why": "weather — неисчисляемое."
+        },
+        {
+          "q": "I've just heard ___.",
+          "options": [
+            "a good news",
+            "some good news",
+            "good newses"
+          ],
+          "answer": 1,
+          "why": "news — неисчисляемое → **some good news**."
+        },
+        {
+          "q": "She has very ___ hair.",
+          "options": [
+            "a long",
+            "long",
+            "longs"
+          ],
+          "answer": 1,
+          "why": "hair — неисчисляемое, без a."
+        },
+        {
+          "q": "Can you give me ___?",
+          "options": [
+            "an advice",
+            "some advice",
+            "advices"
+          ],
+          "answer": 1,
+          "why": "advice — неисчисляемое → **some advice**."
+        },
+        {
+          "q": "They've got ___ in their house.",
+          "options": [
+            "some nice furniture",
+            "a nice furniture",
+            "some nice furnitures"
+          ],
+          "answer": 0,
+          "why": "furniture — неисчисляемое."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Правильное предложение",
+      "instruction": "Верно только одно.",
+      "items": [
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "It's a hard work.",
+            "It's hard work.",
+            "It's hard works."
+          ],
+          "answer": 1,
+          "why": "work — неисчисляемое."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I want a paper to write on.",
+            "I want some paper to write on.",
+            "I want papers to write on."
+          ],
+          "answer": 1,
+          "why": "Бумага — неисчисляемое → **some paper**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "There is a hair on my coat.",
+            "There are hair on my coat.",
+            "There is hair on my coats."
+          ],
+          "answer": 0,
+          "why": "Один волосок → **a hair**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "The news is great!",
+            "The news are great!",
+            "The newses are great!"
+          ],
+          "answer": 0,
+          "why": "news — ед. число → **is**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I'm going to buy some breads.",
+            "I'm going to buy a bread.",
+            "I'm going to buy some bread."
+          ],
+          "answer": 2,
+          "why": "bread — неисчисляемое."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение со словами в скобках.",
+      "items": [
+        {
+          "prompt": "(I / need / information / about the museum)",
+          "answers": [
+            "I need some information about the museum.",
+            "I need information about the museum."
+          ]
+        },
+        {
+          "prompt": "(the weather / be / nice / today)",
+          "answers": [
+            "The weather is nice today.",
+            "The weather's nice today."
+          ]
+        },
+        {
+          "prompt": "(she / give / me / advice)",
+          "answers": [
+            "She gave me some advice.",
+            "She gives me some advice.",
+            "She gave me advice.",
+            "She gives me advice."
+          ]
+        },
+        {
+          "prompt": "(we / buy / furniture / for the flat)",
+          "answers": [
+            "We bought some furniture for the flat.",
+            "We buy some furniture for the flat.",
+            "We're buying some furniture for the flat.",
+            "We are buying some furniture for the flat."
+          ]
+        },
+        {
+          "prompt": "(I / have / news / for you)",
+          "answers": [
+            "I have some news for you.",
+            "I've got some news for you.",
+            "I have got some news for you."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Мне нужен совет.",
+          "answers": [
+            "I need some advice.",
+            "I need advice.",
+            "I need a piece of advice."
+          ]
+        },
+        {
+          "prompt": "У неё длинные волосы.",
+          "answers": [
+            "She has long hair.",
+            "She's got long hair.",
+            "She has got long hair."
+          ]
+        },
+        {
+          "prompt": "Какие хорошие новости!",
+          "answers": [
+            "What good news!",
+            "What great news!"
+          ]
+        },
+        {
+          "prompt": "Это тяжёлая работа.",
+          "answers": [
+            "It's hard work.",
+            "It is hard work.",
+            "That's hard work.",
+            "This is hard work."
+          ]
+        },
+        {
+          "prompt": "Я хочу купить хлеб.",
+          "answers": [
+            "I want to buy some bread.",
+            "I want to buy bread.",
+            "I want to buy a loaf of bread."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями.",
+      "items": [
+        {
+          "prompt": "What do you need to buy today?",
+          "sample": "I need to buy some bread and some milk."
+        },
+        {
+          "prompt": "Is the weather good today?",
+          "sample": "The weather is nice today."
+        },
+        {
+          "prompt": "Describe your hair.",
+          "sample": "I have short dark hair."
+        },
+        {
+          "prompt": "What's in your room? (furniture)",
+          "sample": "I have a bed, a desk and some other furniture."
+        },
+        {
+          "prompt": "Do you have good news today?",
+          "sample": "Yes, I have some good news. I passed my exam."
+        }
+      ]
+    }
+  ]
+}

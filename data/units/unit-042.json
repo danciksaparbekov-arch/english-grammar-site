@@ -1,0 +1,107 @@
+{
+  "id": 42,
+  "title": "isn't haven't don't etc. (negatives)",
+  "summary": "Как делать отрицание: **not (n't)** после вспомогательных и модальных глаголов, **don't / doesn't / didn't** — для остальных глаголов.",
+  "ru": "## Общее правило: добавляем not\nОтрицание строится с помощью **not** (в речи **n't**).\n> I'm not tired. — Я не устал.\n> It isn't raining. — Дождя нет.\n> They aren't here. — Их здесь нет.\n> I haven't finished. — Я не закончил.\n> She can't swim. — Она не умеет плавать.\n> We won't be late. — Мы не опоздаем.\n\n## Таблица форм\n| Утвердительная | Отрицательная |\n|---|---|\n| am | am not (**'m not**) |\n| is | is not (**isn't**) |\n| are | are not (**aren't**) |\n| was | **wasn't** |\n| were | **weren't** |\n| have / has | **haven't / hasn't** |\n| will | **won't** |\n| can | **can't** (cannot) |\n| could | **couldn't** |\n| must | **mustn't** |\n| should | **shouldn't** |\n| would | **wouldn't** |\n\n## Остальные глаголы: don't / doesn't / didn't\nУ обычных глаголов (work, like, go ...) нужен вспомогательный **do**.\n- настоящее: **don't** (I/we/you/they) и **doesn't** (he/she/it)\n- прошедшее: **didn't** (все лица)\nПосле них — глагол в **начальной форме**.\n> I don't like fish. — Я не люблю рыбу.\n> She doesn't work on Sundays. — Она не работает по воскресеньям.\n> We didn't go out yesterday. — Вчера мы не выходили.\n\n## Для чего нужно do\nГлаголы **be, can, will, must, should, have got** сами образуют отрицание. **Do** к ним не нужен.\n> ~~I don't am tired.~~ → I'm not tired.\n> ~~She doesn't can swim.~~ → She can't swim.\n> ~~He doesn't has a car.~~ → He doesn't **have** a car. / He hasn't got a car.\n\n## Особенности\n- нет **amn't**: говорим **I'm not**;\n- в английском **только одно** отрицание: ~~I don't know nothing.~~ → I don't know **anything**. / I know **nothing**.\n- в русском отрицание «не / ни» может быть двойным, в английском нет.\n\n## Типичные ошибки\n- ~~She not likes it.~~ → She **doesn't** like it.\n- ~~He doesn't likes it.~~ → He doesn't **like** it.\n- ~~I didn't went.~~ → I didn't **go**.\n- ~~They don't are ready.~~ → They **aren't** ready.\n- ~~I don't have no time.~~ → I don't have **any** time.",
+  "en": "## The basic rule: add not\nWe make negatives with **not** (**n't** in speaking).\n> I'm not tired.\n> It isn't raining.\n> They aren't here.\n> I haven't finished.\n> She can't swim.\n> We won't be late.\n\n## Table of forms\n| Positive | Negative |\n|---|---|\n| am | am not (**'m not**) |\n| is | is not (**isn't**) |\n| are | are not (**aren't**) |\n| was | **wasn't** |\n| were | **weren't** |\n| have / has | **haven't / hasn't** |\n| will | **won't** |\n| can | **can't** (cannot) |\n| could | **couldn't** |\n| must | **mustn't** |\n| should | **shouldn't** |\n| would | **wouldn't** |\n\n## Other verbs: don't / doesn't / didn't\nWith ordinary verbs (work, like, go ...) we use **do**.\n- present: **don't** (I/we/you/they) and **doesn't** (he/she/it)\n- past: **didn't** (all persons)\nAfter them we use the **base form** of the verb.\n> I don't like fish.\n> She doesn't work on Sundays.\n> We didn't go out yesterday.\n\n## When we don't need do\nWith **be, can, will, must, should, have got** we don't use **do**.\n> ~~I don't am tired.~~ → I'm not tired.\n> ~~She doesn't can swim.~~ → She can't swim.\n\n## Notes\n- there is no **amn't**: say **I'm not**;\n- in English we use only **one** negative: ~~I don't know nothing.~~ → I don't know **anything**.\n\n## Common mistakes\n- ~~She not likes it.~~ → She **doesn't** like it.\n- ~~He doesn't likes it.~~ → He doesn't **like** it.\n- ~~I didn't went.~~ → I didn't **go**.\n- ~~I don't have no time.~~ → I don't have **any** time.",
+  "structure": "## Be и модальные глаголы\n| Утверждение | Отрицание | Пример |\n|---|---|---|\n| I am | I'm not | I'm not ready. |\n| he is | he isn't | He isn't at home. |\n| they are | they aren't | They aren't tired. |\n| it was | it wasn't | It wasn't cold. |\n| you can | you can't | You can't park here. |\n| I will | I won't | I won't be late. |\n\n## Остальные глаголы\n| Время | Подлежащее | Форма | Пример |\n|---|---|---|---|\n| Настоящее | I / we / you / they | don't + глагол | We don't work here. |\n| Настоящее | he / she / it | doesn't + глагол | She doesn't smoke. |\n| Прошедшее | все | didn't + глагол | I didn't see him. |\n\n## Формулы\n> Подлежащее + **am/is/are/was/were/can/will... + not** + ...\n> Подлежащее + **don't / doesn't / didn't** + глагол в начальной форме\n\n## Запомните\n- **I'm not** (не ~~amn't~~);\n- после **don't / doesn't / didn't** — всегда начальная форма (не ~~likes~~, не ~~went~~);\n- в английском предложении только **одно** отрицание.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Краткие отрицания",
+      "instruction": "Напишите отрицательную краткую форму.",
+      "example": "is → **isn't**",
+      "items": [
+        { "text": "are → {{aren't}}" },
+        { "text": "was → {{wasn't}}" },
+        { "text": "have → {{haven't}}" },
+        { "text": "will → {{won't}}" },
+        { "text": "can → {{can't}}" },
+        { "text": "should → {{shouldn't}}" },
+        { "text": "has → {{hasn't}}" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Сделайте отрицание",
+      "instruction": "Поставьте предложение в отрицание (используйте краткие формы).",
+      "example": "I'm hungry. → I'm not hungry.",
+      "items": [
+        { "text": "She works on Sundays. → She {{doesn't work|does not work}} on Sundays." },
+        { "text": "They are at home. → They {{aren't|are not|'re not}} at home." },
+        { "text": "I like cold weather. → I {{don't like|do not like}} cold weather." },
+        { "text": "We went to the park. → We {{didn't go|did not go}} to the park." },
+        { "text": "He can drive. → He {{can't|cannot}} drive." },
+        { "text": "The shops were open. → The shops {{weren't|were not}} open." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "He ___ like tea.", "options": ["don't", "doesn't", "isn't"], "answer": 1, "why": "he + обычный глагол → **doesn't**." },
+        { "q": "I ___ tired. I feel great!", "options": ["don't", "amn't", "'m not"], "answer": 2, "why": "С be → **I'm not**." },
+        { "q": "We ___ go out yesterday.", "options": ["don't", "didn't", "weren't"], "answer": 1, "why": "yesterday → **didn't**." },
+        { "q": "She ___ swim.", "options": ["doesn't can", "can't", "don't can"], "answer": 1, "why": "can образует отрицание сам: **can't**." },
+        { "q": "I don't know ___.", "options": ["nothing", "anything", "something"], "answer": 1, "why": "В английском одно отрицание: **don't ... anything**." },
+        { "q": "They ___ at home last night.", "options": ["didn't", "weren't", "wasn't"], "answer": 1, "why": "be в прошлом: they → **weren't**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Он не любит кофе»?", "options": ["He doesn't likes coffee.", "He doesn't like coffee.", "He not like coffee."], "answer": 1, "why": "doesn't + начальная форма." },
+        { "q": "Как сказать «Я не видел его»?", "options": ["I didn't saw him.", "I didn't see him.", "I don't saw him."], "answer": 1, "why": "didn't + **see**." },
+        { "q": "Как сказать «Мы не опоздаем»?", "options": ["We don't be late.", "We won't be late.", "We not late."], "answer": 1, "why": "Будущее: **won't**." },
+        { "q": "Как сказать «Ей не нужна машина»?", "options": ["She doesn't need a car.", "She not needs a car.", "She doesn't needs a car."], "answer": 0, "why": "doesn't need." },
+        { "q": "Как сказать «Здесь нет никого»?", "options": ["There isn't nobody here.", "There isn't anybody here.", "There aren't anybody here."], "answer": 1, "why": "Одно отрицание: **isn't anybody**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте отрицания",
+      "instruction": "Составьте отрицательное предложение из слов.",
+      "items": [
+        { "prompt": "(I / not / have / a car)", "answers": ["I don't have a car.", "I do not have a car.", "I haven't got a car.", "I have not got a car."] },
+        { "prompt": "(Anna / not / like / dogs)", "answers": ["Anna doesn't like dogs.", "Anna does not like dogs."] },
+        { "prompt": "(we / not / go / to school / yesterday)", "answers": ["We didn't go to school yesterday.", "We did not go to school yesterday.", "Yesterday we didn't go to school.", "Yesterday we did not go to school."] },
+        { "prompt": "(the shop / not / be / open / on Sundays)", "answers": ["The shop isn't open on Sundays.", "The shop is not open on Sundays.", "The shop's not open on Sundays."] },
+        { "prompt": "(they / not / can / come / tomorrow)", "answers": ["They can't come tomorrow.", "They cannot come tomorrow.", "Tomorrow they can't come.", "Tomorrow they cannot come."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте отрицание.",
+      "items": [
+        { "prompt": "Я не люблю рано вставать.", "answers": ["I don't like getting up early.", "I don't like to get up early.", "I do not like getting up early.", "I do not like to get up early.", "I don't like waking up early.", "I don't like to wake up early.", "I do not like waking up early.", "I do not like to wake up early."] },
+        { "prompt": "Он не работает по субботам.", "answers": ["He doesn't work on Saturdays.", "He does not work on Saturdays.", "He doesn't work on Saturday.", "He does not work on Saturday."] },
+        { "prompt": "Мы вчера не ходили в кино.", "answers": ["We didn't go to the cinema yesterday.", "We did not go to the cinema yesterday.", "Yesterday we didn't go to the cinema.", "Yesterday we did not go to the cinema."] },
+        { "prompt": "Она не умеет водить машину.", "answers": ["She can't drive.", "She cannot drive.", "She can't drive a car.", "She cannot drive a car."] },
+        { "prompt": "У меня нет времени.", "answers": ["I don't have time.", "I haven't got time.", "I don't have any time.", "I haven't got any time.", "I do not have time.", "I have no time."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите отрицательные предложения о себе. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Something you don't like", "sample": "I don't like cold weather." },
+        { "prompt": "Something you can't do", "sample": "I can't play the guitar." },
+        { "prompt": "Something you didn't do yesterday", "sample": "I didn't watch TV yesterday." },
+        { "prompt": "Something you haven't got", "sample": "I haven't got a car." },
+        { "prompt": "Something you won't do tomorrow", "sample": "I won't go to work tomorrow." }
+      ]
+    }
+  ]
+}

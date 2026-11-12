@@ -1,0 +1,104 @@
+{
+  "id": 88,
+  "title": "not as ... as",
+  "summary": "Конструкция **not as ... as** («не такой … как») и выражение **the same as**.",
+  "ru": "## not as ... as\nЭта конструкция говорит, что кто-то или что-то **менее** … , чем другой. Прилагательное стоит в обычной форме (без -er и без more).\n> Rome is **not as old as** Athens. — Рим не такой старый, как Афины. (= Афины старше.)\n> The Grand Hotel **isn't as expensive as** the Europa. — Гранд-отель не такой дорогой, как Европа.\n> I don't play tennis **as often as** you. — Я играю в теннис не так часто, как ты.\n\n## not as much as / not as many as\nС количеством используем **as much** (с неисчисляемыми) и **as many** (с исчисляемыми во множественном числе).\n> I haven't got **as much money as** you. — У меня не так много денег, как у тебя.\n> I don't know **as many people as** you. — Я знаю не так много людей, как ты.\n\n## Сравните: not as ... as и than\nОдну и ту же мысль можно сказать двумя способами.\n> Rome is **not as old as** Athens. = Athens is **older than** Rome.\n> Tennis **isn't as popular as** football. = Football is **more popular than** tennis.\n\n## as me / as him\nПосле **as** в разговоре обычно **me / him / her / us / them**.\n> She's not as old as **him**. = ... as **he is**.\n> You don't work as hard as **me**. = ... as **I do**.\n\n## the same as\nКогда два предмета одинаковые, говорим **the same as**.\n> The weather today is **the same as** yesterday. — Сегодня такая же погода, как вчера.\n> My hair is **the same colour as** yours. — У меня такой же цвет волос, как у тебя.\n\n## Типичные ошибки\n- ~~not so old than~~ → not **as** old **as**\n- ~~Rome isn't older as Athens~~ → Rome isn't **as old as** Athens\n- ~~the same like~~ → the same **as**\n- ~~not as more expensive as~~ → not **as expensive as**",
+  "en": "## not as ... as\nWe use **not as ... as** to say that something is **less** than another thing. The adjective stays in its basic form (no -er, no more).\n> Rome is **not as old as** Athens. (= Athens is older.)\n> The Grand Hotel **isn't as expensive as** the Europa.\n> I don't play tennis **as often as** you.\n\n## not as much as / not as many as\n> I haven't got **as much money as** you.\n> I don't know **as many people as** you.\nWe use **much** with uncountable nouns and **many** with plural nouns.\n\n## Compare: not as ... as and than\nYou can say the same thing in two ways.\n> Rome is **not as old as** Athens. = Athens is **older than** Rome.\n> Tennis **isn't as popular as** football. = Football is **more popular than** tennis.\n\n## as me / as him\nAfter **as** we usually say **me / him / her / us / them**.\n> She's not as old as **him**. = ... as **he is**.\n> You don't work as hard as **me**. = ... as **I do**.\n\n## the same as\n> The weather today is **the same as** yesterday.\n> My hair is **the same colour as** yours.\n\n## Common mistakes\n- ~~not so old than~~ → not **as** old **as**\n- ~~the same like~~ → the same **as**",
+  "structure": "## Формула\n> Подлежащее + **isn't / aren't / don't** + **as** + прилагательное / наречие + **as** + второй предмет\n> This coat **isn't as warm as** that one. · He **doesn't run as fast as** me.\n\n## С количеством\n| Существительное | Конструкция |\n|---|---|\n| неисчисляемое (money, time) | not **as much** money **as** |\n| исчисляемое мн. ч. (people, books) | not **as many** books **as** |\n\n## Два способа сказать одно и то же\n| not as ... as | comparative + than |\n|---|---|\n| My bag **isn't as heavy as** yours. | Yours **is heavier than** mine. |\n| I **don't earn as much as** you. | You **earn more than** me. |\n\n## the same\n> the same **as** + кто/что\n> the same **colour / size / age / time** + as\n> We have **the same** teacher. · He's **the same age as** me.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Дополните предложения",
+      "instruction": "Вставьте нужные слова, чтобы значение осталось тем же.",
+      "example": "Athens is older than Rome. = Rome isn't **as** old **as** Athens.",
+      "items": [
+        { "text": "My room is bigger than yours. = Your room isn't {{as}} big {{as}} mine." },
+        { "text": "Tom is taller than Max. = Max isn't {{as}} tall {{as}} Tom." },
+        { "text": "A train is faster than a bus. = A bus isn't {{as}} fast {{as}} a train." },
+        { "text": "You got up earlier than me. = I didn't get up {{as}} early {{as}} you." },
+        { "text": "My brother has more books than me. = I haven't got {{as many}} books {{as}} my brother." },
+        { "text": "She drinks more coffee than him. = He doesn't drink {{as much}} coffee {{as}} her." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "as или than?",
+      "instruction": "Вставьте **as** или **than**.",
+      "items": [
+        { "text": "Rome isn't as old {{as}} Athens." },
+        { "text": "Athens is older {{than}} Rome." },
+        { "text": "The cinema isn't as expensive {{as}} the theatre." },
+        { "text": "This book is more interesting {{than}} that one." },
+        { "text": "He's the same age {{as}} me." },
+        { "text": "I don't work as hard {{as}} you." },
+        { "text": "Today is warmer {{than}} yesterday." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "This bag isn't ___ that one.", "options": ["as heavy as", "as heavier as", "so heavier than"], "answer": 0, "why": "not **as** + обычная форма + **as**." },
+        { "q": "I haven't got ___ time as you.", "options": ["as many", "as much", "as more"], "answer": 1, "why": "time — неисчисляемое → **as much**." },
+        { "q": "There aren't ___ chairs as last time.", "options": ["as much", "as many", "as more"], "answer": 1, "why": "chairs — множественное число → **as many**." },
+        { "q": "My coat is the same colour ___ yours.", "options": ["like", "than", "as"], "answer": 2, "why": "the same ... **as**." },
+        { "q": "She isn't as tall as ___.", "options": ["him", "he's", "his"], "answer": 0, "why": "В разговоре: as **him** (или as he is)." },
+        { "q": "Football is more popular than tennis. = Tennis isn't ___ football.", "options": ["as popular as", "more popular than", "as popular than"], "answer": 0, "why": "Второй способ сказать то же: **not as popular as**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Он не такой высокий, как его отец»?", "options": ["He isn't as tall as his father.", "He isn't as taller as his father.", "He isn't so tall than his father."], "answer": 0, "why": "not as + tall + as." },
+        { "q": "Как сказать «У меня такая же машина, как у тебя»?", "options": ["I have the same car like you.", "I have the same car as you.", "I have the same car than you."], "answer": 1, "why": "the same ... **as**." },
+        { "q": "Как сказать «Я готовлю не так хорошо, как ты»?", "options": ["I don't cook as well as you.", "I don't cook as better as you.", "I don't cook more well than you."], "answer": 0, "why": "Наречие well остаётся в обычной форме: as **well** as." },
+        { "q": "Как сказать «Здесь не так много людей, как вчера»?", "options": ["There aren't as many people as yesterday.", "There aren't as much people as yesterday.", "There aren't as many peoples as yesterday."], "answer": 0, "why": "people — исчисляемое → **as many**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Перепишите предложения",
+      "instruction": "Перепишите предложение, используя **not as ... as**.",
+      "example": "Athens is older than Rome. → Rome isn't as old as Athens.",
+      "items": [
+        { "prompt": "Your phone is newer than mine.", "answers": ["My phone isn't as new as yours.", "My phone is not as new as yours.", "My phone's not as new as yours."] },
+        { "prompt": "Gold is more expensive than silver.", "answers": ["Silver isn't as expensive as gold.", "Silver is not as expensive as gold.", "Silver's not as expensive as gold."] },
+        { "prompt": "I get up later than you.", "answers": ["You don't get up as late as me.", "You don't get up as late as I do.", "You do not get up as late as me.", "You do not get up as late as I do."] },
+        { "prompt": "She is more nervous than him.", "answers": ["He isn't as nervous as her.", "He isn't as nervous as she is.", "He is not as nervous as her.", "He is not as nervous as she is.", "He's not as nervous as her.", "He's not as nervous as she is."] },
+        { "prompt": "I've got more money than you.", "answers": ["You haven't got as much money as me.", "You haven't got as much money as I have.", "You haven't as much money as me.", "You don't have as much money as me.", "You don't have as much money as I do."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        { "prompt": "Зима не такая тёплая, как лето.", "answers": ["Winter isn't as warm as summer.", "Winter is not as warm as summer.", "Winter's not as warm as summer."] },
+        { "prompt": "Я не так занят, как ты.", "answers": ["I'm not as busy as you.", "I am not as busy as you.", "I'm not as busy as you are.", "I am not as busy as you are."] },
+        { "prompt": "У нас такой же учитель, как у них.", "answers": ["We have the same teacher as them.", "We have the same teacher as they do.", "We've got the same teacher as them.", "We've got the same teacher as they have."] },
+        { "prompt": "У меня не так много друзей, как у неё.", "answers": ["I haven't got as many friends as her.", "I haven't got as many friends as she has.", "I don't have as many friends as her.", "I don't have as many friends as she does."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте **not as ... as** или **the same as**.",
+      "items": [
+        { "prompt": "Сравните себя с другом: кто выше, быстрее, занятее?", "sample": "I'm not as tall as my friend." },
+        { "prompt": "Ваш родной город и столица.", "sample": "Osh isn't as big as Bishkek." },
+        { "prompt": "Кто-то из вашей семьи, у кого такой же возраст, имя или цвет глаз, как у вас.", "sample": "My brother has the same eyes as me." },
+        { "prompt": "Чем эта зима отличается от прошлой?", "sample": "This winter isn't as cold as last winter." }
+      ]
+    }
+  ]
+}

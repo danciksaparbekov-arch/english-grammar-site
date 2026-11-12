@@ -1,0 +1,291 @@
+{
+  "id": 73,
+  "title": "this/that/these/those",
+  "summary": "Указательные слова: this/these — рядом, that/those — далеко; один предмет или несколько.",
+  "ru": "## this / that / these / those\nЭто слова-указатели. Они показывают, **близко** предмет или **далеко** (от говорящего), и **один** он или **несколько**.\n| | близко | далеко |\n|---|---|---|\n| один | **this** (этот) | **that** (тот) |\n| несколько | **these** (эти) | **those** (те) |\n> **This** bag is mine. — Эта сумка моя. (она рядом, у меня в руках)\n> **That** bag is yours. — Та сумка твоя. (она подальше)\n> **These** shoes are new. — Эти туфли новые.\n> Who are **those** people? — Кто те люди?\n\n## С существительным и без него\n> **This** hotel is expensive. — Этот отель дорогой.\n> **This** is a nice hotel. — Это хороший отель.\n> Do you like **these**? — Тебе нравятся эти?\nЕсли предмет не назван, **this is / that is** переводится «это».\n\n## That для событий и слов собеседника\n- **That's** nice! — Здорово! (в ответ на новость)\n- **That's right.** — Верно.\n- **That was a great dinner.** — Это был отличный ужин.\n> — I'm sorry I'm late. — **That's** all right. — Простите за опоздание. — Ничего страшного.\n\n## По телефону и при знакомстве\n- **This is ...** — это я (говорящий): *Hello, this is Anna.*\n- **Is that ...?** — это вы? (собеседник): *Is that Tom?*\n- Знакомим людей: *Tom, **this is** Kate.*\n\n## Типичные ошибки\n- ~~This shoes are old.~~ → **These** shoes are old.\n- ~~Those book is good.~~ → **That** book is good.\n- ~~Who is this people?~~ → Who are **these** people?",
+  "en": "## this / that / these / those\nWe use these words to point to things or people. **This / these** = near us. **That / those** = not near us. **This / that** = one thing. **These / those** = more than one.\n> **This** bag is mine. (it is near me)\n> **That** bag is yours. (it is over there)\n> **These** shoes are new.\n> Who are **those** people?\n\n## With or without a noun\n> **This** hotel is expensive.\n> **This** is a nice hotel.\n> Do you like **these**?\n\n## That for events and what people say\n- **That's** nice! / **That's right.** / **That was a great dinner.**\n> — I'm sorry I'm late. — **That's** all right.\n\n## On the phone and introductions\n- **This is ...** = the speaker: *Hello, this is Anna.*\n- **Is that ...?** = the other person: *Is that Tom?*\n- Introducing people: *Tom, **this is** Kate.*\n\n## Common mistakes\n- ~~This shoes are old.~~ → **These** shoes are old.\n- ~~Those book is good.~~ → **That** book is good.\n- ~~Who is this people?~~ → Who are **these** people?",
+  "structure": "## Формы\n| | рядом | далеко |\n|---|---|---|\n| единственное число | this | that |\n| множественное число | these | those |\n\n## Формула\n> **this / that** + существительное в **ед. числе** (this girl, that car)\n> **these / those** + существительное во **мн. числе** (these girls, those cars)\n\n## Вопросы и ответы\n| Вопрос | Ответ |\n|---|---|\n| Is this your bag? | Yes, it is. / No, it isn't. |\n| Are those your keys? | Yes, they are. / No, they aren't. |\n| Who's that? | That's my brother. |\n| What are these? | They're apples. |\n\n## Сокращения\n> **that's** = that is · **this's** не бывает — пишем **this is**\n> **these are / those are** не сокращаем",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "this, that, these или those?",
+      "instruction": "Вставьте **this**, **that**, **these** или **those**. Подсказка в скобках показывает, близко предмет или далеко.",
+      "items": [
+        {
+          "text": "{{This}} book in my hand is very interesting. (рядом)"
+        },
+        {
+          "text": "Look at {{those}} birds on the roof! (далеко)"
+        },
+        {
+          "text": "Do you like {{these}} earrings I'm wearing? (рядом)"
+        },
+        {
+          "text": "Who is {{that}} man over there? (далеко)"
+        },
+        {
+          "text": "{{These}} are my new shoes. (рядом)"
+        },
+        {
+          "text": "{{That}} house across the street is very old. (далеко)"
+        },
+        {
+          "text": "Take {{this}} cup. It's clean. (рядом)"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Выберите вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "___ people over there are my neighbours.",
+          "options": [
+            "That",
+            "This",
+            "Those"
+          ],
+          "answer": 2,
+          "why": "people — мн. число и далеко → **those**."
+        },
+        {
+          "q": "Is ___ your umbrella here on the chair?",
+          "options": [
+            "this",
+            "these",
+            "those"
+          ],
+          "answer": 0,
+          "why": "umbrella — ед. число и рядом → **this**."
+        },
+        {
+          "q": "Are ___ your keys on the table next to me?",
+          "options": [
+            "that",
+            "these",
+            "this"
+          ],
+          "answer": 1,
+          "why": "keys — мн. число, рядом → **these**."
+        },
+        {
+          "q": "Who's ___ girl in the red coat across the road?",
+          "options": [
+            "that",
+            "those",
+            "these"
+          ],
+          "answer": 0,
+          "why": "girl — ед. число, далеко → **that**."
+        },
+        {
+          "q": "— I forgot your book. — ___ 's OK.",
+          "options": [
+            "This",
+            "Those",
+            "That"
+          ],
+          "answer": 2,
+          "why": "Ответ на слова собеседника → **That's OK**."
+        },
+        {
+          "q": "Hello! ___ is Max. Is that Sara?",
+          "options": [
+            "That",
+            "This",
+            "These"
+          ],
+          "answer": 1,
+          "why": "По телефону о себе — **this is**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Вопросы",
+      "instruction": "Составьте вопрос: **Is this / that ...?** или **Are these / those ...?**",
+      "items": [
+        {
+          "prompt": "(your / bag) — рядом",
+          "answers": [
+            "Is this your bag?"
+          ]
+        },
+        {
+          "prompt": "(your / keys) — далеко",
+          "answers": [
+            "Are those your keys?"
+          ]
+        },
+        {
+          "prompt": "(your / phone) — далеко",
+          "answers": [
+            "Is that your phone?"
+          ]
+        },
+        {
+          "prompt": "(your / shoes) — рядом",
+          "answers": [
+            "Are these your shoes?"
+          ]
+        },
+        {
+          "prompt": "(her / dog) — далеко",
+          "answers": [
+            "Is that her dog?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "These apples is fresh.",
+            "These apples are fresh.",
+            "This apples are fresh."
+          ],
+          "answer": 1,
+          "why": "these + мн. число → **are**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Those is my sister.",
+            "That is my sister.",
+            "These is my sister."
+          ],
+          "answer": 1,
+          "why": "Ед. число → **that is**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Do you know this people?",
+            "Do you know these people?",
+            "Do you know that people?"
+          ],
+          "answer": 1,
+          "why": "people — мн. число; **these people**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "This are my friends.",
+            "These are my friends.",
+            "That are my friends."
+          ],
+          "answer": 1,
+          "why": "friends — мн. число → **these are**."
+        },
+        {
+          "q": "Как сказать «Это здорово!» в ответ на новость?",
+          "options": [
+            "This nice!",
+            "That's nice!",
+            "Those nice!"
+          ],
+          "answer": 1,
+          "why": "Реакция на сказанное → **That's nice!**"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Магазин одежды",
+      "instruction": "Вставьте **this**, **that**, **these** или **those**.",
+      "items": [
+        {
+          "text": "— How much are {{these}} jeans here in my hand?"
+        },
+        {
+          "text": "— {{Those}} on the top shelf are cheaper."
+        },
+        {
+          "text": "— I like {{this}} T-shirt, but I don't like {{that}} T-shirt over there."
+        },
+        {
+          "text": "— Can I try on {{these}} shoes next to you?"
+        },
+        {
+          "text": "— Is {{that}} your friend by the door?"
+        },
+        {
+          "text": "— Yes. Anna, {{this}} is my brother Oleg."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Эти цветы красивые. (они рядом)",
+          "answers": [
+            "These flowers are beautiful.",
+            "These flowers are lovely."
+          ]
+        },
+        {
+          "prompt": "Кто та девушка?",
+          "answers": [
+            "Who is that girl?",
+            "Who's that girl?"
+          ]
+        },
+        {
+          "prompt": "Это мой друг. (знакомим)",
+          "answers": [
+            "This is my friend."
+          ]
+        },
+        {
+          "prompt": "Те туфли очень дорогие. (далеко)",
+          "answers": [
+            "Those shoes are very expensive.",
+            "Those shoes are too expensive."
+          ]
+        },
+        {
+          "prompt": "Привет, это Анна. (по телефону)",
+          "answers": [
+            "Hello, this is Anna.",
+            "Hi, this is Anna."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Покажите на предмет рядом с вами и скажите о нём.",
+          "sample": "This pen is blue. I like this pen."
+        },
+        {
+          "prompt": "Скажите о чём-то далеко от вас (за окном, в другой комнате).",
+          "sample": "That building is very tall."
+        },
+        {
+          "prompt": "Представьте своего друга.",
+          "sample": "Aida, this is my friend Bek."
+        }
+      ]
+    }
+  ]
+}

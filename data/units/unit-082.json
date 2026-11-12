@@ -1,0 +1,285 @@
+{
+  "id": 82,
+  "title": "a lot much many",
+  "summary": "Слова much, many и a lot of — «много»: с чем их использовать и в каких предложениях.",
+  "ru": "## much, many, a lot of\nВсе три слова значат «много». Выбор зависит от существительного.\n| слово | с чем | пример |\n|---|---|---|\n| **much** | неисчисляемые | much money, much time, much water |\n| **many** | исчисляемые во мн. числе | many books, many people |\n| **a lot of** | любые | a lot of money / a lot of books |\n> Did you buy **much food**? — Ты много еды купила?\n> We don't know **many people** here. — Мы здесь не знаем многих людей.\n> We bought **a lot of food**. — Мы купили много еды.\n\n## В каких предложениях\n- **much** — в **вопросах и отрицаниях**; в утверждении обычно **a lot of**:\n> Do you drink **much** coffee? — I don't drink **much** coffee.\n> I drink **a lot of** coffee. (не ~~I drink much coffee~~)\n- **many** и **a lot of** — в любых предложениях:\n> Have you got **many** friends? · We haven't got **many** friends. · We've got **many** friends / **a lot of** friends.\n\n## Глагол после a lot of\nГлагол зависит от существительного:\n> There **is** a lot of water. (water — ед.)\n> There **are** a lot of trees. (trees — мн.)\n> A lot of people **speak** English. (people — мн.)\n\n## much и a lot без существительного\n> Diane didn't say **much**. — Диана мало что сказала.\n> — Do you watch TV much? — No, not **much**. — Нет, не очень часто.\n> We go to the cinema **a lot**. — Мы часто ходим в кино.\n> I don't like him very **much**. — Он мне не очень нравится.\n\n## How much / How many\n> **How much** money do you want? — Сколько денег ты хочешь?\n> **How many** photos did you take? — Сколько фото ты сделала?\n\n## Типичные ошибки\n- ~~I have much money.~~ → I have **a lot of** money.\n- ~~There are much people.~~ → There are **a lot of / many** people.\n- ~~How many water do you drink?~~ → How **much** water do you drink?\n- ~~A lot of people speaks English.~~ → A lot of people **speak** English.",
+  "en": "## much, many, a lot of\n| word | with | example |\n|---|---|---|\n| **much** | uncountable nouns | much money, much time |\n| **many** | plural countable nouns | many books, many people |\n| **a lot of** | all types of nouns | a lot of money / a lot of books |\n> Did you buy **much food**? · We don't know **many people** here. · We bought **a lot of food**.\n\n## In which sentences?\n- **much** — questions and negatives; in positive sentences we usually say **a lot of**:\n> Do you drink **much** coffee? · I don't drink **much** coffee. · I drink **a lot of** coffee.\n- **many** and **a lot of** — all types of sentences.\n\n## The verb after a lot of\n> There **is** a lot of water. · There **are** a lot of trees. · A lot of people **speak** English.\n\n## much and a lot without a noun\n> Diane didn't say **much**. · — Do you watch TV much? — Not **much**. · We go to the cinema **a lot**.\n\n## How much / How many\n> **How much** money do you want? · **How many** photos did you take?\n\n## Common mistakes\n- ~~I have much money.~~ → I have **a lot of** money.\n- ~~How many water do you drink?~~ → How **much** water do you drink?\n- ~~A lot of people speaks English.~~ → A lot of people **speak** English.",
+  "structure": "## Таблица\n| | исчисляемые (мн.) | неисчисляемые |\n|---|---|---|\n| вопрос | Have you got **many** books? | Have you got **much** time? |\n| отрицание | I haven't got **many** books. | I haven't got **much** time. |\n| утверждение | I've got **a lot of** books. | I've got **a lot of** time. |\n| сколько? | **How many** books? | **How much** time? |\n\n## Формулы\n> **many** + существительное во мн. числе\n> **much** + неисчисляемое существительное\n> **a lot of** + любое существительное\n> **a lot** (без существительного, в конце): *We travel a lot.*\n\n## Короткие ответы\n> — Did you take many photos? — Yes, **a lot**. / No, not **many**.\n> — Do you eat much bread? — Yes, **a lot**. / No, not **much**.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "much или many?",
+      "instruction": "Вставьте **much** или **many**.",
+      "items": [
+        {
+          "text": "Did you buy {{much}} food?"
+        },
+        {
+          "text": "There aren't {{many}} hotels in this town."
+        },
+        {
+          "text": "We haven't got {{much}} petrol."
+        },
+        {
+          "text": "Were there {{many}} people on the train?"
+        },
+        {
+          "text": "I wasn't hungry. I didn't eat {{much}}."
+        },
+        {
+          "text": "Paula hasn't got {{much}} free time."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "How much или How many?",
+      "instruction": "Вставьте **How much** или **How many**.",
+      "items": [
+        {
+          "text": "{{How many}} people are coming to the party?"
+        },
+        {
+          "text": "{{How much}} milk do you want?"
+        },
+        {
+          "text": "{{How much}} bread did you buy?"
+        },
+        {
+          "text": "{{How many}} players are there in a football team?"
+        },
+        {
+          "text": "{{How much}} sugar do you take in your tea?"
+        },
+        {
+          "text": "{{How many}} brothers have you got?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I've got ___ friends in this city.",
+          "options": [
+            "much",
+            "a lot of",
+            "a lot"
+          ],
+          "answer": 1,
+          "why": "В утверждении с исчисляемым → **a lot of**."
+        },
+        {
+          "q": "We don't have ___ time.",
+          "options": [
+            "many",
+            "a lot",
+            "much"
+          ],
+          "answer": 2,
+          "why": "time — неисчисляемое, отрицание → **much**."
+        },
+        {
+          "q": "A lot of people ___ coffee in the morning.",
+          "options": [
+            "drinks",
+            "drink",
+            "is drinking"
+          ],
+          "answer": 1,
+          "why": "people — мн. число → **drink**."
+        },
+        {
+          "q": "There ___ a lot of snow in winter.",
+          "options": [
+            "is",
+            "are",
+            "were"
+          ],
+          "answer": 0,
+          "why": "snow — неисчисляемое → **is**."
+        },
+        {
+          "q": "We love music, so we go to concerts ___.",
+          "options": [
+            "much",
+            "a lot",
+            "many"
+          ],
+          "answer": 1,
+          "why": "Без существительного, утверждение → **a lot**."
+        },
+        {
+          "q": "— Do you like fish? — Not ___.",
+          "options": [
+            "many",
+            "much",
+            "a lot of"
+          ],
+          "answer": 1,
+          "why": "**not much** без существительного."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "I have much homework today.",
+            "I have a lot of homework today.",
+            "I have many homework today."
+          ],
+          "answer": 1,
+          "why": "В утверждении → **a lot of**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "How many money do you need?",
+            "How much money do you need?",
+            "How much moneys do you need?"
+          ],
+          "answer": 1,
+          "why": "money — неисчисляемое → **How much**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "She doesn't have many friends.",
+            "She doesn't have much friends.",
+            "She doesn't have a lot friends."
+          ],
+          "answer": 0,
+          "why": "friends — исчисляемое мн. → **many**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "There is a lot of people here.",
+            "There are a lot of people here.",
+            "There are much people here."
+          ],
+          "answer": 1,
+          "why": "people — мн. число → **are**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение.",
+      "items": [
+        {
+          "prompt": "(we / not / know / many / people / here)",
+          "answers": [
+            "We don't know many people here.",
+            "We do not know many people here."
+          ]
+        },
+        {
+          "prompt": "(you / drink / much / coffee?)",
+          "answers": [
+            "Do you drink much coffee?"
+          ]
+        },
+        {
+          "prompt": "(there / be / a lot of / water / in the lake)",
+          "answers": [
+            "There is a lot of water in the lake.",
+            "There's a lot of water in the lake."
+          ]
+        },
+        {
+          "prompt": "(how many / photos / you / take?)",
+          "answers": [
+            "How many photos did you take?",
+            "How many photos have you taken?",
+            "How many photos do you take?"
+          ]
+        },
+        {
+          "prompt": "(a lot of / people / speak / English)",
+          "answers": [
+            "A lot of people speak English."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "У меня мало времени. (not much)",
+          "answers": [
+            "I don't have much time.",
+            "I haven't got much time."
+          ]
+        },
+        {
+          "prompt": "Сколько у тебя друзей?",
+          "answers": [
+            "How many friends have you got?",
+            "How many friends do you have?"
+          ]
+        },
+        {
+          "prompt": "В нашем городе много парков.",
+          "answers": [
+            "There are a lot of parks in our city.",
+            "There are many parks in our city.",
+            "There are a lot of parks in our town.",
+            "There are many parks in our town."
+          ]
+        },
+        {
+          "prompt": "Сколько хлеба ты купила?",
+          "answers": [
+            "How much bread did you buy?",
+            "How much bread have you bought?"
+          ]
+        },
+        {
+          "prompt": "Мы много гуляем.",
+          "answers": [
+            "We walk a lot.",
+            "We go for walks a lot."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Сколько у вас друзей?",
+          "sample": "I have a lot of friends. / I haven't got many friends."
+        },
+        {
+          "prompt": "Вы пьёте много кофе?",
+          "sample": "I don't drink much coffee. I drink a lot of tea."
+        },
+        {
+          "prompt": "Сколько времени у вас свободного?",
+          "sample": "I haven't got much free time."
+        }
+      ]
+    }
+  ]
+}

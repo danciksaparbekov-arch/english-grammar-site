@@ -1,0 +1,310 @@
+{
+  "id": 99,
+  "title": "in at on (places 1)",
+  "summary": "Предлоги места **in**, **at**, **on**: «в, внутри», «у, в точке», «на поверхности».",
+  "ru": "## Идея каждого предлога\n- **in** — **внутри** чего-то (комната, здание, город, страна, коробка)\n- **at** — **в точке**, около (остановка, дверь, вечеринка, работа)\n- **on** — **на** поверхности (стол, стена, пол, этаж)\n\n## in — внутри\n> The keys are **in** my bag. — Ключи в моей сумке.\n> She lives **in** Bishkek. — Она живёт в Бишкеке.\n> There's a lot of milk **in** the fridge. — В холодильнике много молока.\n> He's **in** the kitchen. — Он на кухне.\n> in a car, in a taxi, in a lift — в машине, в такси, в лифте\n> in bed, in hospital, in prison — в постели, в больнице, в тюрьме\n> in a book / newspaper / photo — в книге, газете, на фото\n\n## on — на поверхности\n> The book is **on** the table. — Книга на столе.\n> There's a picture **on** the wall. — На стене картина.\n> Don't sit **on** the floor. — Не сиди на полу.\n> **on** the first floor — на первом этаже\n> **on** the left / right — слева / справа\n> **on** a bus / train / plane — в автобусе / в поезде / в самолёте (транспорт, где можно ходить)\n\n## at — в точке\n> I'll meet you **at** the bus stop. — Встретимся на остановке.\n> Someone is **at** the door. — Кто-то у двери.\n> She's **at** work. — Она на работе.\n> He's **at** a party. — Он на вечеринке.\n> at home, at school, at work, at the station, at the airport\n\n## at или in?\nЕсли место — точка встречи или вид деятельности, ставим **at**. Если важно, что внутри здания, — **in**.\n> I'm **at** the cinema. — Я в кино (смотрю фильм).\n> It's very cold **in** the cinema. — В кинотеатре (в помещении) очень холодно.\n> The children are **at** school. — Дети в школе (учатся).\n> There's a lot of noise **in** the school. — В здании школы шумно.\n\n## in или on? с этажами и рядами\n> He lives **on** the second floor. — Он живёт на втором этаже.\n> We sat **in** the front row. — Мы сидели в первом ряду.\n\n## Типичные ошибки\n- ~~I'm in home.~~ → I'm **at** home.\n- ~~She's on work.~~ → She's **at** work.\n- ~~The picture is in the wall.~~ → The picture is **on** the wall.\n- ~~I live at Bishkek.~~ → I live **in** Bishkek.\n- ~~in the bus stop~~ → **at** the bus stop",
+  "en": "## The idea of each preposition\n- **in** — **inside** something (a room, a building, a city, a country, a box)\n- **at** — at a **point**, near (a bus stop, a door, a party, work)\n- **on** — on a **surface** (a table, a wall, a floor)\n\n## in — inside\n> The keys are **in** my bag.\n> She lives **in** Bishkek.\n> There's a lot of milk **in** the fridge.\n> He's **in** the kitchen.\n> in a car, in a taxi, in a lift\n> in bed, in hospital, in prison\n> in a book / newspaper / photo\n\n## on — on a surface\n> The book is **on** the table.\n> There's a picture **on** the wall.\n> Don't sit **on** the floor.\n> **on** the first floor\n> **on** the left / right\n> **on** a bus / train / plane\n\n## at — at a point\n> I'll meet you **at** the bus stop.\n> Someone is **at** the door.\n> She's **at** work.\n> He's **at** a party.\n> at home, at school, at work, at the station, at the airport\n\n## at or in?\nWe use **at** for a meeting point or an activity. We use **in** when we think about the inside of a building.\n> I'm **at** the cinema. (watching a film)\n> It's very cold **in** the cinema. (inside the room)\n> The children are **at** school. (studying)\n> There's a lot of noise **in** the school. (in the building)\n\n## Floors and rows\n> He lives **on** the second floor.\n> We sat **in** the front row.\n\n## Common mistakes\n- ~~I'm in home.~~ → I'm **at** home.\n- ~~She's on work.~~ → She's **at** work.\n- ~~The picture is in the wall.~~ → The picture is **on** the wall.\n- ~~I live at Bishkek.~~ → I live **in** Bishkek.",
+  "structure": "## in / at / on\n| Предлог | Значение | Примеры |\n|---|---|---|\n| **in** | внутри | in a room, in a box, in a city, in bed, in a car |\n| **at** | точка, место деятельности | at the door, at the bus stop, at home, at work, at school, at a party |\n| **on** | на поверхности | on the table, on the wall, on the floor, on the left |\n\n## Транспорт\n| in | on |\n|---|---|\n| in a car, in a taxi | on a bus, on a train, on a plane, on a bike |\n\n## Формула\n> Подлежащее + be + **in / at / on** + место\n> The cat **is on** the sofa. · My parents **are at** home. · The keys **are in** my pocket.\n\n## Устойчивые выражения\n- **at home / at work / at school** — дома / на работе / в школе\n- **in bed / in hospital** — в постели / в больнице\n- **on the left / on the right** — слева / справа\n- **on the way** — по дороге",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "in, at или on?",
+      "instruction": "Вставьте **in**, **at** или **on**.",
+      "items": [
+        {
+          "text": "The cat is {{on}} the sofa."
+        },
+        {
+          "text": "My parents are {{at}} home."
+        },
+        {
+          "text": "The keys are {{in}} my pocket."
+        },
+        {
+          "text": "There's a clock {{on}} the wall."
+        },
+        {
+          "text": "She works {{in|at}} a bank."
+        },
+        {
+          "text": "We waited {{at}} the bus stop."
+        },
+        {
+          "text": "He's {{in}} bed. He's ill."
+        },
+        {
+          "text": "She's sitting {{on}} the floor."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Ещё in, at, on",
+      "instruction": "Вставьте **in**, **at** или **on**.",
+      "items": [
+        {
+          "text": "My brother lives {{in}} Osh."
+        },
+        {
+          "text": "Our flat is {{on}} the third floor."
+        },
+        {
+          "text": "I saw an interesting article {{in}} the newspaper."
+        },
+        {
+          "text": "Are you {{at}} the airport yet?"
+        },
+        {
+          "text": "I left my phone {{on}} the bus."
+        },
+        {
+          "text": "We had a lot of fun {{at}} the party."
+        },
+        {
+          "text": "There's a good film {{on}} TV tonight."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите предлог",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I'm ___ work now. Call me later.",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": 2,
+          "why": "**at work**."
+        },
+        {
+          "q": "There's a nice picture ___ the wall.",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": 1,
+          "why": "Поверхность → **on**."
+        },
+        {
+          "q": "She lives ___ a small village.",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "answer": 1,
+          "why": "Деревня, город → **in**."
+        },
+        {
+          "q": "Someone is ___ the door.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "answer": 0,
+          "why": "У двери → **at the door**."
+        },
+        {
+          "q": "I always read ___ bed.",
+          "options": [
+            "on",
+            "at",
+            "in"
+          ],
+          "answer": 2,
+          "why": "**in bed**."
+        },
+        {
+          "q": "My uncle works ___ a hospital. He's a doctor.",
+          "options": [
+            "on",
+            "in",
+            "by"
+          ],
+          "answer": 1,
+          "why": "Работает в здании больницы → **in**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Он дома»?",
+          "options": [
+            "He is in home.",
+            "He is at home.",
+            "He is on home."
+          ],
+          "answer": 1,
+          "why": "**at home**."
+        },
+        {
+          "q": "Как сказать «Я еду в автобусе»?",
+          "options": [
+            "I'm in the bus.",
+            "I'm on the bus.",
+            "I'm at the bus."
+          ],
+          "answer": 1,
+          "why": "Общественный транспорт → **on the bus**."
+        },
+        {
+          "q": "Как сказать «Яблоки в сумке»?",
+          "options": [
+            "The apples are in the bag.",
+            "The apples are on the bag.",
+            "The apples are at the bag."
+          ],
+          "answer": 0,
+          "why": "Внутри → **in**."
+        },
+        {
+          "q": "Как сказать «Встретимся на остановке»?",
+          "options": [
+            "I'll meet you in the bus stop.",
+            "I'll meet you at the bus stop.",
+            "I'll meet you on the bus stop."
+          ],
+          "answer": 1,
+          "why": "Точка встречи → **at**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение, используя **in / at / on**.",
+      "items": [
+        {
+          "prompt": "(the book / the table)",
+          "answers": [
+            "The book is on the table.",
+            "The book's on the table."
+          ]
+        },
+        {
+          "prompt": "(my father / work)",
+          "answers": [
+            "My father is at work.",
+            "My father's at work."
+          ]
+        },
+        {
+          "prompt": "(the children / the garden)",
+          "answers": [
+            "The children are in the garden."
+          ]
+        },
+        {
+          "prompt": "(there / a picture / the wall)",
+          "answers": [
+            "There is a picture on the wall.",
+            "There's a picture on the wall."
+          ]
+        },
+        {
+          "prompt": "(we / the station)",
+          "answers": [
+            "We are at the station.",
+            "We're at the station."
+          ]
+        },
+        {
+          "prompt": "(she / hospital)",
+          "answers": [
+            "She is in hospital.",
+            "She's in hospital.",
+            "She is in the hospital.",
+            "She's in the hospital."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **in / at / on**.",
+      "items": [
+        {
+          "prompt": "Ключи на столе.",
+          "answers": [
+            "The keys are on the table.",
+            "Keys are on the table.",
+            "The keys are on the desk.",
+            "The keys are lying on the table."
+          ]
+        },
+        {
+          "prompt": "Я сейчас на работе.",
+          "answers": [
+            "I'm at work now.",
+            "I am at work now.",
+            "I'm at work.",
+            "I am at work."
+          ]
+        },
+        {
+          "prompt": "Она живёт в Москве.",
+          "answers": [
+            "She lives in Moscow."
+          ]
+        },
+        {
+          "prompt": "Мы ждём у двери.",
+          "answers": [
+            "We're waiting at the door.",
+            "We are waiting at the door."
+          ]
+        },
+        {
+          "prompt": "Он едет в поезде.",
+          "answers": [
+            "He is on the train.",
+            "He's on the train.",
+            "He is travelling on the train.",
+            "He's travelling on the train."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте **in / at / on**.",
+      "items": [
+        {
+          "prompt": "Где вы живёте?",
+          "sample": "I live in Bishkek, on the fifth floor."
+        },
+        {
+          "prompt": "Где вы сейчас?",
+          "sample": "I'm at home. I'm in my room."
+        },
+        {
+          "prompt": "Где вы работаете или учитесь?",
+          "sample": "I work in an office."
+        },
+        {
+          "prompt": "Что висит или стоит на стене/на столе в вашей комнате?",
+          "sample": "There's a poster on the wall and a lamp on the table."
+        }
+      ]
+    }
+  ]
+}

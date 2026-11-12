@@ -1,0 +1,244 @@
+{
+  "id": 74,
+  "title": "one/ones",
+  "summary": "Слова one и ones заменяют существительное, чтобы не повторять его: the red one, the new ones.",
+  "ru": "## Зачем нужны one / ones\nЧтобы не повторять существительное, мы заменяем его словом **one** (один предмет) или **ones** (несколько).\n> I need a pen. Have you got **one**? — Мне нужна ручка. У тебя есть?\n> Which car is yours? This **one** or that **one**? — Какая машина твоя? Эта или та?\n\n## one вместо a / an + существительное\n> — Is there a bank near here? — Yes, there's **one** at the end of the street.\n> — Do you have a bike? — No, but I want **one**.\nЗдесь **one** = *a bank*, *a bike*. Без прилагательного: **one** заменяет «a + noun».\n\n## the ... one / a ... one\nЕсли перед ним есть прилагательное, нужен артикль:\n> I like the red coat, but not the blue **one**. — Мне нравится красное пальто, а синее нет.\n> This cup is dirty. Can I have a clean **one**? — Эта чашка грязная. Можно чистую?\nТакже: **another one** (ещё одну), **the other one** (другую), **the one + предложное выражение**: *the one on the table*.\n\n## ones — множественное число\n> I don't like the old shoes. I like the new **ones**. — Старые туфли мне не нравятся, мне нравятся новые.\n> Which keys are yours? **The ones** on the table. — Какие ключи твои? Те, что на столе.\nПосле **these / those** обычно **ones** не ставят: *Which do you want, these or those?*\n\n## Когда one / ones нельзя\n- С неисчисляемыми существительными (*milk, money*) one не используют: *I don't like black coffee. I like white coffee.* / *Is there any milk? — Yes, some.*\n\n## Типичные ошибки\n- ~~I like the green ones coat.~~ → I like the green **one**. / ...the green coat.\n- ~~Which one flowers do you want?~~ → Which **ones**? / Which flowers?\n- ~~I want these ones.~~ → I want **these**.",
+  "en": "## Why one / ones?\nWe use **one** (singular) and **ones** (plural) so we do not repeat a noun.\n> I need a pen. Have you got **one**?\n> Which car is yours? This **one** or that **one**?\n\n## one = a / an + noun\n> — Is there a bank near here? — Yes, there's **one** at the end of the street.\n> — Do you have a bike? — No, but I want **one**.\n\n## the ... one / a ... one\nWith an adjective, we need an article or another word:\n> I like the red coat, but not the blue **one**.\n> This cup is dirty. Can I have a clean **one**?\nAlso: **another one**, **the other one**, **the one on the table**.\n\n## ones = plural\n> I don't like the old shoes. I like the new **ones**.\n> Which keys are yours? **The ones** on the table.\nAfter **these / those** we usually don't say *ones*: *Which do you want, these or those?*\n\n## Do not use one / ones\n- with uncountable nouns (milk, money): *Is there any milk? — Yes, some.*\n\n## Common mistakes\n- ~~I like the green ones coat.~~ → I like the green **one**.\n- ~~I want these ones.~~ → I want **these**.",
+  "structure": "## Схема\n| Вместо | Пишем | Пример |\n|---|---|---|\n| a / an + noun | one | Have you got a pen? — Yes, I've got **one**. |\n| the + adj + noun (ед.) | the + adj + one | the red one |\n| the + adj + noun (мн.) | the + adj + ones | the red ones |\n| some + adj + noun (мн.) | some + adj + ones | some new ones |\n| a + adj + noun | a + adj + one | a clean one |\n\n## Формула\n> **this / that / the other / another** + **one**\n> **the** + прилагательное + **one / ones**\n> **the one(s)** + место / who / which: *the ones in the box*\n\n## Вопросы\n> Which **one** do you want? · Which **ones** do you like?\n> — Which hotel? — **The one** near the station.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Ответьте с one",
+      "instruction": "Вставьте **one** в ответ (не повторяйте существительное).",
+      "items": [
+        {
+          "text": "— Can you lend me a pen? — Sorry, I haven't got {{one}}."
+        },
+        {
+          "text": "— Do you need a bag? — Yes, I'd like {{one}}, please."
+        },
+        {
+          "text": "— Is there a café near here? — Yes, there's {{one}} in Park Street."
+        },
+        {
+          "text": "— Have you got an umbrella? — No, I haven't got {{one}}."
+        },
+        {
+          "text": "— Do you want a sandwich? — No, thanks. I've just had {{one}}."
+        },
+        {
+          "text": "— Is there a pharmacy in this street? — Yes, there's {{one}} next to the bank."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "one или ones?",
+      "instruction": "Вставьте **one** или **ones**.",
+      "items": [
+        {
+          "text": "I don't like the black shoes, but I like the brown {{ones}}."
+        },
+        {
+          "text": "This phone is old. I want a new {{one}}."
+        },
+        {
+          "text": "These apples are bad. Can I have some fresh {{ones}}?"
+        },
+        {
+          "text": "Which dress do you like? The red {{one}}."
+        },
+        {
+          "text": "Which keys are yours? The {{ones}} on the table."
+        },
+        {
+          "text": "My cups are dirty. Where are the clean {{ones}}?"
+        },
+        {
+          "text": "That film was good. Let's watch another {{one}}."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I like this jacket, but I don't like that ___.",
+          "options": [
+            "ones",
+            "one",
+            "jacket one"
+          ],
+          "answer": 1,
+          "why": "jacket — ед. число → **one**."
+        },
+        {
+          "q": "These bananas are too green. I want ripe ___.",
+          "options": [
+            "one",
+            "ones",
+            "a one"
+          ],
+          "answer": 1,
+          "why": "bananas — мн. число → **ones**."
+        },
+        {
+          "q": "Which house is yours? ___ with the blue door.",
+          "options": [
+            "The one",
+            "The ones",
+            "One"
+          ],
+          "answer": 0,
+          "why": "house — ед. число → **the one**."
+        },
+        {
+          "q": "Which of these shoes do you like? — ___.",
+          "options": [
+            "These one",
+            "These",
+            "This ones"
+          ],
+          "answer": 1,
+          "why": "После these обычно без ones."
+        },
+        {
+          "q": "My phone is broken. I need a new ___.",
+          "options": [
+            "ones",
+            "one",
+            "some"
+          ],
+          "answer": 1,
+          "why": "ед. число → **one**."
+        },
+        {
+          "q": "I don't like the big bags. I like the small ___.",
+          "options": [
+            "one",
+            "ones",
+            "a one"
+          ],
+          "answer": 1,
+          "why": "bags — мн. число → **ones**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "I have two cars. The red ones is fast.",
+            "I have two cars. The red one is fast.",
+            "I have two cars. The red ones are one fast."
+          ],
+          "answer": 1,
+          "why": "Одна машина — **the red one is**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Do you want a coffee? — Yes, I'd like one.",
+            "Do you want a coffee? — Yes, I'd like ones.",
+            "Do you want a coffee? — Yes, I'd like a one."
+          ],
+          "answer": 0,
+          "why": "a coffee → **one**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "I like these books but not those one.",
+            "I like these books but not those.",
+            "I like these books but not that."
+          ],
+          "answer": 1,
+          "why": "После those обычно без ones."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Which one do you want?",
+            "Which ones do you want? (про одну вещь)",
+            "Which one books do you want?"
+          ],
+          "answer": 0,
+          "why": "Про одну вещь — **Which one?**"
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Замените существительное на **one** / **ones**.",
+      "items": [
+        {
+          "prompt": "(I like the white shirt / not the grey shirt)",
+          "answers": [
+            "I like the white shirt, but not the grey one.",
+            "I like the white shirt but not the grey one."
+          ]
+        },
+        {
+          "prompt": "(These cakes are old / I want some fresh cakes)",
+          "answers": [
+            "I want some fresh ones.",
+            "These cakes are old. I want some fresh ones."
+          ]
+        },
+        {
+          "prompt": "(Which car is yours? / the car in front of the house)",
+          "answers": [
+            "The one in front of the house.",
+            "The one in front of the house is mine."
+          ]
+        },
+        {
+          "prompt": "(My bag is old / I want a new bag)",
+          "answers": [
+            "I want a new one.",
+            "My bag is old. I want a new one."
+          ]
+        },
+        {
+          "prompt": "(Which shoes are yours? / the shoes by the door)",
+          "answers": [
+            "The ones by the door.",
+            "The ones by the door are mine."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя **one / ones**. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Какую одежду вы любите? Цвет.",
+          "sample": "I like the black ones. / I like the blue one."
+        },
+        {
+          "prompt": "Что вам нужно купить?",
+          "sample": "I need a new phone. I want a big one."
+        },
+        {
+          "prompt": "Какой у вас любимый кафе / магазин?",
+          "sample": "My favourite café is the one near my house."
+        }
+      ]
+    }
+  ]
+}

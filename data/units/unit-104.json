@@ -1,0 +1,336 @@
+{
+  "id": 104,
+  "title": "on at by with about (prepositions)",
+  "summary": "Частые предлоги в устойчивых выражениях: **on holiday, at the weekend, by car, with a pen, about a film, for / of**.",
+  "ru": "## Одни и те же предлоги, разные значения\nМногие выражения с предлогами надо просто выучить. Посмотрим самые частые.\n\n## on\n- **on holiday / on a trip / on a tour** — в отпуске, в поездке\n- **on TV / on the radio / on the phone / on the internet** — по ТВ, по радио, по телефону, в интернете\n- **on foot** — пешком\n- **on Monday / on 5 May** — в понедельник, 5 мая\n> We're **on holiday** in Spain. — Мы в отпуске в Испании.\n> I saw it **on TV**. — Я видела это по телевизору.\n\n## at\n- **at the weekend** (брит.), **at night, at Christmas, at 5 o'clock**\n- **at the age of 20**\n> I don't work **at the weekend**. — Я не работаю в выходные.\n\n## by\n- способ передвижения: **by car, by bus, by train, by plane, by bike, by taxi, by boat**\n- **by post / by email** — почтой, по электронной почте\n- **by Dickens / by Picasso** — автор: «написано Диккенсом»\n> We travel **by train**. — Мы ездим поездом.\n> Who is this book **by**? — Кто автор этой книги?\nНо: **on foot** (не ~~by foot~~).\n\n## with\n- **with** + чем / с кем: *I write **with** a pen. She's **with** her friends.*\n- **a man with a beard** — мужчина с бородой\n\n## about\n- **about** = о, про: *a book **about** animals; a film **about** love; talk **about** your day*.\n\n## for и of\n- **for** — для: *a present **for** you*; **for** — в течение: *for two days*.\n- **of** — принадлежность / часть: *a photo **of** my family*.\n\n## Типичные ошибки\n- ~~We came by foot.~~ → We came **on foot**.\n- ~~I go to school with the bus.~~ → I go to school **by** bus.\n- ~~We're in holiday.~~ → We're **on** holiday.\n- ~~I saw it in TV.~~ → I saw it **on** TV.",
+  "en": "## Same prepositions, different uses\nMany expressions with prepositions must be learnt as a whole.\n\n## on\n- **on holiday / on a trip / on a tour**\n- **on TV / on the radio / on the phone / on the internet**\n- **on foot**\n- **on Monday / on 5 May**\n> We're **on holiday** in Spain.\n> I saw it **on TV**.\n\n## at\n- **at the weekend, at night, at Christmas, at 5 o'clock**\n- **at the age of 20**\n\n## by\n- transport: **by car, by bus, by train, by plane, by bike, by taxi**\n- **by post / by email**\n- the author: **a book by Dickens**\n> We travel **by train**. Who is this book **by**?\nBut: **on foot** (not ~~by foot~~).\n\n## with\n- **with** a tool or a person: *I write **with** a pen. She's **with** her friends.*\n- **a man with a beard**\n\n## about\n- **about** = on the subject of: *a book **about** animals; a film **about** love*.\n\n## for and of\n- **for**: *a present **for** you; for two days*.\n- **of**: *a photo **of** my family*.\n\n## Common mistakes\n- ~~We came by foot.~~ → We came **on foot**.\n- ~~We're in holiday.~~ → We're **on** holiday.\n- ~~I go to school with the bus.~~ → I go to school **by** bus.",
+  "structure": "## Таблица выражений\n| Предлог | Выражения |\n|---|---|\n| **on** | on holiday, on a trip, on TV, on the radio, on the phone, on foot, on Monday |\n| **at** | at the weekend, at night, at Christmas, at five o'clock |\n| **by** | by car / bus / train / plane / bike, by post, by email, a book by ... |\n| **with** | with a pen, with a friend, a man with a beard |\n| **about** | a film about ..., talk about ..., think about ... |\n| **for** | a present for ..., for two weeks |\n| **of** | a photo of ..., a cup of tea |\n\n## Формулы\n> travel / go **by** + транспорт (без артикля): *by bus*\n> **on** + the + средство: *on the bus* (в конкретном автобусе)\n\n## Запомните\n- **by bus** (способ) — **on the bus** (в автобусе, место).\n- **on foot** — единственное исключение: не by.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "on, at, by, with, about",
+      "instruction": "Вставьте нужный предлог.",
+      "items": [
+        {
+          "text": "We travelled to Moscow {{by}} train."
+        },
+        {
+          "text": "They're {{on}} holiday in Greece."
+        },
+        {
+          "text": "I don't work {{at|on}} the weekend."
+        },
+        {
+          "text": "She cut the bread {{with}} a sharp knife."
+        },
+        {
+          "text": "This is a film {{about}} a famous singer."
+        },
+        {
+          "text": "Do you often talk to your friends {{on}} the phone?"
+        },
+        {
+          "text": "Who is this painting {{by}}? — It's by Picasso."
+        },
+        {
+          "text": "It's a nice day. Let's go {{on}} foot."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Предлог или нет?",
+      "instruction": "Вставьте **on, at, by, with, for, of, about**.",
+      "items": [
+        {
+          "text": "I bought this present {{for}} my mother."
+        },
+        {
+          "text": "Can I pay {{by}} card?"
+        },
+        {
+          "text": "Look at that man {{with}} a big dog."
+        },
+        {
+          "text": "We're having a party {{at}} Christmas."
+        },
+        {
+          "text": "I've got a photo {{of}} my family."
+        },
+        {
+          "text": "She's been {{on}} a trip to Italy."
+        },
+        {
+          "text": "I'm reading an interesting book {{about}} space."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "We went to the beach ___ bus.",
+          "options": [
+            "by",
+            "on",
+            "with"
+          ],
+          "answer": 0,
+          "why": "Способ передвижения без артикля — **by bus**."
+        },
+        {
+          "q": "He came to the office ___ foot today.",
+          "options": [
+            "by",
+            "on",
+            "with"
+          ],
+          "answer": 1,
+          "why": "Исключение: **on foot**."
+        },
+        {
+          "q": "I saw a great programme ___ TV.",
+          "options": [
+            "on",
+            "at",
+            "in"
+          ],
+          "answer": 0,
+          "why": "**on TV**."
+        },
+        {
+          "q": "She is ___ holiday until Friday.",
+          "options": [
+            "at",
+            "on",
+            "in"
+          ],
+          "answer": 1,
+          "why": "**on holiday**."
+        },
+        {
+          "q": "Do you like writing ___ a pencil?",
+          "options": [
+            "by",
+            "on",
+            "with"
+          ],
+          "answer": 2,
+          "why": "Инструмент → **with**."
+        },
+        {
+          "q": "This is a letter ___ my grandmother.",
+          "options": [
+            "by",
+            "from",
+            "for"
+          ],
+          "answer": 1,
+          "why": "Письмо от бабушки — **from**."
+        },
+        {
+          "q": "I always stay at home ___ night.",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "answer": 2,
+          "why": "**at night**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Мы приехали на машине»?",
+          "options": [
+            "We came with car.",
+            "We came by car.",
+            "We came on car."
+          ],
+          "answer": 1,
+          "why": "**by car**."
+        },
+        {
+          "q": "Как сказать «Он автор этой книги» (Книга написана им)?",
+          "options": [
+            "The book is by him.",
+            "The book is with him.",
+            "The book is about him."
+          ],
+          "answer": 0,
+          "why": "Автор → **by**."
+        },
+        {
+          "q": "Как сказать «Мы в отпуске»?",
+          "options": [
+            "We're in holiday.",
+            "We're at holiday.",
+            "We're on holiday."
+          ],
+          "answer": 2,
+          "why": "**on holiday**."
+        },
+        {
+          "q": "Как сказать «Я позвонила ему по телефону»?",
+          "options": [
+            "I spoke to him on the phone.",
+            "I spoke to him by the phone.",
+            "I spoke to him in phone."
+          ],
+          "answer": 0,
+          "why": "**on the phone**."
+        },
+        {
+          "q": "Как сказать «Фильм о собаке»?",
+          "options": [
+            "a film of a dog",
+            "a film about a dog",
+            "a film for a dog"
+          ],
+          "answer": 1,
+          "why": "Тема → **about**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение со словами в скобках.",
+      "items": [
+        {
+          "prompt": "(we / go / to work / by bus)",
+          "answers": [
+            "We go to work by bus.",
+            "We went to work by bus.",
+            "We're going to work by bus.",
+            "We are going to work by bus."
+          ]
+        },
+        {
+          "prompt": "(my parents / on holiday / now)",
+          "answers": [
+            "My parents are on holiday now.",
+            "My parents are on holiday now"
+          ]
+        },
+        {
+          "prompt": "(I / see / the news / on TV)",
+          "answers": [
+            "I see the news on TV.",
+            "I saw the news on TV."
+          ]
+        },
+        {
+          "prompt": "(she / write / with / a red pen)",
+          "answers": [
+            "She writes with a red pen.",
+            "She wrote with a red pen.",
+            "She is writing with a red pen.",
+            "She's writing with a red pen."
+          ]
+        },
+        {
+          "prompt": "(this book / be / about / animals)",
+          "answers": [
+            "This book is about animals.",
+            "This book's about animals."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        {
+          "prompt": "Я езжу на работу на поезде.",
+          "answers": [
+            "I go to work by train.",
+            "I travel to work by train.",
+            "I get to work by train.",
+            "I go to work on the train.",
+            "I go to work on a train."
+          ]
+        },
+        {
+          "prompt": "Они пошли домой пешком.",
+          "answers": [
+            "They walked home.",
+            "They went home on foot.",
+            "They came home on foot.",
+            "They walked home on foot."
+          ]
+        },
+        {
+          "prompt": "Она сейчас в отпуске.",
+          "answers": [
+            "She's on holiday now.",
+            "She is on holiday now.",
+            "Now she's on holiday.",
+            "Now she is on holiday.",
+            "She's on vacation now.",
+            "She is on vacation now."
+          ]
+        },
+        {
+          "prompt": "Мы поговорили по телефону.",
+          "answers": [
+            "We talked on the phone.",
+            "We spoke on the phone.",
+            "We talked on the telephone.",
+            "We spoke on the telephone."
+          ]
+        },
+        {
+          "prompt": "Это подарок для моей сестры.",
+          "answers": [
+            "This is a present for my sister.",
+            "It's a present for my sister.",
+            "It is a present for my sister.",
+            "This is a gift for my sister.",
+            "It's a gift for my sister.",
+            "It is a gift for my sister."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "How do you get to work or school?",
+          "sample": "I go to school by bus."
+        },
+        {
+          "prompt": "What do you do at the weekend?",
+          "sample": "At the weekend I meet my friends and watch films."
+        },
+        {
+          "prompt": "What do you like to watch on TV or the internet?",
+          "sample": "I like to watch films about travel on the internet."
+        },
+        {
+          "prompt": "Where did you go on your last holiday?",
+          "sample": "I went on holiday to Issyk-Kul with my family."
+        }
+      ]
+    }
+  ]
+}

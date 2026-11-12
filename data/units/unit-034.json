@@ -1,0 +1,104 @@
+{
+  "id": 34,
+  "title": "I have to ...",
+  "summary": "**have to** — «нужно, приходится, обязан»: когда обстоятельства или правила заставляют что-то делать. Есть настоящее (have/has to) и прошедшее (had to).",
+  "ru": "## Что значит have to\n**have to + глагол** — «нужно, приходится, должен». Так мы говорим, когда что-то необходимо из-за обстоятельств, правил или расписания.\n> I have to get up at six. — Мне нужно вставать в шесть.\n> Jill has to work on Saturdays. — Джилл приходится работать по субботам.\n> You have to wear a uniform at school. — В школе нужно носить форму.\n\n## Настоящее: have to / has to\n- I / we / you / they → **have to**\n- he / she / it → **has to**\n> We have to wait here. — Нам нужно ждать здесь.\n> My brother has to study a lot. — Моему брату приходится много учиться.\n\n## Прошлое: had to\n> I had to walk home yesterday. — Вчера мне пришлось идти домой пешком.\n> She had to leave early. — Ей пришлось уйти пораньше.\nОдна форма для всех лиц.\n\n## Вопросы и отрицания: do / does / did\nВ вопросах и отрицаниях добавляем вспомогательный глагол.\n> Do you have to work today? — Тебе нужно сегодня работать?\n> Does Tom have to wear a suit? — Тому нужно носить костюм?\n> Why did they have to leave? — Почему им пришлось уйти?\n> I don't have to get up early. — Мне не нужно рано вставать.\n> She doesn't have to pay. — Ей не нужно платить.\n> We didn't have to wait. — Нам не пришлось ждать.\n\n## don't have to и mustn't — разные вещи!\n> You **don't have to** come. — Ты не обязан приходить. (можно прийти, можно нет)\n> You **mustn't** come. — Тебе нельзя приходить. (запрет)\n\n## Типичные ошибки\n- ~~He have to go.~~ → He **has to** go.\n- ~~Do you have to went?~~ → Do you have to **go**?\n- ~~I didn't had to work.~~ → I didn't **have to** work.\n- ~~Does she has to work?~~ → Does she **have to** work?\n- ~~I haven't to go.~~ → I **don't have to** go.",
+  "en": "## What does have to mean?\nWe use **have to + verb** when it is necessary to do something because of rules, a situation or a timetable.\n> I have to get up at six.\n> Jill has to work on Saturdays.\n> You have to wear a uniform at school.\n\n## Present: have to / has to\n- I / we / you / they → **have to**\n- he / she / it → **has to**\n> We have to wait here.\n> My brother has to study a lot.\n\n## Past: had to\n> I had to walk home yesterday.\n> She had to leave early.\nThe form is the same for all persons.\n\n## Questions and negatives: do / does / did\n> Do you have to work today?\n> Does Tom have to wear a suit?\n> Why did they have to leave?\n> I don't have to get up early.\n> She doesn't have to pay.\n> We didn't have to wait.\n\n## don't have to and mustn't are different\n> You **don't have to** come. (it is not necessary)\n> You **mustn't** come. (it is forbidden)\n\n## Common mistakes\n- ~~He have to go.~~ → He **has to** go.\n- ~~I didn't had to work.~~ → I didn't **have to** work.\n- ~~Does she has to work?~~ → Does she **have to** work?\n- ~~I haven't to go.~~ → I **don't have to** go.",
+  "structure": "## Утверждение\n| Время | Подлежащее | Форма |\n|---|---|---|\n| Настоящее | I / we / you / they | have to + глагол |\n| Настоящее | he / she / it | has to + глагол |\n| Прошедшее | все лица | had to + глагол |\n\n## Вопрос\n| Время | Форма | Пример |\n|---|---|---|\n| Настоящее | Do + I/we/you/they + have to ...? | Do you have to go? |\n| Настоящее | Does + he/she/it + have to ...? | Does he have to go? |\n| Прошедшее | Did + подлежащее + have to ...? | Did she have to go? |\n\n## Отрицание\n| Время | Форма | Пример |\n|---|---|---|\n| Настоящее | don't / doesn't + have to | I don't have to wait. |\n| Прошедшее | didn't + have to | We didn't have to pay. |\n\n## Краткие ответы\n> Do you have to work? — Yes, I do. / No, I don't.\n> Does he have to go? — Yes, he does. / No, he doesn't.\n> Did you have to wait? — Yes, I did. / No, I didn't.\n\n## Запомните\n- после do/does/did глагол **have** в начальной форме;\n- **don't have to** = не обязательно; **mustn't** = нельзя.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "have to, has to или had to",
+      "instruction": "Вставьте **have to**, **has to** или **had to**.",
+      "items": [
+        { "text": "My sister {{has to}} get up at five every day." },
+        { "text": "We {{have to}} wear masks in the hospital." },
+        { "text": "Yesterday I {{had to}} wait for the bus for an hour." },
+        { "text": "Tom {{has to}} study a lot for his exams." },
+        { "text": "Last week they {{had to}} move to a new office." },
+        { "text": "You {{have to}} show your ticket at the gate." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вопросы и отрицания",
+      "instruction": "Вставьте **do / does / did / don't / doesn't / didn't**.",
+      "items": [
+        { "text": "{{Do}} you have to work on Sundays?" },
+        { "text": "{{Does}} your brother have to wear a suit at work?" },
+        { "text": "I {{don't|do not}} have to get up early tomorrow. It's a holiday." },
+        { "text": "She {{doesn't|does not}} have to pay. It's free for students." },
+        { "text": "We {{didn't|did not}} have to wait long. The doctor was free." },
+        { "text": "Why {{did}} you have to leave the party early?" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "He ___ go to the bank today.", "options": ["have to", "has to", "has"], "answer": 1, "why": "he → **has to**." },
+        { "q": "___ you have to wake up early yesterday?", "options": ["Do", "Did", "Does"], "answer": 1, "why": "yesterday → **Did**." },
+        { "q": "She ___ have to cook. Her husband cooks.", "options": ["don't", "doesn't", "hasn't"], "answer": 1, "why": "she → **doesn't have to**." },
+        { "q": "I ___ to stay at home last night because I was ill.", "options": ["have", "had", "has"], "answer": 1, "why": "last night → **had to**." },
+        { "q": "What time ___ you have to be at work?", "options": ["do", "does", "did you"], "answer": 0, "why": "Настоящее, you → **do**." },
+        { "q": "They ___ have to pay. It's free.", "options": ["doesn't", "don't", "hasn't"], "answer": 1, "why": "they → **don't have to**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "have to или must",
+      "instruction": "Выберите предложение, которое подходит по смыслу и верно по форме.",
+      "items": [
+        { "q": "Вы не обязаны приходить (можно прийти, а можно нет).", "options": ["You don't have to come.", "You mustn't come.", "You haven't to come."], "answer": 0, "why": "Не обязательно → **don't have to**." },
+        { "q": "Здесь нельзя парковаться.", "options": ["You don't have to park here.", "You mustn't park here.", "You hasn't to park here."], "answer": 1, "why": "Запрет → **mustn't**." },
+        { "q": "Вчера нам пришлось платить.", "options": ["We had to pay yesterday.", "We must pay yesterday.", "We have to paid yesterday."], "answer": 0, "why": "О прошлом → **had to** (не must)." },
+        { "q": "Ему приходится много работать.", "options": ["He have to work a lot.", "He has to work a lot.", "He has to works a lot."], "answer": 1, "why": "he → has to + глагол без -s." },
+        { "q": "Какой вопрос верный?", "options": ["Does she has to go?", "Does she have to go?", "Has she to go?"], "answer": 1, "why": "После does — **have** без -s." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение или вопрос из слов.",
+      "items": [
+        { "prompt": "(I / have to / go / to the dentist / tomorrow)", "answers": ["I have to go to the dentist tomorrow.", "Tomorrow I have to go to the dentist."] },
+        { "prompt": "(Ann / has to / work / on Saturdays)", "answers": ["Ann has to work on Saturdays."] },
+        { "prompt": "(you / have to / wear / a uniform / ?)", "answers": ["Do you have to wear a uniform?"] },
+        { "prompt": "(we / didn't / have to / wait)", "answers": ["We didn't have to wait."] },
+        { "prompt": "(why / she / have to / leave / yesterday / ?)", "answers": ["Why did she have to leave yesterday?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **have to / has to / had to**.",
+      "items": [
+        { "prompt": "Мне нужно рано вставать.", "answers": ["I have to get up early."] },
+        { "prompt": "Ей не нужно готовить сегодня.", "answers": ["She doesn't have to cook today.", "She doesn't have to cook.", "Today she doesn't have to cook."] },
+        { "prompt": "Вчера мне пришлось остаться дома.", "answers": ["I had to stay at home yesterday.", "I had to stay home yesterday.", "Yesterday I had to stay at home.", "Yesterday I had to stay home."] },
+        { "prompt": "Тебе нужно работать по субботам?", "answers": ["Do you have to work on Saturdays?", "Do you have to work on Saturday?"] },
+        { "prompt": "Нам не пришлось долго ждать.", "answers": ["We didn't have to wait long.", "We didn't have to wait for a long time.", "We didn't have to wait a long time."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте о себе полными предложениями. Проверьте по образцу.",
+      "items": [
+        { "prompt": "What time do you have to get up on weekdays?", "sample": "I have to get up at seven o'clock." },
+        { "prompt": "Something you have to do every day", "sample": "I have to take the bus to work." },
+        { "prompt": "Something you don't have to do at the weekend", "sample": "I don't have to go to work at the weekend." },
+        { "prompt": "Something you had to do yesterday", "sample": "I had to buy some food yesterday." },
+        { "prompt": "A question to ask a friend about his or her job", "sample": "Do you have to work on Saturdays?" }
+      ]
+    }
+  ]
+}

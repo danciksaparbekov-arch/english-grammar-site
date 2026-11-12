@@ -13,12 +13,42 @@
       "instruction": "Составьте вопрос **Have you ever ...?** из слов в скобках.",
       "example": "(visit / Japan) → Have you ever visited Japan?",
       "items": [
-        { "prompt": "(be / to Spain)", "answers": ["Have you ever been to Spain?"] },
-        { "prompt": "(eat / Thai food)", "answers": ["Have you ever eaten Thai food?"] },
-        { "prompt": "(lose / your keys)", "answers": ["Have you ever lost your keys?"] },
-        { "prompt": "(ride / a horse)", "answers": ["Have you ever ridden a horse?"] },
-        { "prompt": "(break / your arm)", "answers": ["Have you ever broken your arm?"] },
-        { "prompt": "(meet / a famous person)", "answers": ["Have you ever met a famous person?"] }
+        {
+          "prompt": "(be / to Spain)",
+          "answers": [
+            "Have you ever been to Spain?"
+          ]
+        },
+        {
+          "prompt": "(eat / Thai food)",
+          "answers": [
+            "Have you ever eaten Thai food?"
+          ]
+        },
+        {
+          "prompt": "(lose / your keys)",
+          "answers": [
+            "Have you ever lost your keys?"
+          ]
+        },
+        {
+          "prompt": "(ride / a horse)",
+          "answers": [
+            "Have you ever ridden a horse?"
+          ]
+        },
+        {
+          "prompt": "(break / your arm)",
+          "answers": [
+            "Have you ever broken your arm?"
+          ]
+        },
+        {
+          "prompt": "(meet / a famous person)",
+          "answers": [
+            "Have you ever met a famous person?"
+          ]
+        }
       ]
     },
     {
@@ -27,12 +57,30 @@
       "title": "Present perfect: поставьте глагол",
       "instruction": "Поставьте глагол в скобках в present perfect.",
       "items": [
-        { "text": "My brother {{has travelled|has traveled}} to many countries.", "hint": "travel" },
-        { "text": "I {{have never seen|'ve never seen}} snow.", "hint": "never / see" },
-        { "text": "{{Has}} she ever {{written}} a poem?", "hint": "have / write" },
-        { "text": "We {{have visited|'ve visited}} that museum three times.", "hint": "visit" },
-        { "text": "They {{have never been|'ve never been}} to Moscow.", "hint": "never / be" },
-        { "text": "How many books {{have}} you {{read}} this year?", "hint": "have / read" }
+        {
+          "text": "My brother {{has travelled|has traveled}} to many countries.",
+          "hint": "travel"
+        },
+        {
+          "text": "I {{have never seen|'ve never seen}} snow.",
+          "hint": "never / see"
+        },
+        {
+          "text": "{{Has}} she ever {{written}} a poem?",
+          "hint": "have / write"
+        },
+        {
+          "text": "We {{have visited|'ve visited}} that museum three times.",
+          "hint": "visit"
+        },
+        {
+          "text": "They {{have never been|'ve never been}} to Moscow.",
+          "hint": "never / be"
+        },
+        {
+          "text": "How many books {{have}} you {{read}} this year?",
+          "hint": "have / read"
+        }
       ]
     },
     {
@@ -41,11 +89,51 @@
       "title": "been или gone?",
       "instruction": "Выберите **been** или **gone**.",
       "items": [
-        { "q": "Where is Kate? — She has ___ to the shop. She'll be back soon.", "options": ["been", "gone"], "answer": 1, "why": "Её сейчас нет, она в магазине — **gone**." },
-        { "q": "Hi, Tom! Where have you ___?", "options": ["been", "gone"], "answer": 0, "why": "Он уже вернулся, он здесь — **been**." },
-        { "q": "I have never ___ to Africa.", "options": ["gone", "been"], "answer": 1, "why": "Опыт «бывал/не бывал» — **been**." },
-        { "q": "My parents have ___ to Turkey. They are on the beach now.", "options": ["been", "gone"], "answer": 1, "why": "Они там сейчас — **gone**." },
-        { "q": "Have you ever ___ to a concert?", "options": ["gone", "been"], "answer": 1, "why": "Вопрос об опыте — **been**." }
+        {
+          "q": "Where is Kate? — She has ___ to the shop. She'll be back soon.",
+          "options": [
+            "been",
+            "gone"
+          ],
+          "answer": 1,
+          "why": "Её сейчас нет, она в магазине — **gone**."
+        },
+        {
+          "q": "Hi, Tom! Where have you ___?",
+          "options": [
+            "been",
+            "gone"
+          ],
+          "answer": 0,
+          "why": "Он уже вернулся, он здесь — **been**."
+        },
+        {
+          "q": "I have never ___ to Africa.",
+          "options": [
+            "gone",
+            "been"
+          ],
+          "answer": 1,
+          "why": "Опыт «бывал/не бывал» — **been**."
+        },
+        {
+          "q": "My parents have ___ to Turkey. They are on the beach now.",
+          "options": [
+            "been",
+            "gone"
+          ],
+          "answer": 1,
+          "why": "Они там сейчас — **gone**."
+        },
+        {
+          "q": "Have you ever ___ to a concert?",
+          "options": [
+            "gone",
+            "been"
+          ],
+          "answer": 1,
+          "why": "Вопрос об опыте — **been**."
+        }
       ]
     },
     {
@@ -54,12 +142,66 @@
       "title": "Выберите правильный вариант",
       "instruction": "Выберите один вариант.",
       "items": [
-        { "q": "I ___ a bike, but I've never ridden a motorbike.", "options": ["have ridden", "rode yesterday", "am riding"], "answer": 0, "why": "Опыт в жизни → present perfect." },
-        { "q": "___ ever tried Indian food?", "options": ["Did you", "Have you", "Are you"], "answer": 1, "why": "**Have you ever + причастие.**" },
-        { "q": "I've ___ lied to my mother.", "options": ["ever", "never", "not never"], "answer": 1, "why": "**never** — «никогда», второго отрицания нет." },
-        { "q": "I've read this book ___.", "options": ["twice", "two", "second"], "answer": 0, "why": "**twice** = два раза." },
-        { "q": "She ___ in a big city. She lives in a village.", "options": ["has never lived", "never has lived", "has lived never"], "answer": 0, "why": "**never** между have/has и причастием." },
-        { "q": "I ___ to Paris last summer.", "options": ["have been", "went", "have gone"], "answer": 1, "why": "С «last summer» — past simple." }
+        {
+          "q": "I ___ a bike, but I've never ridden a motorbike.",
+          "options": [
+            "have ridden",
+            "rode yesterday",
+            "am riding"
+          ],
+          "answer": 0,
+          "why": "Опыт в жизни → present perfect."
+        },
+        {
+          "q": "___ ever tried Indian food?",
+          "options": [
+            "Did you",
+            "Have you",
+            "Are you"
+          ],
+          "answer": 1,
+          "why": "**Have you ever + причастие.**"
+        },
+        {
+          "q": "I've ___ lied to my mother.",
+          "options": [
+            "ever",
+            "never",
+            "not never"
+          ],
+          "answer": 1,
+          "why": "**never** — «никогда», второго отрицания нет."
+        },
+        {
+          "q": "I've read this book ___.",
+          "options": [
+            "twice",
+            "two",
+            "second"
+          ],
+          "answer": 0,
+          "why": "**twice** = два раза."
+        },
+        {
+          "q": "She ___ in a big city. She lives in a village.",
+          "options": [
+            "has never lived",
+            "never has lived",
+            "has lived never"
+          ],
+          "answer": 0,
+          "why": "**never** между have/has и причастием."
+        },
+        {
+          "q": "I ___ to Paris last summer.",
+          "options": [
+            "have been",
+            "went",
+            "have gone"
+          ],
+          "answer": 1,
+          "why": "С «last summer» — past simple."
+        }
       ]
     },
     {
@@ -68,12 +210,24 @@
       "title": "Краткие ответы",
       "instruction": "Допишите краткие ответы.",
       "items": [
-        { "text": "Have you ever been to London? — No, I {{haven't|have not}}." },
-        { "text": "Has your friend ever lost his passport? — Yes, he {{has}}." },
-        { "text": "Have they ever met you? — No, they {{haven't|have not}}." },
-        { "text": "Have you ever flown in a plane? — Yes, I {{have}}." },
-        { "text": "Has it ever snowed in May there? — No, it {{hasn't|has not}}." },
-        { "text": "How many times have you seen this film? — {{Twice}}." }
+        {
+          "text": "Have you ever been to London? — No, I {{haven't|have not}}."
+        },
+        {
+          "text": "Has your friend ever lost his passport? — Yes, he {{has}}."
+        },
+        {
+          "text": "Have they ever met you? — No, they {{haven't|have not}}."
+        },
+        {
+          "text": "Have you ever flown in a plane? — Yes, I {{have}}."
+        },
+        {
+          "text": "Has it ever snowed in May there? — No, it {{hasn't|has not}}."
+        },
+        {
+          "text": "How many times have you seen this film? — {{Twice}}."
+        }
       ]
     },
     {
@@ -82,11 +236,41 @@
       "title": "Переведите на английский",
       "instruction": "Переведите, используя present perfect.",
       "items": [
-        { "prompt": "Я никогда не была в Лондоне.", "answers": ["I've never been to London.", "I have never been to London."] },
-        { "prompt": "Ты когда-нибудь пробовала суши?", "answers": ["Have you ever tried sushi?", "Have you ever eaten sushi?"] },
-        { "prompt": "Он дважды был в Турции.", "answers": ["He has been to Turkey twice.", "He's been to Turkey twice."] },
-        { "prompt": "Мария уехала в Испанию (она сейчас там).", "answers": ["Maria has gone to Spain.", "Maria's gone to Spain."] },
-        { "prompt": "Мы никогда не видели это животное.", "answers": ["We've never seen this animal.", "We have never seen this animal."] }
+        {
+          "prompt": "Я никогда не была в Лондоне.",
+          "answers": [
+            "I've never been to London.",
+            "I have never been to London."
+          ]
+        },
+        {
+          "prompt": "Ты когда-нибудь пробовала суши?",
+          "answers": [
+            "Have you ever tried sushi?",
+            "Have you ever eaten sushi?"
+          ]
+        },
+        {
+          "prompt": "Он дважды был в Турции.",
+          "answers": [
+            "He has been to Turkey twice.",
+            "He's been to Turkey twice."
+          ]
+        },
+        {
+          "prompt": "Мария уехала в Испанию (она сейчас там).",
+          "answers": [
+            "Maria has gone to Spain.",
+            "Maria's gone to Spain."
+          ]
+        },
+        {
+          "prompt": "Мы никогда не видели это животное.",
+          "answers": [
+            "We've never seen this animal.",
+            "We have never seen this animal."
+          ]
+        }
       ]
     },
     {
@@ -95,11 +279,26 @@
       "title": "Напишите о себе",
       "instruction": "Ответьте полными предложениями о своём опыте.",
       "items": [
-        { "prompt": "В какой стране вы были?", "sample": "I've been to Turkey and Kazakhstan." },
-        { "prompt": "Что вы никогда не делали, но хотели бы?", "sample": "I've never flown in a helicopter, but I'd like to." },
-        { "prompt": "Какую интересную еду вы пробовали?", "sample": "I've eaten sushi twice." },
-        { "prompt": "Сколько раз вы смотрели свой любимый фильм?", "sample": "I've seen my favourite film five times." },
-        { "prompt": "Задайте вопрос другу о его опыте.", "sample": "Have you ever climbed a mountain?" }
+        {
+          "prompt": "В какой стране вы были?",
+          "sample": "I've been to Turkey and Kazakhstan."
+        },
+        {
+          "prompt": "Что вы никогда не делали, но хотели бы?",
+          "sample": "I've never flown in a helicopter."
+        },
+        {
+          "prompt": "Какую интересную еду вы пробовали?",
+          "sample": "I've eaten sushi twice."
+        },
+        {
+          "prompt": "Сколько раз вы смотрели свой любимый фильм?",
+          "sample": "I've seen my favourite film five times."
+        },
+        {
+          "prompt": "Задайте вопрос другу о его опыте.",
+          "sample": "Have you ever climbed a mountain?"
+        }
       ]
     }
   ]

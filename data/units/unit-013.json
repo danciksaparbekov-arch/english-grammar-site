@@ -1,0 +1,105 @@
+{
+  "id": 13,
+  "title": "I was doing (past continuous)",
+  "summary": "Past continuous (**was / were + -ing**) — действие, которое **было в процессе** в определённый момент прошлого: «я как раз делал ...».",
+  "ru": "## Когда используем\nPast continuous описывает действие, **которое шло (продолжалось) в определённый момент в прошлом**. Вспомните вопрос «Что ты делал в 8 вечера?» — «Я смотрел фильм».\n> At 4 o'clock Sarah **was playing** tennis. — В 4 часа Сара играла в теннис.\n> What **were** you **doing** at 11.30 yesterday? — Что ты делал вчера в 11.30?\n> In 1985 we **were living** in Canada. — В 1985 году мы жили в Канаде.\nВажно: мы не говорим, когда действие началось и закончилось — просто **оно шло** в тот момент.\n\n## Как образуется\n**was / were + глагол с -ing**\n- **was** — I / he / she / it\n- **were** — we / you / they\n> I **was working**. They **were watching** TV. It **was raining**.\nОтрицание: **wasn't / weren't + -ing**\n> I **wasn't listening**. — Я не слушал.\n> It **wasn't raining** when we went out. — Дождя не было, когда мы вышли.\nВопрос: **Was / Were + подлежащее + -ing?**\n> **Were** you **working**? — Ты работал?\n> What **were** you **doing**? — Что ты делал?\n\n## Сравните с настоящим\n> I'**m working** (now). → I **was working** at 10.30 last night.\n> What **are** you **doing**? → What **were** you **doing** at three o'clock?\n\n## Правила написания -ing\nТе же, что в unit 3: live → living, run → running, lie → lying.\n\n## Слова-подсказки\n**at 8 o'clock yesterday, at that time, this time last week, all morning**\n\n## Типичные ошибки\n- ~~I was work at 8.~~ → I **was working** at 8.\n- ~~We was watching TV.~~ → We **were** watching TV.\n- ~~They was playing.~~ → They **were** playing.\n- ~~Did you working?~~ → **Were** you working?\n- ~~He was comeing.~~ → He was **coming**.",
+  "en": "## When do we use it?\nWe use the past continuous for an action that **was in progress at a certain time in the past**.\n> At 4 o'clock Sarah **was playing** tennis.\n> What **were** you **doing** at 11.30 yesterday?\n> In 1985 we **were living** in Canada.\nWe are not saying when the action started or finished — only that it **was happening** at that time.\n\n## How to make it\n**was / were + verb-ing**\n- **was** — I / he / she / it\n- **were** — we / you / they\n> I **was working**. They **were watching** TV. It **was raining**.\nNegative: **wasn't / weren't + -ing**\n> I **wasn't listening**.\n> It **wasn't raining** when we went out.\nQuestion: **Was / Were + subject + -ing?**\n> **Were** you **working**?\n> What **were** you **doing**?\n\n## Compare with the present\n> I'**m working** (now). → I **was working** at 10.30 last night.\n> What **are** you **doing**? → What **were** you **doing** at three o'clock?\n\n## Time expressions\n**at 8 o'clock yesterday, at that time, this time last week, all morning**\n\n## Common mistakes\n- ~~I was work at 8.~~ → I **was working** at 8.\n- ~~We was watching TV.~~ → We **were** watching TV.\n- ~~Did you working?~~ → **Were** you working?",
+  "structure": "## Утверждение, отрицание, вопрос\n| Подлежащее | Утверждение | Отрицание | Вопрос |\n|---|---|---|---|\n| I | I was working | I wasn't working | Was I working? |\n| he / she / it | she was working | she wasn't working | Was she working? |\n| we / you / they | they were working | they weren't working | Were they working? |\n\n## Формулы\n> Подлежащее + **was / were** + глагол**-ing**\n> Подлежащее + **wasn't / weren't** + глагол**-ing**\n> (Слово) + **Was / Were** + подлежащее + глагол**-ing**?\n\n## Краткие ответы\n| Вопрос | Да | Нет |\n|---|---|---|\n| Was I / he / she / it ...-ing? | Yes, I / he / she / it **was**. | No, I / he / she / it **wasn't**. |\n| Were we / you / they ...-ing? | Yes, we / you / they **were**. | No, we / you / they **weren't**. |\n\n## Present continuous → Past continuous\n| Present | Past |\n|---|---|\n| am / is + -ing | **was** + -ing |\n| are + -ing | **were** + -ing |\n\n## Правила -ing\n- + ing: work → working\n- -e → убираем e: live → living\n- удвоение: run → running, sit → sitting\n- lie → lying\n\n## Слова времени\n**at 8 o'clock yesterday, at that time, this time last week, all day, while**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Где они были и что делали?",
+      "instruction": "Вчера в 3 часа дня. Поставьте глагол в past continuous.",
+      "items": [
+        { "text": "Ann was at home. She {{was watching}} TV.", "hint": "watch" },
+        { "text": "Carol and Jack were at the cinema. They {{were watching}} a film.", "hint": "watch" },
+        { "text": "Tom was in his car. He {{was driving}}.", "hint": "drive" },
+        { "text": "Catherine was at the station. She {{was waiting}} for a train.", "hint": "wait" },
+        { "text": "Mr and Mrs Hall were in the park. They {{were walking}}.", "hint": "walk" },
+        { "text": "I was at school. I {{was writing}} a test.", "hint": "write" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вопросы в past continuous",
+      "instruction": "Вставьте **was** или **were** и глагол в форме **-ing**.",
+      "items": [
+        { "text": "Where {{were}} you {{living}} in 1990?", "hint": "live" },
+        { "text": "What {{was}} Tom {{doing}} at 11 o'clock?", "hint": "do" },
+        { "text": "{{Were}} you {{working}} at 8 o'clock?", "hint": "work" },
+        { "text": "Why {{was}} she {{crying}}?", "hint": "cry" },
+        { "text": "What {{were}} the children {{playing}}?", "hint": "play" },
+        { "text": "{{Was}} it {{raining}} when you got up?", "hint": "rain" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "was или were?",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "It ___ raining, so we stayed at home.", "options": ["were", "was", "is"], "answer": 1, "why": "it → **was** raining." },
+        { "q": "The children ___ playing in the garden.", "options": ["was", "were", "are"], "answer": 1, "why": "the children = they → **were**." },
+        { "q": "I ___ listening. What did you say?", "options": ["wasn't", "weren't", "didn't"], "answer": 0, "why": "I → **wasn't** listening." },
+        { "q": "What ___ you doing at 9 last night?", "options": ["was", "did", "were"], "answer": 2, "why": "you → **were**." },
+        { "q": "At that time we ___ living in London.", "options": ["was", "were", "did"], "answer": 1, "why": "we → **were**." },
+        { "q": "She ___ wearing a hat yesterday.", "options": ["is", "was", "were"], "answer": 1, "why": "she + прошлое → **was**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант грамматически верный.",
+      "items": [
+        { "q": "Как сказать «В 8 вечера я смотрел ТВ»?", "options": ["At 8 I was watching TV.", "At 8 I watching TV.", "At 8 I were watching TV."], "answer": 0, "why": "I → **was** watching." },
+        { "q": "Как сказать «Они не спали»?", "options": ["They weren't sleeping.", "They wasn't sleeping.", "They didn't sleeping."], "answer": 0, "why": "they → **weren't** + -ing." },
+        { "q": "Как спросить «Ты работал в 10?»", "options": ["Did you working at 10?", "Was you working at 10?", "Were you working at 10?"], "answer": 2, "why": "you → **Were** + working." },
+        { "q": "Как сказать «Она бежала»?", "options": ["She was runing.", "She was running.", "She were running."], "answer": 1, "why": "run → **running**, she → was." },
+        { "q": "Как сказать «Шёл дождь»?", "options": ["It was raining.", "It were raining.", "It is raining."], "answer": 0, "why": "it → **was** raining." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Что она делала?",
+      "instruction": "Составьте предложение в past continuous.",
+      "items": [
+        { "prompt": "(at 9.45 / she / wash / her car)", "answers": ["At 9.45 she was washing her car.", "She was washing her car at 9.45."] },
+        { "prompt": "(at 11.45 / she / shop / in the market)", "answers": ["At 11.45 she was shopping in the market.", "She was shopping in the market at 11.45."] },
+        { "prompt": "(at 8 o'clock / they / have / dinner)", "answers": ["At 8 o'clock they were having dinner.", "They were having dinner at 8 o'clock."] },
+        { "prompt": "(at 6 o'clock / I / cook / dinner)", "answers": ["At 6 o'clock I was cooking dinner.", "I was cooking dinner at 6 o'clock."] },
+        { "prompt": "(we / not / watch / TV / at 9)", "answers": ["We weren't watching TV at 9.", "We were not watching TV at 9.", "At 9 we weren't watching TV.", "At 9 we were not watching TV."] },
+        { "prompt": "(it / not / rain / at that time)", "answers": ["It wasn't raining at that time.", "It was not raining at that time.", "At that time it wasn't raining.", "At that time it was not raining."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте past continuous.",
+      "items": [
+        { "prompt": "Я читал книгу в 9 вечера.", "answers": ["I was reading a book at 9 p.m.", "I was reading a book at 9.", "I was reading a book at nine.", "At 9 I was reading a book.", "At nine I was reading a book.", "At 9 p.m. I was reading a book.", "I was reading a book at 9 pm.", "I was reading a book at 9 o'clock in the evening.", "I was reading a book at nine o'clock in the evening."] },
+        { "prompt": "Что вы делали вчера в 5 часов?", "answers": ["What were you doing yesterday at 5 o'clock?", "What were you doing at 5 o'clock yesterday?", "What were you doing yesterday at 5?", "What were you doing at 5 yesterday?", "What were you doing yesterday at five?", "What were you doing at five yesterday?", "What were you doing yesterday at five o'clock?", "What were you doing at five o'clock yesterday?"] },
+        { "prompt": "Они не работали.", "answers": ["They weren't working.", "They were not working."] },
+        { "prompt": "Шёл снег.", "answers": ["It was snowing."] },
+        { "prompt": "Она ждала автобус.", "answers": ["She was waiting for a bus.", "She was waiting for the bus."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите о том, что вы делали в определённое время. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Что вы делали вчера в 8 часов вечера?", "sample": "At 8 o'clock yesterday I was watching a film." },
+        { "prompt": "Что вы делали в 7 утра сегодня?", "sample": "At 7 this morning I was having breakfast." },
+        { "prompt": "Что вы делали вчера в полдень?", "sample": "At noon yesterday I was working." },
+        { "prompt": "Где вы жили в 2015 году?", "sample": "In 2015 I was living in Bishkek." },
+        { "prompt": "Что вы НЕ делали вчера в 10 вечера?", "sample": "At 10 last night I wasn't sleeping." }
+      ]
+    }
+  ]
+}

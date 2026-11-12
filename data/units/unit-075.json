@@ -1,0 +1,256 @@
+{
+  "id": 75,
+  "title": "some and any",
+  "summary": "Some используем в утверждениях и предложениях, any — в отрицаниях и обычных вопросах; то же для something/anything, somebody/anybody.",
+  "ru": "## some — в утверждениях\n**some** значит «немного, несколько» — когда точное количество неважно. Ставим перед исчисляемыми во мн. числе и неисчисляемыми существительными.\n> I bought **some** apples. — Я купила (несколько) яблок.\n> There is **some** milk in the fridge. — В холодильнике есть молоко.\n\n## any — в отрицаниях и вопросах\n- В отрицании: **not + any** («нисколько, никаких»).\n> I didn't buy **any** bread. — Я не купила хлеба.\n> There aren't **any** chairs. — Стульев нет.\n- В большинстве вопросов:\n> Is there **any** milk? — Молоко есть?\n> Do you have **any** brothers? — У тебя есть братья?\n\n## Исключение: some в вопросах-предложениях\nКогда **предлагаем** или **просим**, используем **some**:\n> Would you like **some** tea? — Хотите чаю?\n> Can I have **some** water, please? — Можно мне воды?\n\n## some и any без существительного\n> I didn't take any photos, but Ann took **some**. — Я не фотографировала, а Анна — да.\n> Do you want sugar? — No, I don't want **any**. — Нет, не надо.\n\n## something / somebody и anything / anybody\n- В утверждениях: **something, somebody / someone**.\n- В отрицаниях и вопросах: **anything, anybody / anyone**.\n> I heard **something**. — Я что-то услышала.\n> I didn't hear **anything**. — Я ничего не услышала.\n> Is **anybody** at home? — Дома кто-нибудь есть?\n\n## Типичные ошибки\n- ~~I haven't some money.~~ → I haven't **any** money.\n- ~~Do you have some questions?~~ → Do you have **any** questions? (обычный вопрос)\n- ~~She didn't see something.~~ → She didn't see **anything**.",
+  "en": "## some — positive sentences\nWe use **some** with plural countable nouns and uncountable nouns when the exact number does not matter.\n> I bought **some** apples.\n> There is **some** milk in the fridge.\n\n## any — negatives and most questions\n> I didn't buy **any** bread.\n> There aren't **any** chairs.\n> Is there **any** milk?\n> Do you have **any** brothers?\n\n## Exception: offers and requests\nWe use **some** when we offer or ask for something:\n> Would you like **some** tea?\n> Can I have **some** water, please?\n\n## some and any without a noun\n> I didn't take any photos, but Ann took **some**.\n> Do you want sugar? — No, I don't want **any**.\n\n## something / anything etc.\n- positive: **something, somebody / someone**\n- negative and questions: **anything, anybody / anyone**\n> I heard **something**. I didn't hear **anything**. Is **anybody** at home?\n\n## Common mistakes\n- ~~I haven't some money.~~ → I haven't **any** money.\n- ~~She didn't see something.~~ → She didn't see **anything**.",
+  "structure": "## Схема\n| | Утверждение | Отрицание | Вопрос |\n|---|---|---|---|\n| с существительным | I've got **some** friends. | I haven't got **any** friends. | Have you got **any** friends? |\n| вещь | I saw **something**. | I didn't see **anything**. | Did you see **anything**? |\n| человек | I met **somebody / someone**. | I didn't meet **anybody / anyone**. | Did you meet **anybody / anyone**? |\n\n## Предложения и просьбы\n> Would you like **some** coffee?\n> Can I have **some** bread?\n\n## Формула\n> **some / any** + мн. число (apples) или неисчисляемое (milk)\n> **a / an** — только с исчисляемым ед. числом: *an apple* (не ~~some apple~~)\n\n## Краткие ответы\n> — Are there any eggs? — Yes, there are **some**. / No, there **aren't any**.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "some или any?",
+      "instruction": "Вставьте **some** или **any**.",
+      "items": [
+        {
+          "text": "I bought {{some}} cheese but I didn't buy {{any}} bread."
+        },
+        {
+          "text": "I'm going to the shop. I need {{some}} milk."
+        },
+        {
+          "text": "There aren't {{any}} eggs in the fridge."
+        },
+        {
+          "text": "Do you have {{any}} sisters?"
+        },
+        {
+          "text": "We didn't do {{any}} homework yesterday."
+        },
+        {
+          "text": "She has {{some}} very good ideas."
+        },
+        {
+          "text": "Is there {{any}} soup left?"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Без существительного",
+      "instruction": "Вставьте **some** или **any**.",
+      "items": [
+        {
+          "text": "— Do you want some coffee? — No, thanks. I don't want {{any}}."
+        },
+        {
+          "text": "— Where are the apples? — There are {{some}} in the kitchen."
+        },
+        {
+          "text": "— Have you got any change? — Yes, I've got {{some}}."
+        },
+        {
+          "text": "— Are there any seats? — No, there aren't {{any}}."
+        },
+        {
+          "text": "I didn't take any photos, but my friend took {{some}}."
+        },
+        {
+          "text": "I need money. Have you got {{any}}?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "Would you like ___ tea?",
+          "options": [
+            "some",
+            "any",
+            "a"
+          ],
+          "answer": 0,
+          "why": "Предложение → **some**."
+        },
+        {
+          "q": "I didn't see ___ in the room.",
+          "options": [
+            "something",
+            "anything",
+            "somebody"
+          ],
+          "answer": 1,
+          "why": "Отрицание → **anything**."
+        },
+        {
+          "q": "Is there ___ milk in the fridge?",
+          "options": [
+            "some",
+            "any",
+            "a"
+          ],
+          "answer": 1,
+          "why": "Обычный вопрос → **any**."
+        },
+        {
+          "q": "There aren't ___ buses after midnight.",
+          "options": [
+            "some",
+            "any",
+            "a"
+          ],
+          "answer": 1,
+          "why": "Отрицание → **any**."
+        },
+        {
+          "q": "Can I have ___ water, please?",
+          "options": [
+            "any",
+            "some",
+            "a"
+          ],
+          "answer": 1,
+          "why": "Просьба → **some**."
+        },
+        {
+          "q": "She said ___ but I didn't understand.",
+          "options": [
+            "anything",
+            "something",
+            "any"
+          ],
+          "answer": 1,
+          "why": "Утверждение → **something**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "I don't have some money.",
+            "I don't have any money.",
+            "I don't have a money."
+          ],
+          "answer": 1,
+          "why": "Отрицание → **any**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Do you need any help?",
+            "Do you need some help? (обычный вопрос)",
+            "Do you need a help?"
+          ],
+          "answer": 0,
+          "why": "Обычный вопрос → **any**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "I want to tell you anything.",
+            "I want to tell you something.",
+            "I want to tell you any."
+          ],
+          "answer": 1,
+          "why": "Утверждение → **something**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Did anybody call?",
+            "Did called anybody?",
+            "Did anybody called?"
+          ],
+          "answer": 0,
+          "why": "После did глагол в начальной форме: **Did anybody call?**"
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "There are some eggs on the table.",
+            "There are any eggs on the table.",
+            "There is some eggs on the table."
+          ],
+          "answer": 0,
+          "why": "Утверждение, мн. число → **some eggs are**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **some** или **any**.",
+      "items": [
+        {
+          "prompt": "(there / be / milk / in the fridge) — утверждение",
+          "answers": [
+            "There is some milk in the fridge.",
+            "There's some milk in the fridge."
+          ]
+        },
+        {
+          "prompt": "(I / not / have / brothers)",
+          "answers": [
+            "I don't have any brothers.",
+            "I haven't got any brothers."
+          ]
+        },
+        {
+          "prompt": "(you / want / coffee?) — предложение",
+          "answers": [
+            "Would you like some coffee?",
+            "Do you want some coffee?"
+          ]
+        },
+        {
+          "prompt": "(they / not / buy / food)",
+          "answers": [
+            "They didn't buy any food.",
+            "They don't buy any food.",
+            "They haven't bought any food."
+          ]
+        },
+        {
+          "prompt": "(she / eat / something?) — вопрос",
+          "answers": [
+            "Did she eat anything?",
+            "Does she eat anything?",
+            "Is she eating anything?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Что у вас есть дома в холодильнике?",
+          "sample": "There is some cheese and some milk in my fridge."
+        },
+        {
+          "prompt": "Чего у вас нет в сумке?",
+          "sample": "I haven't got any money in my bag."
+        },
+        {
+          "prompt": "Что вы делаете сегодня вечером?",
+          "sample": "I'm not doing anything special. I'm going to cook something."
+        }
+      ]
+    }
+  ]
+}

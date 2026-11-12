@@ -1,0 +1,314 @@
+{
+  "id": 106,
+  "title": "listen to ... look at ... etc. (verb + preposition)",
+  "summary": "Глаголы, которые всегда идут с определённым предлогом: **listen to, look at, wait for, talk to, ask for, think about, belong to**.",
+  "ru": "## Глагол + предлог\nМногие английские глаголы требуют определённого предлога перед дополнением. Часто он не совпадает с русским: мы говорим «слушать музыку» (без предлога), а англичане — **listen to** music.\n\n## Самые частые пары\n- **listen to** — слушать: *Do you **listen to** the radio?*\n- **look at** — смотреть на: *Look **at** this photo!*\n- **wait for** — ждать: *I'm **waiting for** the bus.*\n- **talk / speak to** (с кем) **about** (о чём): *I **talked to** Anna **about** the party.*\n- **ask (someone) for** — просить что-то: *He **asked** me **for** some money.*\n- **think about / of** — думать о: *I'm **thinking about** my holiday.*\n- **belong to** — принадлежать: *This bag **belongs to** Kate.*\n- **look for** — искать: *I'm **looking for** my keys.*\n- **depend on** — зависеть от: *It **depends on** the weather.*\n- **laugh at** — смеяться над: *Don't **laugh at** me!*\n- **pay for** — платить за: *Who's **paying for** the tickets?*\n- **write to** — писать кому-то: *I **wrote to** my friend.*\n\n## Предлог не нужен\nНекоторые глаголы предлога не требуют: **call, phone, ask (a question), answer**.\n> I'm **waiting for** you. — Я жду тебя. (русс. без предлога, англ. — for)\n> **Call** me tonight. — Позвони мне вечером.\n> She **asked** me a question. — Она задала мне вопрос.\n\n## Местоимения после предлога\nПосле предлога ставим **me, you, him, her, it, us, them**.\n> Listen **to me**. · Look **at her**. · Wait **for us**.\n\n## Типичные ошибки\n- ~~I listen music every day.~~ → I **listen to** music every day.\n- ~~Look to me!~~ → Look **at** me!\n- ~~I'm waiting you.~~ → I'm waiting **for** you.\n- ~~I'm looking my keys.~~ → I'm looking **for** my keys.\n- ~~She said me about it.~~ → She **told** me about it. / She **spoke to** me about it.",
+  "en": "## Verb + preposition\nMany verbs are followed by a fixed preposition. Learn them together.\n\n## Common pairs\n- **listen to**: *Do you **listen to** the radio?*\n- **look at**: *Look **at** this photo!*\n- **wait for**: *I'm **waiting for** the bus.*\n- **talk / speak to** (someone) **about** (something): *I **talked to** Anna **about** the party.*\n- **ask (someone) for**: *He **asked** me **for** some money.*\n- **think about / of**: *I'm **thinking about** my holiday.*\n- **belong to**: *This bag **belongs to** Kate.*\n- **look for**: *I'm **looking for** my keys.*\n- **depend on**: *It **depends on** the weather.*\n- **laugh at**: *Don't **laugh at** me!*\n- **pay for**: *Who's **paying for** the tickets?*\n\n## No preposition\nSome verbs take no preposition: **call / phone / ask (a question) / answer (someone)**.\n> **Call** me tonight.\n> She **asked** me a question.\n\n## Pronouns after prepositions\nUse **me, you, him, her, it, us, them**: *Listen **to me**. Look **at her**. Wait **for us**.*\n\n## Common mistakes\n- ~~I listen music.~~ → I **listen to** music.\n- ~~Look to me!~~ → Look **at** me!\n- ~~I'm waiting you.~~ → I'm waiting **for** you.\n- ~~I'm looking my keys.~~ → I'm looking **for** my keys.",
+  "structure": "## Формула\n> Подлежащее + **глагол + предлог** + дополнение\n> I **listen to** music. · We **wait for** the bus. · She **looks at** the picture.\n\n## Таблица\n| Глагол + предлог | Значение |\n|---|---|\n| listen to | слушать |\n| look at | смотреть на |\n| look for | искать |\n| wait for | ждать |\n| talk to + about | говорить с + о |\n| ask for | просить (что-то) |\n| think about | думать о |\n| belong to | принадлежать |\n| depend on | зависеть от |\n| pay for | платить за |\n\n## Вопросы и отрицания\n> Who **are you waiting for**? (предлог — в конце вопроса)\n> What **are you looking at**? · What **do you listen to**?\n> I **don't belong to** that club.\n\n## Запомните\n- В вопросе предлог остаётся **после глагола / в конце**: ~~For who~~ → Who ... **for**?\n- Без предлога: **call, phone, ask a question, answer**.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вставьте предлог",
+      "instruction": "Вставьте нужный предлог: **to, at, for, about, on**.",
+      "items": [
+        {
+          "text": "Please listen {{to}} me carefully."
+        },
+        {
+          "text": "Why are you looking {{at}} me like that?"
+        },
+        {
+          "text": "We're waiting {{for}} the bus."
+        },
+        {
+          "text": "I often talk {{to|with}} my grandmother on the phone."
+        },
+        {
+          "text": "He asked me {{for}} a pen."
+        },
+        {
+          "text": "I'm thinking {{about|of}} my next holiday."
+        },
+        {
+          "text": "It depends {{on}} the weather."
+        },
+        {
+          "text": "Don't laugh {{at}} him. He's trying his best."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Предлог или ничего",
+      "instruction": "Вставьте предлог или **—**, если он не нужен.",
+      "items": [
+        {
+          "text": "I'm looking {{for}} my glasses."
+        },
+        {
+          "text": "Please call {{—|-}} me when you arrive."
+        },
+        {
+          "text": "Who does this coat belong {{to}}?"
+        },
+        {
+          "text": "Can you pay {{for}} the coffee?"
+        },
+        {
+          "text": "She asked {{—|-}} me a difficult question."
+        },
+        {
+          "text": "Don't worry. I'll wait {{for}} you here."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I like to listen ___ music in the evening.",
+          "options": [
+            "—",
+            "to",
+            "at"
+          ],
+          "answer": 1,
+          "why": "**listen to**."
+        },
+        {
+          "q": "Look ___ the sky! It's beautiful.",
+          "options": [
+            "at",
+            "to",
+            "for"
+          ],
+          "answer": 0,
+          "why": "**look at** — смотреть на."
+        },
+        {
+          "q": "She's ___ a new job.",
+          "options": [
+            "looking at",
+            "looking for",
+            "looking to"
+          ],
+          "answer": 1,
+          "why": "**look for** — искать."
+        },
+        {
+          "q": "Who are you waiting ___?",
+          "options": [
+            "for",
+            "to",
+            "at"
+          ],
+          "answer": 0,
+          "why": "**wait for**, предлог в конце вопроса."
+        },
+        {
+          "q": "This house belongs ___ my uncle.",
+          "options": [
+            "for",
+            "of",
+            "to"
+          ],
+          "answer": 2,
+          "why": "**belong to**."
+        },
+        {
+          "q": "Can I ask you ___ a pen?",
+          "options": [
+            "—",
+            "for",
+            "to"
+          ],
+          "answer": 1,
+          "why": "**ask (someone) for** — просить что-то: ask you **for** a pen."
+        },
+        {
+          "q": "What are you talking ___?",
+          "options": [
+            "about",
+            "for",
+            "at"
+          ],
+          "answer": 0,
+          "why": "**talk about** — говорить о."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Я жду автобус»?",
+          "options": [
+            "I'm waiting the bus.",
+            "I'm waiting for the bus.",
+            "I'm waiting to the bus."
+          ],
+          "answer": 1,
+          "why": "**wait for**."
+        },
+        {
+          "q": "Как сказать «Слушай меня»?",
+          "options": [
+            "Listen me.",
+            "Listen at me.",
+            "Listen to me."
+          ],
+          "answer": 2,
+          "why": "**listen to** + me."
+        },
+        {
+          "q": "Как сказать «Не смейся надо мной»?",
+          "options": [
+            "Don't laugh at me.",
+            "Don't laugh me.",
+            "Don't laugh to me."
+          ],
+          "answer": 0,
+          "why": "**laugh at**."
+        },
+        {
+          "q": "Как сказать «Позвони мне завтра»?",
+          "options": [
+            "Call to me tomorrow.",
+            "Call for me tomorrow.",
+            "Call me tomorrow."
+          ],
+          "answer": 2,
+          "why": "**call** — без предлога."
+        },
+        {
+          "q": "Как сказать «Я ищу свой телефон»?",
+          "options": [
+            "I'm looking for my phone.",
+            "I'm looking at my phone.",
+            "I'm looking my phone."
+          ],
+          "answer": 0,
+          "why": "**look for** — искать; **look at** — смотреть."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов в скобках (Present continuous или Present simple по смыслу).",
+      "items": [
+        {
+          "prompt": "(I / wait / for / the train)",
+          "answers": [
+            "I'm waiting for the train.",
+            "I am waiting for the train.",
+            "I wait for the train."
+          ]
+        },
+        {
+          "prompt": "(she / look / at / the map)",
+          "answers": [
+            "She's looking at the map.",
+            "She is looking at the map.",
+            "She looks at the map."
+          ]
+        },
+        {
+          "prompt": "(they / talk / about / the film)",
+          "answers": [
+            "They're talking about the film.",
+            "They are talking about the film.",
+            "They talk about the film."
+          ]
+        },
+        {
+          "prompt": "(we / listen / to / the radio)",
+          "answers": [
+            "We're listening to the radio.",
+            "We are listening to the radio.",
+            "We listen to the radio."
+          ]
+        },
+        {
+          "prompt": "(this book / belong / to / my sister)",
+          "answers": [
+            "This book belongs to my sister."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Вопросы с предлогом",
+      "instruction": "Составьте вопрос с предлогом в конце.",
+      "items": [
+        {
+          "prompt": "(you / wait / who?) — Who ...",
+          "answers": [
+            "Who are you waiting for?"
+          ]
+        },
+        {
+          "prompt": "(she / listen / what?) — What ...",
+          "answers": [
+            "What is she listening to?",
+            "What's she listening to?"
+          ]
+        },
+        {
+          "prompt": "(they / talk / who?) — Who ... (to)",
+          "answers": [
+            "Who are they talking to?"
+          ]
+        },
+        {
+          "prompt": "(he / look / what?) — What ... (at)",
+          "answers": [
+            "What is he looking at?",
+            "What's he looking at?"
+          ]
+        },
+        {
+          "prompt": "(you / look / what?) — What ... (for)",
+          "answers": [
+            "What are you looking for?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What music do you listen to?",
+          "sample": "I listen to pop music and sometimes jazz."
+        },
+        {
+          "prompt": "Who do you often talk to on the phone?",
+          "sample": "I often talk to my mother on the phone."
+        },
+        {
+          "prompt": "What are you looking for right now? (or: What do you usually look for and can't find?)",
+          "sample": "I'm often looking for my keys."
+        },
+        {
+          "prompt": "What do you think about before you sleep?",
+          "sample": "I usually think about the next day."
+        }
+      ]
+    }
+  ]
+}

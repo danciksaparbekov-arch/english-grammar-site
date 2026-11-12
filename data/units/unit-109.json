@@ -1,0 +1,349 @@
+{
+  "id": 109,
+  "title": "and but or so because",
+  "summary": "Союзы, которые соединяют части предложения: **and** (и), **but** (но), **or** (или), **so** (поэтому), **because** (потому что).",
+  "ru": "## Зачем нужны союзы\nС помощью союзов из двух коротких предложений получается одно, и речь звучит естественнее.\n> I was tired. I went to bed. → I was tired **so** I went to bed.\n\n## and — и\nСоединяет похожие мысли.\n> I opened the door **and** went in. — Я открыла дверь и вошла.\n> She's smart **and** funny. — Она умная и смешная.\n\n## but — но, а\nПоказывает контраст.\n> I like tea, **but** I don't like coffee. — Я люблю чай, но не люблю кофе.\n> It's sunny, **but** it's cold. — Солнечно, но холодно.\n\n## or — или\nПоказывает выбор.\n> Do you want tea **or** coffee? — Ты хочешь чай или кофе?\n> We can go by bus **or** on foot.\n\n## so — поэтому\nПоказывает **результат** (что получилось).\n> It was raining, **so** we stayed at home. — Шёл дождь, поэтому мы остались дома.\n> I was hungry, **so** I made a sandwich.\n\n## because — потому что\nПоказывает **причину** (почему).\n> We stayed at home **because** it was raining. — Мы остались дома, потому что шёл дождь.\n> I made a sandwich **because** I was hungry.\n\n## so или because?\n**so** + результат, **because** + причина. Одну и ту же мысль можно сказать двумя способами:\n> I was ill, **so** I didn't go to work. (результат)\n> I didn't go to work **because** I was ill. (причина)\n\n## Запятая\nПеред **but** и **so** обычно ставим запятую. Перед **and / or / because** запятая не нужна (если предложения короткие).\n\n## Типичные ошибки\n- ~~I'm tired because I'm going to bed.~~ → I'm tired, **so** I'm going to bed. (результат — **so**)\n- ~~We stayed at home. Because it was cold.~~ → We stayed at home **because** it was cold. (because соединяет части)\n- ~~I was ill, because I didn't go to work.~~ → I was ill, **so** I didn't go to work.\n- ~~Because was cold.~~ → **Because it was** cold. (нужно подлежащее)",
+  "en": "## Why use linking words?\nThey join short sentences into longer ones and make speech more natural.\n> I was tired. I went to bed. → I was tired **so** I went to bed.\n\n## and\nJoins similar ideas.\n> I opened the door **and** went in.\n> She's smart **and** funny.\n\n## but\nShows contrast.\n> I like tea, **but** I don't like coffee.\n> It's sunny, **but** it's cold.\n\n## or\nShows a choice.\n> Do you want tea **or** coffee?\n> We can go by bus **or** on foot.\n\n## so\nShows a **result**.\n> It was raining, **so** we stayed at home.\n> I was hungry, **so** I made a sandwich.\n\n## because\nShows a **reason**.\n> We stayed at home **because** it was raining.\n> I made a sandwich **because** I was hungry.\n\n## so or because?\n**so** + result, **because** + reason.\n> I was ill, **so** I didn't go to work.\n> I didn't go to work **because** I was ill.\n\n## Commas\nUse a comma before **but** and **so**. You don't need one before **and / or / because** in short sentences.\n\n## Common mistakes\n- ~~Because it was cold. We stayed home.~~ → We stayed home **because** it was cold.\n- ~~I'm tired because I'm going to bed.~~ → I'm tired, **so** I'm going to bed.",
+  "structure": "## Схема\n| Союз | Значение | Пример |\n|---|---|---|\n| and | и | I read and relax. |\n| but | но | He's rich, but he's not happy. |\n| or | или | Tea or coffee? |\n| so | поэтому (результат) | I was cold, so I put on a coat. |\n| because | потому что (причина) | I put on a coat because I was cold. |\n\n## Формулы\n> Предложение 1 + **, but / , so** + предложение 2\n> Предложение 1 + **and / or / because** + предложение 2\n> **Because** + причина может стоять и в начале: *Because it was cold, I put on a coat.* (запятая после причины)\n\n## Запомните\n- После **because** и **so** — полное предложение с подлежащим и глаголом.\n- **because of** + существительное: *We stayed home because of the rain.*",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "and, but, or",
+      "instruction": "Вставьте **and**, **but** или **or**.",
+      "items": [
+        {
+          "text": "I'd like to go out, {{but}} I'm too tired."
+        },
+        {
+          "text": "Do you want to go by bus {{or}} by taxi?"
+        },
+        {
+          "text": "She came in {{and}} sat down."
+        },
+        {
+          "text": "He's very rich, {{but}} he isn't happy."
+        },
+        {
+          "text": "We can have pasta {{or}} rice for dinner."
+        },
+        {
+          "text": "My mother is a nurse {{and}} my father is a driver."
+        },
+        {
+          "text": "I like swimming, {{but}} I don't like running."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "so или because",
+      "instruction": "Вставьте **so** или **because**.",
+      "items": [
+        {
+          "text": "I was thirsty, {{so}} I drank some water."
+        },
+        {
+          "text": "She was late {{because}} the bus didn't come."
+        },
+        {
+          "text": "It was very cold, {{so}} we put on our coats."
+        },
+        {
+          "text": "We didn't go out {{because}} it was raining."
+        },
+        {
+          "text": "He doesn't have a car, {{so}} he walks to work."
+        },
+        {
+          "text": "I'm happy {{because}} it's my birthday today."
+        },
+        {
+          "text": "The shop was closed, {{so}} I went home."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный союз",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I like him, ___ he is very kind.",
+          "options": [
+            "so",
+            "because",
+            "but"
+          ],
+          "answer": 1,
+          "why": "Причина → **because**."
+        },
+        {
+          "q": "The film was boring, ___ we left early.",
+          "options": [
+            "so",
+            "because",
+            "or"
+          ],
+          "answer": 0,
+          "why": "Результат → **so**."
+        },
+        {
+          "q": "I phoned her, ___ she didn't answer.",
+          "options": [
+            "and",
+            "so",
+            "but"
+          ],
+          "answer": 2,
+          "why": "Контраст → **but**."
+        },
+        {
+          "q": "Shall we eat at home ___ in a restaurant?",
+          "options": [
+            "but",
+            "or",
+            "and"
+          ],
+          "answer": 1,
+          "why": "Выбор → **or**."
+        },
+        {
+          "q": "He studied hard, ___ he passed the exam.",
+          "options": [
+            "because",
+            "or",
+            "so"
+          ],
+          "answer": 2,
+          "why": "Результат → **so**."
+        },
+        {
+          "q": "She didn't eat ___ she wasn't hungry.",
+          "options": [
+            "because",
+            "so",
+            "but"
+          ],
+          "answer": 0,
+          "why": "Причина → **because**."
+        },
+        {
+          "q": "We went to the shop ___ bought some milk.",
+          "options": [
+            "or",
+            "and",
+            "so"
+          ],
+          "answer": 1,
+          "why": "Два действия подряд → **and**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Я не пошла на работу, потому что заболела»?",
+          "options": [
+            "I didn't go to work because I was ill.",
+            "I didn't go to work so I was ill.",
+            "I didn't go to work but I was ill."
+          ],
+          "answer": 0,
+          "why": "Причина → **because**."
+        },
+        {
+          "q": "Как сказать «Было жарко, поэтому мы пошли купаться»?",
+          "options": [
+            "It was hot because we went swimming.",
+            "It was hot, so we went swimming.",
+            "It was hot or we went swimming."
+          ],
+          "answer": 1,
+          "why": "Результат → **so**."
+        },
+        {
+          "q": "Как сказать «Я хочу пойти, но у меня нет времени»?",
+          "options": [
+            "I want to go, so I haven't got time.",
+            "I want to go, because I haven't got time.",
+            "I want to go, but I haven't got time."
+          ],
+          "answer": 2,
+          "why": "Контраст → **but**."
+        },
+        {
+          "q": "Как сказать «Чай или кофе?»",
+          "options": [
+            "Tea or coffee?",
+            "Tea but coffee?",
+            "Tea so coffee?"
+          ],
+          "answer": 0,
+          "why": "Выбор → **or**."
+        },
+        {
+          "q": "Какое предложение правильное?",
+          "options": [
+            "We stayed at home. Because it was cold.",
+            "We stayed at home because it was cold.",
+            "We stayed at home because was cold."
+          ],
+          "answer": 1,
+          "why": "**because** соединяет части, после него полное предложение."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Соедините предложения",
+      "instruction": "Соедините два предложения с помощью союза в скобках.",
+      "items": [
+        {
+          "prompt": "I was tired. I went to bed. (so)",
+          "answers": [
+            "I was tired, so I went to bed.",
+            "I was tired so I went to bed."
+          ]
+        },
+        {
+          "prompt": "He didn't go out. It was raining. (because)",
+          "answers": [
+            "He didn't go out because it was raining."
+          ]
+        },
+        {
+          "prompt": "She likes tea. She doesn't like coffee. (but)",
+          "answers": [
+            "She likes tea, but she doesn't like coffee.",
+            "She likes tea but she doesn't like coffee."
+          ]
+        },
+        {
+          "prompt": "We were hungry. We ate pizza. (so)",
+          "answers": [
+            "We were hungry, so we ate pizza.",
+            "We were hungry so we ate pizza."
+          ]
+        },
+        {
+          "prompt": "I can't come tomorrow. I'm busy. (because)",
+          "answers": [
+            "I can't come tomorrow because I'm busy.",
+            "I can't come tomorrow because I am busy."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Закончите предложение",
+      "instruction": "Допишите предложение по смыслу. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "I'm happy today because ...",
+          "sample": "I'm happy today because it's Friday."
+        },
+        {
+          "prompt": "It's cold, so ...",
+          "sample": "It's cold, so I'm wearing a warm coat."
+        },
+        {
+          "prompt": "I like pizza, but ...",
+          "sample": "I like pizza, but I don't like it every day."
+        },
+        {
+          "prompt": "Do you want to stay at home or ...?",
+          "sample": "Do you want to stay at home or go to the park?"
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        {
+          "prompt": "Я люблю читать, но у меня мало времени.",
+          "answers": [
+            "I like reading, but I haven't got much time.",
+            "I like to read, but I haven't got much time.",
+            "I like reading, but I don't have much time.",
+            "I like to read, but I don't have much time.",
+            "I like reading but I don't have much time.",
+            "I like reading but I haven't got much time.",
+            "I love reading, but I don't have much time.",
+            "I love reading, but I haven't got much time.",
+            "I love to read, but I don't have much time.",
+            "I love to read, but I haven't got much time."
+          ]
+        },
+        {
+          "prompt": "Мы остались дома, потому что шёл дождь.",
+          "answers": [
+            "We stayed at home because it was raining.",
+            "We stayed home because it was raining.",
+            "We stayed at home because it rained.",
+            "We stayed home because it rained."
+          ]
+        },
+        {
+          "prompt": "Шёл дождь, поэтому мы остались дома.",
+          "answers": [
+            "It was raining, so we stayed at home.",
+            "It was raining so we stayed at home.",
+            "It was raining, so we stayed home.",
+            "It was raining so we stayed home."
+          ]
+        },
+        {
+          "prompt": "Ты хочешь кофе или чай?",
+          "answers": [
+            "Do you want coffee or tea?",
+            "Would you like coffee or tea?"
+          ]
+        },
+        {
+          "prompt": "Она открыла окно и села.",
+          "answers": [
+            "She opened the window and sat down.",
+            "She opened the window and sat."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используйте **and, but, or, so, because**. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Why are you learning English?",
+          "sample": "I'm learning English because I want to travel."
+        },
+        {
+          "prompt": "What do you like and what don't you like to eat?",
+          "sample": "I like fruit, but I don't like fish."
+        },
+        {
+          "prompt": "What do you do when you are tired?",
+          "sample": "I'm often tired in the evening, so I go to bed early."
+        },
+        {
+          "prompt": "What are your plans for this weekend?",
+          "sample": "I'll go to the park or I'll stay at home and read."
+        }
+      ]
+    }
+  ]
+}

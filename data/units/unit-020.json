@@ -1,0 +1,106 @@
+{
+  "id": 20,
+  "title": "I have done (present perfect) and I did (past simple)",
+  "summary": "Когда говорить **I have done** (связь с настоящим, время не названо), а когда **I did** (закончившееся время: yesterday, last year, ago).",
+  "ru": "## Главное правило\n- Если названо **законченное время** (yesterday, last week, in 2010, two days ago, when ...?) — **past simple**.\n- Если время не названо, а важна связь с настоящим (результат, опыт, «до сих пор») — **present perfect**.\n> I **lost** my key yesterday. — Я потеряла ключ вчера. (past simple, время названо)\n> I **have lost** my key. — Я потеряла ключ. (и его до сих пор нет)\n\n## Past simple — закончившееся время\nСлова: **yesterday, last night, last week, in 2015, on Monday, two days ago, when**.\n> We **went** to Turkey last summer. — Мы ездили в Турцию прошлым летом.\n> **When did** you **arrive**? — Когда ты приехала?\n- ~~When have you arrived?~~ → When **did** you arrive?\n- ~~I have seen him yesterday.~~ → I **saw** him yesterday.\n\n## Present perfect — до сих пор / результат\n> **Have** you ever **been** to Spain? — Ты когда-нибудь бывала в Испании? (в жизни)\n> The letter **hasn't arrived** yet. — Письмо ещё не пришло.\n> We **have lived** here for six years. — Мы живём здесь шесть лет (и сейчас живём).\n> Bill **has gone** home. — Билл ушёл домой (его здесь нет).\n\n## Сравнение пар\n| present perfect | past simple |\n|---|---|\n| I've lost my key. (нет сейчас) | I lost my key last week. |\n| Have you seen Ann? (где она?) | Did you see Ann on Saturday? |\n| We've lived here for six years. (живём сейчас) | We lived in Glasgow for six years. (раньше, теперь нет) |\n\n## Типичные ошибки\n- ~~I have been there in 2019.~~ → I **was** there in 2019.\n- ~~She has called me two hours ago.~~ → She **called** me two hours ago.\n- ~~We haven't had a holiday last year.~~ → We **didn't have** a holiday last year.",
+  "en": "## The main rule\n- With a **finished time** (yesterday, last week, in 2010, two days ago, when ...?) we use the **past simple**.\n- When the time is not given and we think about now (result, experience, \"until now\") we use the **present perfect**.\n> I **lost** my key yesterday. (past simple, finished time)\n> I **have lost** my key. (I still can't find it)\n\n## Past simple: finished time\nWords: **yesterday, last night, last week, in 2015, on Monday, two days ago, when**.\n> We **went** to Turkey last summer.\n> **When did** you **arrive**?\n- ~~When have you arrived?~~ → When **did** you arrive?\n- ~~I have seen him yesterday.~~ → I **saw** him yesterday.\n\n## Present perfect: until now / result\n> **Have** you ever **been** to Spain? (in your life)\n> The letter **hasn't arrived** yet.\n> We **have lived** here for six years. (and we still live here)\n> Bill **has gone** home. (he isn't here now)\n\n## Compare\n| present perfect | past simple |\n|---|---|\n| I've lost my key. | I lost my key last week. |\n| Have you seen Ann? | Did you see Ann on Saturday? |\n| We've lived here for six years. | We lived in Glasgow for six years. |\n\n## Common mistakes\n- ~~I have been there in 2019.~~ → I **was** there in 2019.\n- ~~She has called me two hours ago.~~ → She **called** me two hours ago.\n- ~~We haven't had a holiday last year.~~ → We **didn't have** a holiday last year.",
+  "structure": "## Что выбрать\n| Сигнальные слова | Время |\n|---|---|\n| yesterday, last week, in 2010, ago, when, what time | **past simple** |\n| ever, never, yet, already, just, for, since, how long | **present perfect** |\n| today, this week (период ещё идёт) | present perfect |\n\n## Формы\n| | past simple | present perfect |\n|---|---|---|\n| + | I saw Tom. | I have seen Tom. |\n| − | I didn't see Tom. | I haven't seen Tom. |\n| ? | Did you see Tom? | Have you seen Tom? |\n\n## Формула\n> **Past simple** + законченное время (**yesterday / ago / in 2015**)\n> **have / has + past participle** + без точного времени или **ever / yet / for / since**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Past simple: закончившееся время",
+      "instruction": "Поставьте глагол в past simple.",
+      "items": [
+        { "text": "We {{went}} to the cinema last night.", "hint": "go" },
+        { "text": "She {{bought}} this dress two days ago.", "hint": "buy" },
+        { "text": "{{Did}} you {{see}} Mark on Saturday?", "hint": "do / see" },
+        { "text": "They {{didn't come|did not come}} to the party yesterday.", "hint": "not / come" },
+        { "text": "When {{did}} you {{arrive}}?", "hint": "do / arrive" },
+        { "text": "I {{lost}} my phone in 2022.", "hint": "lose" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Present perfect или past simple?",
+      "instruction": "Поставьте глагол в нужную форму: **present perfect** или **past simple**.",
+      "items": [
+        { "text": "{{Have}} you ever {{eaten}} snails?", "hint": "have / eat" },
+        { "text": "My friend {{has written|'s written}} three books.", "hint": "write" },
+        { "text": "Shakespeare {{wrote}} many plays.", "hint": "write" },
+        { "text": "I {{haven't finished|have not finished}} my work yet.", "hint": "not / finish" },
+        { "text": "We {{didn't have|did not have}} a holiday last year.", "hint": "not / have" },
+        { "text": "Where {{were}} you on Sunday afternoon?", "hint": "be" },
+        { "text": "Look! Somebody {{has broken|'s broken}} the window.", "hint": "break" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I ___ my keys yesterday.", "options": ["lost", "have lost", "was losing"], "answer": 0, "why": "Yesterday — закончившееся время → past simple." },
+        { "q": "___ you ever been to Japan?", "options": ["Did", "Have", "Are"], "answer": 1, "why": "Опыт в жизни → **Have you ever been**." },
+        { "q": "They ___ here in 2019.", "options": ["have moved", "moved", "have been moving"], "answer": 1, "why": "In 2019 → past simple." },
+        { "q": "We ___ in this flat for five years.", "options": ["lived", "have lived", "live ago"], "answer": 1, "why": "Живём до сих пор → present perfect." },
+        { "q": "When ___ the film start?", "options": ["has", "did", "have"], "answer": 1, "why": "С **When** — past simple." },
+        { "q": "Sue isn't here. She ___ out.", "options": ["has gone", "went last hour", "was going yesterday"], "answer": 0, "why": "Результат сейчас: её нет → present perfect." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "«Я видела его вчера».", "options": ["I have seen him yesterday.", "I saw him yesterday.", "I see him yesterday."], "answer": 1, "why": "Yesterday → past simple." },
+        { "q": "«Ты когда-нибудь был в Париже?»", "options": ["Were you ever in Paris?", "Did you ever be in Paris?", "Have you ever been to Paris?"], "answer": 2, "why": "Опыт → present perfect." },
+        { "q": "«Когда он пришёл?»", "options": ["When has he come?", "When did he come?", "When he came?"], "answer": 1, "why": "С **When** — past simple." },
+        { "q": "«Мы не отдыхали в прошлом году».", "options": ["We didn't have a holiday last year.", "We haven't had a holiday last year.", "We don't have a holiday last year."], "answer": 0, "why": "Last year — закончившееся время." },
+        { "q": "«Письмо ещё не пришло».", "options": ["The letter didn't arrive yet.", "The letter hasn't arrived yet.", "The letter doesn't arrive yet."], "answer": 1, "why": "**yet** → present perfect." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Два времени в диалоге",
+      "instruction": "Поставьте глаголы в present perfect или past simple.",
+      "items": [
+        { "text": "A: {{Have}} you {{seen}} my bag? B: Yes, I {{saw}} it in the kitchen an hour ago.", "hint": "have / see; see" },
+        { "text": "A: Where's Tom? B: He {{has gone|'s gone}} home. He {{left}} ten minutes ago.", "hint": "go; leave" },
+        { "text": "A: {{Have}} you {{been}} to Italy? B: Yes, I {{went}} there two years ago.", "hint": "have / be; go" },
+        { "text": "A: {{Did}} you {{like}} the film last night? B: Yes, it {{was}} great.", "hint": "do / like; be" },
+        { "text": "A: How long {{have}} you {{lived}} here? B: I {{moved}} here in 2020.", "hint": "have / live; move" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение. Выберите present perfect или past simple.",
+      "items": [
+        { "prompt": "(I / lose / my passport / last week)", "answers": ["I lost my passport last week."] },
+        { "prompt": "(you / ever / be / to Canada?)", "answers": ["Have you ever been to Canada?"] },
+        { "prompt": "(they / arrive / at 5 o'clock)", "answers": ["They arrived at 5 o'clock."] },
+        { "prompt": "(we / not / see / him / yet)", "answers": ["We haven't seen him yet.", "We have not seen him yet."] },
+        { "prompt": "(when / you / start / this job?)", "answers": ["When did you start this job?"] },
+        { "prompt": "(she / live / here / for six years)", "answers": ["She has lived here for six years.", "She's lived here for six years.", "She has been living here for six years.", "She's been living here for six years."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Следите за временем глагола.",
+      "items": [
+        { "prompt": "Что вы делали вчера вечером?", "sample": "I watched a film and went to bed early." },
+        { "prompt": "В каких странах вы бывали (вообще в жизни)?", "sample": "I've been to Turkey and Russia." },
+        { "prompt": "Когда вы были в последний раз в кино?", "sample": "I went to the cinema two weeks ago." },
+        { "prompt": "Как долго вы живёте в своём городе?", "sample": "I've lived in Bishkek for ten years." },
+        { "prompt": "Что вы уже сделали сегодня?", "sample": "I've already had breakfast and answered some emails." }
+      ]
+    }
+  ]
+}

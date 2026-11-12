@@ -1,0 +1,91 @@
+{
+  "id": 48,
+  "title": "Do you know where ...? I don't know what ... etc.",
+  "summary": "Вежливые и косвенные вопросы: после **Do you know / I don't know / Can you tell me** порядок слов как в обычном предложении, без do/did.",
+  "ru": "## Обычный вопрос и косвенный вопрос\nОбычный вопрос: **Where is Paula?** (глагол перед подлежащим). Но если мы начинаем с **Do you know ...**, **Can you tell me ...**, **I don't know ...**, порядок слов меняется: подлежащее идёт **перед** глаголом, как в утверждении.\n> Where is Paula? → Do you know where **Paula is**? — Ты знаешь, где Паула?\n> What time is it? → Can you tell me what time **it is**? — Подскажите, который час?\n> How old is Linda? → I don't know how old **Linda is**. — Не знаю, сколько Линде лет.\n- ~~Do you know where is Paula?~~ → Do you know where **Paula is**?\n\n## Вопросы с do / does / did\nВ косвенной части вспомогательные **do / does / did исчезают**, а глагол принимает форму, как в утверждении.\n> Where **does** he live? → Do you know where he **lives**? — Ты знаешь, где он живёт?\n> What **did** she say? → I don't remember what she **said**. — Не помню, что она сказала.\n> How **do** aeroplanes fly? → Do you know how aeroplanes **fly**?\n- ~~Do you know where does he live?~~ → Do you know where he **lives**?\n\n## Вопросы «да/нет»: if или whether\nЕсли исходный вопрос начинается с **Is / Do / Can / Have ...**, добавляем **if** (или более формальное **whether**).\n> Is Jack at home? → Do you know **if** Jack is at home? — Ты не знаешь, дома ли Джек?\n> Can Brian swim? → I don't know **if** Brian can swim. — Не знаю, умеет ли Брайан плавать.\n> Did anybody see you? → Can you tell me **whether** anybody saw you?\n\n## Зачем это нужно\nТакие фразы звучат вежливее, чем прямой вопрос: «Can you tell me where the station is?» вежливее, чем «Where is the station?».\n\n## Типичные ошибки\n- ~~Can you tell me where is the bank?~~ → Can you tell me where **the bank is**?\n- ~~I don't know what does she want.~~ → I don't know what **she wants**.\n- ~~Do you know can he swim?~~ → Do you know **if** he can swim?\nВ косвенной части знак вопроса не нужен, если фраза начинается с I know / I don't know.",
+  "en": "## Direct and indirect questions\nA normal question puts the verb before the subject: **Where is Paula?** But after **Do you know ...**, **Can you tell me ...**, **I don't know ...** the word order is like a statement: subject + verb.\n> Where is Paula? → Do you know where **Paula is**?\n> What time is it? → Can you tell me what time **it is**?\n> How old is Linda? → I don't know how old **Linda is**.\n- ~~Do you know where is Paula?~~ → Do you know where **Paula is**?\n\n## Questions with do / does / did\nIn the second part we don't use do, does or did. The verb has its normal form.\n> Where **does** he live? → Do you know where he **lives**?\n> What **did** she say? → I don't remember what she **said**.\n> How **do** aeroplanes fly? → Do you know how aeroplanes **fly**?\n\n## Yes/no questions: if or whether\nWhen the direct question begins with Is / Do / Can / Have ..., we add **if** (or **whether**).\n> Is Jack at home? → Do you know **if** Jack is at home?\n> Can Brian swim? → I don't know **if** Brian can swim.\n> Did anybody see you? → Can you tell me **whether** anybody saw you?\n\n## Why use this?\nIt is more polite: *Can you tell me where the station is?* sounds nicer than *Where is the station?*\n\n## Common mistakes\n- ~~Can you tell me where is the bank?~~ → Can you tell me where **the bank is**?\n- ~~I don't know what does she want.~~ → I don't know what **she wants**.",
+  "structure": "## Wh-вопросы\n| Прямой вопрос | Косвенный |\n|---|---|\n| Where is the bank? | Do you know where **the bank is**? |\n| What time is it? | Can you tell me what time **it is**? |\n| Where can I park? | I don't know where **I can park**. |\n| Where does he work? | I know where he **works**. |\n| Why did she leave? | I don't know why she **left**. |\n\n## Yes/no вопросы\n| Прямой вопрос | Косвенный |\n|---|---|\n| Is Jack at home? | Do you know **if** Jack is at home? |\n| Have they got a car? | I don't know **if** they have got a car. |\n| Do they live here? | Do you know **whether** they live here? |\n\n## Формула\n> Do you know / Can you tell me / I don't know + **wh-слово + подлежащее + глагол**\n> Do you know / I don't know + **if / whether + подлежащее + глагол**\n\n## Правило\n- Без do / does / did после wh-слова.\n- Времена не меняются: does he live → he **lives**, did go → **went**.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "I don't know where ...",
+      "instruction": "Допишите предложение, поставив слова в правильный порядок.",
+      "items": [
+        { "text": "Where is Kate? → I don't know where {{Kate is}}." },
+        { "text": "What time does the film start? → Do you know what time {{the film starts}}?" },
+        { "text": "Where did they go? → I don't know where {{they went}}." },
+        { "text": "How much is this shirt? → Can you tell me how much {{this shirt is}}?" },
+        { "text": "Why is he angry? → I don't know why {{he is angry|he's angry}}." },
+        { "text": "When does the bus leave? → Do you know when {{the bus leaves}}?" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "if или whether",
+      "instruction": "Вставьте **if** или **whether**.",
+      "items": [
+        { "text": "Is Tom at home? → Do you know {{if|whether}} Tom is at home?" },
+        { "text": "Can Sara drive? → I don't know {{if|whether}} Sara can drive." },
+        { "text": "Does he like coffee? → Do you know {{if|whether}} he likes coffee?" },
+        { "text": "Is the shop open? → Can you tell me {{if|whether}} the shop is open?" },
+        { "text": "Did she call you? → I'm not sure {{if|whether}} she called you." },
+        { "text": "Have they got a car? → Do you know {{if|whether}} they have got a car?" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный порядок слов",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "Can you tell me ___?", "options": ["where is the post office", "where the post office is", "where does the post office is"], "answer": 1, "why": "После wh-слова — порядок как в утверждении." },
+        { "q": "I don't know ___.", "options": ["what does she want", "what she wants", "what she want"], "answer": 1, "why": "Без does; глагол берёт -s: wants." },
+        { "q": "Do you know ___?", "options": ["why did he leave", "why he left", "why he did leave"], "answer": 1, "why": "Без did; глагол в прошедшем: left." },
+        { "q": "Could you tell me ___ the museum is open on Monday?", "options": ["that", "if", "what"], "answer": 1, "why": "Вопрос «да/нет» — if / whether." },
+        { "q": "I don't remember ___.", "options": ["where I put my keys", "where did I put my keys", "where I did put my keys"], "answer": 0, "why": "Без did: where I put my keys." },
+        { "q": "Do you know ___?", "options": ["how old is she", "how old she is", "how she is old"], "answer": 1, "why": "how old + подлежащее + is." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант грамматически верный.",
+      "items": [
+        { "q": "Как спросить: «Вы не знаете, где туалет?»", "options": ["Do you know where is the toilet?", "Do you know where the toilet is?", "Do you know where does the toilet is?"], "answer": 1, "why": "Where the toilet is — порядок как в утверждении." },
+        { "q": "Как сказать: «Я не знаю, сколько ему лет»?", "options": ["I don't know how old he is.", "I don't know how old is he.", "I don't know how he old is."], "answer": 0, "why": "how old he is." },
+        { "q": "Как спросить: «Ты знаешь, умеет ли она плавать?»", "options": ["Do you know can she swim?", "Do you know if she can swim?", "Do you know if can she swim?"], "answer": 1, "why": "if + подлежащее + can." },
+        { "q": "Как сказать: «Не помню, что он сказал»?", "options": ["I don't remember what did he say.", "I don't remember what he said.", "I don't remember what he did say."], "answer": 1, "why": "Без did: what he said." },
+        { "q": "Как спросить: «Вы знаете, во сколько он приходит?»", "options": ["Do you know what time he comes?", "Do you know what time does he come?", "Do you know what time comes he?"], "answer": 0, "why": "what time he comes." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте вежливые вопросы",
+      "instruction": "Начните со слов **Do you know ...** / **Can you tell me ...**.",
+      "items": [
+        { "prompt": "(Where is the station?)", "answers": ["Do you know where the station is?", "Can you tell me where the station is?"] },
+        { "prompt": "(What time does the shop open?)", "answers": ["Do you know what time the shop opens?", "Can you tell me what time the shop opens?"] },
+        { "prompt": "(How much is this bag?)", "answers": ["Do you know how much this bag is?", "Can you tell me how much this bag is?"] },
+        { "prompt": "(Is the bank open today?)", "answers": ["Do you know if the bank is open today?", "Can you tell me if the bank is open today?", "Do you know whether the bank is open today?", "Can you tell me whether the bank is open today?"] },
+        { "prompt": "(Where did Anna go?) Начните с I don't know", "answers": ["I don't know where Anna went."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Что вы знаете и чего не знаете",
+      "instruction": "Допишите предложения о себе. Проверьте по образцу.",
+      "items": [
+        { "prompt": "I know where ...", "sample": "I know where the nearest bank is." },
+        { "prompt": "I don't know what ...", "sample": "I don't know what the weather will be like tomorrow." },
+        { "prompt": "I don't remember when ...", "sample": "I don't remember when I started learning English." },
+        { "prompt": "Can you tell me how ...?", "sample": "Can you tell me how I can get to the station?" },
+        { "prompt": "I'm not sure if ...", "sample": "I'm not sure if I can come to the party." }
+      ]
+    }
+  ]
+}

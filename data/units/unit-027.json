@@ -1,0 +1,309 @@
+{
+  "id": 27,
+  "title": "I'm going to ...",
+  "summary": "**am / is / are going to + глагол** — о намерениях («я решила, что сделаю») и о том, что вот-вот случится по видимым признакам.",
+  "ru": "## Две ситуации\n**going to** используем для будущего в двух случаях.\n\n## 1. Намерение: я уже решила\n**I'm going to do something** = я решила это сделать, это мой план.\n> I'm **going to buy** some books tomorrow. — Я собираюсь завтра купить книги.\n> Sarah is **going to sell** her car. — Сара собирается продать машину.\n> I'm **not going to have** breakfast. I'm not hungry. — Я не буду завтракать: не хочется.\n> What are you **going to wear** to the party? — Что ты наденешь на вечеринку?\n> Are you **going to invite** John? — Ты собираешься пригласить Джона?\n> — Your hands are dirty. — Yes, I know. I'm **going to wash** them. — Руки грязные. — Да, знаю. Сейчас помою.\n\n## 2. Скоро что-то случится (мы это видим)\nКогда по текущей ситуации ясно, что событие произойдёт.\n> Look at the sky! It's **going to rain**. — Посмотри на небо! Будет дождь.\n> It's 9 o'clock and I'm not ready. I'm **going to be** late. — Уже 9, а я не готова. Опоздаю.\n\n## Как образуется\n> **am / is / are** + **going to** + глагол (начальная форма)\n\nПо-русски: «собираюсь + инфинитив», «буду + инфинитив».\n\n## Сравнение с present continuous\n> I'm **playing** tennis with Julia tomorrow. (договорились на время — present continuous)\n> I'm **going to play** tennis this week. (намерение, времени пока нет)\n\nЧасто оба варианта подходят, особенно для планов.\n\n## Типичные ошибки\n- ~~I going to buy a car.~~ → I **am** going to buy a car. (be нужен)\n- ~~She goes to buy a car.~~ → She **is going to** buy a car.\n- ~~He is going to buys it.~~ → He is going to **buy** it. (после to — начальная форма)\n- ~~Is she going to goes?~~ → Is she going to **go**?",
+  "en": "## Two uses\nWe use **going to** for the future in two situations.\n\n## 1. Intention: I've already decided\n**I'm going to do something** = I have decided to do it. It is my plan.\n> I'm **going to buy** some books tomorrow.\n> Sarah is **going to sell** her car.\n> I'm **not going to have** breakfast. I'm not hungry.\n> What are you **going to wear** to the party?\n> Are you **going to invite** John?\n> — Your hands are dirty. — Yes, I know. I'm **going to wash** them.\n\n## 2. Something is going to happen\nWe also use it when the situation now shows that something will happen.\n> Look at the sky! It's **going to rain**.\n> It's 9 o'clock and I'm not ready. I'm **going to be** late.\n\n## How to form it\n> **am / is / are** + **going to** + infinitive\n\n## Compare with the present continuous\n> I'm **playing** tennis with Julia tomorrow. (arranged)\n> I'm **going to play** tennis this week. (my intention)\n\nOften both forms are possible.\n\n## Common mistakes\n- ~~I going to buy a car.~~ → I **am** going to buy a car.\n- ~~He is going to buys it.~~ → He is going to **buy** it.\n- ~~Is she going to goes?~~ → Is she going to **go**?",
+  "structure": "## Формы\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| I'm going to eat. | I'm not going to eat. | Am I going to eat? |\n| He's going to eat. | He isn't going to eat. | Is he going to eat? |\n| We're going to eat. | We aren't going to eat. | Are we going to eat? |\n\n## Краткие формы\n- I'm, you're, he's, she's, it's, we're, they're + going to\n- isn't, aren't (= is not, are not)\n\n## Краткие ответы\n- Are you going to call him? — Yes, I **am**. / No, I'm **not**.\n- Is she going to come? — Yes, she **is**. / No, she **isn't**.\n\n## Формула\n> подлежащее + **am / is / are** + (not) + **going to** + глагол\n> **Wh-слово** + am / is / are + подлежащее + **going to** + глагол ... ?\n\n## Примеры\n- What **are** you **going to do**? · Where **is** he **going to stay**?\n- It's **going to rain**. · The baby is **going to cry**.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Что вы собираетесь сделать?",
+      "instruction": "Допишите предложения, используя **going to** и глагол в скобках.",
+      "example": "My hands are dirty. (wash) → I'm going to wash them.",
+      "items": [
+        {
+          "text": "I'm hungry. I {{am going to eat|'m going to eat}} this sandwich.",
+          "hint": "eat"
+        },
+        {
+          "text": "Sue is tired. She {{is going to lie down|'s going to lie down}}.",
+          "hint": "lie down"
+        },
+        {
+          "text": "It's Sharon's birthday. We {{are going to give|'re going to give}} her a present.",
+          "hint": "give"
+        },
+        {
+          "text": "I don't want to take the bus. I {{am going to walk|'m going to walk}}.",
+          "hint": "walk"
+        },
+        {
+          "text": "John is going to London. He {{is going to stay|'s going to stay}} with friends.",
+          "hint": "stay"
+        },
+        {
+          "text": "What {{are}} you {{going}} to wear tonight?",
+          "hint": "be / go"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Отрицания и вопросы",
+      "instruction": "Допишите отрицание или вопрос с **going to**.",
+      "items": [
+        {
+          "text": "I'm tired. I {{am not|'m not}} going to go out tonight.",
+          "hint": "not"
+        },
+        {
+          "text": "{{Are}} you going to buy a new phone?",
+          "hint": "be"
+        },
+        {
+          "text": "She {{isn't|is not}} going to come to the party.",
+          "hint": "not"
+        },
+        {
+          "text": "What {{are}} they going to do tomorrow?",
+          "hint": "be"
+        },
+        {
+          "text": "{{Is}} he going to sell his car?",
+          "hint": "be"
+        },
+        {
+          "text": "We {{aren't|are not}} going to wait any longer.",
+          "hint": "not"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "Look at those black clouds! It ___ rain.",
+          "options": [
+            "is going to",
+            "goes to",
+            "going to"
+          ],
+          "answer": 0,
+          "why": "Видим признаки → **is going to rain**."
+        },
+        {
+          "q": "I ___ a new job. I've decided.",
+          "options": [
+            "am going to look for",
+            "going to look for",
+            "look for"
+          ],
+          "answer": 0,
+          "why": "Решение → **am going to**."
+        },
+        {
+          "q": "What ___ you going to do?",
+          "options": [
+            "is",
+            "are",
+            "do"
+          ],
+          "answer": 1,
+          "why": "**What are you going to do?**"
+        },
+        {
+          "q": "She ___ going to buy it.",
+          "options": [
+            "isn't",
+            "doesn't",
+            "don't"
+          ],
+          "answer": 0,
+          "why": "Отрицание с be: **isn't going to**."
+        },
+        {
+          "q": "Are you going ___ the party?",
+          "options": [
+            "to invite",
+            "to inviting",
+            "invite"
+          ],
+          "answer": 0,
+          "why": "**going to + инфинитив**."
+        },
+        {
+          "q": "It's 9 o'clock and I'm not ready. I ___ late.",
+          "options": [
+            "am going to be",
+            "go to be",
+            "will to be"
+          ],
+          "answer": 0,
+          "why": "Видно, что случится → **am going to be**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "«Я собираюсь купить машину».",
+          "options": [
+            "I going to buy a car.",
+            "I am going to buy a car.",
+            "I am going to buying a car."
+          ],
+          "answer": 1,
+          "why": "**am going to buy**."
+        },
+        {
+          "q": "«Он не собирается уезжать».",
+          "options": [
+            "He isn't going to leave.",
+            "He doesn't going to leave.",
+            "He not going to leave."
+          ],
+          "answer": 0,
+          "why": "**isn't going to leave**."
+        },
+        {
+          "q": "«Ты собираешься приглашать Анну?»",
+          "options": [
+            "Are you going to invite Anna?",
+            "Do you going to invite Anna?",
+            "You are going invite Anna?"
+          ],
+          "answer": 0,
+          "why": "**Are you going to invite ...?**"
+        },
+        {
+          "q": "«Будет дождь!»",
+          "options": [
+            "It's going to rain!",
+            "It goes to rain!",
+            "It is going rain!"
+          ],
+          "answer": 0,
+          "why": "**is going to rain**."
+        },
+        {
+          "q": "«Что вы будете делать?»",
+          "options": [
+            "What you are going to do?",
+            "What are you going to do?",
+            "What do you going to do?"
+          ],
+          "answer": 1,
+          "why": "Порядок: **What are you going to do?**"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Планы и признаки",
+      "instruction": "Вставьте глагол в форме **going to**.",
+      "items": [
+        {
+          "text": "Be careful! You {{are going to fall|'re going to fall}}.",
+          "hint": "fall"
+        },
+        {
+          "text": "I've decided: I {{am going to learn|'m going to learn}} to drive.",
+          "hint": "learn"
+        },
+        {
+          "text": "She has a big stomachache. She {{is going to see|'s going to see}} a doctor.",
+          "hint": "see"
+        },
+        {
+          "text": "The baby is yawning. He {{is going to sleep|'s going to sleep}}.",
+          "hint": "sleep"
+        },
+        {
+          "text": "We {{are not going to|aren't going to|'re not going to}} sell the house.",
+          "hint": "not / sell"
+        },
+        {
+          "text": "{{Is}} it {{going}} to snow tonight?",
+          "hint": "be / go"
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **going to**.",
+      "items": [
+        {
+          "prompt": "(I / buy / some books / tomorrow)",
+          "answers": [
+            "I'm going to buy some books tomorrow.",
+            "I am going to buy some books tomorrow."
+          ]
+        },
+        {
+          "prompt": "(Sarah / sell / her car)",
+          "answers": [
+            "Sarah is going to sell her car.",
+            "Sarah's going to sell her car."
+          ]
+        },
+        {
+          "prompt": "(what / you / wear / to the party?)",
+          "answers": [
+            "What are you going to wear to the party?"
+          ]
+        },
+        {
+          "prompt": "(I / not / have / breakfast)",
+          "answers": [
+            "I'm not going to have breakfast.",
+            "I am not going to have breakfast."
+          ]
+        },
+        {
+          "prompt": "(you / invite / John?)",
+          "answers": [
+            "Are you going to invite John?"
+          ]
+        },
+        {
+          "prompt": "(it / rain / soon)",
+          "answers": [
+            "It's going to rain soon.",
+            "It is going to rain soon."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Расскажите о своих планах. Используйте **going to**.",
+      "items": [
+        {
+          "prompt": "Что вы собираетесь делать завтра?",
+          "sample": "I'm going to visit my friend tomorrow."
+        },
+        {
+          "prompt": "Что вы собираетесь делать на выходных?",
+          "sample": "I'm going to clean my flat and go for a walk."
+        },
+        {
+          "prompt": "Что вы НЕ собираетесь делать сегодня вечером?",
+          "sample": "I'm not going to cook dinner tonight."
+        },
+        {
+          "prompt": "Что вы собираетесь купить?",
+          "sample": "I'm going to buy a new laptop."
+        },
+        {
+          "prompt": "Спросите друга о его планах на лето.",
+          "sample": "What are you going to do this summer?"
+        }
+      ]
+    }
+  ]
+}

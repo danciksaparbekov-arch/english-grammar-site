@@ -86,7 +86,7 @@
       "instruction": "Ответьте кратко на вопросы: **Yes, ... / No, ...** (по смыслу).",
       "items": [
         { "prompt": "Is the sun cold? (No, ...)", "answers": ["No, it isn't.", "No, it's not.", "No, it is not."] },
-        { "prompt": "Are two and two four? (Yes, ...)", "answers": ["Yes, they are."] },
+        { "prompt": "Is your phone new? (Yes, ...)", "answers": ["Yes, it is."] },
         { "prompt": "Is Paris in Italy? (No, ...)", "answers": ["No, it isn't.", "No, it's not.", "No, it is not."] },
         { "prompt": "Are elephants big? (Yes, ...)", "answers": ["Yes, they are."] },
         { "prompt": "Am I your teacher? (No, ... — отвечает ученица)", "answers": ["No, you aren't.", "No, you're not.", "No, you are not."] }

@@ -1,0 +1,280 @@
+{
+  "id": 83,
+  "title": "(a) little (a) few",
+  "summary": "Слова little/a little для неисчисляемых и few/a few для исчисляемых: «немного, но есть» против «почти нет».",
+  "ru": "## (a) little и (a) few — «немного»\n| слово | с чем | пример |\n|---|---|---|\n| **(a) little** | неисчисляемые | little water, a little time |\n| **(a) few** | исчисляемые во мн. числе | few books, a few days |\n\n## a little и a few — «немного, но есть»\nЭто **положительная** мысль: «что-то есть».\n> She drank **a little** water. — Она выпила немного воды.\n> I speak **a little** Spanish. — Я немного говорю по-испански.\n> We're going away for **a few** days. — Мы уезжаем на несколько дней.\n> — Are there any shops? — Yes, **a few**. — Магазины есть? — Да, несколько.\n\n## little и few — «почти нет»\nБез **a** значение **негативное**: «очень мало, почти нет».\n> There was **little** food in the fridge. It was nearly empty. — В холодильнике почти ничего не было.\n> There were **few** people in the park. — В парке почти никого не было.\nМожно усилить: **very little**, **very few**.\n> You make **very few** mistakes. — Вы делаете очень мало ошибок.\n\n## Сравните\n| положительно | отрицательно |\n|---|---|\n| **a little** money = есть немного | **little** money = почти нет |\n| **a few** friends = есть пара друзей | **few** friends = почти нет друзей |\n> I've got **a few** friends, so I'm not lonely. — У меня есть несколько друзей, мне не одиноко.\n> I've got **few** friends. I'm lonely. — У меня почти нет друзей. Мне одиноко.\n\n## Типичные ошибки\n- ~~I have a few money.~~ → I have **a little** money. (money — неисчисляемое)\n- ~~I have a little friends.~~ → I have **a few** friends.\n- ~~I have few friends, so I'm not lonely.~~ → I have **a few** friends, so I'm not lonely. (few звучит грустно)",
+  "en": "## (a) little and (a) few\n| word | with | example |\n|---|---|---|\n| **(a) little** | uncountable nouns | little water, a little time |\n| **(a) few** | plural countable nouns | few books, a few days |\n\n## a little and a few\nThese have a **positive** idea: some, not many.\n> She drank **a little** water.\n> I speak **a little** Spanish.\n> We're going away for **a few** days.\n> — Are there any shops? — Yes, **a few**.\n\n## little and few\nWithout **a**, the idea is **negative**: nearly no / nearly nothing.\n> There was **little** food in the fridge. It was nearly empty.\n> There were **few** people in the park.\nWe can say **very little** and **very few**: *You make very few mistakes.*\n\n## Compare\n| positive | negative |\n|---|---|\n| **a little** money = some | **little** money = nearly none |\n| **a few** friends = some | **few** friends = nearly none |\n> I've got **a few** friends, so I'm not lonely. · I've got **few** friends. I'm lonely.\n\n## Common mistakes\n- ~~I have a few money.~~ → I have **a little** money.\n- ~~I have a little friends.~~ → I have **a few** friends.",
+  "structure": "## Схема\n| | неисчисляемые | исчисляемые (мн.) |\n|---|---|---|\n| немного (есть) | a little water | a few friends |\n| почти нет | little water | few friends |\n| очень мало | very little water | very few friends |\n\n## Формулы\n> **a little** / **little** + неисчисляемое существительное\n> **a few** / **few** + существительное во мн. числе\n\n## Краткие ответы\n> — Do you want sugar? — Yes, **a little**, please.\n> — Did you take any photos? — Yes, **a few**.\n\n## Смысл\n> **a** = положительно (есть); без **a** = отрицательно (почти нет)",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "a little или a few?",
+      "instruction": "Вставьте **a little** или **a few**.",
+      "items": [
+        {
+          "text": "— Have you got any money? — Yes, {{a little}}."
+        },
+        {
+          "text": "— Have you got any envelopes? — Yes, {{a few}}."
+        },
+        {
+          "text": "— Do you want sugar in your coffee? — Yes, {{a little}}, please."
+        },
+        {
+          "text": "— Did you take photos on holiday? — Yes, {{a few}}."
+        },
+        {
+          "text": "— Does your friend speak English? — Yes, {{a little}}."
+        },
+        {
+          "text": "— Are there any factories in this town? — Yes, {{a few}}."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Дополните предложение",
+      "instruction": "Вставьте **a little** или **a few** и слово из скобки.",
+      "items": [
+        {
+          "text": "Last night I wrote {{a few}} {{letters}} to my family. (letters)"
+        },
+        {
+          "text": "I'd like {{a little}} {{milk}} in my tea. (milk)"
+        },
+        {
+          "text": "We stayed there for {{a few}} {{days}}. (days)"
+        },
+        {
+          "text": "Open the window. I need {{a little}} {{air}}. (air)"
+        },
+        {
+          "text": "I've got {{a few}} {{friends}} in this city. (friends)"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I'm not lonely. I've got ___ friends.",
+          "options": [
+            "few",
+            "a few",
+            "a little"
+          ],
+          "answer": 1,
+          "why": "Положительный смысл → **a few**."
+        },
+        {
+          "q": "There's ___ milk in the fridge. We need to buy some.",
+          "options": [
+            "little",
+            "a few",
+            "few"
+          ],
+          "answer": 0,
+          "why": "почти нет молока → **little**."
+        },
+        {
+          "q": "She speaks ___ Italian, so she can order food.",
+          "options": [
+            "a little",
+            "a few",
+            "few"
+          ],
+          "answer": 0,
+          "why": "Italian — неисчисляемое; положительный смысл → **a little**."
+        },
+        {
+          "q": "Very ___ people came to the party. It was empty.",
+          "options": [
+            "little",
+            "few",
+            "a few"
+          ],
+          "answer": 1,
+          "why": "people — мн. число; негативный смысл → **few**."
+        },
+        {
+          "q": "We have ___ time, so let's hurry.",
+          "options": [
+            "a few",
+            "a little",
+            "little"
+          ],
+          "answer": 2,
+          "why": "Не хватает времени → **little**."
+        },
+        {
+          "q": "I need ___ minutes to finish.",
+          "options": [
+            "a few",
+            "a little",
+            "little"
+          ],
+          "answer": 0,
+          "why": "minutes — мн. число → **a few**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "I have a few money.",
+            "I have a little money.",
+            "I have few moneys."
+          ],
+          "answer": 1,
+          "why": "money — неисчисляемое."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "There are little cars on the road.",
+            "There are few cars on the road.",
+            "There are a little cars on the road."
+          ],
+          "answer": 1,
+          "why": "cars — мн. число."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "She has few friends. She is sad.",
+            "She has a few friends. She is sad.",
+            "She has a little friends. She is sad."
+          ],
+          "answer": 0,
+          "why": "Грустный смысл → **few**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "I'd like a few water.",
+            "I'd like a little water.",
+            "I'd like a few waters."
+          ],
+          "answer": 1,
+          "why": "water — неисчисляемое."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **a little / a few / little / few**.",
+      "items": [
+        {
+          "prompt": "(I / speak / Spanish / a little)",
+          "answers": [
+            "I speak a little Spanish."
+          ]
+        },
+        {
+          "prompt": "(there / be / few / people / in the park)",
+          "answers": [
+            "There are few people in the park.",
+            "There were few people in the park."
+          ]
+        },
+        {
+          "prompt": "(we / go away / a few / days)",
+          "answers": [
+            "We're going away for a few days.",
+            "We are going away for a few days.",
+            "We went away for a few days."
+          ]
+        },
+        {
+          "prompt": "(he / have / little / money)",
+          "answers": [
+            "He has little money.",
+            "He's got little money.",
+            "He has got little money."
+          ]
+        },
+        {
+          "prompt": "(you / make / very few / mistakes)",
+          "answers": [
+            "You make very few mistakes."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "У меня есть немного времени.",
+          "answers": [
+            "I have a little time.",
+            "I've got a little time."
+          ]
+        },
+        {
+          "prompt": "Мы знаем несколько человек здесь.",
+          "answers": [
+            "We know a few people here."
+          ]
+        },
+        {
+          "prompt": "В моей комнате почти нет мебели. (little)",
+          "answers": [
+            "There is little furniture in my room.",
+            "There's little furniture in my room."
+          ]
+        },
+        {
+          "prompt": "Налей мне немного воды, пожалуйста.",
+          "answers": [
+            "Please give me a little water.",
+            "Can I have a little water, please?",
+            "Give me a little water, please."
+          ]
+        },
+        {
+          "prompt": "Здесь очень мало студентов.",
+          "answers": [
+            "There are very few students here."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Сколько у вас близких друзей?",
+          "sample": "I have a few close friends."
+        },
+        {
+          "prompt": "Сколько у вас свободного времени?",
+          "sample": "I have little free time on weekdays."
+        },
+        {
+          "prompt": "Какие иностранные языки вы знаете?",
+          "sample": "I speak a little English and a few words of French."
+        }
+      ]
+    }
+  ]
+}

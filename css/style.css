@@ -148,6 +148,9 @@ input.gap {
 input.gap:focus { outline: none; border-bottom-color: var(--accent); }
 .right { border-color: var(--good) !important; background: var(--good-soft) !important; }
 .bad { border-color: var(--bad) !important; background: var(--bad-soft) !important; }
+.unsure { border-color: var(--warn) !important; }
+.mismatch { color: var(--warn); font-size: 14px; }
+.sample .ask { padding: 4px 0; color: var(--accent); }
 input.gap.shown { border-bottom-color: var(--warn); color: var(--warn); }
 .choice .q, .write .q { margin-bottom: 6px; }
 .options { display: flex; flex-wrap: wrap; gap: 8px; }

@@ -1,0 +1,91 @@
+{
+  "id": 47,
+  "title": "How long does it take ...?",
+  "summary": "Конструкция **It takes (somebody) + время + to ...** — «на это уходит / требуется столько-то времени».",
+  "ru": "## Сколько времени это занимает\nЧтобы сказать, сколько времени нужно на действие или путь, англичане используют глагол **take** и безличное **it**.\n> **How long does it take** by train from London to Leeds? — Сколько времени ехать на поезде от Лондона до Лидса?\n> **It takes** two hours. — Это занимает два часа.\n> It takes ten minutes by car from my house to the station. — На машине от дома до станции десять минут.\n\n## Кому сколько нужно: it takes + человек + время + to + глагол\n> It took **me** three days **to read** the book. — Мне понадобилось три дня, чтобы прочитать книгу.\n> It takes **Tom** an hour **to get** to work. — Тому нужен час, чтобы добраться до работы.\n> It will take **us** a week **to paint** the room. — Нам понадобится неделя, чтобы покрасить комнату.\nКто тратит время — ставим после **take/took** (me, you, him, her, us, them или имя).\n\n## Времена\n- **takes** — обычно: It takes 20 minutes to get there.\n- **took** — в прошлом: It took me an hour to find the hotel.\n- **will take** — в будущем: How long will it take to learn to swim?\n\n## Вопросы и отрицания\n> **How long does it take** to cook rice? — Сколько варится рис?\n> **How long did it take** you to do the test? — Сколько ты делал тест?\n> It **doesn't take** long to make a salad. — Салат делается недолго.\n> **Did it take** you a long time to find a flat? — Ты долго искал квартиру?\n\n## Типичные ошибки\n- ~~I spent two hours to do it.~~ → **It took me** two hours **to do** it. (или: I spent two hours doing it.)\n- ~~How much time takes it?~~ → **How long does it take?**\n- ~~It takes to me three hours.~~ → It takes **me** three hours. (без to перед me)",
+  "en": "## How much time does something need?\nWe use **take** with **it** to say how much time something needs.\n> **How long does it take** by train from London to Leeds?\n> **It takes** two hours.\n> It takes ten minutes by car from my house to the station.\n\n## Who needs the time: it takes + person + time + to + verb\n> It took **me** three days **to read** the book.\n> It takes **Tom** an hour **to get** to work.\n> It will take **us** a week **to paint** the room.\nPut the person right after take/took (not with to).\n\n## Tenses\n- **takes**: It takes 20 minutes to get there.\n- **took**: It took me an hour to find the hotel.\n- **will take**: How long will it take to learn to swim?\n\n## Questions and negatives\n> **How long does it take** to cook rice?\n> **How long did it take** you to do the test?\n> It **doesn't take** long to make a salad.\n> **Did it take** you a long time to find a flat?\n\n## Common mistakes\n- ~~How much time takes it?~~ → **How long does it take?**\n- ~~It takes to me three hours.~~ → It takes **me** three hours.",
+  "structure": "## Формулы\n| Что говорим | Конструкция | Пример |\n|---|---|---|\n| Общий факт | It takes + время (+ to ...) | It takes an hour to get there. |\n| Для человека | It takes + человек + время + to ... | It takes me an hour to get there. |\n| Прошлое | It took + человек + время + to ... | It took her a week to learn it. |\n| Будущее | It will take + человек + время + to ... | It will take us two days to drive. |\n\n## Вопросы\n| Вопрос | Пример |\n|---|---|\n| How long does it take + to ...? | How long does it take to walk there? |\n| How long does it take + человек + to ...? | How long does it take you to get to work? |\n| How long did it take + человек + to ...? | How long did it take Ann to find a job? |\n| How long will it take + человек + to ...? | How long will it take me to learn English? |\n\n## Отрицание\n> It **doesn't take** long. · It **didn't take** me long. · It **won't take** long.\n\n## Полезные слова\n- **a long time** — долго · **a few minutes** — несколько минут · **by car / by train / on foot** — на чём",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "How long ...?",
+      "instruction": "Вставьте пропущенные слова в вопросы.",
+      "items": [
+        { "text": "How long {{does}} it take by bus from here to the airport?" },
+        { "text": "How long {{did}} it take you to get to school yesterday?" },
+        { "text": "How long {{will}} it take to cook the dinner?" },
+        { "text": "How {{long}} does it take to learn to drive?" },
+        { "text": "How long does it {{take}} to fly from Bishkek to Moscow?" },
+        { "text": "How long did it take {{him|Tom|her}} to write the letter?" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "It takes / took ...",
+      "instruction": "Вставьте **take**, **takes**, **took** или **will take**.",
+      "items": [
+        { "text": "Yesterday it {{took}} me two hours to do my homework." },
+        { "text": "It {{takes}} about ten minutes to walk to the shop." },
+        { "text": "It {{will take}} us three hours to get there tomorrow." },
+        { "text": "It doesn't {{take}} long to make a sandwich." },
+        { "text": "Last year it {{took}} Mark six months to find a job." },
+        { "text": "It usually {{takes}} me an hour to get to work." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильное предложение",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "Мне нужно 20 минут, чтобы дойти до школы.", "options": ["It takes me 20 minutes to walk to school.", "It takes to me 20 minutes to walk to school.", "I take 20 minutes to walk to school."], "answer": 0, "why": "It takes + me + время + to + глагол." },
+        { "q": "Сколько времени ты ехал вчера?", "options": ["How long it took you?", "How long did it take you?", "How long did it took you?"], "answer": 1, "why": "Вопрос в прошлом: did + take." },
+        { "q": "Сколько времени займёт этот ремонт?", "options": ["How long will it take?", "How long it will take?", "How long does take it?"], "answer": 0, "why": "How long will it take?" },
+        { "q": "Это не заняло много времени.", "options": ["It didn't took long.", "It not took long.", "It didn't take long."], "answer": 2, "why": "После didn't — основная форма take." },
+        { "q": "Ане нужен час, чтобы приготовить ужин.", "options": ["It takes Ann an hour to cook dinner.", "It takes an hour to Ann cook dinner.", "Ann takes an hour to cook it dinner."], "answer": 0, "why": "Человек ставится сразу после takes." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Подберите слово",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        { "q": "It ___ me ten minutes to find my keys. (вчера)", "options": ["takes", "took", "take"], "answer": 1, "why": "Прошлое — took." },
+        { "q": "How long ___ it take to boil an egg?", "options": ["do", "does", "is"], "answer": 1, "why": "it → does." },
+        { "q": "It will ___ us a long time to clean the house.", "options": ["took", "takes", "take"], "answer": 2, "why": "После will — основная форма take." },
+        { "q": "It takes two hours ___ train from Osh to Bishkek.", "options": ["by", "with", "on foot by"], "answer": 0, "why": "Транспорт — by train." },
+        { "q": "How long did ___ take you to learn English?", "options": ["it", "you", "they"], "answer": 0, "why": "Безличное it." },
+        { "q": "It doesn't take ___ to make tea.", "options": ["a long", "long", "length"], "answer": 1, "why": "В отрицании и вопросе: long (it doesn't take long)." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Напишите полное предложение с **take**.",
+      "items": [
+        { "prompt": "(by plane / from Bishkek to Istanbul / five hours)", "answers": ["It takes five hours by plane from Bishkek to Istanbul.", "It takes five hours from Bishkek to Istanbul by plane."] },
+        { "prompt": "(I / walked to the station / twenty minutes) — прошлое", "answers": ["It took me twenty minutes to walk to the station.", "It took me 20 minutes to walk to the station."] },
+        { "prompt": "(How long / Tom / find a flat?) — прошлое", "answers": ["How long did it take Tom to find a flat?"] },
+        { "prompt": "(How long / you / get to work?) — обычно", "answers": ["How long does it take you to get to work?"] },
+        { "prompt": "(learn to swim / a few weeks / she) — будущее", "answers": ["It will take her a few weeks to learn to swim.", "It'll take her a few weeks to learn to swim."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        { "prompt": "How long does it take you to get from home to work or school?", "sample": "It takes me forty minutes to get to school." },
+        { "prompt": "How long does it take to walk from your home to the nearest shop?", "sample": "It takes five minutes to walk to the nearest shop." },
+        { "prompt": "How long does it take to fly from your city to Moscow?", "sample": "It takes about four hours to fly from Bishkek to Moscow." },
+        { "prompt": "How long did it take you to get ready this morning?", "sample": "It took me half an hour to get ready." },
+        { "prompt": "How long will it take you to finish your English course?", "sample": "It will take me about a year to finish my English course." }
+      ]
+    }
+  ]
+}

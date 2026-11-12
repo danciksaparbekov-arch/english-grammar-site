@@ -1,0 +1,282 @@
+{
+  "id": 79,
+  "title": "every and all",
+  "summary": "Every + единственное число («каждый»), every day и all day, everybody/everything/everywhere.",
+  "ru": "## every + единственное число\n**every** значит «каждый, все (без исключения)». После него — существительное в **единственном числе** и глагол в **единственном числе**.\n> **Every student** in the class passed the exam. — Каждый ученик в классе сдал экзамен.\n> **Every country** has a flag. — У каждой страны есть флаг.\n> She looks different **every time** I see her. — Она выглядит по-разному каждый раз, когда я её вижу.\nСравните: *Every student passed* ≈ *All the students passed*.\n\n## every day и all day\n- **every day** — каждый день (как часто): *I drink tea every day.*\n- **all day** — весь день, целый день (как долго): *It rained all day.*\n> I buy a newspaper **every morning**. — Я покупаю газету каждое утро.\n> I was tired, so I watched TV **all evening**. — Я устала и смотрела ТВ весь вечер.\nТо же: *every night / all night, every summer / all summer*.\n\n## everybody / everyone / everything / everywhere\n- **everybody / everyone** — все (люди)\n- **everything** — всё (вещи)\n- **everywhere** — везде\n> **Everybody** needs friends. — Всем нужны друзья.\n> I've looked **everywhere** for my watch. — Я везде искала часы.\n> Have you got **everything** you need? — У тебя есть всё необходимое?\nГлагол после *everybody / everyone / everything* — в **единственном числе**: *Everybody **has** problems.*\n\n## Типичные ошибки\n- ~~Every students pass.~~ → **Every student passes.** / **All students pass.**\n- ~~Everybody are happy.~~ → Everybody **is** happy.\n- ~~I work every the day.~~ → I work **every day**.\n- ~~It rained every day yesterday.~~ → It rained **all day** yesterday.",
+  "en": "## every + singular\n**every** means «each one, no exceptions». We use a **singular noun** and a **singular verb** after it.\n> **Every student** in the class passed the exam.\n> **Every country** has a flag.\n> She looks different **every time** I see her.\n*Every student passed* is similar to *All the students passed*.\n\n## every day and all day\n- **every day** = on all days (how often)\n- **all day** = the whole day (how long)\n> I buy a newspaper **every morning**.\n> I was tired, so I watched TV **all evening**.\nAlso: *every night / all night, every summer / all summer*.\n\n## everybody / everyone / everything / everywhere\n> **Everybody** needs friends. (all people)\n> Have you got **everything** you need? (all things)\n> I've looked **everywhere** for my watch. (all places)\nAfter *everybody / everyone / everything* we use a **singular verb**: *Everybody **has** problems.*\n\n## Common mistakes\n- ~~Every students pass.~~ → **Every student passes.**\n- ~~Everybody are happy.~~ → Everybody **is** happy.\n- ~~It rained every day yesterday.~~ → It rained **all day** yesterday.",
+  "structure": "## Формулы\n> **every** + существительное (ед. число) + глагол (ед. число)\n> **everybody / everyone / everything** + глагол (ед. число)\n\n## every и all\n| every | all |\n|---|---|\n| every student (ед.) | all the students (мн.) |\n| every country has | all countries have |\n| every day — как часто | all day — как долго |\n\n## Слова на every-\n| | |\n|---|---|\n| люди | everybody / everyone |\n| вещи | everything |\n| места | everywhere |\n\n## Время\n> **every** morning / afternoon / evening / night / week / summer\n> **all** morning / afternoon / evening / night / week / summer",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вставьте every",
+      "instruction": "Вставьте **every**.",
+      "items": [
+        {
+          "text": "{{Every}} student in my group has a laptop."
+        },
+        {
+          "text": "{{Every}} room in the hotel has a balcony."
+        },
+        {
+          "text": "I don't understand {{every}} word of this song."
+        },
+        {
+          "text": "He wins {{every}} time we play chess."
+        },
+        {
+          "text": "My mother calls me {{every}} day."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "every day или all day?",
+      "instruction": "Вставьте **every day** или **all day**.",
+      "items": [
+        {
+          "text": "Yesterday it rained {{all day}}."
+        },
+        {
+          "text": "I buy a newspaper {{every day}}."
+        },
+        {
+          "text": "She works {{all day}} on Saturdays, from 8 to 6."
+        },
+        {
+          "text": "I go for a walk {{every day}} after dinner."
+        },
+        {
+          "text": "We were at the beach {{all day}} on Sunday."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "Every student ___ a book.",
+          "options": [
+            "have",
+            "has",
+            "are having"
+          ],
+          "answer": 1,
+          "why": "every + ед. число → **has**."
+        },
+        {
+          "q": "Everybody ___ at the party yesterday.",
+          "options": [
+            "were",
+            "was",
+            "is"
+          ],
+          "answer": 1,
+          "why": "everybody + ед. число → **was**."
+        },
+        {
+          "q": "I've looked ___ for my phone, but I can't find it.",
+          "options": [
+            "every",
+            "everywhere",
+            "everything"
+          ],
+          "answer": 1,
+          "why": "Искал во всех местах → **everywhere**."
+        },
+        {
+          "q": "I was ill, so I stayed in bed ___.",
+          "options": [
+            "every day",
+            "all day",
+            "everything"
+          ],
+          "answer": 1,
+          "why": "Целый день → **all day**."
+        },
+        {
+          "q": "___ in this room is old.",
+          "options": [
+            "Every",
+            "Everything",
+            "All"
+          ],
+          "answer": 1,
+          "why": "Без существительного, про вещи → **Everything**."
+        },
+        {
+          "q": "She goes to the gym ___ morning.",
+          "options": [
+            "all",
+            "every",
+            "everyone"
+          ],
+          "answer": 1,
+          "why": "Как часто → **every morning**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "Every country have a flag.",
+            "Every country has a flag.",
+            "Every countries have a flag."
+          ],
+          "answer": 1,
+          "why": "every + ед. число + глагол в ед. числе."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Everyone is here.",
+            "Everyone are here.",
+            "Everyone were here."
+          ],
+          "answer": 0,
+          "why": "**Everyone is**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "It snowed every day yesterday.",
+            "It snowed all day yesterday.",
+            "It snowed every the day."
+          ],
+          "answer": 1,
+          "why": "Один день целиком → **all day**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "I know every people here.",
+            "I know everybody here.",
+            "I know every body here."
+          ],
+          "answer": 1,
+          "why": "**everybody** = все люди."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **every**, **all** или **every-** словом.",
+      "items": [
+        {
+          "prompt": "(every / house / in the street / the same / be)",
+          "answers": [
+            "Every house in the street is the same."
+          ]
+        },
+        {
+          "prompt": "(it / rain / all / yesterday / day)",
+          "answers": [
+            "It rained all day yesterday.",
+            "Yesterday it rained all day."
+          ]
+        },
+        {
+          "prompt": "(everybody / need / friends)",
+          "answers": [
+            "Everybody needs friends.",
+            "Everyone needs friends."
+          ]
+        },
+        {
+          "prompt": "(I / look for / my keys / everywhere)",
+          "answers": [
+            "I looked everywhere for my keys.",
+            "I've looked everywhere for my keys.",
+            "I'm looking everywhere for my keys."
+          ]
+        },
+        {
+          "prompt": "(he / work / all / night)",
+          "answers": [
+            "He worked all night.",
+            "He works all night.",
+            "He's working all night."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Каждый ученик получил подарок.",
+          "answers": [
+            "Every student got a present.",
+            "Every student received a present.",
+            "Every student has got a present.",
+            "Every student has a present."
+          ]
+        },
+        {
+          "prompt": "Все дома.",
+          "answers": [
+            "Everybody is at home.",
+            "Everyone is at home.",
+            "Everybody's at home.",
+            "Everyone's at home."
+          ]
+        },
+        {
+          "prompt": "Мы весь день были в парке.",
+          "answers": [
+            "We were in the park all day.",
+            "We spent all day in the park."
+          ]
+        },
+        {
+          "prompt": "Я пью кофе каждое утро.",
+          "answers": [
+            "I drink coffee every morning."
+          ]
+        },
+        {
+          "prompt": "У тебя есть всё?",
+          "answers": [
+            "Have you got everything?",
+            "Do you have everything?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Что вы делаете каждый день?",
+          "sample": "I drink tea every morning. / I read every day."
+        },
+        {
+          "prompt": "Что вы делали вчера весь день или весь вечер?",
+          "sample": "I worked all day yesterday."
+        },
+        {
+          "prompt": "Что нужно каждому человеку?",
+          "sample": "Everybody needs friends and a home."
+        }
+      ]
+    }
+  ]
+}

@@ -17,6 +17,8 @@ if "--only" in sys.argv:
 
 errors, ready = [], []
 GAP = re.compile(r"\{\{([^}]*)\}\}")
+# такие символы автопроверка не понимает: «(that)», «a/an», «...»
+BADCH = re.compile(r"[()/\[\]…]|\.\.\.")
 
 
 def err(f, msg):
@@ -66,6 +68,9 @@ for f in sorted(glob.glob(os.path.join(ROOT, "data", "units", "unit-*.json"))):
                     err(f, f"{where}: нет пропуска {{...}}")
                 if any(not g.split("|")[0].strip() for g in gaps):
                     err(f, f"{where}: пустой ответ в пропуске")
+                for g in gaps:
+                    if BADCH.search(g):
+                        err(f, f"{where}: в ответе скобки/слэш/многоточие — давайте варианты через |")
             elif t == "choice":
                 opts = it.get("options")
                 a = it.get("answer")
@@ -84,6 +89,8 @@ for f in sorted(glob.glob(os.path.join(ROOT, "data", "units", "unit-*.json"))):
                     err(f, f"{where}: нужен answers или sample")
                 if "answers" in it and not (isinstance(it["answers"], list) and it["answers"]):
                     err(f, f"{where}: answers должен быть непустым списком")
+                elif any(BADCH.search(a) for a in it.get("answers") or []):
+                    err(f, f"{where}: в answers скобки/слэш/многоточие — давайте варианты отдельными строками")
             else:
                 err(f, f"упр.{i}: неизвестный type {t}")
     ready.append(n)

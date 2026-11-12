@@ -1,0 +1,109 @@
+{
+  "id": 4,
+  "title": "are you doing? (present continuous questions)",
+  "summary": "Вопросы в present continuous: **Are you working? What is he doing?** — be выходит на первое место перед подлежащим.",
+  "ru": "## Как задать вопрос\nВ present continuous вопрос строится так же, как с обычным be: **am / is / are выходит перед подлежащим**.\n> You are working. → **Are you working?** — Ты работаешь?\n> It is raining. → **Is it raining?** — Дождь идёт?\n> They are watching TV. → **Are they watching TV?** — Они смотрят телевизор?\n\n## Порядок слов\n**am / is / are + подлежащее + глагол с -ing**\n> **Is** Paul working today? — Пол сегодня работает?\n> **Are** your friends staying at a hotel? — Твои друзья живут в отеле?\nНельзя: ~~Is working Paul today?~~ — подлежащее стоит **между** be и -ing.\n\n## Вопросы с вопросительными словами\n**Вопросительное слово + be + подлежащее + -ing**\n> **What** are you doing? — Что ты делаешь?\n> **Where** is she going? — Куда она идёт?\n> **Why** are you wearing a coat? — Почему ты в пальто?\n> **Who** are you waiting for? — Кого ты ждёшь?\n> **What** are the children doing? — Что делают дети?\n\n## Краткие ответы\n> Are you going now? — **Yes, I am.** / **No, I'm not.**\n> Is Paul working? — **Yes, he is.** / **No, he isn't.**\n> Are they staying here? — **Yes, they are.** / **No, they aren't.**\nВ ответе «Yes» краткую форму не используем: не ~~Yes, I'm.~~\n\n## Типичные ошибки\n- ~~You are working?~~ → **Are you** working?\n- ~~Is working Paul?~~ → **Is Paul** working?\n- ~~What you are doing?~~ → What **are you** doing?\n- ~~Where going your friends?~~ → Where **are your friends** going?\n- ~~Do you working?~~ → **Are you** working? (do здесь не нужен)",
+  "en": "## How to ask\nIn the present continuous we put **am / is / are before the subject**.\n> You are working. → **Are you working?**\n> It is raining. → **Is it raining?**\n> They are watching TV. → **Are they watching TV?**\n\n## Word order\n**am / is / are + subject + verb-ing**\n> **Is** Paul working today?\n> **Are** your friends staying at a hotel?\nNot ~~Is working Paul today?~~ — the subject goes between be and the -ing verb.\n\n## Question words\n**question word + be + subject + verb-ing**\n> **What** are you doing?\n> **Where** is she going?\n> **Why** are you wearing a coat?\n> **Who** are you waiting for?\n\n## Short answers\n> Are you going now? — **Yes, I am.** / **No, I'm not.**\n> Is Paul working? — **Yes, he is.** / **No, he isn't.**\n> Are they staying here? — **Yes, they are.** / **No, they aren't.**\nNot ~~Yes, I'm.~~\n\n## Common mistakes\n- ~~You are working?~~ → **Are you** working?\n- ~~What you are doing?~~ → What **are you** doing?\n- ~~Do you working?~~ → **Are you** working?",
+  "structure": "## Вопрос\n| be | Подлежащее | -ing | |\n|---|---|---|---|\n| Am | I | doing | it right? |\n| Is | he / she / it | working | today? |\n| Are | we / you / they | going | now? |\n\n## С вопросительным словом\n| Слово | be | Подлежащее | -ing |\n|---|---|---|---|\n| What | are | you | doing? |\n| Where | is | she | going? |\n| Why | are | they | laughing? |\n| Who | are | you | waiting for? |\n\n## Краткие ответы\n| Вопрос | Да | Нет |\n|---|---|---|\n| Am I ...-ing? | Yes, you are. | No, you aren't. / No, you're not. |\n| Is he / she / it ...-ing? | Yes, he is. | No, he isn't. / No, he's not. |\n| Are you ...-ing? | Yes, I am. / Yes, we are. | No, I'm not. / No, we aren't. |\n| Are they ...-ing? | Yes, they are. | No, they aren't. / No, they're not. |\n\n## Формулы\n> **Be + подлежащее + -ing?** → Is Tom sleeping?\n> **Вопросительное слово + be + подлежащее + -ing?** → What is Tom doing?",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "am, is или are?",
+      "instruction": "Вставьте **am**, **is** или **are** в вопрос.",
+      "items": [
+        { "text": "{{Is}} it raining?" },
+        { "text": "Where {{are}} your friends going?" },
+        { "text": "What {{is}} Paul doing?" },
+        { "text": "{{Are}} you listening to me?" },
+        { "text": "Why {{are}} you laughing?" },
+        { "text": "{{Is}} the bus coming?" },
+        { "text": "What {{am}} I doing wrong?" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Закончите вопросы",
+      "instruction": "Вставьте глагол в скобках в форме **-ing**.",
+      "items": [
+        { "text": "Why is the baby {{crying}}?", "hint": "cry" },
+        { "text": "What are you {{reading}}?", "hint": "read" },
+        { "text": "Is she {{eating}} an apple?", "hint": "eat" },
+        { "text": "Why are they {{running}}?", "hint": "run" },
+        { "text": "Are you {{going}} to the shop?", "hint": "go" },
+        { "text": "Who is Tom {{talking}} to?", "hint": "talk" },
+        { "text": "What is she {{writing}}?", "hint": "write" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вопрос",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "___ you wearing a new jacket?", "options": ["Is", "Do", "Are"], "answer": 2, "why": "you → **Are** + -ing." },
+        { "q": "What ___ your sister doing?", "options": ["is", "are", "does"], "answer": 0, "why": "your sister = she → **is**." },
+        { "q": "___ Anna working today?", "options": ["Are", "Is", "Does"], "answer": 1, "why": "Anna = she → **Is**." },
+        { "q": "Where ___ going?", "options": ["are you", "you are", "do you"], "answer": 0, "why": "be идёт перед подлежащим: Where **are you** going?" },
+        { "q": "___ it snowing in your city?", "options": ["Is", "Are", "Am"], "answer": 0, "why": "it → **Is**." },
+        { "q": "Who ___ Mark talking to?", "options": ["are", "is", "does"], "answer": 1, "why": "Mark = he → **is**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите краткий ответ",
+      "instruction": "Выберите правильный краткий ответ.",
+      "items": [
+        { "q": "Are you studying now? — Yes, ___.", "options": ["I'm", "I do", "I am"], "answer": 2, "why": "**Yes, I am.**" },
+        { "q": "Is it raining? — No, ___.", "options": ["it isn't", "it doesn't", "it not"], "answer": 0, "why": "**No, it isn't.**" },
+        { "q": "Are the children sleeping? — No, ___.", "options": ["they aren't", "they don't", "they isn't"], "answer": 0, "why": "they → **aren't**." },
+        { "q": "Is Paul cooking? — Yes, ___.", "options": ["he does", "he is", "he's"], "answer": 1, "why": "**Yes, he is.** В «Yes» краткую форму не используем." },
+        { "q": "Am I disturbing you? — No, ___.", "options": ["you aren't", "I'm not", "you don't"], "answer": 0, "why": "Отвечаем словом **you**: No, you aren't." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте вопросы",
+      "instruction": "Составьте вопрос из слов. Поставьте слова в правильном порядке.",
+      "items": [
+        { "prompt": "(working / Paul / today?)", "answers": ["Is Paul working today?"] },
+        { "prompt": "(what / doing / the children?)", "answers": ["What are the children doing?"] },
+        { "prompt": "(you / listening / to me?)", "answers": ["Are you listening to me?"] },
+        { "prompt": "(where / going / your friends?)", "answers": ["Where are your friends going?"] },
+        { "prompt": "(your parents / watching / TV?)", "answers": ["Are your parents watching TV?"] },
+        { "prompt": "(what / cooking / Ann?)", "answers": ["What is Ann cooking?"] },
+        { "prompt": "(why / you / looking / at me?)", "answers": ["Why are you looking at me?"] },
+        { "prompt": "(coming / the bus?)", "answers": ["Is the bus coming?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите вопросы и краткие ответы.",
+      "items": [
+        { "prompt": "Что ты делаешь?", "answers": ["What are you doing?"] },
+        { "prompt": "Ты спишь? — Нет.", "answers": ["Are you sleeping? — No, I'm not.", "Are you sleeping? No, I'm not.", "Are you sleeping? — No, I am not.", "Are you sleeping? No, I am not.", "Are you sleeping?"] },
+        { "prompt": "Куда она идёт?", "answers": ["Where is she going?", "Where's she going?"] },
+        { "prompt": "Дождь идёт?", "answers": ["Is it raining?"] },
+        { "prompt": "Они сейчас учатся?", "answers": ["Are they studying now?", "Are they studying?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Вопросы к картинке и о себе",
+      "instruction": "Придумайте вопрос и дайте краткий ответ. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Спросите друга, что он делает прямо сейчас, и ответьте за него.", "sample": "What are you doing? — I'm reading a book." },
+        { "prompt": "Спросите, идёт ли сегодня дождь, и ответьте.", "sample": "Is it raining today? — No, it isn't." },
+        { "prompt": "Спросите, куда идёт ваш брат или сестра.", "sample": "Where is your brother going? — He's going to school." },
+        { "prompt": "Спросите, смотрят ли ваши родители телевизор.", "sample": "Are your parents watching TV? — Yes, they are." },
+        { "prompt": "Спросите, почему кто-то смеётся.", "sample": "Why are you laughing? — Because the film is funny." }
+      ]
+    }
+  ]
+}

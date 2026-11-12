@@ -1,0 +1,329 @@
+{
+  "id": 66,
+  "title": "a car / some money (countable/uncountable 1)",
+  "summary": "Исчисляемые (**car, key, idea**) и неисчисляемые (**water, money, music**) существительные: как их различать и с чем употреблять.",
+  "ru": "## Две группы существительных\nВ английском существительные делятся на **исчисляемые** (countable) и **неисчисляемые** (uncountable).\n\n## Исчисляемые\nИх можно **посчитать**: one, two, three... Они бывают в единственном и множественном числе.\n> a car → two cars → three cars\n> a key, a house, a flower, an idea, an accident\n- Единственное число: **a car, my car, the car** — но не ~~car~~ без артикля.\n- Множественное: **cars, two cars, some cars, many cars**.\n> We can't get in without **a key**. (не ~~without key~~)\n> There aren't **many cars** in the car park.\n\n## Неисчисляемые\nИх **нельзя посчитать** по штукам: *water, air, rice, salt, plastic, money, music, tennis*. Форма только одна — единственного числа.\n> **Money** isn't everything. — Деньги — это не всё.\n> I've got **some money**. — У меня есть немного денег.\n> There isn't **much money** in the box. — В коробке мало денег.\nНельзя: ~~one money~~, ~~two musics~~, ~~a money~~.\n\n## Как посчитать неисчисляемое\nИспользуем «единицы»: **a glass of water, a cup of coffee, a piece of cheese, a bar of chocolate, a bottle of milk, a bowl of rice**.\n> a glass **of** water — стакан воды\n> two pieces **of** cheese — два кусочка сыра\n> a game **of** tennis — партия в теннис\n\n## Как узнать, какое слово\n- Можно сказать *one/two + слово*? Да → исчисляемое (*two keys*).\n- Нет → неисчисляемое (*~~two waters~~* — нельзя, надо *two glasses of water*).\n- Исчисляемое: **many**, **a few**; неисчисляемое: **much**, **a little**.\n\n## Типичные ошибки\n- ~~I need an information.~~ → I need some information. (см. Unit 67)\n- ~~I have a money.~~ → I have some money.\n- ~~two musics~~ → two **pieces of music** / two **songs**\n- ~~We can't get in without key.~~ → without **a** key",
+  "en": "## Two kinds of nouns\nNouns can be **countable** or **uncountable**.\n\n## Countable nouns\nYou can count them: one, two, three. They have singular and plural forms.\n> a car → two cars → three cars\n> a key, a house, a flower, an idea\n- Singular: **a car, my car, the car**.\n- Plural: **cars, two cars, some cars, many cars**.\n> We can't get in without **a key**.\n> There aren't **many cars** in the car park.\n\n## Uncountable nouns\nYou can't count them: *water, air, rice, salt, plastic, money, music, tennis*. They have **one form only**.\n> **Money** isn't everything.\n> I've got **some money**.\n> There isn't **much money** in the box.\nYou can't say ~~one money~~, ~~two musics~~, ~~a money~~.\n\n## Counting uncountable things\nUse **a glass of, a cup of, a piece of, a bar of, a bottle of, a bowl of**.\n> a glass **of** water\n> two pieces **of** cheese\n> a game **of** tennis\n\n## How to check\n- Can you say *one/two + noun*? Yes → countable.\n- No → uncountable.\n- Countable: **many**, **a few**. Uncountable: **much**, **a little**.\n\n## Common mistakes\n- ~~I have a money.~~ → I have some money.\n- ~~two musics~~ → two **pieces of music**\n- ~~without key~~ → without **a** key",
+  "structure": "## Сравнение\n| Исчисляемые | Неисчисляемые |\n|---|---|\n| a car / two cars | money (не ~~a money~~) |\n| a key / keys | water, rice, salt |\n| an idea / ideas | music, plastic, tennis |\n| Можно: one, two, three | Нельзя: ~~one money~~ |\n| a / an, many | some, much |\n\n## Формулы\n> **a / an** + исчисляемое (ед. ч.) — a car, an idea\n> исчисляемое (мн. ч.) — cars, ideas\n> неисчисляемое — money, water (без a / an и без -s)\n\n## Единицы для неисчисляемых\n> **a** + единица + **of** + неисчисляемое\n> a glass **of** water · a cup **of** coffee · a bottle **of** milk\n> a piece **of** cheese · a bar **of** chocolate · a bowl **of** rice",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "a или some?",
+      "instruction": "Вставьте **a / an** или **some**.",
+      "example": "I need ___ money. → I need **some** money.",
+      "items": [
+        {
+          "text": "I'd like {{a}} cup of tea."
+        },
+        {
+          "text": "I'd like {{some}} water."
+        },
+        {
+          "text": "She has {{an}} idea."
+        },
+        {
+          "text": "He bought {{some}} rice at the shop."
+        },
+        {
+          "text": "We need {{a}} key to open the door."
+        },
+        {
+          "text": "There is {{some}} money in my bag."
+        },
+        {
+          "text": "I'm listening to {{some}} music."
+        },
+        {
+          "text": "They have {{a}} new house."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Единицы измерения",
+      "instruction": "Вставьте слово: **glass, cup, bottle, piece, bar, bowl** (и **of**).",
+      "items": [
+        {
+          "text": "I'd like a {{glass of}} water."
+        },
+        {
+          "text": "She is drinking a {{cup of}} coffee."
+        },
+        {
+          "text": "He is eating a {{bowl of}} rice."
+        },
+        {
+          "text": "I bought a {{bottle of}} milk."
+        },
+        {
+          "text": "Can I have a {{piece of}} cheese?"
+        },
+        {
+          "text": "She is eating a {{bar of}} chocolate."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "a, an или some",
+      "instruction": "Вставьте **a**, **an** или **some**.",
+      "items": [
+        {
+          "text": "I haven't got {{a}} car."
+        },
+        {
+          "text": "There is {{some}} rice on the plate."
+        },
+        {
+          "text": "There is {{an}} apple on the table."
+        },
+        {
+          "text": "She is drinking {{some}} water."
+        },
+        {
+          "text": "He has {{a}} good idea."
+        },
+        {
+          "text": "We need {{some}} money."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Исчисляемое или неисчисляемое?",
+      "instruction": "Выберите нужное слово.",
+      "items": [
+        {
+          "q": "Какое слово неисчисляемое?",
+          "options": [
+            "car",
+            "money",
+            "key"
+          ],
+          "answer": 1,
+          "why": "**money** — деньги нельзя посчитать как *one money*."
+        },
+        {
+          "q": "Какое слово неисчисляемое?",
+          "options": [
+            "water",
+            "banana",
+            "idea"
+          ],
+          "answer": 0,
+          "why": "**water** — неисчисляемое."
+        },
+        {
+          "q": "Какое слово неисчисляемое?",
+          "options": [
+            "house",
+            "flower",
+            "music"
+          ],
+          "answer": 2,
+          "why": "**music** — неисчисляемое."
+        },
+        {
+          "q": "Какое слово неисчисляемое?",
+          "options": [
+            "rice",
+            "egg",
+            "shop"
+          ],
+          "answer": 0,
+          "why": "**rice** — рис нельзя посчитать *one rice*."
+        },
+        {
+          "q": "Какое слово исчисляемое?",
+          "options": [
+            "salt",
+            "key",
+            "plastic"
+          ],
+          "answer": 1,
+          "why": "**key** — one key, two keys."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Правильное предложение",
+      "instruction": "Верно только одно.",
+      "items": [
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I've got a money.",
+            "I've got some money.",
+            "I've got moneys."
+          ],
+          "answer": 1,
+          "why": "money — неисчисляемое → **some money**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "We can't get in without key.",
+            "We can't get in without a key.",
+            "We can't get in without keys a."
+          ],
+          "answer": 1,
+          "why": "Исчисляемое в ед. ч. → **a key**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "There aren't many cars.",
+            "There aren't much cars.",
+            "There aren't a car."
+          ],
+          "answer": 0,
+          "why": "many + мн. ч. исчисляемого."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I'd like a water.",
+            "I'd like a glass of water.",
+            "I'd like two waters of glass."
+          ],
+          "answer": 1,
+          "why": "Неисчисляемое → **a glass of water**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "There isn't much money in the box.",
+            "There isn't many money in the box.",
+            "There isn't a money in the box."
+          ],
+          "answer": 0,
+          "why": "much + неисчисляемое."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов.",
+      "items": [
+        {
+          "prompt": "(I / have / not / car)",
+          "answers": [
+            "I haven't got a car.",
+            "I don't have a car.",
+            "I have not got a car.",
+            "I do not have a car."
+          ]
+        },
+        {
+          "prompt": "(she / want / glass / water)",
+          "answers": [
+            "She wants a glass of water."
+          ]
+        },
+        {
+          "prompt": "(there / be / not / much / money / in my bag)",
+          "answers": [
+            "There isn't much money in my bag.",
+            "There is not much money in my bag."
+          ]
+        },
+        {
+          "prompt": "(he / have / bar / chocolate)",
+          "answers": [
+            "He has a bar of chocolate.",
+            "He has got a bar of chocolate.",
+            "He's got a bar of chocolate."
+          ]
+        },
+        {
+          "prompt": "(we / need / key)",
+          "answers": [
+            "We need a key."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Дай мне чашку чая, пожалуйста.",
+          "answers": [
+            "Give me a cup of tea, please.",
+            "Please give me a cup of tea.",
+            "Can I have a cup of tea, please?"
+          ]
+        },
+        {
+          "prompt": "У меня есть идея.",
+          "answers": [
+            "I have an idea.",
+            "I've got an idea.",
+            "I have got an idea."
+          ]
+        },
+        {
+          "prompt": "В коробке нет денег.",
+          "answers": [
+            "There isn't any money in the box.",
+            "There is no money in the box.",
+            "There's no money in the box.",
+            "There is not any money in the box."
+          ]
+        },
+        {
+          "prompt": "Я люблю музыку.",
+          "answers": [
+            "I like music.",
+            "I love music."
+          ]
+        },
+        {
+          "prompt": "Мне нужна бутылка молока.",
+          "answers": [
+            "I need a bottle of milk."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями.",
+      "items": [
+        {
+          "prompt": "What do you drink every day?",
+          "sample": "I drink water and a cup of tea every day."
+        },
+        {
+          "prompt": "What music do you like?",
+          "sample": "I like pop music."
+        },
+        {
+          "prompt": "What is in your bag?",
+          "sample": "There is a phone, a key and some money."
+        },
+        {
+          "prompt": "Do you have much money? (Be honest!)",
+          "sample": "I don't have much money."
+        },
+        {
+          "prompt": "What do you eat for breakfast?",
+          "sample": "I eat a bowl of rice and an egg."
+        }
+      ]
+    }
+  ]
+}

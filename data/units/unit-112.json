@@ -1,0 +1,333 @@
+{
+  "id": 112,
+  "title": "If I had ... If we went ... etc.",
+  "summary": "Нереальные или маловероятные ситуации: **If I had a million dollars, I would buy a house** — после **if** прошедшее время, в главной части **would**.",
+  "ru": "## Для чего эта конструкция\nМы используем её, когда говорим о воображаемой ситуации, которая сейчас нереальна или маловероятна. По-русски это «если бы ..., то ...».\n> **If** I **had** a million dollars, I **would buy** a big house. — Если бы у меня был миллион долларов, я бы купила большой дом.\n> **If** I **were** you, I **would** call her. — На твоём месте я бы ей позвонил.\n\n## Правило: if + Past simple, would + глагол\nФорма глагола после **if** — Past simple, но значение **не прошлое**, а воображаемое настоящее / будущее.\n> If I **lived** in Rome, I'**d** speak Italian. — Если бы я жила в Риме, я бы говорила по-итальянски.\n> If we **went** by plane, it **would be** faster. — Если бы мы поехали самолётом, было бы быстрее.\n\n## would — краткая форма и отрицание\n- **I'd, you'd, he'd, she'd, we'd, they'd** = would\n- **wouldn't** = would not\n> If I had more time, I **wouldn't** be so tired. — Если бы у меня было больше времени, я бы так не уставала.\n\n## If I were\nПосле **if** с **I / he / she / it** можно использовать **were**: *If I **were** rich ... / If she **were** here ...* В разговоре часто и **was**: *If I was rich*.\n> **If I were you**, I'd take a taxi. — На твоём месте я бы взял такси. (совет)\n\n## Вопросы\n> What **would** you do **if** you **won** a lot of money? — Что бы ты сделал, если бы выиграл много денег?\n> **Would** you be happy **if** you **lived** abroad? — Yes, I **would**. / No, I **wouldn't**.\n\n## if + will и if + would\n- Реальная ситуация: *If I **have** time, I **will** help you.* (возможно)\n- Воображаемая: *If I **had** time, I **would** help you.* (но у меня его нет)\n\n## Типичные ошибки\n- ~~If I would have a car, I would drive.~~ → If I **had** a car, I **would drive**.\n- ~~If I had a car, I will go.~~ → ... I **would go**.\n- ~~If I am you, I would ...~~ → If I **were** you, I would ...\n- ~~What would you do if you would win?~~ → ... if you **won**?",
+  "en": "## What is it for?\nWe use this structure for imaginary or unlikely situations in the present or future.\n> **If** I **had** a million dollars, I **would buy** a big house.\n> **If** I **were** you, I **would** call her.\n\n## Rule: if + past simple, would + verb\nAfter **if** we use **past simple**, but the meaning is **not past**: it's imaginary.\n> If I **lived** in Rome, I'**d** speak Italian.\n> If we **went** by plane, it **would be** faster.\n\n## would\n- Short forms: **I'd, you'd, he'd, she'd, we'd, they'd**.\n- Negative: **wouldn't**.\n> If I had more time, I **wouldn't** be so tired.\n\n## If I were\nAfter **if** we can use **were** with **I / he / she / it**. In speaking **was** is also common.\n> **If I were you**, I'd take a taxi. (advice)\n\n## Questions\n> What **would** you do **if** you **won** a lot of money?\n> **Would** you be happy **if** you **lived** abroad? — Yes, I **would**. / No, I **wouldn't**.\n\n## Real and imaginary\n- Real: *If I **have** time, I **will** help you.* (it's possible)\n- Imaginary: *If I **had** time, I **would** help you.* (but I haven't)\n\n## Common mistakes\n- ~~If I would have a car, I would drive.~~ → If I **had** a car, I **would drive**.\n- ~~If I had a car, I will go.~~ → ... I **would go**.\n- ~~If I am you ...~~ → If I **were** you ...",
+  "structure": "## Схема\n| if-часть | Главная часть |\n|---|---|\n| If I **had** a car, | I **would drive** to work. |\n| If she **knew** the answer, | she **would tell** us. |\n| If we **didn't live** here, | we **wouldn't know** them. |\n\n## Утверждение / отрицание / вопрос\n| | Форма |\n|---|---|\n| + | I would go → I'd go |\n| − | I would not go → I wouldn't go |\n| ? | Would you go? — Yes, I would. / No, I wouldn't. |\n\n## Формулы\n> **If** + подлежащее + **Past simple**, подлежащее + **would** + глагол\n> Подлежащее + **would** + глагол + **if** + подлежащее + **Past simple**\n\n## Запомните\n- Никакого **would** прямо после **if**.\n- **If I were you ...** — стандартная фраза совета.\n- Past simple здесь — не прошлое, а «нереальное»: *If I had* = «если бы у меня было сейчас».\n- Неправильные глаголы: had, went, knew, saw, won, took, bought, could (can → could).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Past simple и would",
+      "instruction": "Поставьте глаголы в скобках в нужную форму.",
+      "items": [
+        {
+          "text": "If I {{had}} a car, I {{would drive|'d drive}} to work. (have / drive)"
+        },
+        {
+          "text": "If she {{knew}} the answer, she {{would tell|'d tell}} us. (know / tell)"
+        },
+        {
+          "text": "We {{would travel|'d travel}} a lot if we {{had}} more money. (travel / have)"
+        },
+        {
+          "text": "If I {{lived}} by the sea, I {{would swim|'d swim}} every day. (live / swim)"
+        },
+        {
+          "text": "If you {{studied}} more, you {{would pass|'d pass}} the exam. (study / pass)"
+        },
+        {
+          "text": "They {{wouldn't be|would not be}} late if they {{left}} earlier. (not be / leave)"
+        },
+        {
+          "text": "What {{would}} you do if you {{won}} a lot of money? (would / win)"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "If I were you ...",
+      "instruction": "Вставьте нужное слово, чтобы дать совет.",
+      "items": [
+        {
+          "text": "If I {{were|was}} you, I'd go to the doctor."
+        },
+        {
+          "text": "If I {{were|was}} you, I {{would|'d}} take a taxi."
+        },
+        {
+          "text": "If I {{were|was}} you, I {{wouldn't|would not}} buy that coat. It's too expensive."
+        },
+        {
+          "text": "I'd help her if I {{were|was}} you."
+        },
+        {
+          "text": "If I {{were|was}} you, I {{would|'d}} learn English."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "If I ___ rich, I would buy an island.",
+          "options": [
+            "am",
+            "were",
+            "will be"
+          ],
+          "answer": 1,
+          "why": "Воображаемая ситуация → **were**."
+        },
+        {
+          "q": "If she ___ more time, she would learn French.",
+          "options": [
+            "has",
+            "had",
+            "will have"
+          ],
+          "answer": 1,
+          "why": "**if + Past simple**."
+        },
+        {
+          "q": "I ___ a bigger flat if I had more money.",
+          "options": [
+            "will rent",
+            "would rent",
+            "rented"
+          ],
+          "answer": 1,
+          "why": "Главная часть → **would + глагол**."
+        },
+        {
+          "q": "What would you do if you ___ a ghost?",
+          "options": [
+            "saw",
+            "will see",
+            "see"
+          ],
+          "answer": 0,
+          "why": "**if you saw**."
+        },
+        {
+          "q": "If it ___ so cold, we would go out.",
+          "options": [
+            "isn't",
+            "wasn't",
+            "won't be"
+          ],
+          "answer": 1,
+          "why": "Воображаемое: **wasn't / weren't**."
+        },
+        {
+          "q": "I wouldn't ___ it if I were you.",
+          "options": [
+            "buy",
+            "bought",
+            "buying"
+          ],
+          "answer": 0,
+          "why": "После **wouldn't** — основная форма."
+        },
+        {
+          "q": "___ you be happy if you lived abroad?",
+          "options": [
+            "Do",
+            "Would",
+            "Will"
+          ],
+          "answer": 1,
+          "why": "Вопрос с воображаемой ситуацией: **Would you ...?**"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Реальное или воображаемое?",
+      "instruction": "Выберите предложение, подходящее по смыслу.",
+      "items": [
+        {
+          "q": "У меня нет машины. Как сказать «Если бы у меня была машина, я бы ездил на ней»?",
+          "options": [
+            "If I have a car, I'll drive it.",
+            "If I had a car, I would drive it.",
+            "If I would have a car, I drive it."
+          ],
+          "answer": 1,
+          "why": "Нереальное сейчас → **had ... would**."
+        },
+        {
+          "q": "Может, завтра будет дождь. Как сказать «Если пойдёт дождь, мы останемся дома»?",
+          "options": [
+            "If it rained, we would stay at home.",
+            "If it rains, we'll stay at home.",
+            "If it will rain, we stay at home."
+          ],
+          "answer": 1,
+          "why": "Реальная возможность → **rains ... will**."
+        },
+        {
+          "q": "Как дать совет «На твоём месте я бы позвонил»?",
+          "options": [
+            "If I am you, I would call.",
+            "If I were you, I would call.",
+            "If I would be you, I call."
+          ],
+          "answer": 1,
+          "why": "**If I were you**."
+        },
+        {
+          "q": "Как сказать «Если бы я знал, я бы сказал»?",
+          "options": [
+            "If I knew, I would tell you.",
+            "If I know, I would tell you.",
+            "If I knew, I will tell you."
+          ],
+          "answer": 0,
+          "why": "**knew ... would tell**."
+        },
+        {
+          "q": "Как спросить «Что бы ты сделал, если бы выиграл?»",
+          "options": [
+            "What do you do if you win?",
+            "What would you do if you won?",
+            "What will you do if you would win?"
+          ],
+          "answer": 1,
+          "why": "**would ... if + Past simple**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **if** из слов в скобках (Past simple + would).",
+      "items": [
+        {
+          "prompt": "(if / I / have / a lot of money / I / buy / a boat)",
+          "answers": [
+            "If I had a lot of money, I would buy a boat.",
+            "If I had a lot of money, I'd buy a boat.",
+            "If I had a lot of money I would buy a boat.",
+            "If I had a lot of money I'd buy a boat."
+          ]
+        },
+        {
+          "prompt": "(if / she / live / in London / she / speak / English)",
+          "answers": [
+            "If she lived in London, she would speak English.",
+            "If she lived in London, she'd speak English.",
+            "If she lived in London she would speak English.",
+            "If she lived in London she'd speak English."
+          ]
+        },
+        {
+          "prompt": "(we / go / out / if / the weather / be / better)",
+          "answers": [
+            "We would go out if the weather was better.",
+            "We would go out if the weather were better.",
+            "We'd go out if the weather was better.",
+            "We'd go out if the weather were better."
+          ]
+        },
+        {
+          "prompt": "(if / I / not / be / so tired / I / come)",
+          "answers": [
+            "If I weren't so tired, I would come.",
+            "If I weren't so tired, I'd come.",
+            "If I weren't so tired I would come.",
+            "If I wasn't so tired, I would come.",
+            "If I wasn't so tired, I'd come.",
+            "If I wasn't so tired I would come."
+          ]
+        },
+        {
+          "prompt": "(what / you / do / if / you / lose / your phone?)",
+          "answers": [
+            "What would you do if you lost your phone?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        {
+          "prompt": "Если бы у меня было больше времени, я бы читала больше.",
+          "answers": [
+            "If I had more time, I would read more.",
+            "If I had more time, I'd read more.",
+            "If I had more time I would read more.",
+            "If I had more time I'd read more."
+          ]
+        },
+        {
+          "prompt": "На твоём месте я бы позвонил ему.",
+          "answers": [
+            "If I were you, I would call him.",
+            "If I were you, I'd call him.",
+            "If I was you, I would call him.",
+            "If I was you, I'd call him.",
+            "If I were you, I would phone him.",
+            "If I were you, I'd phone him.",
+            "If I were you I would call him.",
+            "If I were you I'd call him."
+          ]
+        },
+        {
+          "prompt": "Что бы ты сделал, если бы выиграл миллион?",
+          "answers": [
+            "What would you do if you won a million?",
+            "What would you do if you won a million dollars?"
+          ]
+        },
+        {
+          "prompt": "Если бы она была здесь, она бы нам помогла.",
+          "answers": [
+            "If she were here, she would help us.",
+            "If she were here, she'd help us.",
+            "If she was here, she would help us.",
+            "If she was here, she'd help us."
+          ]
+        },
+        {
+          "prompt": "Мы бы поехали на море, если бы у нас были деньги.",
+          "answers": [
+            "We would go to the sea if we had money.",
+            "We'd go to the sea if we had money.",
+            "We would go to the seaside if we had money.",
+            "We'd go to the seaside if we had money.",
+            "We would go to the sea if we had the money.",
+            "We'd go to the sea if we had the money.",
+            "We would go to the seaside if we had the money.",
+            "We'd go to the seaside if we had the money."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Закончите предложения о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "If I won a lot of money, I would ...",
+          "sample": "If I won a lot of money, I would travel around the world."
+        },
+        {
+          "prompt": "If I could speak any language, I would ...",
+          "sample": "If I could speak any language, I would choose Japanese."
+        },
+        {
+          "prompt": "If I lived in another country, I would live in ...",
+          "sample": "If I lived in another country, I would live in Italy."
+        },
+        {
+          "prompt": "What would you do if you had one free day?",
+          "sample": "If I had one free day, I would stay in bed and read a book."
+        }
+      ]
+    }
+  ]
+}

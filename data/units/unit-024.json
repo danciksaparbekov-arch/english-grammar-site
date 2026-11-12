@@ -1,0 +1,129 @@
+{
+  "id": 24,
+  "title": "Regular and irregular verbs",
+  "summary": "Правильные глаголы образуют past simple и причастие с **-ed**, неправильные — по-своему; формы нужно знать наизусть.",
+  "ru": "## Три формы глагола\nУ каждого глагола есть три формы:\n- **инфинитив** (work, go) — основная\n- **past simple** (worked, went) — для прошедшего времени\n- **past participle** (worked, gone) — для present perfect и пассива\n\n## Правильные глаголы (regular)\nPast simple и причастие — просто **-ed**, и они совпадают.\n> clean → cleaned → cleaned\n> live → lived → lived\n> paint → painted → painted\n> study → studied → studied (y → ied)\n> I **cleaned** my shoes yesterday. (past simple)\n> I **have cleaned** my shoes. (present perfect)\n> These rooms **are cleaned** every day. (пассив)\n\n## Неправильные глаголы (irregular)\nУ них свои формы, их нужно учить. Бывает два случая.\n\n**1. Past simple и причастие одинаковые:**\n| инфинитив | past simple | participle |\n|---|---|---|\n| make | made | made |\n| buy | bought | bought |\n| find | found | found |\n| cut | cut | cut |\n\n**2. Past simple и причастие разные:**\n| инфинитив | past simple | participle |\n|---|---|---|\n| break | broke | broken |\n| know | knew | known |\n| begin | began | begun |\n| go | went | gone |\n\n## Примеры\n> I **made** a cake yesterday. (past simple)\n> I **have made** some coffee. (present perfect)\n> Butter **is made** from milk. (пассив)\n> Somebody **broke** this window. → Somebody **has broken** this window. → The window **was broken** last night.\n\n## Типичные ошибки\n- ~~I have went home.~~ → I have **gone** home. (после have нужно причастие)\n- ~~She goed to school.~~ → She **went** to school. (go — неправильный)\n- ~~I have wrote a letter.~~ → I have **written** a letter.\n\nСовет: учите все три формы вместе, группами: **buy – bought – bought**, **break – broke – broken**.",
+  "en": "## Three forms of a verb\nEvery verb has three main forms:\n- the **infinitive** (work, go)\n- the **past simple** (worked, went)\n- the **past participle** (worked, gone) — for the present perfect and the passive\n\n## Regular verbs\nThe past simple and past participle are the same and end in **-ed**.\n> clean → cleaned → cleaned\n> live → lived → lived\n> paint → painted → painted\n> study → studied → studied\n> I **cleaned** my shoes yesterday. (past simple)\n> I **have cleaned** my shoes. (present perfect)\n> These rooms **are cleaned** every day. (passive)\n\n## Irregular verbs\nThese verbs have their own forms. You have to learn them.\n\n**1. Past simple and past participle are the same:**\n| infinitive | past simple | participle |\n|---|---|---|\n| make | made | made |\n| buy | bought | bought |\n| find | found | found |\n| cut | cut | cut |\n\n**2. Past simple and past participle are different:**\n| infinitive | past simple | participle |\n|---|---|---|\n| break | broke | broken |\n| know | knew | known |\n| begin | began | begun |\n| go | went | gone |\n\n## Examples\n> I **made** a cake yesterday.\n> I **have made** some coffee.\n> Butter **is made** from milk.\n> Somebody **broke** this window. → Somebody **has broken** it. → It **was broken** last night.\n\n## Common mistakes\n- ~~I have went home.~~ → I have **gone** home.\n- ~~She goed to school.~~ → She **went** to school.\n- ~~I have wrote a letter.~~ → I have **written** a letter.",
+  "structure": "## Где какая форма\n| Конструкция | Форма | Пример |\n|---|---|---|\n| past simple | V2 | I **saw** him. |\n| present perfect | have / has + V3 | I **have seen** him. |\n| пассив | be + V3 | He **was seen**. |\n\n## Правописание -ed\n| Правило | Пример |\n|---|---|\n| обычно +ed | work → worked, clean → cleaned |\n| на -e: +d | live → lived, like → liked |\n| согласная + y: y → ied | study → studied, try → tried |\n| гласная + y: +ed | enjoy → enjoyed, play → played |\n| 1 гласная + 1 согласная: удвоение | stop → stopped, plan → planned |\n\n## Часто встречающиеся неправильные глаголы\n| инфинитив | V2 | V3 |\n|---|---|---|\n| get | got | got |\n| bring | brought | brought |\n| pay | paid | paid |\n| leave | left | left |\n| hear | heard | heard |\n| put | put | put |\n| catch | caught | caught |\n| understand | understood | understood |\n| write | wrote | written |\n| take | took | taken |\n| see | saw | seen |\n| eat | ate | eaten |\n| do | did | done |\n| come | came | come |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "V2 и V3 одинаковые",
+      "instruction": "Напишите past simple / past participle (у этих глаголов они одинаковые).",
+      "example": "make → **made**",
+      "items": [
+        { "text": "buy → {{bought}}" },
+        { "text": "get → {{got}}" },
+        { "text": "bring → {{brought}}" },
+        { "text": "pay → {{paid}}" },
+        { "text": "leave → {{left}}" },
+        { "text": "hear → {{heard}}" },
+        { "text": "catch → {{caught}}" },
+        { "text": "understand → {{understood}}" },
+        { "text": "sit → {{sat}}" },
+        { "text": "put → {{put}}" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Правильные глаголы",
+      "instruction": "Напишите past simple правильных глаголов.",
+      "items": [
+        { "text": "enjoy → {{enjoyed}}" },
+        { "text": "study → {{studied}}" },
+        { "text": "stop → {{stopped}}" },
+        { "text": "live → {{lived}}" },
+        { "text": "watch → {{watched}}" },
+        { "text": "happen → {{happened}}" },
+        { "text": "try → {{tried}}" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Три формы",
+      "instruction": "Напишите past simple и причастие (два поля).",
+      "items": [
+        { "text": "break → {{broke}} → {{broken}}" },
+        { "text": "know → {{knew}} → {{known}}" },
+        { "text": "begin → {{began}} → {{begun}}" },
+        { "text": "go → {{went}} → {{gone}}" },
+        { "text": "write → {{wrote}} → {{written}}" },
+        { "text": "take → {{took}} → {{taken}}" },
+        { "text": "see → {{saw}} → {{seen}}" },
+        { "text": "eat → {{ate}} → {{eaten}}" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите нужную форму глагола.",
+      "items": [
+        { "q": "I ___ a new phone yesterday.", "options": ["buyed", "bought", "boughten"], "answer": 1, "why": "buy — неправильный: **bought**." },
+        { "q": "She has ___ her keys.", "options": ["lost", "losed", "lose"], "answer": 0, "why": "lose → lost → lost." },
+        { "q": "We have ___ to Paris twice.", "options": ["went", "gone", "goed"], "answer": 1, "why": "После have — причастие **gone** (или been)." },
+        { "q": "The window was ___ last night.", "options": ["broke", "breaked", "broken"], "answer": 2, "why": "Пассив → причастие **broken**." },
+        { "q": "He ___ me yesterday.", "options": ["seen", "saw", "sawed"], "answer": 1, "why": "Past simple от see — **saw**." },
+        { "q": "Have you ___ the letter?", "options": ["wrote", "written", "writed"], "answer": 1, "why": "write → wrote → **written**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Past simple или participle?",
+      "instruction": "Выберите правильное предложение.",
+      "items": [
+        { "q": "«Я видела этого человека вчера».", "options": ["I saw this man yesterday.", "I seen this man yesterday.", "I have saw this man yesterday."], "answer": 0, "why": "Past simple — **saw**." },
+        { "q": "«Я уже написала письмо».", "options": ["I have wrote the letter.", "I have written the letter.", "I have write the letter."], "answer": 1, "why": "have + причастие **written**." },
+        { "q": "«Эти дома построили давно».", "options": ["These houses were built long ago.", "These houses were build long ago.", "These houses builded long ago."], "answer": 0, "why": "build → built → built." },
+        { "q": "«Он взял мой зонт».", "options": ["He taked my umbrella.", "He took my umbrella.", "He has took my umbrella."], "answer": 1, "why": "take → **took**." },
+        { "q": "«Мы ели в кафе».", "options": ["We ate in a cafe.", "We eated in a cafe.", "We eaten in a cafe."], "answer": 0, "why": "eat → **ate**." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Поставьте в нужную форму",
+      "instruction": "Поставьте глагол в past simple или в причастие.",
+      "items": [
+        { "text": "I {{bought}} this bag last week.", "hint": "buy" },
+        { "text": "She has {{taken}} my pen.", "hint": "take" },
+        { "text": "We {{went}} to the park yesterday.", "hint": "go" },
+        { "text": "He has {{eaten}} all the cake.", "hint": "eat" },
+        { "text": "The window was {{broken}} by the wind.", "hint": "break" },
+        { "text": "Have you {{done}} your homework?", "hint": "do" },
+        { "text": "They {{came}} late to the meeting.", "hint": "come" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение, используя правильную форму глагола.",
+      "items": [
+        { "prompt": "(I / make / a cake / yesterday)", "answers": ["I made a cake yesterday."] },
+        { "prompt": "(she / break / her phone / already)", "answers": ["She has already broken her phone.", "She's already broken her phone."] },
+        { "prompt": "(my car / steal / last night)", "answers": ["My car was stolen last night."] },
+        { "prompt": "(we / never / eat / snails)", "answers": ["We have never eaten snails.", "We've never eaten snails."] },
+        { "prompt": "(Tom / go / home / an hour ago)", "answers": ["Tom went home an hour ago."] },
+        { "prompt": "(they / write / three letters)", "answers": ["They have written three letters.", "They've written three letters.", "They wrote three letters."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя неправильные глаголы.",
+      "items": [
+        { "prompt": "Что вы купили на прошлой неделе?", "sample": "I bought a new jacket last week." },
+        { "prompt": "Что вы съели на завтрак сегодня?", "sample": "I ate eggs and bread this morning." },
+        { "prompt": "Куда вы ходили в выходные?", "sample": "I went to the park on Sunday." },
+        { "prompt": "Что вы уже написали сегодня?", "sample": "I've written two emails today." },
+        { "prompt": "Что вы когда-нибудь ломали или теряли?", "sample": "I've broken my phone once." }
+      ]
+    }
+  ]
+}

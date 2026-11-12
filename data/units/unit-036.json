@@ -1,0 +1,104 @@
+{
+  "id": 36,
+  "title": "there is there are",
+  "summary": "**There is / There are** — «есть, имеется, находится»: так мы сообщаем, что что-то существует или где-то находится.",
+  "ru": "## Зачем нужен there is / there are\nЧтобы сказать, что где-то **есть** какой-то предмет или человек, английский использует **there is / there are**. По-русски мы часто начинаем с места: «В комнате стоит стол». В английском сначала **There is**.\n> There is a table in the room. — В комнате есть стол.\n> There are two windows in the kitchen. — В кухне два окна.\n\n## Единственное и множественное число\n- **there is** (**there's**) — один предмет или неисчисляемое: *a book, some water*\n- **there are** — несколько: *two books, some chairs*\n> There's a cat on the sofa. — На диване кошка.\n> There's some milk in the fridge. — В холодильнике есть молоко.\n> There are three bags on the floor. — На полу три сумки.\n\n## Отрицание\n- **there isn't** (there is not) / **there aren't** (there are not)\n- с множественным и неисчисляемым чаще **any**\n> There isn't a bank near here. — Рядом нет банка.\n> There aren't any shops on this street. — На этой улице нет магазинов.\n> There isn't any sugar. — Сахара нет.\n\n## Вопросы\nПорядок слов меняется: **Is there ...? / Are there ...?**\n> Is there a park near your house? — Рядом с твоим домом есть парк?\n> Are there any eggs? — Яйца есть?\nКраткие ответы: **Yes, there is. / No, there isn't. / Yes, there are. / No, there aren't.**\n> How many students are there in your class? — Сколько студентов в вашем классе?\n\n## There is и It is\n**There is** говорит, что что-то существует. **It is** описывает уже известный предмет.\n> There's a book on the table. **It's** a very good book. — На столе книга. Это очень хорошая книга.\n\n## Типичные ошибки\n- ~~There is two chairs.~~ → There **are** two chairs.\n- ~~Is a bank near here?~~ → **Is there** a bank near here?\n- ~~It has a park in my city.~~ → **There is** a park in my city.\n- ~~There are not any milk.~~ → There **isn't any** milk.",
+  "en": "## What are there is / there are for?\nWe use **there is / there are** to say that something exists or where it is.\n> There is a table in the room.\n> There are two windows in the kitchen.\n\n## Singular and plural\n- **there is** (**there's**) — one thing or an uncountable noun: *a book, some water*\n- **there are** — more than one: *two books, some chairs*\n> There's a cat on the sofa.\n> There's some milk in the fridge.\n> There are three bags on the floor.\n\n## Negative\n- **there isn't** / **there aren't**\n- with plural and uncountable nouns we often use **any**\n> There isn't a bank near here.\n> There aren't any shops on this street.\n> There isn't any sugar.\n\n## Questions\n> Is there a park near your house?\n> Are there any eggs?\nShort answers: **Yes, there is. / No, there isn't. / Yes, there are. / No, there aren't.**\n> How many students are there in your class?\n\n## There is and It is\n> There's a book on the table. **It's** a very good book.\n\n## Common mistakes\n- ~~There is two chairs.~~ → There **are** two chairs.\n- ~~Is a bank near here?~~ → **Is there** a bank near here?\n- ~~It has a park in my city.~~ → **There is** a park in my city.",
+  "structure": "## Утверждение\n| Число | Форма | Пример |\n|---|---|---|\n| единственное | there is / there's | There's a bus stop. |\n| неисчисляемое | there is / there's | There's some cheese. |\n| множественное | there are | There are six desks. |\n\n## Отрицание\n| Число | Форма | Пример |\n|---|---|---|\n| единственное | there isn't | There isn't a lift. |\n| неисчисляемое | there isn't any | There isn't any water. |\n| множественное | there aren't any | There aren't any chairs. |\n\n## Вопросы и краткие ответы\n| Вопрос | Краткие ответы |\n|---|---|\n| Is there a shop near here? | Yes, there is. / No, there isn't. |\n| Is there any milk? | Yes, there is. / No, there isn't. |\n| Are there any shops? | Yes, there are. / No, there aren't. |\n| How many rooms are there? | There are four. |\n\n## Формулы\n> **There is / There are** + предмет + место\n> **Is / Are there** + предмет + место?\n\n## Запомните\n- **there's** = there is, но ~~there're~~ не пишем;\n- **a / an** — с исчисляемым в единственном числе, **some / any** — с множественным и неисчисляемым.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "is или are",
+      "instruction": "Вставьте **is** или **are**.",
+      "items": [
+        { "text": "There {{is}} a park near my house." },
+        { "text": "There {{are}} five people in my family." },
+        { "text": "There {{is}} some tea in the pot." },
+        { "text": "There {{are}} a lot of cars on the road." },
+        { "text": "There {{is}} a good restaurant on this street." },
+        { "text": "How many days {{are}} there in a week?" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Утверждение или отрицание",
+      "instruction": "Вставьте **there is / there are / there isn't / there aren't** (используйте краткие формы, где можно).",
+      "items": [
+        { "text": "I can't see any buses. {{There aren't|There are not}} any buses." },
+        { "text": "{{There's|There is}} a lamp on my desk, but there isn't a computer." },
+        { "text": "The fridge is empty. {{There isn't|There is not|There's not}} any food in it." },
+        { "text": "My town is small. {{There aren't|There are not}} any big shops." },
+        { "text": "Look! {{There's|There is}} a rainbow in the sky." },
+        { "text": "The room is empty. {{There aren't|There are not}} any chairs." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "___ a hotel near here?", "options": ["Is there", "Are there", "Is it"], "answer": 0, "why": "Один предмет → **Is there a ...?**" },
+        { "q": "There ___ two dogs in the garden.", "options": ["is", "are", "it is"], "answer": 1, "why": "Два → **are**." },
+        { "q": "___ any students in the room?", "options": ["Is there", "Are there", "There are"], "answer": 1, "why": "Множественное число → **Are there any ...?**" },
+        { "q": "There ___ any bread. I need to go shopping.", "options": ["isn't", "aren't", "not is"], "answer": 0, "why": "bread — неисчисляемое → **isn't any**." },
+        { "q": "Is there a bank near here? — No, ___.", "options": ["there isn't", "it isn't", "there aren't"], "answer": 0, "why": "Краткий ответ: **No, there isn't.**" },
+        { "q": "How many chairs ___ in the room?", "options": ["is there", "are there", "there are"], "answer": 1, "why": "Вопрос с how many → **are there**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «В комнате есть окно»?", "options": ["There is a window in the room.", "It has a window in the room.", "Is a window in the room."], "answer": 0, "why": "Начинаем с **There is**." },
+        { "q": "Как сказать «В городе нет метро»?", "options": ["There isn't a metro in the city.", "There aren't a metro in the city.", "Not there is a metro in the city."], "answer": 0, "why": "Единственное число → **there isn't**." },
+        { "q": "Как спросить «В вашем классе есть компьютеры?»", "options": ["Are there any computers in your classroom?", "Are any computers there in your classroom?", "Is there any computers in your classroom?"], "answer": 0, "why": "Множественное → **Are there any ...?**" },
+        { "q": "Как сказать «На столе три яблока»?", "options": ["There are three apples on the table.", "There is three apples on the table.", "There three apples are on the table."], "answer": 0, "why": "Три → **there are**." },
+        { "q": "Какое предложение верное?", "options": ["There's some water in the bottle.", "There are some water in the bottle.", "It's some water in the bottle."], "answer": 0, "why": "water неисчисляемое → **there's**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение или вопрос с **there is / there are**.",
+      "items": [
+        { "prompt": "(a / lamp / on the table)", "answers": ["There is a lamp on the table.", "There's a lamp on the table."] },
+        { "prompt": "(three / windows / in the room)", "answers": ["There are three windows in the room."] },
+        { "prompt": "(not / a / bank / near here)", "answers": ["There isn't a bank near here.", "There is not a bank near here.", "There's not a bank near here."] },
+        { "prompt": "(any / shops / on this street / ?)", "answers": ["Are there any shops on this street?"] },
+        { "prompt": "(a / swimming pool / in your town / ?)", "answers": ["Is there a swimming pool in your town?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **there is / there are**.",
+      "items": [
+        { "prompt": "В моей комнате есть большое окно.", "answers": ["There is a big window in my room.", "There's a big window in my room.", "There is a large window in my room.", "There's a large window in my room."] },
+        { "prompt": "В этом городе нет музея.", "answers": ["There isn't a museum in this town.", "There is not a museum in this town.", "There's not a museum in this town.", "There isn't a museum in this city.", "There is not a museum in this city.", "There's not a museum in this city."] },
+        { "prompt": "В холодильнике есть яйца?", "answers": ["Are there any eggs in the fridge?", "Are there eggs in the fridge?"] },
+        { "prompt": "Сколько человек в вашей группе?", "answers": ["How many people are there in your group?"] },
+        { "prompt": "На столе нет книг.", "answers": ["There aren't any books on the table.", "There are no books on the table.", "There aren't books on the table."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Describe your room: what is there in it?", "sample": "There is a bed, a desk and a big window in my room." },
+        { "prompt": "How many people are there in your family?", "sample": "There are four people in my family." },
+        { "prompt": "What is there near your house?", "sample": "There is a small park and a shop near my house." },
+        { "prompt": "Is there a cinema in your town?", "sample": "Yes, there is. / No, there isn't." },
+        { "prompt": "Something there isn't in your city", "sample": "There isn't a metro in my city." }
+      ]
+    }
+  ]
+}

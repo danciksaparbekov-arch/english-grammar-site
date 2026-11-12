@@ -1,0 +1,310 @@
+{
+  "id": 93,
+  "title": "always/usually/often etc. (word order 2)",
+  "summary": "Наречия частоты (**always, usually, often, sometimes, never**) и их место в предложении.",
+  "ru": "## Что это за слова\nНаречия частоты отвечают на вопрос «как часто?».\n> **always** (всегда) · **usually** (обычно) · **often** (часто) · **sometimes** (иногда) · **rarely / seldom** (редко) · **never** (никогда)\n\n## Где стоят: перед основным глаголом\nОбычно такое наречие стоит **перед основным глаголом**.\n> I **always** get up early. — Я всегда рано встаю.\n> She **often** goes to the cinema. — Она часто ходит в кино.\n> They **never** eat meat. — Они никогда не едят мясо.\n\n## Где стоят: после am / is / are / was / were\nС глаголом **be** наречие стоит **после** него.\n> He **is always** late. — Он всегда опаздывает.\n> We **are usually** at home on Sundays. — По воскресеньям мы обычно дома.\n> It **was never** cold. — Никогда не было холодно.\n\n## Вспомогательные глаголы: между ними\nВ предложениях с do, does, have, can, will наречие стоит **между** вспомогательным и основным глаголом.\n> I **can never** remember his name. — Я никак не могу вспомнить его имя.\n> I **have never** been to Paris. — Я никогда не была в Париже.\n> She **doesn't often** call me. — Она нечасто мне звонит.\n\n## Отрицание и вопрос\n- Отрицание: наречие стоит после **don't / doesn't**: I don't **often** go out.\n- Вопрос: наречие после подлежащего: Do you **usually** have breakfast?\n- **never** — само по себе отрицание, второе отрицание не нужно: I **never** drink coffee. (~~I don't never drink~~)\n\n## sometimes, usually и often могут быть и в начале\n> **Sometimes** I go by bus. — Иногда я езжу на автобусе.\n> **Usually** we eat at six. — Обычно мы едим в шесть.\n**Always** и **never** в начало обычно не ставим.\n\n## Типичные ошибки\n- ~~I go always to bed late.~~ → I **always go** to bed late.\n- ~~He always is late.~~ → He **is always** late.\n- ~~I don't never watch TV.~~ → I **never** watch TV.\n- ~~Always I get up early.~~ → I **always** get up early.",
+  "en": "## What are they?\nAdverbs of frequency tell us how often something happens.\n> **always** · **usually** · **often** · **sometimes** · **rarely / seldom** · **never**\n\n## Before the main verb\nThe adverb usually comes **before the main verb**.\n> I **always** get up early.\n> She **often** goes to the cinema.\n> They **never** eat meat.\n\n## After am / is / are / was / were\nWith the verb **be**, the adverb comes **after** it.\n> He **is always** late.\n> We **are usually** at home on Sundays.\n> It **was never** cold.\n\n## With auxiliary verbs: in the middle\nWith do, does, have, can, will the adverb goes **between** the auxiliary and the main verb.\n> I **can never** remember his name.\n> I **have never** been to Paris.\n> She **doesn't often** call me.\n\n## Negative and questions\n- Negative: the adverb comes after **don't / doesn't**: I don't **often** go out.\n- Question: the adverb comes after the subject: Do you **usually** have breakfast?\n- **never** is already negative: I **never** drink coffee. (~~I don't never drink~~)\n\n## sometimes, usually and often can start a sentence\n> **Sometimes** I go by bus.\n> **Usually** we eat at six.\nWe don't usually put **always** and **never** at the start.\n\n## Common mistakes\n- ~~I go always to bed late.~~ → I **always go** to bed late.\n- ~~He always is late.~~ → He **is always** late.\n- ~~I don't never watch TV.~~ → I **never** watch TV.",
+  "structure": "## Положение наречия частоты\n| Случай | Место наречия | Пример |\n|---|---|---|\n| обычный глагол | **перед** глаголом | I **often** read. |\n| be (am / is / are / was / were) | **после** be | She **is usually** tired. |\n| вспомогательный + основной | **между** ними | I **have never** seen it. |\n| don't / doesn't | **после** don't / doesn't | He doesn't **often** call. |\n| вопрос | **после** подлежащего | Do you **often** swim? |\n\n## Шкала частоты\n| 100% | **always** |\n|---|---|\n| ~90% | **usually** |\n| ~70% | **often** |\n| ~50% | **sometimes** |\n| ~10% | **rarely / seldom** |\n| 0% | **never** |\n\n## Формула\n> Подлежащее + **adverb** + глагол + ...\n> My sister **sometimes** comes late.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Поставьте наречие на место",
+      "instruction": "Вставьте наречие из скобок в предложение. Напишите **глагол вместе с наречием** в правильном порядке.",
+      "example": "(always) I {{always get}} up early.",
+      "items": [
+        {
+          "text": "(usually) We {{usually have}} dinner at seven."
+        },
+        {
+          "text": "(never) She {{never eats}} fish.",
+          "hint": "never"
+        },
+        {
+          "text": "(often) They {{often go}} to the theatre.",
+          "hint": "often"
+        },
+        {
+          "text": "(sometimes) My brother {{sometimes plays}} the guitar.",
+          "hint": "sometimes"
+        },
+        {
+          "text": "(always) My mother {{always cooks}} on Sundays.",
+          "hint": "always"
+        },
+        {
+          "text": "(rarely) I {{rarely watch}} TV.",
+          "hint": "rarely"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "С глаголом be",
+      "instruction": "Допишите предложение: **be** + наречие в правильном порядке.",
+      "items": [
+        {
+          "text": "(always) Tom {{is always}} late.",
+          "hint": "always"
+        },
+        {
+          "text": "(usually) We {{are usually}} at home in the evening.",
+          "hint": "usually"
+        },
+        {
+          "text": "(never) The shop {{is never}} open on Sunday.",
+          "hint": "never"
+        },
+        {
+          "text": "(often) She {{is often}} tired after work.",
+          "hint": "often"
+        },
+        {
+          "text": "(sometimes) I {{am sometimes}} nervous at exams.",
+          "hint": "sometimes"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильное предложение",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "I go always to work by bus.",
+            "I always go to work by bus.",
+            "Always I go to work by bus."
+          ],
+          "answer": 1,
+          "why": "Наречие частоты — перед основным глаголом."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "She always is happy.",
+            "She is always happy.",
+            "She is happy always."
+          ],
+          "answer": 1,
+          "why": "С **be** наречие — после глагола."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "I don't never drink coffee.",
+            "I never don't drink coffee.",
+            "I never drink coffee."
+          ],
+          "answer": 2,
+          "why": "**never** уже отрицание."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "I have never been to Spain.",
+            "I never have been to Spain.",
+            "I have been never to Spain."
+          ],
+          "answer": 0,
+          "why": "Между **have** и причастием."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "Do you often go to the gym?",
+            "Do often you go to the gym?",
+            "Do you go often the gym?"
+          ],
+          "answer": 0,
+          "why": "В вопросе — после подлежащего."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "He doesn't often call me.",
+            "He often doesn't call me.",
+            "He doesn't call often me."
+          ],
+          "answer": 0,
+          "why": "После **doesn't**, перед глаголом."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Какое наречие подходит?",
+      "instruction": "Выберите наречие, которое подходит по смыслу.",
+      "items": [
+        {
+          "q": "I eat meat 7 days a week. I ___ eat meat.",
+          "options": [
+            "never",
+            "always",
+            "rarely"
+          ],
+          "answer": 1,
+          "why": "Каждый день → always."
+        },
+        {
+          "q": "She plays tennis once a year. She ___ plays tennis.",
+          "options": [
+            "often",
+            "usually",
+            "rarely"
+          ],
+          "answer": 2,
+          "why": "Один раз в год → rarely."
+        },
+        {
+          "q": "He doesn't smoke at all. He ___ smokes.",
+          "options": [
+            "never",
+            "sometimes",
+            "always"
+          ],
+          "answer": 0,
+          "why": "Совсем не → never."
+        },
+        {
+          "q": "We go to the cinema twice a week. We ___ go to the cinema.",
+          "options": [
+            "never",
+            "often",
+            "rarely"
+          ],
+          "answer": 1,
+          "why": "Два раза в неделю → often."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение. Поставьте наречие правильно.",
+      "items": [
+        {
+          "prompt": "(I / always / have / breakfast / at 7)",
+          "answers": [
+            "I always have breakfast at 7.",
+            "I always have breakfast at seven."
+          ]
+        },
+        {
+          "prompt": "(she / is / usually / at home / on Sundays)",
+          "answers": [
+            "She is usually at home on Sundays.",
+            "She's usually at home on Sundays."
+          ]
+        },
+        {
+          "prompt": "(they / never / go / to bed / early)",
+          "answers": [
+            "They never go to bed early."
+          ]
+        },
+        {
+          "prompt": "(do / you / often / watch / films?)",
+          "answers": [
+            "Do you often watch films?"
+          ]
+        },
+        {
+          "prompt": "(my father / doesn't / often / cook)",
+          "answers": [
+            "My father doesn't often cook."
+          ]
+        },
+        {
+          "prompt": "(we / have / never / been / to Rome)",
+          "answers": [
+            "We have never been to Rome.",
+            "We've never been to Rome."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Следите за местом наречия.",
+      "items": [
+        {
+          "prompt": "Я всегда пью чай утром.",
+          "answers": [
+            "I always drink tea in the morning.",
+            "I always drink tea in the mornings."
+          ]
+        },
+        {
+          "prompt": "Он обычно дома вечером.",
+          "answers": [
+            "He is usually at home in the evening.",
+            "He's usually at home in the evening.",
+            "He is usually at home in the evenings.",
+            "He's usually at home in the evenings."
+          ]
+        },
+        {
+          "prompt": "Мы иногда ходим в кино.",
+          "answers": [
+            "We sometimes go to the cinema.",
+            "Sometimes we go to the cinema.",
+            "We sometimes go to the movies.",
+            "Sometimes we go to the movies.",
+            "We go to the cinema sometimes.",
+            "We go to the movies sometimes."
+          ]
+        },
+        {
+          "prompt": "Она никогда не опаздывает.",
+          "answers": [
+            "She is never late.",
+            "She's never late.",
+            "She never comes late."
+          ]
+        },
+        {
+          "prompt": "Ты часто играешь в футбол?",
+          "answers": [
+            "Do you often play football?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте наречия частоты.",
+      "items": [
+        {
+          "prompt": "Что вы всегда делаете по утрам?",
+          "sample": "I always drink coffee in the morning."
+        },
+        {
+          "prompt": "Как часто вы ходите в кино или в кафе?",
+          "sample": "I sometimes go to a café with my friends."
+        },
+        {
+          "prompt": "Что вы никогда не делаете?",
+          "sample": "I never eat fast food."
+        },
+        {
+          "prompt": "Вы обычно опаздываете или приходите вовремя?",
+          "sample": "I am usually on time."
+        },
+        {
+          "prompt": "Что вы редко делаете?",
+          "sample": "I rarely watch TV."
+        }
+      ]
+    }
+  ]
+}

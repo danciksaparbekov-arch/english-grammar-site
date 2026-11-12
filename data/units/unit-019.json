@@ -1,0 +1,121 @@
+{
+  "id": 19,
+  "title": "for since ago",
+  "summary": "Как сказать, сколько времени что-то длится (**for**), с какого момента (**since**) и сколько времени назад это было (**ago**).",
+  "ru": "## for — «в течение»\n**for** + **период времени** (сколько длится): three days, two hours, a long time.\n> I've lived here **for** five years. — Я живу здесь пять лет.\n> We've been waiting **for** an hour. — Мы ждём час.\n- ~~since two hours~~ → **for** two hours\n\n## since — «с какого момента»\n**since** + **начало периода** (точка на оси времени): Monday, 9 o'clock, 2019, January, I was a child.\n> I've lived here **since** 2019. — Я живу здесь с 2019 года.\n> We've been waiting **since** 9 o'clock. — Мы ждём с девяти часов.\n> She has known him **since** she was ten. — Она знает его с десяти лет.\n\n## Как выбрать: for или since?\n| for (период) | since (начало) |\n|---|---|\n| for three days | since Monday |\n| for two years | since 2022 |\n| for a long time | since last summer |\n| for ten minutes | since 5 o'clock |\n\nОба слова идут обычно с **present perfect** и отвечают на вопрос **How long?**.\n\n## ago — «назад»\n**ago** = «столько-то времени назад» (от сегодняшнего момента). Используем с **past simple**, а не с present perfect.\n> I started this job three weeks **ago**. — Я начала эту работу три недели назад.\n> When did he leave? — Ten minutes **ago**. — Когда он ушёл? — Десять минут назад.\n- ~~I have started three weeks ago.~~ → I **started** three weeks ago.\n\n## Сравнение: ago и for\n> When did she arrive? — She arrived three days **ago**. (когда?)\n> How long has she been here? — She has been here **for** three days. (как долго?)\n\n## Типичные ошибки\n- ~~I live here since 2020.~~ → I **have lived** here since 2020.\n- ~~for Monday~~ → **since** Monday\n- ~~since a week~~ → **for** a week\n- ~~three days before~~ → three days **ago**",
+  "en": "## for\nWe use **for** + a **period of time** (how long): three days, two hours, a long time.\n> I've lived here **for** five years.\n> We've been waiting **for** an hour.\n- ~~since two hours~~ → **for** two hours\n\n## since\nWe use **since** + the **start of the period** (a point in time): Monday, 9 o'clock, 2019, January, I was a child.\n> I've lived here **since** 2019.\n> We've been waiting **since** 9 o'clock.\n> She has known him **since** she was ten.\n\n## for or since?\n| for (a period) | since (a start) |\n|---|---|\n| for three days | since Monday |\n| for two years | since 2022 |\n| for a long time | since last summer |\n| for ten minutes | since 5 o'clock |\n\nBoth are usually used with the **present perfect** to answer **How long?**.\n\n## ago\n**ago** = a period of time before now. We use it with the **past simple**.\n> I started this job three weeks **ago**.\n> When did he leave? — Ten minutes **ago**.\n- ~~I have started three weeks ago.~~ → I **started** three weeks ago.\n\n## Compare ago and for\n> When did she arrive? — She arrived three days **ago**.\n> How long has she been here? — She has been here **for** three days.\n\n## Common mistakes\n- ~~I live here since 2020.~~ → I **have lived** here since 2020.\n- ~~for Monday~~ → **since** Monday\n- ~~since a week~~ → **for** a week",
+  "structure": "## Схема\n| Слово | После него | Время глагола | Пример |\n|---|---|---|---|\n| **for** | период | present perfect | I've lived here **for** two years. |\n| **since** | начало | present perfect | I've lived here **since** 2023. |\n| **ago** | период (после него ничего) | past simple | I moved here two years **ago**. |\n\n## Что после for\n- a minute, ten minutes, an hour, two hours\n- a day, three days, a week, a month, six months\n- a year, five years, a long time\n\n## Что после since\n- день, час: Monday, 7 o'clock, yesterday\n- месяц, год: May, 2020\n- событие: Christmas, I left school\n- предложение: since we met, since I was ten\n\n## Формула\n> have / has + past participle + **for** + период\n> have / has + past participle + **since** + начало\n> past simple + период + **ago**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "for или since?",
+      "instruction": "Вставьте **for** или **since**.",
+      "items": [
+        { "text": "Anna has been in Spain {{for}} three days.", "hint": "for / since" },
+        { "text": "I've lived in this house {{since}} 2017.", "hint": "for / since" },
+        { "text": "They have been married {{for}} twenty years.", "hint": "for / since" },
+        { "text": "He has been ill {{since}} Monday.", "hint": "for / since" },
+        { "text": "We've been here {{for}} an hour.", "hint": "for / since" },
+        { "text": "My dad has worked there {{since}} January.", "hint": "for / since" },
+        { "text": "I haven't seen her {{for}} a long time.", "hint": "for / since" },
+        { "text": "It has been raining {{since}} breakfast.", "hint": "for / since" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Ago: когда это было?",
+      "instruction": "Допишите предложения с **ago** (глагол в past simple).",
+      "example": "It's 10 o'clock. He left at 9. → He left an hour ago.",
+      "items": [
+        { "text": "It's Friday. I phoned him on Wednesday. I phoned him two days {{ago}}." },
+        { "text": "It's 3 p.m. She arrived at 2.30. She arrived half an hour {{ago}}." },
+        { "text": "It's 2026. They moved in 2021. They moved five years {{ago}}." },
+        { "text": "It's June. We met in March. We met three months {{ago}}." },
+        { "text": "It's 7 o'clock. I woke up at 6. I woke up an hour {{ago}}." },
+        { "text": "It's 20 May. He came on 13 May. He came a week {{ago}}." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильное слово",
+      "instruction": "Выберите **for**, **since** или **ago**.",
+      "items": [
+        { "q": "I've known Dan ___ five years.", "options": ["for", "since", "ago"], "answer": 0, "why": "Five years — период → **for**." },
+        { "q": "I've known Dan ___ 2021.", "options": ["for", "since", "ago"], "answer": 1, "why": "2021 — точка начала → **since**." },
+        { "q": "I met Dan five years ___.", "options": ["for", "since", "ago"], "answer": 2, "why": "Past simple + период + **ago**." },
+        { "q": "We've been friends ___ we were at school.", "options": ["for", "since", "ago"], "answer": 1, "why": "После **since** может идти целое предложение." },
+        { "q": "My sister has been in Canada ___ a month.", "options": ["since", "ago", "for"], "answer": 2, "why": "A month — период → **for**." },
+        { "q": "When did you buy this bag? — Two weeks ___.", "options": ["for", "ago", "since"], "answer": 1, "why": "Ответ на «когда?» → **ago**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "«Я живу здесь с марта».", "options": ["I live here since March.", "I have lived here since March.", "I have lived here for March."], "answer": 1, "why": "present perfect + **since** + начало." },
+        { "q": "«Мы ждём два часа».", "options": ["We have waited since two hours.", "We have been waiting for two hours.", "We are waiting two hours ago."], "answer": 1, "why": "**for** + период." },
+        { "q": "«Он ушёл десять минут назад».", "options": ["He has left ten minutes ago.", "He left ten minutes ago.", "He left for ten minutes ago."], "answer": 1, "why": "**ago** — только с past simple." },
+        { "q": "«Она не звонила неделю».", "options": ["She hasn't called for a week.", "She hasn't called since a week.", "She hasn't called a week ago."], "answer": 0, "why": "Неделя — период → **for**." },
+        { "q": "«Мы не виделись с Рождества».", "options": ["We haven't met for Christmas.", "We haven't met since Christmas.", "We didn't meet since Christmas."], "answer": 1, "why": "Рождество — точка начала → **since**." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "How long или when?",
+      "instruction": "Вставьте нужную форму глагола.",
+      "items": [
+        { "text": "When did he come? — He {{came}} two hours ago.", "hint": "come" },
+        { "text": "How long has he been here? — He {{has been|'s been}} here for two hours.", "hint": "be" },
+        { "text": "How long have you had this car? — I {{have had|'ve had}} it since June.", "hint": "have" },
+        { "text": "When did you buy this car? — I {{bought}} it three months ago.", "hint": "buy" },
+        { "text": "She {{started}} English lessons a year ago.", "hint": "start" },
+        { "text": "She {{has been|'s been}} in the group for a year.", "hint": "be" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение со словами в скобках. Решите, нужен ли present perfect или past simple.",
+      "items": [
+        { "prompt": "(I / live here / since 2020)", "answers": ["I have lived here since 2020.", "I've lived here since 2020."] },
+        { "prompt": "(she / start / work / two weeks ago)", "answers": ["She started work two weeks ago.", "She started working two weeks ago."] },
+        { "prompt": "(they / be / in Turkey / for a week)", "answers": ["They have been in Turkey for a week.", "They've been in Turkey for a week."] },
+        { "prompt": "(we / buy / this flat / five years ago)", "answers": ["We bought this flat five years ago."] },
+        { "prompt": "(he / not / call / since Sunday)", "answers": ["He hasn't called since Sunday.", "He has not called since Sunday."] },
+        { "prompt": "(I / not / eat / for six hours)", "answers": ["I haven't eaten for six hours.", "I have not eaten for six hours."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        { "prompt": "Я учу английский два года.", "answers": ["I've been learning English for two years.", "I have been learning English for two years.", "I've learned English for two years.", "I have learned English for two years."] },
+        { "prompt": "Он приехал сюда три дня назад.", "answers": ["He came here three days ago.", "He arrived here three days ago."] },
+        { "prompt": "Мы знаем друг друга с 2015 года.", "answers": ["We have known each other since 2015.", "We've known each other since 2015."] },
+        { "prompt": "Она работает здесь с понедельника.", "answers": ["She has worked here since Monday.", "She's worked here since Monday.", "She has been working here since Monday.", "She's been working here since Monday."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя **for**, **since** или **ago**.",
+      "items": [
+        { "prompt": "Как долго вы живёте в своём доме или городе?", "sample": "I've lived in my city for ten years." },
+        { "prompt": "С какого года вы знаете лучшего друга?", "sample": "I've known my best friend since 2012." },
+        { "prompt": "Когда вы в последний раз ели? (ago)", "sample": "I ate two hours ago." },
+        { "prompt": "Как долго вы изучаете английский?", "sample": "I've been learning English for a year." },
+        { "prompt": "Когда вы родились или переехали? (ago)", "sample": "I moved to my flat three years ago." }
+      ]
+    }
+  ]
+}

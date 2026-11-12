@@ -1,0 +1,305 @@
+{
+  "id": 33,
+  "title": "should",
+  "summary": "**should** — «следует, стоит, лучше бы»: совет и мнение о том, что хорошо и правильно делать.",
+  "ru": "## Когда используем should\n**should + глагол** — когда мы считаем, что делать что-то **хорошо и правильно** (совет, мнение).\n> You should drink more water. — Тебе стоит пить больше воды.\n> Tom should go to bed earlier. — Тому следует ложиться раньше.\n> It's a great book. You should read it. — Отличная книга. Тебе стоит её прочитать.\n\n## Как строится\n- форма одна для всех лиц: *he should* (не ~~he shoulds~~)\n- после should — глагол без **to**: ~~you should to go~~ → you should go\n- отрицание: **shouldn't** (should not) — «не стоит»\n> You shouldn't eat so much sugar. — Тебе не стоит есть так много сахара.\n\n## I think ... should\nЧасто совет смягчают: **I think ... should**.\n> I think you should call her. — Думаю, тебе стоит ей позвонить.\n> I don't think you should work so late. — Не думаю, что тебе стоит работать так поздно.\nОбратите внимание: русское «не думаю, что стоит» → **I don't think ... should** (а не ~~I think ... shouldn't~~).\n\n## Вопросы\n> Should I buy this jacket? — Мне купить эту куртку?\n> What should we do? — Что нам делать?\n> Do you think I should wait? — Как думаешь, мне подождать?\n\n## should и must\n**must** сильнее: «обязательно, надо». **should** мягче: «стоит, было бы хорошо».\n> You should see a doctor. — Тебе стоит сходить к врачу. (совет)\n> You must see a doctor. — Тебе нужно к врачу. (очень серьёзно)\n\n## Типичные ошибки\n- ~~You should to rest.~~ → You should rest.\n- ~~He shoulds study.~~ → He should study.\n- ~~Do I should go?~~ → **Should** I go?\n- ~~I think he shouldn't to go.~~ → I don't think he **should** go.",
+  "en": "## When do we use should?\nWe use **should + verb** to say that something is a good thing to do or the right thing to do. We give advice or an opinion.\n> You should drink more water.\n> Tom should go to bed earlier.\n> It's a great book. You should read it.\n\n## How to make it\n- the form is the same for all persons: *he should* (not ~~he shoulds~~)\n- no **to** after should\n- negative: **shouldn't** (should not)\n> You shouldn't eat so much sugar.\n\n## I think ... should\n> I think you should call her.\n> I don't think you should work so late.\nWe say **I don't think ... should**, not ~~I think ... shouldn't~~.\n\n## Questions\n> Should I buy this jacket?\n> What should we do?\n> Do you think I should wait?\n\n## should and must\n**must** is stronger. **should** is softer.\n> You should see a doctor. (advice)\n> You must see a doctor. (very serious)\n\n## Common mistakes\n- ~~You should to rest.~~ → You should rest.\n- ~~He shoulds study.~~ → He should study.\n- ~~Do I should go?~~ → **Should** I go?",
+  "structure": "## Утверждение, отрицание, вопрос\n| | Форма | Пример |\n|---|---|---|\n| Утверждение | I / you / he / she / we / they **should** + глагол | You should rest. |\n| Отрицание | **shouldn't** (should not) + глагол | He shouldn't worry. |\n| Вопрос | **Should** + подлежащее + глагол? | Should I stay? |\n| Краткий ответ | Yes, you should. / No, you shouldn't. | |\n\n## Формула\n> Подлежащее + **should / shouldn't** + глагол без to\n> **I think** + подлежащее + **should** ...\n> **I don't think** + подлежащее + **should** ...\n> **Do you think** + подлежащее + **should** ...?\n\n## Запомните\n- нет -s, нет to;\n- совет: **should**; сильная необходимость: **must**;\n- вопросы: **What should I do?** / **Should we go?**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "should или shouldn't",
+      "instruction": "Вставьте **should** или **shouldn't**.",
+      "items": [
+        {
+          "text": "You look tired. You {{should}} go to bed early."
+        },
+        {
+          "text": "Emma has a cough. She {{shouldn't|should not}} go out without a coat."
+        },
+        {
+          "text": "You {{should}} visit the new museum. It's great."
+        },
+        {
+          "text": "You {{shouldn't|should not}} watch TV all day. It's bad for your eyes."
+        },
+        {
+          "text": "I {{should}} study more if I want to pass the test."
+        },
+        {
+          "text": "They {{shouldn't|should not}} drive so fast."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "I think ... should",
+      "instruction": "Дополните предложение: **should**, **shouldn't** или **don't**.",
+      "items": [
+        {
+          "text": "I think you {{should}} talk to your teacher."
+        },
+        {
+          "text": "I {{don't}} think he should leave so early."
+        },
+        {
+          "text": "Do you think I {{should}} buy this phone?"
+        },
+        {
+          "text": "I don't think we {{should}} stay here. It's very late."
+        },
+        {
+          "text": "I think Paul {{should}} take a holiday. He works too much."
+        },
+        {
+          "text": "I {{don't}} think you should eat so many sweets."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "You ___ see a dentist. Your tooth hurts.",
+          "options": [
+            "should",
+            "should to",
+            "shoulds"
+          ],
+          "answer": 0,
+          "why": "should без to и без -s."
+        },
+        {
+          "q": "___ I call him now?",
+          "options": [
+            "Do I should",
+            "Should",
+            "Am I should"
+          ],
+          "answer": 1,
+          "why": "Вопрос: **Should** I ...?"
+        },
+        {
+          "q": "My sister ___ eat so much chocolate.",
+          "options": [
+            "doesn't should",
+            "shouldn't",
+            "not should"
+          ],
+          "answer": 1,
+          "why": "Отрицание: **shouldn't**."
+        },
+        {
+          "q": "What time ___ we leave?",
+          "options": [
+            "should",
+            "do should",
+            "shoulds"
+          ],
+          "answer": 0,
+          "why": "Вопросительное слово + should + подлежащее."
+        },
+        {
+          "q": "I ___ you should wait. It's too early.",
+          "options": [
+            "don't think",
+            "think not",
+            "not think"
+          ],
+          "answer": 0,
+          "why": "**I don't think ... should**."
+        },
+        {
+          "q": "He has a test tomorrow. He ___ study tonight.",
+          "options": [
+            "should",
+            "should to",
+            "shoulds"
+          ],
+          "answer": 0,
+          "why": "Совет: should + глагол."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Какой совет лучше",
+      "instruction": "Выберите правильный совет в ситуации.",
+      "items": [
+        {
+          "q": "Tom is always tired. He sleeps 4 hours a night.",
+          "options": [
+            "He should sleep more.",
+            "He shouldn't sleep more.",
+            "He shoulds sleep more."
+          ],
+          "answer": 0,
+          "why": "Ему не хватает сна → совет спать больше."
+        },
+        {
+          "q": "Lena has a headache. She works at the computer all day.",
+          "options": [
+            "She should take a break.",
+            "She should to take a break.",
+            "She not should take a break."
+          ],
+          "answer": 0,
+          "why": "should take — без to."
+        },
+        {
+          "q": "I want to lose weight.",
+          "options": [
+            "You should eat more cake.",
+            "You shouldn't eat so much cake.",
+            "You shoulds eat less cake."
+          ],
+          "answer": 1,
+          "why": "Смысл: меньше торта → **shouldn't eat so much**."
+        },
+        {
+          "q": "I can't find a job.",
+          "options": [
+            "Do I should look online?",
+            "Should I look online?",
+            "I should looking online?"
+          ],
+          "answer": 1,
+          "why": "Вопрос: **Should I look ...?**"
+        },
+        {
+          "q": "Anna is 15 and wants to stay out until 3 a.m.",
+          "options": [
+            "I don't think she should.",
+            "I think she shouldn't to.",
+            "I think she don't should."
+          ],
+          "answer": 0,
+          "why": "**I don't think she should.**"
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Дайте совет",
+      "instruction": "Напишите совет с **should** или **shouldn't**.",
+      "items": [
+        {
+          "prompt": "Mike has a toothache. (go to the dentist)",
+          "answers": [
+            "He should go to the dentist.",
+            "Mike should go to the dentist."
+          ]
+        },
+        {
+          "prompt": "Kate eats too much fast food. (eat / so much)",
+          "answers": [
+            "She shouldn't eat so much fast food.",
+            "Kate shouldn't eat so much fast food.",
+            "She shouldn't eat so much.",
+            "Kate shouldn't eat so much."
+          ]
+        },
+        {
+          "prompt": "We are late for the lesson. (hurry)",
+          "answers": [
+            "We should hurry."
+          ]
+        },
+        {
+          "prompt": "I think your bag is too heavy. (carry / so many books)",
+          "answers": [
+            "You shouldn't carry so many books.",
+            "I think you shouldn't carry so many books."
+          ]
+        },
+        {
+          "prompt": "(I / think / he / should / apologise)",
+          "answers": [
+            "I think he should apologise.",
+            "I think he should apologize."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **should** или **shouldn't**.",
+      "items": [
+        {
+          "prompt": "Тебе стоит пить больше воды.",
+          "answers": [
+            "You should drink more water."
+          ]
+        },
+        {
+          "prompt": "Ему не стоит так много работать.",
+          "answers": [
+            "He shouldn't work so much.",
+            "He shouldn't work so hard.",
+            "He should not work so much.",
+            "He should not work so hard."
+          ]
+        },
+        {
+          "prompt": "Мне купить эту футболку?",
+          "answers": [
+            "Should I buy this T-shirt?",
+            "Should I buy this t-shirt?",
+            "Should I buy this shirt?"
+          ]
+        },
+        {
+          "prompt": "Не думаю, что нам стоит идти.",
+          "answers": [
+            "I don't think we should go.",
+            "I think we shouldn't go.",
+            "I do not think we should go."
+          ]
+        },
+        {
+          "prompt": "Что мне делать?",
+          "answers": [
+            "What should I do?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "One thing you should do more often",
+          "sample": "I should walk more often."
+        },
+        {
+          "prompt": "One thing you shouldn't do so much",
+          "sample": "I shouldn't use my phone so much."
+        },
+        {
+          "prompt": "Advice for a friend who can't sleep",
+          "sample": "You should go to bed earlier and shouldn't drink coffee in the evening."
+        },
+        {
+          "prompt": "Advice for a tourist in your city",
+          "sample": "You should visit the old town. You shouldn't miss the museum."
+        },
+        {
+          "prompt": "Something you think people should do",
+          "sample": "I think people should be kind to each other."
+        }
+      ]
+    }
+  ]
+}

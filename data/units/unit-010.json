@@ -1,0 +1,106 @@
+{
+  "id": 10,
+  "title": "was/were",
+  "summary": "Прошедшее время глагола **be**: **was** (I / he / she / it) и **were** (we / you / they) — «был, была, были, находился».",
+  "ru": "## Что это такое\n**was / were** — прошедшая форма **am / is / are**. Рассказываем, кем или где кто-то был, каким что-то было.\n> I **am** tired now. → I **was** tired last night. — Вчера вечером я устала.\n> Where **is** Ann? → Where **was** Ann yesterday? — Где Анна была вчера?\n> You **are** late. → You **were** late yesterday. — Вчера ты опоздал.\n\n## Какую форму выбрать\n- **was** — с **I / he / she / it** и одним предметом или человеком\n- **were** — с **we / you / they** и множественным числом\n> The weather **was** good last week. — На прошлой неделе погода была хорошей.\n> We **were** hungry after the journey. — После поездки мы были голодны.\n> My parents **were** at home. — Мои родители были дома.\n\n## Отрицание\n**wasn't** (= was not), **weren't** (= were not)\n> The hotel **wasn't** expensive. — Отель был недорогим.\n> They **weren't** here last Sunday. — В прошлое воскресенье их здесь не было.\n\n## Вопрос\nПереставляем **was / were** перед подлежащим.\n> **Was** the weather good? — Погода была хорошей?\n> **Were** you at the party? — Ты был на вечеринке?\n> Why **were** you late? — Почему ты опоздал?\n\n## Краткие ответы\n> Were you late? — **Yes, I was.** / **No, I wasn't.**\n> Was Ted at work? — **Yes, he was.** / **No, he wasn't.**\n> Were they at the party? — **Yes, they were.** / **No, they weren't.**\n\n## Слова-подсказки прошлого\n**yesterday, last night, last week, last year, ago, in 2010, when I was a child**\n> Last year Rachel **was** 22, so she **is** 23 now.\n\n## Типичные ошибки\n- ~~I were tired.~~ → I **was** tired.\n- ~~They was at home.~~ → They **were** at home.\n- ~~Was you at work?~~ → **Were** you at work?\n- ~~I didn't was there.~~ → I **wasn't** there. (с be did не нужен)\n- ~~Yesterday I am at home.~~ → Yesterday I **was** at home.",
+  "en": "## What is it?\n**was / were** are the past forms of **am / is / are**. We use them to say where or how somebody or something was in the past.\n> I **am** tired now. → I **was** tired last night.\n> Where **is** Ann? → Where **was** Ann yesterday?\n> You **are** late. → You **were** late yesterday.\n\n## Which form?\n- **was** — with **I / he / she / it** and singular nouns\n- **were** — with **we / you / they** and plural nouns\n> The weather **was** good last week.\n> We **were** hungry after the journey.\n> My parents **were** at home.\n\n## Negative\n**wasn't** (= was not), **weren't** (= were not)\n> The hotel **wasn't** expensive.\n> They **weren't** here last Sunday.\n\n## Questions\nPut **was / were** before the subject.\n> **Was** the weather good?\n> **Were** you at the party?\n> Why **were** you late?\n\n## Short answers\n> Were you late? — **Yes, I was.** / **No, I wasn't.**\n> Was Ted at work? — **Yes, he was.** / **No, he wasn't.**\n> Were they at the party? — **Yes, they were.** / **No, they weren't.**\n\n## Past time words\n**yesterday, last night, last week, last year, ago, when I was a child**\n\n## Common mistakes\n- ~~I were tired.~~ → I **was** tired.\n- ~~They was at home.~~ → They **were** at home.\n- ~~I didn't was there.~~ → I **wasn't** there.",
+  "structure": "## Утверждение, отрицание, вопрос\n| Подлежащее | Утверждение | Отрицание | Вопрос |\n|---|---|---|---|\n| I | I was | I wasn't | Was I ...? |\n| he / she / it | he was | he wasn't | Was he ...? |\n| we / you / they | we were | we weren't | Were we ...? |\n\n## Настоящее → прошедшее\n| Present | Past |\n|---|---|\n| am / is | **was** |\n| are | **were** |\n\n## Краткие ответы\n| Вопрос | Да | Нет |\n|---|---|---|\n| Was I / he / she / it ...? | Yes, I / he / she / it **was**. | No, I / he / she / it **wasn't**. |\n| Were we / you / they ...? | Yes, we / you / they **were**. | No, we / you / they **weren't**. |\n\n## Формулы\n> Подлежащее + **was / were** + ...\n> Подлежащее + **wasn't / weren't** + ...\n> **Was / Were** + подлежащее + ...?\n> Where **were** you yesterday? — I **was** at work.\n\n## Слова времени\n- **yesterday**, **last night / week / month / year**\n- **ago**: two days ago\n- **in** + год: in 2010",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Настоящее или прошедшее?",
+      "instruction": "Вставьте **am / is / are** (настоящее) или **was / were** (прошедшее).",
+      "items": [
+        { "text": "Last year she {{was}} 22, so she {{is}} 23 now." },
+        { "text": "Today the weather {{is}} nice, but yesterday it {{was}} very cold." },
+        { "text": "I {{am}} hungry now. Can I have something to eat?" },
+        { "text": "I feel fine this morning, but I {{was}} very tired last night." },
+        { "text": "Where {{were}} you at 11 o'clock last Friday?" },
+        { "text": "Don't buy those shoes. They {{are}} very expensive." },
+        { "text": "This time last year I {{was}} in Paris." },
+        { "text": "Where {{are}} the children? — I don't know. They {{were}} in the garden ten minutes ago." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "was / were или wasn't / weren't",
+      "instruction": "Вставьте **was, were, wasn't** или **weren't**.",
+      "items": [
+        { "text": "We {{weren't}} happy with the hotel. Our room {{was}} very small and it {{wasn't}} clean." },
+        { "text": "George {{wasn't}} at work last week because he {{was}} ill." },
+        { "text": "Yesterday {{was}} a public holiday, so the shops {{were}} closed." },
+        { "text": "The children {{weren't}} at school yesterday. It {{was}} Sunday." },
+        { "text": "The film {{was}} boring. The actors {{weren't}} good." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "was или were?",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "My parents ___ at home yesterday.", "options": ["was", "were", "are"], "answer": 1, "why": "My parents = they → **were**." },
+        { "q": "I ___ in London last week.", "options": ["were", "was", "am"], "answer": 1, "why": "I → **was**." },
+        { "q": "It ___ very cold last night.", "options": ["were", "is", "was"], "answer": 2, "why": "it → **was**." },
+        { "q": "You and Tom ___ late for the lesson.", "options": ["was", "were", "are"], "answer": 1, "why": "You and Tom = you → **were**." },
+        { "q": "The shops ___ closed on Sunday.", "options": ["weren't", "wasn't", "isn't"], "answer": 0, "why": "the shops = they → **weren't**." },
+        { "q": "___ you at the party on Saturday?", "options": ["Was", "Were", "Are"], "answer": 1, "why": "you → **Were**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант грамматически верный.",
+      "items": [
+        { "q": "Как сказать «Они были дома»?", "options": ["They was at home.", "They were at home.", "They are at home yesterday."], "answer": 1, "why": "they → **were**." },
+        { "q": "Как сказать «Он не был на работе»?", "options": ["He weren't at work.", "He didn't was at work.", "He wasn't at work."], "answer": 2, "why": "he → **wasn't**; did не нужен." },
+        { "q": "Как спросить «Ты был дома вчера?»", "options": ["Was you at home yesterday?", "Were you at home yesterday?", "Did you were at home yesterday?"], "answer": 1, "why": "you → **Were** you ...?" },
+        { "q": "Как ответить «Да» на «Was she tired?»", "options": ["Yes, she was.", "Yes, she were.", "Yes, she is."], "answer": 0, "why": "**Yes, she was.**" },
+        { "q": "Как сказать «Мне было 10 лет»?", "options": ["I had 10 years.", "I was 10 years old.", "I were 10."], "answer": 1, "why": "Возраст — через be: **I was 10 (years old)**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Где они были?",
+      "instruction": "Где были эти люди вчера в 3 часа дня? Напишите предложения.",
+      "items": [
+        { "prompt": "(George / in bed)", "answers": ["George was in bed."] },
+        { "prompt": "(Carol and Jack / at the cinema)", "answers": ["Carol and Jack were at the cinema."] },
+        { "prompt": "(Sue / at the supermarket)", "answers": ["Sue was at the supermarket."] },
+        { "prompt": "(my parents / in the garden)", "answers": ["My parents were in the garden."] },
+        { "prompt": "(the children / at school)", "answers": ["The children were at school."] },
+        { "prompt": "(I / at home)", "answers": ["I was at home."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **was / were**.",
+      "items": [
+        { "prompt": "Вчера я была дома.", "answers": ["I was at home yesterday.", "Yesterday I was at home."] },
+        { "prompt": "Где ты был вчера?", "answers": ["Where were you yesterday?"] },
+        { "prompt": "Мы не были голодны.", "answers": ["We weren't hungry.", "We were not hungry."] },
+        { "prompt": "Фильм был интересным?", "answers": ["Was the film interesting?", "Was the movie interesting?"] },
+        { "prompt": "Её не было на работе.", "answers": ["She wasn't at work.", "She was not at work."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Where were you at 8 o'clock this morning?", "sample": "I was at home. I was in the kitchen." },
+        { "prompt": "Where were you last Sunday?", "sample": "I was at my friend's house." },
+        { "prompt": "How was the weather yesterday?", "sample": "It was sunny and warm." },
+        { "prompt": "Were you tired last night?", "sample": "Yes, I was. / No, I wasn't." },
+        { "prompt": "Where were you born? / When you were a child, were you afraid of something?", "sample": "I was born in Bishkek. When I was a child, I was afraid of dogs." }
+      ]
+    }
+  ]
+}

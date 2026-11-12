@@ -14,7 +14,7 @@
       "example": "Tokyo is in Japan. → Tokyo is in **-** Japan.",
       "items": [
         {
-          "text": "I'd like to visit {{-}} Canada."
+          "text": "I'd like to visit {{-|—|–|0}} Canada."
         },
         {
           "text": "We crossed {{the}} Atlantic by ship."
@@ -23,13 +23,13 @@
           "text": "{{The}} Alps are in Europe."
         },
         {
-          "text": "Lisa lives in {{-}} Oxford Street."
+          "text": "Lisa lives in {{-|—|–|0}} Oxford Street."
         },
         {
           "text": "Have you ever been to {{the}} Philippines?"
         },
         {
-          "text": "{{-}} Heathrow Airport is very busy."
+          "text": "{{-|—|–|0}} Heathrow Airport is very busy."
         },
         {
           "text": "{{The}} Volga is the longest river in Europe."
@@ -46,19 +46,19 @@
           "text": "We stayed at {{the}} Grand Hotel."
         },
         {
-          "text": "Let's meet in {{-}} Victoria Station."
+          "text": "Let's meet in {{-|—|–|0}} Victoria Station."
         },
         {
           "text": "My sister works at {{the}} Natural History Museum."
         },
         {
-          "text": "Is there a bank in {{-}} High Street?"
+          "text": "Is there a bank in {{-|—|–|0}} High Street?"
         },
         {
           "text": "We had dinner at {{the}} Golden Dragon (a restaurant)."
         },
         {
-          "text": "I studied at {{-}} Moscow University."
+          "text": "I studied at {{-|—|–|0}} Moscow University."
         },
         {
           "text": "Let's go to {{the}} Odeon tonight."
@@ -198,7 +198,7 @@
       "instruction": "Вставьте **the** там, где нужно, или напишите **-**.",
       "items": [
         {
-          "text": "{{-}} Japan is an island country."
+          "text": "{{-|—|–|0}} Japan is an island country."
         },
         {
           "text": "{{The}} Pacific is the biggest ocean."
@@ -213,7 +213,7 @@
           "text": "Her uncle lives in {{the}} UK."
         },
         {
-          "text": "{{-}} Bishkek is near {{-}} Ala-Too Square."
+          "text": "{{-|—|–|0}} Bishkek is near {{-|—|–|0}} Ala-Too Square."
         }
       ]
     },

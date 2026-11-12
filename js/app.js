@@ -37,7 +37,11 @@
     if (!v) return false;
     return String(answer).split("|").some(a => norm(a) === v);
   }
-  function firstAnswer(a) { return String(a).split("|")[0]; }
+  // показываем вариант без начального апострофа ("is", а не "'s"), чтобы не было «She 's got»
+  function firstAnswer(a) {
+    const alts = String(a).split("|");
+    return alts.find(x => !/^['’]/.test(x.trim())) || alts[0];
+  }
 
   // ---------- загрузка ----------
   async function getJSON(url) {
@@ -185,7 +189,9 @@
         <li class="item write" data-j="${j}">
           <div class="q">${MD.inline(it.prompt)}</div>
           <textarea rows="2" class="w-input" autocapitalize="sentences" spellcheck="false" placeholder="Ваш ответ…"></textarea>
-          <div class="sample" hidden>${it.answers ? "Правильно: " : "Пример ответа: "}<b>${MD.inline(it.answers ? firstAnswer(it.answers[0]) : it.sample || "")}</b>${it.answers && it.sample ? `<br><span class="muted">${MD.inline(it.sample)}</span>` : ""}</div>
+          <div class="sample" hidden>${it.answers ? "Ожидаемый ответ: " : "Пример ответа: "}<b>${MD.inline(it.answers ? firstAnswer(it.answers[0]) : it.sample || "")}</b>${it.answers && it.sample ? `<br><span class="muted">${MD.inline(it.sample)}</span>` : ""}
+            <span class="mismatch" hidden><br>Ваш вариант не совпал с ожидаемым, но тоже может быть верным.</span>
+            <br><button class="link-btn ask" type="button">Спросить помощника про мой ответ →</button></div>
         </li>`).join("")}</ol>`;
     }
     const src = ex.source === "book" ? '<span class="tag">по мотивам учебника</span>' : '<span class="tag ai">дополнительно</span>';
@@ -273,7 +279,9 @@
           if (it.answers) {
             auto++;
             const ok = it.answers.some(a => matches(ta.value, a));
-            ta.classList.toggle("right", ok); ta.classList.toggle("bad", !ok);
+            // несовпадение — не обязательно ошибка (свободная формулировка), поэтому жёлтым, а не красным
+            ta.classList.toggle("right", ok); ta.classList.toggle("unsure", !ok);
+            li.querySelector(".mismatch").hidden = ok || !ta.value.trim();
             if (ok) c++;
           }
         });
@@ -281,8 +289,17 @@
         else { score.textContent = "Сравните с образцом"; score.className = "score ok"; setExerciseResult(unitId, i, 0, 0); }
       };
       root.querySelector(".show").onclick = () => items.forEach(li => { li.querySelector(".sample").hidden = false; });
+      items.forEach((li, j) => {
+        li.querySelector(".ask").onclick = () => {
+          const it = ex.items[j];
+          const mine = li.querySelector("textarea").value.trim() || "(пока ничего не написала)";
+          const expected = it.answers ? firstAnswer(it.answers[0]) : (it.sample || "");
+          if (window.Chat) window.Chat.ask(
+            `Задание: ${ex.instruction || ex.title || ""}\n${it.prompt}\nМой ответ: ${mine}\nОжидаемый ответ: ${expected}\nМой ответ верный? Если нет — объясни ошибку.`);
+        };
+      });
       root.querySelector(".reset").onclick = () => {
-        items.forEach(li => { const ta = li.querySelector("textarea"); ta.value = ""; ta.className = "w-input"; li.querySelector(".sample").hidden = true; });
+        items.forEach(li => { const ta = li.querySelector("textarea"); ta.value = ""; ta.className = "w-input"; li.querySelector(".sample").hidden = true; li.querySelector(".mismatch").hidden = true; });
         score.textContent = "";
       };
     }

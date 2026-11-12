@@ -1,0 +1,91 @@
+{
+  "id": 52,
+  "title": "I want you to ... I told you to ...",
+  "summary": "Конструкция **глагол + кто-то + to + глагол** (want, ask, tell, advise ...) и особые глаголы **make** и **let** без to.",
+  "ru": "## I want you to ...\nЕсли мы хотим, чтобы **другой человек** что-то сделал, говорим: **want + кто-то + to + глагол**. Русский вариант с «чтобы» («Я хочу, чтобы ты пришёл») в английском **не** используется.\n> I want **you to be** happy. — Я хочу, чтобы ты был счастлив.\n> They didn't want **anybody to know**. — Они не хотели, чтобы кто-то узнал.\n> Do you want **me to help** you? — Хочешь, я помогу?\n- ~~I want that you come.~~ → I want **you to come**.\nТо же самое с **would like**: Would you like **me to carry** your bag?\n\n## Другие глаголы: ask, tell, advise, expect, persuade, teach\nСтруктура одинаковая: **глагол + кто-то + to + глагол**.\n> Sue **asked a friend to lend** her some money. — Сью попросила подругу одолжить денег.\n> I **told you to be** careful. — Я же сказал тебе быть осторожнее.\n> What do you **advise me to do**? — Что ты мне посоветуешь сделать?\n> I **taught my brother to swim**. — Я научила брата плавать.\n> We didn't **expect them to be** here. — Мы не ожидали, что они будут здесь.\n\n## Отрицание: not перед to\n> Paul **told Sue not to wait** for him. — Пол сказал Сью не ждать его.\n> The doctor **advised me not to eat** sweets. — Врач посоветовал мне не есть сладкое.\n\n## make и let: без to\nПосле **make** (заставлять) и **let** (позволять) **to не нужно**.\n> He's very funny. He **makes me laugh**. — Он очень смешной. Он меня смешит.\n> Our teacher **made us work** hard. — Учитель заставил нас много работать.\n> Sue **let me use** her computer. — Сью разрешила мне пользоваться её компьютером.\n- ~~He makes me to laugh.~~ → He makes me **laugh**.\n\n## Let's ...\n**Let's** (= let us) — предложение сделать что-то вместе.\n> **Let's go** out tonight! — Давай сходим куда-нибудь вечером!\n> Let's not wait. — Давай не будем ждать.\n\n## Типичные ошибки\n- ~~I want that you help me.~~ → I want **you to help** me.\n- ~~She told me help her.~~ → She told me **to help** her.\n- ~~He let me to go.~~ → He let me **go**.",
+  "en": "## I want you to ...\nWhen we want another person to do something, we say **want + somebody + to + verb**.\n> I want **you to be** happy.\n> They didn't want **anybody to know**.\n> Do you want **me to help** you?\n- ~~I want that you come.~~ → I want **you to come**.\nWe use **would like** in the same way: Would you like **me to carry** your bag?\n\n## Other verbs: ask, tell, advise, expect, persuade, teach\nThe structure is the same: **verb + somebody + to + verb**.\n> Sue **asked a friend to lend** her some money.\n> I **told you to be** careful.\n> What do you **advise me to do**?\n> I **taught my brother to swim**.\n> We didn't **expect them to be** here.\n\n## Negative: not before to\n> Paul **told Sue not to wait** for him.\n> The doctor **advised me not to eat** sweets.\n\n## make and let: no to\nAfter **make** and **let** we don't use **to**.\n> He's very funny. He **makes me laugh**.\n> Our teacher **made us work** hard.\n> Sue **let me use** her computer.\n- ~~He makes me to laugh.~~ → He makes me **laugh**.\n\n## Let's ...\n**Let's** (= let us) is a suggestion for people to do something together.\n> **Let's go** out tonight!\n> Let's not wait.\n\n## Common mistakes\n- ~~She told me help her.~~ → She told me **to help** her.\n- ~~He let me to go.~~ → He let me **go**.",
+  "structure": "## Формулы\n| Конструкция | Пример |\n|---|---|\n| want / would like + кто-то + **to** + глагол | I want you to wait. |\n| ask / tell / advise / expect / persuade / teach + кто-то + **to** + глагол | She asked me to help. |\n| tell / ask + кто-то + **not to** + глагол | He told me not to worry. |\n| make / let + кто-то + глагол (**без to**) | He made me wait. |\n| Let's + глагол | Let's go! |\n\n## Вопрос\n> Do you want **me to** stay? · Would you like **us to** come?\n\n## Местоимения после глагола\n| Подлежащее | После глагола |\n|---|---|\n| I | me |\n| you | you |\n| he / she | him / her |\n| we / they | us / them |\n\n## Памятка\n> После **want, ask, tell, advise, expect, teach, persuade** — **to**.\n> После **make, let** — **без to**.\n> Отрицание: **not to** + глагол.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "I want you to ...",
+      "instruction": "Вставьте местоимение и **to** там, где нужно.",
+      "items": [
+        { "text": "I want {{you}} {{to}} come with me." },
+        { "text": "Do you want {{me}} {{to}} help you?" },
+        { "text": "She doesn't want {{him}} {{to}} know." },
+        { "text": "Would you like {{us}} {{to}} wait?" },
+        { "text": "We want {{them}} {{to}} be happy." },
+        { "text": "I don't want {{you}} {{to}} worry." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "tell, ask, make, let",
+      "instruction": "Поставьте глагол в скобках в правильную форму (с to или без).",
+      "items": [
+        { "text": "She told me {{to wait}}. (wait)" },
+        { "text": "He asked me {{to open}} the window. (open)" },
+        { "text": "The film made me {{cry}}. (cry)" },
+        { "text": "My parents let me {{go}} out late. (go)" },
+        { "text": "The doctor advised her {{to rest}}. (rest)" },
+        { "text": "I told them {{not to make|not to make a}} noise. (not make)" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I want you ___ here.", "options": ["stay", "to stay", "staying"], "answer": 1, "why": "want + кто-то + to." },
+        { "q": "He made me ___ the room.", "options": ["to clean", "clean", "cleaning"], "answer": 1, "why": "make + кто-то + глагол без to." },
+        { "q": "She told me ___ late.", "options": ["not to be", "to not being", "don't be"], "answer": 0, "why": "tell + кто-то + not to + глагол." },
+        { "q": "My teacher taught us ___ a song in English.", "options": ["sing", "to sing", "singing"], "answer": 1, "why": "teach + кто-то + to." },
+        { "q": "Let's ___ a taxi.", "options": ["to take", "take", "taking"], "answer": 1, "why": "Let's + глагол без to." },
+        { "q": "Did your boss let you ___ early?", "options": ["to go", "go", "going"], "answer": 1, "why": "let + кто-то + глагол без to." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Я хочу, чтобы ты мне позвонил»?", "options": ["I want that you call me.", "I want you call me.", "I want you to call me."], "answer": 2, "why": "want + you + to + глагол." },
+        { "q": "Как сказать «Он попросил меня помочь»?", "options": ["He asked me to help.", "He asked me help.", "He asked to me help."], "answer": 0, "why": "ask + me + to + глагол." },
+        { "q": "Как сказать «Мама разрешила мне пойти»?", "options": ["Mum let me to go.", "Mum let me go.", "Mum let me going."], "answer": 1, "why": "После let — глагол без to." },
+        { "q": "Как сказать «Он велел нам не шуметь»?", "options": ["He told us don't make noise.", "He told us not make noise.", "He told us not to make noise."], "answer": 2, "why": "not to + глагол." },
+        { "q": "Как сказать «Давай останемся дома»?", "options": ["Let's stay at home.", "Let's to stay at home.", "Let's staying at home."], "answer": 0, "why": "Let's + глагол без to." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Напишите предложение по подсказке.",
+      "items": [
+        { "prompt": "Я хочу, чтобы ты пришёл завтра. (I want ...)", "answers": ["I want you to come tomorrow."] },
+        { "prompt": "Хочешь, чтобы я тебе помог? (Do you want ...)", "answers": ["Do you want me to help you?"] },
+        { "prompt": "Врач сказал мне не есть сладкое. (The doctor told ...)", "answers": ["The doctor told me not to eat sweets.", "The doctor told me not to eat sweet things."] },
+        { "prompt": "Её шутки заставляют меня смеяться. (Her jokes make ...)", "answers": ["Her jokes make me laugh."] },
+        { "prompt": "Отец научил меня водить. (My father taught ...)", "answers": ["My father taught me to drive."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Что вы хотите, чтобы ваш друг сделал для вас?", "sample": "I want my friend to visit me." },
+        { "prompt": "Что вам велела сделать мама?", "sample": "My mother told me to clean my room." },
+        { "prompt": "Что вас заставляет смеяться?", "sample": "Funny videos make me laugh." },
+        { "prompt": "Чему вас научил кто-то из родных?", "sample": "My grandmother taught me to cook." },
+        { "prompt": "Что вы предлагаете сделать вместе с другом? (Let's ...)", "sample": "Let's go to the cinema on Saturday." }
+      ]
+    }
+  ]
+}

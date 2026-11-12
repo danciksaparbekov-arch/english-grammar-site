@@ -1,0 +1,290 @@
+{
+  "id": 81,
+  "title": "both either neither",
+  "summary": "Слова both, either и neither говорят о двух предметах или людях: оба, любой из двух, ни тот ни другой.",
+  "ru": "## both, either, neither — про ДВА предмета или человека\n| слово | значение |\n|---|---|\n| **both** | оба, и тот и другой |\n| **either** | любой из двух (один из двух) |\n| **neither** | ни тот, ни другой |\n> I have two sisters. **Both** are doctors. — У меня две сестры. Обе врачи.\n> Tea or coffee? — **Either.** I don't mind. — Чай или кофе? — Любой.\n> Cinema or theatre? — **Neither.** I want to stay at home. — Ни то, ни другое.\n\n## С существительным\n- **both** + **мн. число**: *both windows, both books*\n- **either / neither** + **ед. число**: *either way, neither job*\n> I liked **both cities**. — Мне понравились оба города.\n> **Neither job** was interesting. — Ни одна из работ не была интересной.\n> You can go **either way**. — Можно идти любой дорогой.\n\n## both of / either of / neither of\nПосле **of** нужно **the / these / those / my / her / Ann's ...** или местоимение:\n> **Both of those pictures** are nice. (или *Both those pictures*)\n> **Neither of my parents** is English. — Ни один из моих родителей не англичанин.\n> I haven't read **either of these books**. — Я не читала ни одной из этих книг.\n> Tom and I didn't eat. **Neither of us** was hungry. — Ни один из нас не был голоден.\n> Do you know those two people? — I don't know **either of them**.\n\n## either в отрицании\nНе говорим ~~I don't want neither~~, потому что отрицание уже есть. Говорим:\n> I don't want **either**. = I want **neither**. — Мне не нужен ни один.\n\n## Типичные ошибки\n- ~~Both of the books is good.~~ → **Both** of the books **are** good.\n- ~~I don't like neither of them.~~ → I don't like **either** of them.\n- ~~Neither book are good.~~ → **Neither** book **is** good.\n- ~~Both my parents is doctors.~~ → Both my parents **are** doctors.",
+  "en": "## both, either, neither — for TWO things or people\n| word | meaning |\n|---|---|\n| **both** | the one and the other |\n| **either** | one or the other (it doesn't matter which) |\n| **neither** | not the one and not the other |\n> I have two sisters. **Both** are doctors.\n> Tea or coffee? — **Either.** I don't mind.\n> Cinema or theatre? — **Neither.** I want to stay at home.\n\n## With a noun\n- **both** + **plural**: *both windows, both books*\n- **either / neither** + **singular**: *either way, neither job*\n> I liked **both cities**. · **Neither job** was interesting. · You can go **either way**.\n\n## both of / either of / neither of\nAfter **of** we need **the / these / those / my / her / Ann's ...** or a pronoun:\n> **Both of those pictures** are nice. (or *Both those pictures*)\n> **Neither of my parents** is English.\n> I haven't read **either of these books**.\n> **Neither of us** was hungry.\n> I don't know **either of them**.\n\n## either in negatives\n- ~~I don't want neither.~~ → I don't want **either**. = I want **neither**.\n\n## Common mistakes\n- ~~I don't like neither of them.~~ → I don't like **either** of them.\n- ~~Neither book are good.~~ → **Neither** book **is** good.\n- ~~Both my parents is doctors.~~ → Both my parents **are** doctors.",
+  "structure": "## Три слова\n| | с существительным | с of | без существительного |\n|---|---|---|---|\n| both | both + мн. число | both (of) the / my / these ... | both of them / both of us |\n| either | either + ед. число | either of the / my / these ... | either of them |\n| neither | neither + ед. число | neither of the / my / these ... | neither of us |\n\n## Формулы\n> **both** + мн. число + глагол во мн. числе\n> **either / neither** + ед. число + глагол в ед. числе\n> **neither of** + мн. число + глагол обычно в ед. числе: *Neither of my parents is English.*\n\n## Отрицание\n> **not ... either** = **neither**\n> I don't like **either** of them. = I like **neither** of them.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "both, either или neither?",
+      "instruction": "Вставьте **both**, **either** или **neither**.",
+      "items": [
+        {
+          "text": "I like these two jackets. I'll take {{both}}."
+        },
+        {
+          "text": "There are two buses. I can take {{either}} of them."
+        },
+        {
+          "text": "— Do you want tea or coffee? — {{Neither}}, thanks. I want water."
+        },
+        {
+          "text": "Mike has two brothers. {{Both}} of them live in Berlin."
+        },
+        {
+          "text": "It was a boring film. {{Neither}} of us liked it."
+        },
+        {
+          "text": "I can't help you. I haven't got {{either}} of the keys."
+        },
+        {
+          "text": "— Are you going on Friday or Saturday? — {{Either}}. I'm free both days."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Нужен ли of?",
+      "instruction": "Вставьте **of** или напишите **-**, если не нужно.",
+      "items": [
+        {
+          "text": "Both {{-}} windows are open."
+        },
+        {
+          "text": "Neither {{of}} us wants to go."
+        },
+        {
+          "text": "I don't like either {{of}} those songs."
+        },
+        {
+          "text": "Both {{of}} Tom's sisters are teachers."
+        },
+        {
+          "text": "Neither {{-}} book is good."
+        },
+        {
+          "text": "Either {{-}} bus goes to the station."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "Both my parents ___ teachers.",
+          "options": [
+            "is",
+            "are",
+            "was"
+          ],
+          "answer": 1,
+          "why": "both + мн. число → **are**."
+        },
+        {
+          "q": "Neither of the books ___ interesting.",
+          "options": [
+            "be",
+            "is",
+            "am"
+          ],
+          "answer": 1,
+          "why": "neither of + ед. глагол → **is**."
+        },
+        {
+          "q": "I don't know ___ of those two women.",
+          "options": [
+            "neither",
+            "either",
+            "both"
+          ],
+          "answer": 1,
+          "why": "После **don't** — **either**."
+        },
+        {
+          "q": "— Is your friend Russian or Kazakh? — ___. She's Kyrgyz.",
+          "options": [
+            "Both",
+            "Either",
+            "Neither"
+          ],
+          "answer": 2,
+          "why": "Ни то, ни другое → **Neither**."
+        },
+        {
+          "q": "You can use ___ pen. They're both fine.",
+          "options": [
+            "both",
+            "either",
+            "neither"
+          ],
+          "answer": 1,
+          "why": "Любой из двух → **either**."
+        },
+        {
+          "q": "___ of my friends smoke. They are healthy.",
+          "options": [
+            "Neither",
+            "Both",
+            "Either"
+          ],
+          "answer": 0,
+          "why": "Ни один → **Neither**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "I like neither of them.",
+            "I don't like neither of them.",
+            "I like either them."
+          ],
+          "answer": 0,
+          "why": "**like neither** или **don't like either**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Both of the shops is open.",
+            "Both of the shops are open.",
+            "Both the shop are open."
+          ],
+          "answer": 1,
+          "why": "both + **are**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Neither answer is correct.",
+            "Neither answers are correct.",
+            "Neither of answers is correct."
+          ],
+          "answer": 0,
+          "why": "neither + ед. число."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Either of them can help you.",
+            "Both of them can help either.",
+            "Neither of them can't help you."
+          ],
+          "answer": 0,
+          "why": "**Either of them** — любой из них."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **both**, **either** или **neither**.",
+      "items": [
+        {
+          "prompt": "(both / my / sisters / live / in Osh)",
+          "answers": [
+            "Both my sisters live in Osh.",
+            "Both of my sisters live in Osh."
+          ]
+        },
+        {
+          "prompt": "(I / not / like / either / these songs)",
+          "answers": [
+            "I don't like either of these songs.",
+            "I don't like either song."
+          ]
+        },
+        {
+          "prompt": "(neither / us / have / a car)",
+          "answers": [
+            "Neither of us has a car.",
+            "Neither of us have a car.",
+            "Neither of us has got a car."
+          ]
+        },
+        {
+          "prompt": "(you / can / use / either / computer)",
+          "answers": [
+            "You can use either computer."
+          ]
+        },
+        {
+          "prompt": "(both / of / them / be / tired)",
+          "answers": [
+            "Both of them are tired."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "У меня два брата. Оба студенты.",
+          "answers": [
+            "I have two brothers. Both are students.",
+            "I've got two brothers. Both are students.",
+            "I have two brothers. Both of them are students.",
+            "I've got two brothers. Both of them are students."
+          ]
+        },
+        {
+          "prompt": "Ни один из нас не говорит по-французски.",
+          "answers": [
+            "Neither of us speaks French.",
+            "Neither of us speak French."
+          ]
+        },
+        {
+          "prompt": "Ты хочешь чай или кофе? — Любой.",
+          "answers": [
+            "Do you want tea or coffee? — Either.",
+            "Do you want tea or coffee? Either.",
+            "Tea or coffee? — Either."
+          ]
+        },
+        {
+          "prompt": "Я не люблю ни одну из этих песен.",
+          "answers": [
+            "I don't like either of these songs.",
+            "I like neither of these songs."
+          ]
+        },
+        {
+          "prompt": "Оба окна закрыты.",
+          "answers": [
+            "Both windows are closed.",
+            "Both of the windows are closed.",
+            "Both the windows are closed."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Расскажите о своих родителях или братьях/сёстрах (по двое).",
+          "sample": "Both my parents work. Neither of them is retired."
+        },
+        {
+          "prompt": "Вы выбираете между двумя вещами. Что вам подходит?",
+          "sample": "I like both. / I like either of them."
+        },
+        {
+          "prompt": "Что из двух вы не любите?",
+          "sample": "I like neither of these two films."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "id": 102,
+  "title": "under behind opposite etc. (prepositions)",
+  "summary": "Предлоги места: **in front of, behind, next to, between, opposite, under, above, on the left / right** — где что находится.",
+  "ru": "## Предлоги места\nОни отвечают на вопрос «где?» и показывают положение одного предмета относительно другого.\n> The cat is **under** the table. — Кошка под столом.\n> The bank is **opposite** the school. — Банк напротив школы.\n\n## Основные предлоги\n- **in front of** — перед, впереди: *There's a car **in front of** the house.*\n- **behind** — позади, за: *The garden is **behind** the house.*\n- **next to / beside** — рядом с: *I sit **next to** Anna.*\n- **between** — между (двумя): *The café is **between** a bank and a shop.*\n- **opposite** — напротив: *The hotel is **opposite** the station.*\n- **under** — под: *The shoes are **under** the bed.*\n- **above** — над (выше, не касаясь): *There's a lamp **above** the table.*\n- **near** — около, недалеко от: *We live **near** the park.*\n\n## on the left / on the right\nСлева и справа говорим **on the left / on the right**.\n> The post office is **on the left**. — Почта слева.\n> Our school is **on the right**, **next to** the bank.\n\n## Типичные ошибки\n- ~~The cat is in the table.~~ → The cat is **under** the table.\n- ~~The bank is in front the school.~~ → **in front of** the school (нужно **of**).\n- ~~The park is between the school.~~ → **between** needs two things: *between the school and the bank.*\n- ~~My house is in the left.~~ → **on the left**.\n\n## Сравните\n- **opposite** — через дорогу или комнату, лицом к лицу.\n- **next to** — рядом, на одной линии.\n- **in front of** — спереди, перед (в одном ряду или у входа).",
+  "en": "## Prepositions of place\nThey tell us where something is in relation to something else.\n> The cat is **under** the table.\n> The bank is **opposite** the school.\n\n## Main prepositions\n- **in front of**: *There's a car **in front of** the house.*\n- **behind**: *The garden is **behind** the house.*\n- **next to / beside**: *I sit **next to** Anna.*\n- **between**: *The café is **between** a bank and a shop.*\n- **opposite**: *The hotel is **opposite** the station.*\n- **under**: *The shoes are **under** the bed.*\n- **above**: *There's a lamp **above** the table.*\n- **near**: *We live **near** the park.*\n\n## on the left / on the right\n> The post office is **on the left**.\n> Our school is **on the right**, **next to** the bank.\n\n## Common mistakes\n- ~~The cat is in the table.~~ → The cat is **under** the table.\n- ~~in front the school~~ → **in front of** the school.\n- ~~in the left~~ → **on the left**.",
+  "structure": "## Схема положения\n| Предлог | Значение | Пример |\n|---|---|---|\n| in front of | спереди | The bus is in front of the shop. |\n| behind | сзади | The ball is behind the sofa. |\n| next to / beside | рядом | The bank is next to the café. |\n| between A and B | между | The park is between the school and the shop. |\n| opposite | напротив | The hotel is opposite the station. |\n| under | под | The bag is under the chair. |\n| above | над | The clock is above the door. |\n| on the left / right | слева / справа | The shop is on the left. |\n\n## Формула\n> Предмет + be + **предлог** + другой предмет\n> The cinema **is opposite** the bank.\n\n## Запомните\n- **in front of**, **next to** — всегда **of / to** на конце.\n- **between** + A **and** B.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Где предмет?",
+      "instruction": "Вставьте предлог: **under, behind, opposite, between, next to, in front of**.",
+      "items": [
+        {
+          "text": "The dog is sleeping {{under}} the table."
+        },
+        {
+          "text": "The school is {{opposite}} the park, across the road."
+        },
+        {
+          "text": "Our house is {{between}} a bank and a shop."
+        },
+        {
+          "text": "A tall man was standing {{in front of}} me, so I couldn't see the stage."
+        },
+        {
+          "text": "The garage is {{behind}} the house."
+        },
+        {
+          "text": "I sit {{next to|beside|by}} Tom in class."
+        },
+        {
+          "text": "The coin rolled {{under}} the chair, and I can't see it."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Описание улицы",
+      "instruction": "Вставьте слово: **on the left, on the right, near, opposite, between**.",
+      "items": [
+        {
+          "text": "The cinema is {{on the left}} when you go down the street, and the bank is {{on the right}}."
+        },
+        {
+          "text": "The supermarket is {{opposite}} the bank, on the other side of the road."
+        },
+        {
+          "text": "The post office is {{between}} the bank and a shoe shop."
+        },
+        {
+          "text": "I live {{near|close to}} the station, only five minutes on foot."
+        },
+        {
+          "text": "The café is {{opposite}} the cinema (на другой стороне улицы)."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный предлог",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "The lamp is ___ the table. (висит выше)",
+          "options": [
+            "above",
+            "under",
+            "behind"
+          ],
+          "answer": 0,
+          "why": "**above** — над."
+        },
+        {
+          "q": "The ball is ___ the sofa. (скрыт за диваном)",
+          "options": [
+            "opposite",
+            "behind",
+            "between"
+          ],
+          "answer": 1,
+          "why": "**behind** — позади."
+        },
+        {
+          "q": "Our flat is ___ a bakery and a pharmacy.",
+          "options": [
+            "between",
+            "behind",
+            "above"
+          ],
+          "answer": 0,
+          "why": "Между двумя — **between**."
+        },
+        {
+          "q": "The hotel is ___ the station, on the other side of the road.",
+          "options": [
+            "next to",
+            "opposite",
+            "under"
+          ],
+          "answer": 1,
+          "why": "На другой стороне дороги — **opposite**."
+        },
+        {
+          "q": "The bus stop is ___ the left.",
+          "options": [
+            "in",
+            "at",
+            "on"
+          ],
+          "answer": 2,
+          "why": "**on the left**."
+        },
+        {
+          "q": "There's a car ___ our house. (прямо у входа)",
+          "options": [
+            "in front of",
+            "in front",
+            "front of"
+          ],
+          "answer": 0,
+          "why": "**in front of** + место."
+        },
+        {
+          "q": "My shoes are ___ the bed.",
+          "options": [
+            "on",
+            "under",
+            "opposite"
+          ],
+          "answer": 1,
+          "why": "Под кроватью — **under**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Кошка под стулом»?",
+          "options": [
+            "The cat is under the chair.",
+            "The cat is at under the chair.",
+            "The cat is in the chair."
+          ],
+          "answer": 0,
+          "why": "**under** без лишних предлогов."
+        },
+        {
+          "q": "Как сказать «Школа напротив банка»?",
+          "options": [
+            "The school is opposite to bank.",
+            "The school is opposite the bank.",
+            "The school is on opposite the bank."
+          ],
+          "answer": 1,
+          "why": "**opposite** + the ... без to."
+        },
+        {
+          "q": "Как сказать «Слева от меня сидит Анна»?",
+          "options": [
+            "Anna is sitting in my left.",
+            "Anna is sitting at left me.",
+            "Anna is sitting on my left."
+          ],
+          "answer": 2,
+          "why": "**on my left**."
+        },
+        {
+          "q": "Как сказать «Магазин между банком и кафе»?",
+          "options": [
+            "The shop is between the bank and the café.",
+            "The shop is between the bank.",
+            "The shop is between of the bank and the café."
+          ],
+          "answer": 0,
+          "why": "**between A and B**."
+        },
+        {
+          "q": "Как сказать «Он стоит перед домом»?",
+          "options": [
+            "He's in front the house.",
+            "He's in front of the house.",
+            "He's in the front the house."
+          ],
+          "answer": 1,
+          "why": "**in front of**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов в скобках.",
+      "items": [
+        {
+          "prompt": "(the bank / opposite / the station)",
+          "answers": [
+            "The bank is opposite the station.",
+            "The bank's opposite the station."
+          ]
+        },
+        {
+          "prompt": "(my keys / under / the newspaper)",
+          "answers": [
+            "My keys are under the newspaper."
+          ]
+        },
+        {
+          "prompt": "(the cat / behind / the door)",
+          "answers": [
+            "The cat is behind the door.",
+            "The cat's behind the door."
+          ]
+        },
+        {
+          "prompt": "(the café / between / the bank / and the cinema)",
+          "answers": [
+            "The café is between the bank and the cinema.",
+            "The café's between the bank and the cinema."
+          ]
+        },
+        {
+          "prompt": "(the car / in front of / our house)",
+          "answers": [
+            "The car is in front of our house.",
+            "The car's in front of our house."
+          ]
+        },
+        {
+          "prompt": "(the pharmacy / on the right)",
+          "answers": [
+            "The pharmacy is on the right.",
+            "The pharmacy's on the right."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        {
+          "prompt": "Мой телефон под подушкой.",
+          "answers": [
+            "My phone is under the pillow.",
+            "My phone's under the pillow."
+          ]
+        },
+        {
+          "prompt": "Парк находится рядом со школой.",
+          "answers": [
+            "The park is next to the school.",
+            "The park is near the school.",
+            "The park is beside the school.",
+            "The park's next to the school.",
+            "The park's near the school.",
+            "The park's beside the school."
+          ]
+        },
+        {
+          "prompt": "Отель слева, а банк справа.",
+          "answers": [
+            "The hotel is on the left and the bank is on the right.",
+            "The hotel is on the left, and the bank is on the right.",
+            "The hotel's on the left and the bank's on the right.",
+            "The hotel's on the left, and the bank's on the right."
+          ]
+        },
+        {
+          "prompt": "Лампа висит над столом.",
+          "answers": [
+            "The lamp is above the table.",
+            "The lamp's above the table.",
+            "The lamp is hanging above the table."
+          ]
+        },
+        {
+          "prompt": "Кафе напротив почты.",
+          "answers": [
+            "The café is opposite the post office.",
+            "The cafe is opposite the post office.",
+            "The café's opposite the post office.",
+            "The cafe's opposite the post office."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What is near your home?",
+          "sample": "There's a small park near my home."
+        },
+        {
+          "prompt": "What is opposite your house or building?",
+          "sample": "There's a supermarket opposite my building."
+        },
+        {
+          "prompt": "Where do you sit in class or at work? Who sits next to you?",
+          "sample": "I sit next to the window. My friend Aida sits next to me."
+        },
+        {
+          "prompt": "Describe one thing in your room with a place word (under / on / behind ...)",
+          "sample": "My bag is under the desk, and my books are on the shelf above it."
+        }
+      ]
+    }
+  ]
+}

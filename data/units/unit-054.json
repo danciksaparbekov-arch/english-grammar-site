@@ -1,0 +1,91 @@
+{
+  "id": 54,
+  "title": "go to ... go on ... go for ... going",
+  "summary": "Устойчивые сочетания с **go**: go **to** (место), go **on** (holiday, trip), go **for** (a walk, a swim), go + **-ing** (shopping, swimming), а также **go home** без to.",
+  "ru": "## go to + место\nЕсли идём **в/на** какое-то место, после go ставим **to**.\n> What time do you usually **go to work**? — Во сколько ты обычно идёшь на работу?\n> I'm **going to France** next week. — На следующей неделе я еду во Францию.\n> She's **gone to bed**. — Она ушла спать.\n> I **went to the dentist** last week. — На прошлой неделе я ходил к стоматологу.\n> **go to sleep** — заснуть: I was tired and **went to sleep** quickly.\nВажное исключение: **go home** — без to.\n- ~~I'm going to home.~~ → I'm going **home**.\n\n## go on + holiday / trip / tour\nПосле **go on** идут слова про поездки и некоторые другие события: **holiday, a trip, a tour, an excursion, a cruise, strike**.\n> We're **going on holiday** next week. — На следующей неделе мы едем в отпуск.\n> The children **went on a school trip**. — Дети поехали на школьную экскурсию.\n> The workers **have gone on strike**. — Рабочие объявили забастовку.\n- Сравните: **on** holiday — но **for** a holiday: They've gone to Scotland **for a holiday**.\n\n## go for + прогулка, плавание и т. д.\nПосле **go for** — короткое действие для удовольствия: **a walk, a run, a swim, a drink, a meal**.\n> She's **gone for a walk**. — Она пошла гулять.\n> Do you **go for a run** every day? — Ты бегаешь каждый день?\n> Let's **go out for a meal**. — Давай сходим куда-нибудь поесть.\n\n## go + -ing\nСо многими видами спорта и с покупками используем **go + глагол-ing**: **shopping, swimming, fishing, sailing, skiing, jogging**.\n> Are you **going shopping** this afternoon? — Ты пойдёшь за покупками днём?\n> It's a nice day. Let's **go swimming**. (или: Let's go **for a swim**.)\n> I **went jogging** before breakfast. — Я бегал перед завтраком.\n\n## Типичные ошибки\n- ~~I went in the cinema.~~ → I went **to** the cinema.\n- ~~We go in holiday.~~ → We go **on** holiday.\n- ~~Let's go to walk.~~ → Let's **go for a walk**.\n- ~~I go to shopping.~~ → I **go shopping**.",
+  "en": "## go to + place\nWe use **to** when we go to a place.\n> What time do you usually **go to work**?\n> I'm **going to France** next week.\n> She's **gone to bed**.\n> I **went to the dentist** last week.\n> **go to sleep** = start sleeping.\nBut: **go home** — no to.\n- ~~I'm going to home.~~ → I'm going **home**.\n\n## go on + holiday / trip / tour\nWe say **go on** holiday, a trip, a tour, an excursion, a cruise, strike.\n> We're **going on holiday** next week.\n> The children **went on a school trip**.\n> The workers **have gone on strike**.\n- We say **on** holiday but **for** a holiday: They've gone to Scotland **for a holiday**.\n\n## go for + a walk / a swim ...\nWe say **go for** a walk, a run, a swim, a drink, a meal.\n> She's **gone for a walk**.\n> Do you **go for a run** every day?\n> Let's **go out for a meal**.\n\n## go + -ing\nWe use **go + -ing** for many sports and for shopping: **shopping, swimming, fishing, sailing, skiing, jogging**.\n> Are you **going shopping** this afternoon?\n> It's a nice day. Let's **go swimming**.\n> I **went jogging** before breakfast.\n\n## Common mistakes\n- ~~We go in holiday.~~ → We go **on** holiday.\n- ~~Let's go to walk.~~ → Let's **go for a walk**.\n- ~~I go to shopping.~~ → I **go shopping**.",
+  "structure": "## Четыре модели\n| Модель | Что после | Пример |\n|---|---|---|\n| go **to** | место | go to school, go to the cinema |\n| go **on** | holiday, a trip, a tour, an excursion, a cruise, strike | go on holiday |\n| go **for** | a walk, a run, a swim, a drink, a meal | go for a walk |\n| go + **-ing** | shopping, swimming, skiing, fishing, sailing, jogging | go swimming |\n\n## Особые случаи\n| Выражение | Комментарий |\n|---|---|\n| go home | без to |\n| go to bed | без артикля |\n| go to sleep | заснуть |\n| go out | выходить (развлекаться) |\n| go abroad | без to |\n\n## Формы go\n| Форма | Пример |\n|---|---|\n| go / goes | I go shopping. / She goes skiing. |\n| went | We went swimming yesterday. |\n| going | He is going to the park. |\n| gone | They have gone on holiday. |\n\n## Памятка\n> **to** — куда; **on** — поездка; **for** — прогулка/короткое занятие; **-ing** — спорт и покупки.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "to, on, for или ничего?",
+      "instruction": "Вставьте **to**, **on** или **for**.",
+      "items": [
+        { "text": "We're going {{on}} holiday in July." },
+        { "text": "Let's go {{for}} a walk in the park." },
+        { "text": "What time do you go {{to}} work?" },
+        { "text": "Is Ben at home? — No, he's gone {{to}} the gym." },
+        { "text": "My brother went {{on}} a trip to Kazakhstan." },
+        { "text": "She went {{for}} a swim in the lake." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "go + -ing",
+      "instruction": "Допишите глагол в форме **-ing**: shopping, swimming, skiing, fishing, jogging.",
+      "items": [
+        { "text": "In winter we go {{skiing}} in the mountains." },
+        { "text": "He's on the lake. He's gone {{fishing}}." },
+        { "text": "I went {{shopping}} yesterday and bought new shoes." },
+        { "text": "The sea is warm. Let's go {{swimming}}." },
+        { "text": "She goes {{jogging}} every morning in the park." },
+        { "text": "Did you go {{shopping}} in the city centre last Saturday?" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I'm going ___ now. I'm very tired.", "options": ["to home", "home", "at home"], "answer": 1, "why": "go home — без to." },
+        { "q": "They went ___ a trip to the mountains.", "options": ["on", "to", "for"], "answer": 0, "why": "go on a trip." },
+        { "q": "Do you want to go ___ a drink after work?", "options": ["on", "to", "for"], "answer": 2, "why": "go for a drink." },
+        { "q": "The workers have gone ___ strike.", "options": ["to", "on", "for"], "answer": 1, "why": "go on strike." },
+        { "q": "My parents go ___ every weekend.", "options": ["fishing", "to fishing", "for fishing"], "answer": 0, "why": "go + -ing." },
+        { "q": "I went ___ the doctor yesterday.", "options": ["to", "on", "for"], "answer": 0, "why": "go to + человек/место." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Мы едем в отпуск»?", "options": ["We're going in holiday.", "We're going on holiday.", "We're going to holiday."], "answer": 1, "why": "go on holiday." },
+        { "q": "Как сказать «Давай прогуляемся»?", "options": ["Let's go for a walk.", "Let's go to walk.", "Let's go walk for."], "answer": 0, "why": "go for a walk." },
+        { "q": "Как сказать «Она пошла по магазинам»?", "options": ["She's gone to shopping.", "She's gone shopping.", "She's gone for shopping."], "answer": 1, "why": "go shopping." },
+        { "q": "Как сказать «Я вернулся домой в шесть»?", "options": ["I went to home at six.", "I went home at six.", "I went at home at six."], "answer": 1, "why": "go home." },
+        { "q": "Как сказать «Они заснули быстро»?", "options": ["They went to sleep quickly.", "They went sleeping quickly.", "They went for sleep quickly."], "answer": 0, "why": "go to sleep." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с глаголом **go** в нужной форме.",
+      "items": [
+        { "prompt": "(we / go / holiday / Turkey) — прошлое", "answers": ["We went on holiday to Turkey.", "We went to Turkey on holiday."] },
+        { "prompt": "(Anna / go / swimming / every Sunday)", "answers": ["Anna goes swimming every Sunday.", "Anna goes swimming on Sundays."] },
+        { "prompt": "(I / go / a run / before work) — Present Simple", "answers": ["I go for a run before work."] },
+        { "prompt": "(they / go / the cinema / last night)", "answers": ["They went to the cinema last night."] },
+        { "prompt": "(Tom / go / home / early) — прошлое", "answers": ["Tom went home early."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Where do you go on holiday?", "sample": "I usually go on holiday to Issyk-Kul." },
+        { "prompt": "What time do you go to work or school?", "sample": "I go to school at 8 o'clock." },
+        { "prompt": "Do you go for a walk in the evening?", "sample": "Yes, I often go for a walk after dinner." },
+        { "prompt": "What sport do you go + -ing?", "sample": "I sometimes go swimming." },
+        { "prompt": "Where did you go last weekend?", "sample": "I went to the mountains with my friends." }
+      ]
+    }
+  ]
+}

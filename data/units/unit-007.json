@@ -1,0 +1,359 @@
+{
+  "id": 7,
+  "title": "Do you ...? (present simple questions)",
+  "summary": "Вопросы в present simple: **Do you ...? Does he ...?** + подлежащее + глагол в начальной форме; краткие ответы **Yes, I do. / No, she doesn't.**",
+  "ru": "## Как задать вопрос\nВ present simple вопрос строится с помощью **do / does** — он ставится **в начало**, а основной глагол остаётся в начальной форме.\n> You work in a bank. → **Do you work** in a bank? — Ты работаешь в банке?\n> She plays tennis. → **Does she play** tennis? — Она играет в теннис?\n\n## Какую форму выбрать\n- **Do** — с **I / we / you / they** и множественным числом\n- **Does** — с **he / she / it** и одним человеком или предметом\n> **Do** your friends live near here? — Твои друзья живут рядом?\n> **Does** Chris play tennis? — Крис играет в теннис?\nПосле does глагол **без -s**: ~~Does she plays?~~ → Does she **play**?\n\n## Порядок слов\n**(вопросительное слово) + do/does + подлежащее + глагол**\n> **Where do** your parents **live**? — Где живут твои родители?\n> **How often do** you **wash** your hair? — Как часто ты моешь голову?\n> **What does** this word **mean**? — Что значит это слово?\n> **How much does** it **cost**? — Сколько это стоит?\nСо словами частоты: **Do you always have breakfast?**\n\n## Особый вопрос\n> **What do you do?** — Кем ты работаешь? (= What's your job?)\n> — I work in a bank.\n\n## Краткие ответы\n> Do you play tennis? — **Yes, I do.** / **No, I don't.**\n> Does George work hard? — **Yes, he does.** / **No, he doesn't.**\n> Do they speak English? — **Yes, they do.** / **No, they don't.**\nПовторяем только **do / does**, а не основной глагол.\n\n## Типичные ошибки\n- ~~You work in a bank?~~ → **Do you work** in a bank?\n- ~~Does she plays?~~ → Does she **play**?\n- ~~Do he like music?~~ → **Does** he like music?\n- ~~Where you live?~~ → Where **do you live**?\n- ~~Yes, I like.~~ → Yes, I **do**.",
+  "en": "## How to ask a question\nIn the present simple we use **do / does** at the start of a question. The main verb is in its base form.\n> You work in a bank. → **Do you work** in a bank?\n> She plays tennis. → **Does she play** tennis?\n\n## Do or does?\n- **Do** — with **I / we / you / they** and plural nouns\n- **Does** — with **he / she / it** and singular nouns\n> **Do** your friends live near here?\n> **Does** Chris play tennis?\nAfter does there is no -s on the verb: ~~Does she plays?~~ → Does she **play**?\n\n## Word order\n**(question word) + do/does + subject + verb**\n> **Where do** your parents **live**?\n> **How often do** you **wash** your hair?\n> **What does** this word **mean**?\nWith frequency words: **Do you always have breakfast?**\n\n## What do you do?\n> **What do you do?** = What's your job?\n> — I work in a bank.\n\n## Short answers\n> Do you play tennis? — **Yes, I do.** / **No, I don't.**\n> Does George work hard? — **Yes, he does.** / **No, he doesn't.**\nWe use only **do / does**, not the main verb.\n\n## Common mistakes\n- ~~You work in a bank?~~ → **Do you work** in a bank?\n- ~~Does she plays?~~ → Does she **play**?\n- ~~Do he like music?~~ → **Does** he like music?",
+  "structure": "## Вопрос\n| Do / Does | Подлежащее | Глагол | |\n|---|---|---|---|\n| **Do** | I / we / you / they | work? like? have? | Do you like tea? |\n| **Does** | he / she / it | work? like? have? | Does he like tea? |\n\n## С вопросительным словом\n| Слово | do / does | Подлежащее | Глагол |\n|---|---|---|---|\n| Where | do | your parents | live? |\n| How often | do | you | wash your hair? |\n| What | does | this word | mean? |\n| What time | does | the film | start? |\n\n## Краткие ответы\n| Вопрос | Да | Нет |\n|---|---|---|\n| Do I / we / you / they ...? | Yes, I / we / you / they **do**. | No, I / we / you / they **don't**. |\n| Does he / she / it ...? | Yes, he / she / it **does**. | No, he / she / it **doesn't**. |\n\n## Формулы\n> **Do / Does + подлежащее + глагол?** → Does Ann live here?\n> **Слово + do / does + подлежащее + глагол?** → Where does Ann live?\n\n## Со словами частоты\n> **Do** you **always** have breakfast? · **Does** Chris **often** play tennis?\n\n## Важно\n- В вопросе с **be** do не нужен: **Are** you tired? (см. unit 2)\n- *do* в «What do you do?» — и вспомогательный, и основной глагол.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Do или does?",
+      "instruction": "Вставьте **do** или **does**.",
+      "items": [
+        {
+          "text": "{{Do}} you like chocolate?"
+        },
+        {
+          "text": "{{Does}} Tom play tennis?"
+        },
+        {
+          "text": "{{Do}} your friends live near here?"
+        },
+        {
+          "text": "Where {{does}} your sister work?"
+        },
+        {
+          "text": "How often {{do}} you watch TV?"
+        },
+        {
+          "text": "What {{does}} this word mean?"
+        },
+        {
+          "text": "{{Does}} it rain a lot in your city?"
+        },
+        {
+          "text": "What {{do}} they usually eat for breakfast?"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Краткие ответы",
+      "instruction": "Вставьте краткий ответ.",
+      "items": [
+        {
+          "text": "Do you play tennis? — No, I {{don't|do not}}."
+        },
+        {
+          "text": "Do your parents speak English? — Yes, they {{do}}."
+        },
+        {
+          "text": "Does George work hard? — Yes, he {{does}}."
+        },
+        {
+          "text": "Does your sister live in London? — No, she {{doesn't|does not}}."
+        },
+        {
+          "text": "Do you like pizza? — Yes, I {{do}}."
+        },
+        {
+          "text": "Does the shop open on Sundays? — No, it {{doesn't|does not}}."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вопрос",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "___ your brother live in Moscow?",
+          "options": [
+            "Do",
+            "Does",
+            "Is"
+          ],
+          "answer": 1,
+          "why": "your brother = he → **Does**."
+        },
+        {
+          "q": "Do you ___ coffee?",
+          "options": [
+            "likes",
+            "like",
+            "liking"
+          ],
+          "answer": 1,
+          "why": "После do — начальная форма: **like**."
+        },
+        {
+          "q": "Does she ___ English?",
+          "options": [
+            "speaks",
+            "speak",
+            "speaking"
+          ],
+          "answer": 1,
+          "why": "После does — **speak**, без -s."
+        },
+        {
+          "q": "Where ___ your parents live?",
+          "options": [
+            "does",
+            "do",
+            "are"
+          ],
+          "answer": 1,
+          "why": "your parents = they → **do**."
+        },
+        {
+          "q": "What time ___ the film start?",
+          "options": [
+            "do",
+            "does",
+            "is"
+          ],
+          "answer": 1,
+          "why": "the film = it → **does**."
+        },
+        {
+          "q": "How often ___ you go to the cinema?",
+          "options": [
+            "are",
+            "does",
+            "do"
+          ],
+          "answer": 2,
+          "why": "you → **do**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант грамматически верный.",
+      "items": [
+        {
+          "q": "Как спросить «Она работает?»",
+          "options": [
+            "Does she work?",
+            "Do she work?",
+            "Does she works?"
+          ],
+          "answer": 0,
+          "why": "she → Does + work."
+        },
+        {
+          "q": "Как спросить «Где ты живёшь?»",
+          "options": [
+            "Where you live?",
+            "Where do you live?",
+            "Where does you live?"
+          ],
+          "answer": 1,
+          "why": "you → **do**: Where do you live?"
+        },
+        {
+          "q": "Как ответить «Да» на «Does he smoke?»",
+          "options": [
+            "Yes, he is.",
+            "Yes, he does.",
+            "Yes, he do."
+          ],
+          "answer": 1,
+          "why": "Краткий ответ: **Yes, he does.**"
+        },
+        {
+          "q": "Как спросить «Что это слово значит?»",
+          "options": [
+            "What does this word mean?",
+            "What this word means?",
+            "What does this word means?"
+          ],
+          "answer": 0,
+          "why": "does + mean (без -s)."
+        },
+        {
+          "q": "Как спросить «Ты всегда рано встаёшь?»",
+          "options": [
+            "Always do you get up early?",
+            "Do you always get up early?",
+            "You always get up early?"
+          ],
+          "answer": 1,
+          "why": "Do + подлежащее + always + глагол."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте вопросы",
+      "instruction": "Составьте вопрос из слов. Используйте **do / does**.",
+      "items": [
+        {
+          "prompt": "(where / live / your parents?)",
+          "answers": [
+            "Where do your parents live?"
+          ]
+        },
+        {
+          "prompt": "(you / early / always / get up?)",
+          "answers": [
+            "Do you always get up early?"
+          ]
+        },
+        {
+          "prompt": "(how often / TV / you / watch?)",
+          "answers": [
+            "How often do you watch TV?"
+          ]
+        },
+        {
+          "prompt": "(you / want / what / for dinner?)",
+          "answers": [
+            "What do you want for dinner?"
+          ]
+        },
+        {
+          "prompt": "(your brother / like / football?)",
+          "answers": [
+            "Does your brother like football?"
+          ]
+        },
+        {
+          "prompt": "(what / you / do / in the evenings?)",
+          "answers": [
+            "What do you do in the evenings?"
+          ]
+        },
+        {
+          "prompt": "(your sister / work / where?)",
+          "answers": [
+            "Where does your sister work?"
+          ]
+        },
+        {
+          "prompt": "(to the cinema / often / you / go?)",
+          "answers": [
+            "Do you often go to the cinema?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Задайте вопрос другу",
+      "instruction": "Задайте вопрос с **Do ...?** или **Does ...?** по образцу.",
+      "example": "I like pizza. And you? → **Do you like pizza?**",
+      "items": [
+        {
+          "prompt": "I play football. And you?",
+          "answers": [
+            "Do you play football?"
+          ]
+        },
+        {
+          "prompt": "I drink tea in the morning. And you?",
+          "answers": [
+            "Do you drink tea in the morning?"
+          ]
+        },
+        {
+          "prompt": "Tom plays chess. And Ann?",
+          "answers": [
+            "Does Ann play chess?"
+          ]
+        },
+        {
+          "prompt": "I live near the park. And your friends?",
+          "answers": [
+            "Do your friends live near the park?"
+          ]
+        },
+        {
+          "prompt": "You work on Saturdays. And your father?",
+          "answers": [
+            "Does your father work on Saturdays?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите вопросы.",
+      "items": [
+        {
+          "prompt": "Ты говоришь по-английски?",
+          "answers": [
+            "Do you speak English?"
+          ]
+        },
+        {
+          "prompt": "Твоя сестра любит кофе?",
+          "answers": [
+            "Does your sister like coffee?"
+          ]
+        },
+        {
+          "prompt": "Где ты работаешь?",
+          "answers": [
+            "Where do you work?"
+          ]
+        },
+        {
+          "prompt": "Сколько это стоит?",
+          "answers": [
+            "How much does it cost?",
+            "How much does this cost?"
+          ]
+        },
+        {
+          "prompt": "Во сколько начинается фильм?",
+          "answers": [
+            "What time does the film start?",
+            "What time does the film begin?",
+            "What time does the movie start?",
+            "When does the film start?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте на вопросы полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Do you like English? (Yes, I ... / No, I ...)",
+          "sample": "Yes, I do. I like English."
+        },
+        {
+          "prompt": "Where do you live?",
+          "sample": "I live in Bishkek."
+        },
+        {
+          "prompt": "What do you do?",
+          "sample": "I'm a student. / I work in a shop."
+        },
+        {
+          "prompt": "What time do you usually get up?",
+          "sample": "I usually get up at seven."
+        },
+        {
+          "prompt": "Does your best friend live near you?",
+          "sample": "Yes, she does. She lives in the next street."
+        }
+      ]
+    }
+  ]
+}

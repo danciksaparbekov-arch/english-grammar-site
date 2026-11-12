@@ -1,0 +1,290 @@
+{
+  "id": 78,
+  "title": "somebody/anything/nowhere etc.",
+  "summary": "Слова somebody/something/somewhere, anybody/anything/anywhere и nobody/nothing/nowhere: когда какое выбрать, прилагательное и to после них.",
+  "ru": "## Слова с some-, any-, no-\nОни строятся из трёх начал (**some-, any-, no-**) и трёх концов (**-body/-one, -thing, -where**).\n| | люди | вещи | места |\n|---|---|---|---|\n| **some-** | somebody / someone | something | somewhere |\n| **any-** | anybody / anyone | anything | anywhere |\n| **no-** | nobody / no-one | nothing | nowhere |\n**-body** и **-one** — одно и то же: *somebody = someone*.\n\n## Когда какое слово\n- **some-** — в утверждениях (мы знаем, что кто-то/что-то есть, но не знаем кто/что/где).\n> Somebody has broken the window. — Кто-то разбил окно.\n> Tom lives **somewhere** near London. — Том живёт где-то около Лондона.\n- **any-** — в вопросах и после **not**.\n> Is there **anything** in the box? — В коробке что-нибудь есть?\n> I'm not going **anywhere**. — Я никуда не иду.\n- **no-** — с положительным глаголом (значит «ни...»):\n> There is **nowhere** to sit. — Сесть негде.\n> **Nobody** knows. — Никто не знает.\n\n## Прилагательное и to-инфинитив после этих слов\nПрилагательное ставим **после** слова:\n> Did you meet **anybody interesting**? — Ты познакомился с кем-нибудь интересным?\n> Let's go **somewhere different**. — Давай пойдём куда-нибудь в другое место.\n> It's **nothing important**. — Это ничего важного.\nМожно добавить **to + глагол**:\n> I want **something to eat**. — Хочу что-нибудь поесть.\n> She has **nobody to talk to**. — Ей не с кем поговорить.\n\n## Типичные ошибки\n- ~~I don't know nothing.~~ → I don't know **anything**.\n- ~~interesting something~~ → **something interesting**.",
+  "en": "## Words with some-, any-, no-\n| | people | things | places |\n|---|---|---|---|\n| **some-** | somebody / someone | something | somewhere |\n| **any-** | anybody / anyone | anything | anywhere |\n| **no-** | nobody / no-one | nothing | nowhere |\n**-body** and **-one** mean the same.\n\n## Which one?\n- **some-** — positive sentences (we don't know who, what or where).\n> Somebody has broken the window.\n> Tom lives **somewhere** near London.\n- **any-** — questions and after **not**.\n> Is there **anything** in the box?\n> I'm not going **anywhere**.\n- **no-** — with a positive verb.\n> There is **nowhere** to sit. · **Nobody** knows.\n\n## Adjectives and to + verb\nThe adjective comes **after** the word:\n> Did you meet **anybody interesting**? · Let's go **somewhere different**. · It's **nothing important**.\nWe can add **to + verb**:\n> I want **something to eat**. · She has **nobody to talk to**.\n\n## Common mistakes\n- ~~I don't know nothing.~~ → I don't know **anything**.\n- ~~interesting something~~ → **something interesting**.",
+  "structure": "## Таблица слов\n| | -body / -one | -thing | -where |\n|---|---|---|---|\n| some- | somebody | something | somewhere |\n| any- | anybody | anything | anywhere |\n| no- | nobody | nothing | nowhere |\n\n## Где что\n| Тип предложения | Слова |\n|---|---|\n| утверждение | someone, something, somewhere |\n| вопрос / отрицание | anyone, anything, anywhere |\n| положительный глагол с отрицательным смыслом | no-one, nothing, nowhere |\n\n## Формулы\n> **something / anybody / nowhere** + прилагательное: *something cheap, anywhere nice*\n> **something / anybody / nowhere** + **to** + глагол: *something to drink, nowhere to go*\n\n## Вопросы с some-\n> Would you like **something** to drink? (предложение)\n> Can I have **something** to eat? (просьба)",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вставьте слово",
+      "instruction": "Вставьте **somebody / someone**, **something**, **somewhere**, **anybody / anyone**, **anything**, **anywhere**, **nobody / no-one**, **nothing** или **nowhere**.",
+      "items": [
+        {
+          "text": "I'm hungry. Is there {{anything}} to eat?"
+        },
+        {
+          "text": "She's looking at {{something}} on the screen."
+        },
+        {
+          "text": "The door is open. {{Somebody|Someone}} is in the house."
+        },
+        {
+          "text": "— Where are you going? — {{Nowhere}}. I'm staying at home."
+        },
+        {
+          "text": "We didn't go {{anywhere}} yesterday."
+        },
+        {
+          "text": "I don't know {{anybody|anyone}} in this building."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Прилагательное и to",
+      "instruction": "Вставьте слово из скобок в нужной форме или слово **to**.",
+      "items": [
+        {
+          "text": "I'd like something {{cold}} to drink. (cold)"
+        },
+        {
+          "text": "Is there anything {{interesting}} on TV? (interesting)"
+        },
+        {
+          "text": "There's nowhere {{to}} sit. Let's stand."
+        },
+        {
+          "text": "I need somebody {{to}} help me."
+        },
+        {
+          "text": "Let's go somewhere {{quiet}}. (quiet)"
+        },
+        {
+          "text": "He has nobody {{to}} talk to."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "My keys are ___ in this room, but I can't find them.",
+          "options": [
+            "somewhere",
+            "anywhere",
+            "nowhere"
+          ],
+          "answer": 0,
+          "why": "Утверждение: они где-то здесь → **somewhere**."
+        },
+        {
+          "q": "— Where are you going? — I'm not going ___.",
+          "options": [
+            "somewhere",
+            "anywhere",
+            "nowhere"
+          ],
+          "answer": 1,
+          "why": "**not ... anywhere**."
+        },
+        {
+          "q": "There is ___ in the box. It's empty.",
+          "options": [
+            "something",
+            "anything",
+            "nothing"
+          ],
+          "answer": 2,
+          "why": "Пустая коробка → **nothing**."
+        },
+        {
+          "q": "Is there ___ in the office?",
+          "options": [
+            "everybody",
+            "anybody",
+            "nobody"
+          ],
+          "answer": 1,
+          "why": "Вопрос → **anybody**."
+        },
+        {
+          "q": "Let's go ___ different for a change.",
+          "options": [
+            "nowhere",
+            "anywhere",
+            "somewhere"
+          ],
+          "answer": 2,
+          "why": "Утверждение, предложение → **somewhere**."
+        },
+        {
+          "q": "She said ___ interesting.",
+          "options": [
+            "anything",
+            "something",
+            "anybody"
+          ],
+          "answer": 1,
+          "why": "Утверждение → **something interesting**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "I want to eat something.",
+            "I don't want to eat something.",
+            "I want eat nothing."
+          ],
+          "answer": 0,
+          "why": "Утверждение → **something**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Do you want to go somewhere?",
+            "Do you want to go nowhere?",
+            "Do you want go anywhere?"
+          ],
+          "answer": 0,
+          "why": "Вопрос-предложение → **somewhere** (или anywhere)."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "There is nothing interesting.",
+            "There is interesting nothing.",
+            "There isn't nothing interesting."
+          ],
+          "answer": 0,
+          "why": "Прилагательное после слова; одно отрицание."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "I have anybody to talk to.",
+            "I have nobody to talk to.",
+            "I have nobody talk to."
+          ],
+          "answer": 1,
+          "why": "**nobody to talk to**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **some- / any- / no-**.",
+      "items": [
+        {
+          "prompt": "(I / not / want / drink / anything)",
+          "answers": [
+            "I don't want anything to drink.",
+            "I don't want to drink anything."
+          ]
+        },
+        {
+          "prompt": "(there / be / nowhere / park)",
+          "answers": [
+            "There is nowhere to park.",
+            "There's nowhere to park."
+          ]
+        },
+        {
+          "prompt": "(they / live / somewhere / near / us)",
+          "answers": [
+            "They live somewhere near us."
+          ]
+        },
+        {
+          "prompt": "(you / meet / anybody / interesting? / at the party)",
+          "answers": [
+            "Did you meet anybody interesting at the party?",
+            "Have you met anybody interesting at the party?"
+          ]
+        },
+        {
+          "prompt": "(she / have / nobody / talk to)",
+          "answers": [
+            "She has nobody to talk to.",
+            "She's got nobody to talk to.",
+            "She has got nobody to talk to."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Мне нечего надеть.",
+          "answers": [
+            "I have nothing to wear.",
+            "I've got nothing to wear.",
+            "I haven't got anything to wear.",
+            "I don't have anything to wear."
+          ]
+        },
+        {
+          "prompt": "Кто-то стоит у двери.",
+          "answers": [
+            "Somebody is standing at the door.",
+            "Someone is standing at the door.",
+            "Somebody's standing at the door.",
+            "Someone's standing at the door."
+          ]
+        },
+        {
+          "prompt": "Я никуда не иду сегодня.",
+          "answers": [
+            "I'm not going anywhere today.",
+            "I am not going anywhere today."
+          ]
+        },
+        {
+          "prompt": "Ты хочешь что-нибудь поесть?",
+          "answers": [
+            "Do you want something to eat?",
+            "Do you want anything to eat?",
+            "Would you like something to eat?"
+          ]
+        },
+        {
+          "prompt": "Здесь нет ничего интересного.",
+          "answers": [
+            "There is nothing interesting here.",
+            "There's nothing interesting here.",
+            "There isn't anything interesting here."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Куда вы хотите поехать в отпуск?",
+          "sample": "I want to go somewhere warm."
+        },
+        {
+          "prompt": "Что вы любите пить утром?",
+          "sample": "I like something hot to drink in the morning."
+        },
+        {
+          "prompt": "Есть ли в вашем городе что-нибудь интересное?",
+          "sample": "There is nothing interesting near my house. / There are many interesting places in my city."
+        }
+      ]
+    }
+  ]
+}

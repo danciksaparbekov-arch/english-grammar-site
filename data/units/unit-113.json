@@ -1,0 +1,354 @@
+{
+  "id": 113,
+  "title": "a person who ... a thing that/which ... (relative clauses 1)",
+  "summary": "Определительные придаточные: **who** (для людей), **that / which** (для вещей) — они уточняют, о каком человеке или предмете идёт речь.",
+  "ru": "## Что такое relative clause\nЭто часть предложения, которая объясняет, **какой** человек или предмет имеется в виду. По-русски это «который», «который ...».\n> The man **who lives next door** is a doctor. — Мужчина, который живёт по соседству, врач.\n> I like the bag **that you bought**. — Мне нравится сумка, которую ты купила.\n\n## who — для людей\n**Who** заменяет человека и стоит сразу после существительного.\n> The woman **who works here** is my aunt. — Женщина, которая здесь работает, моя тётя.\n> A teacher is a person **who teaches** students. — Учитель — это человек, который учит учеников.\n> Do you know anyone **who speaks** French? — Ты знаешь кого-нибудь, кто говорит по-французски?\nМожно и **that** вместо who (в разговоре): *the man **that** lives next door*.\n\n## that / which — для вещей\n**That** или **which** — для предметов и животных.\n> A dictionary is a book **that / which** explains words. — Словарь — это книга, которая объясняет слова.\n> Where is the cake **that / which** was on the table? — Где торт, который лежал на столе?\n\n## who / that / which вместо подлежащего\nСлово после существительного **заменяет подлежащее** придаточной части, поэтому второе подлежащее не нужно.\n> ~~The man who he lives next door~~ → The man **who lives** next door.\n> ~~The bag that it is on the table~~ → The bag **that is** on the table.\n\n## Глагол согласуется с существительным\n> The man **who lives** next door. (he → -s)\n> The people **who live** next door. (they → без -s)\n\n## Что не нужно путать\n- **who** — только люди; ~~the book who~~ неверно.\n- **what** — это не «который»: ~~the thing what~~ → the thing **that**.\n\n## Типичные ошибки\n- ~~She is the girl which lives here.~~ → She is the girl **who** lives here.\n- ~~The book what I read.~~ → The book **that / which** I read.\n- ~~The man who he called me.~~ → The man **who** called me.\n- ~~A car which it has no driver.~~ → A car **which has** no driver.",
+  "en": "## What is a relative clause?\nIt tells us **which** person or thing we mean.\n> The man **who lives next door** is a doctor.\n> I like the bag **that you bought**.\n\n## who — for people\n**Who** replaces the person and comes right after the noun.\n> The woman **who works here** is my aunt.\n> A teacher is a person **who teaches** students.\n> Do you know anyone **who speaks** French?\nIn speaking you can say **that** too: *the man **that** lives next door*.\n\n## that / which — for things\n> A dictionary is a book **that / which** explains words.\n> Where is the cake **that / which** was on the table?\n\n## who / that / which are the subject\nThe word replaces the subject, so we don't repeat it.\n> ~~The man who he lives next door~~ → The man **who lives** next door.\n> ~~The bag that it is on the table~~ → The bag **that is** on the table.\n\n## Verb agreement\n> The man **who lives** next door.\n> The people **who live** next door.\n\n## Don't confuse\n- **who** is only for people.\n- Don't say ~~the thing what~~: say **the thing that**.\n\n## Common mistakes\n- ~~She is the girl which lives here.~~ → She is the girl **who** lives here.\n- ~~The book what I read.~~ → The book **that / which** I read.\n- ~~The man who he called me.~~ → The man **who** called me.",
+  "structure": "## Схема\n| О ком / о чём | Слово | Пример |\n|---|---|---|\n| человек | **who** (или that) | The girl who sits next to me |\n| вещь, животное | **that / which** | The book that is on the table |\n\n## Формула\n> Существительное + **who / that / which** + глагол + (остальное)\n> I know a man **who speaks** five languages.\n> This is the house **that was** built in 1900.\n\n## Глагол в придаточной\n| Существительное | Глагол |\n|---|---|\n| a man who | **lives** (3 л. ед.ч.) |\n| people who | **live** |\n| a thing that | **is / makes** |\n| things that | **are / make** |\n\n## Запомните\n- Второго подлежащего (he, she, it, they) в придаточной **нет**.\n- Для людей — **who**; для вещей — **that / which**.\n- В вопросе: *Which is the book that **belongs** to you?*",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "who, that или which?",
+      "instruction": "Вставьте **who**, **that** или **which**.",
+      "items": [
+        {
+          "text": "The man {{who|that}} lives next door is a dentist."
+        },
+        {
+          "text": "I've got a friend {{who|that}} speaks four languages."
+        },
+        {
+          "text": "Where is the book {{that|which}} was on the table?"
+        },
+        {
+          "text": "A hairdresser is a person {{who|that}} cuts hair."
+        },
+        {
+          "text": "We saw a dog {{that|which}} could swim."
+        },
+        {
+          "text": "Do you know the girl {{who|that}} is talking to Ben?"
+        },
+        {
+          "text": "A key is a thing {{that|which}} opens a door."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Закончите определение",
+      "instruction": "Вставьте глагол в нужной форме (Present simple): **teach, sell, make, fly, work, take**.",
+      "items": [
+        {
+          "text": "A teacher is a person who {{teaches}} students."
+        },
+        {
+          "text": "A baker is a person who {{makes|bakes}} bread."
+        },
+        {
+          "text": "A pilot is a person who {{flies}} planes."
+        },
+        {
+          "text": "A shop assistant is someone who {{sells}} things."
+        },
+        {
+          "text": "Doctors are people who {{work}} in hospitals."
+        },
+        {
+          "text": "Cameras are things that {{take}} photos."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "A thief is a person ___ steals things.",
+          "options": [
+            "who",
+            "which",
+            "what"
+          ],
+          "answer": 0,
+          "why": "О человеке → **who**."
+        },
+        {
+          "q": "This is the bus ___ goes to the airport.",
+          "options": [
+            "who",
+            "that",
+            "what"
+          ],
+          "answer": 1,
+          "why": "О вещи → **that / which**."
+        },
+        {
+          "q": "The people ___ live upstairs are very noisy.",
+          "options": [
+            "who live",
+            "who lives",
+            "who they live"
+          ],
+          "answer": 0,
+          "why": "people → **live**, и второго подлежащего нет."
+        },
+        {
+          "q": "She works for a company ___ makes shoes.",
+          "options": [
+            "who",
+            "which",
+            "whose"
+          ],
+          "answer": 1,
+          "why": "Компания — вещь → **which / that**."
+        },
+        {
+          "q": "I know a man ___ can fix cars.",
+          "options": [
+            "who",
+            "which",
+            "what"
+          ],
+          "answer": 0,
+          "why": "О человеке → **who**."
+        },
+        {
+          "q": "Look at the cat ___ is sitting on the roof.",
+          "options": [
+            "which",
+            "who it",
+            "what"
+          ],
+          "answer": 0,
+          "why": "**which / that is sitting**."
+        },
+        {
+          "q": "The woman ___ lives next door has three dogs.",
+          "options": [
+            "who",
+            "which",
+            "she"
+          ],
+          "answer": 0,
+          "why": "**who** заменяет подлежащее."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Человек, который звонил, мой брат»?",
+          "options": [
+            "The man who he called is my brother.",
+            "The man who called is my brother.",
+            "The man which called is my brother."
+          ],
+          "answer": 1,
+          "why": "**who called** — без he; для человека — who."
+        },
+        {
+          "q": "Как сказать «Книга, которая лежит на столе, моя»?",
+          "options": [
+            "The book that is on the table is mine.",
+            "The book who is on the table is mine.",
+            "The book that it is on the table is mine."
+          ],
+          "answer": 0,
+          "why": "**that is** — без it."
+        },
+        {
+          "q": "Как сказать «Это девочка, которая живёт рядом»?",
+          "options": [
+            "She is the girl what lives next door.",
+            "She is the girl who lives next door.",
+            "She is the girl which lives next door."
+          ],
+          "answer": 1,
+          "why": "Для людей — **who**."
+        },
+        {
+          "q": "Как сказать «Я знаю людей, которые говорят по-китайски»?",
+          "options": [
+            "I know people who speak Chinese.",
+            "I know people who speaks Chinese.",
+            "I know people who they speak Chinese."
+          ],
+          "answer": 0,
+          "why": "people → **speak**."
+        },
+        {
+          "q": "Как сказать «Собака, которая лает, моя»?",
+          "options": [
+            "The dog he barks is mine.",
+            "The dog that barks is mine.",
+            "The dog what barks is mine."
+          ],
+          "answer": 1,
+          "why": "Для животных — **that / which** (**who** — только о людях); he не повторяем."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Соедините предложения",
+      "instruction": "Соедините два предложения с **who / that / which**.",
+      "example": "I know a woman. She speaks Chinese. → **I know a woman who speaks Chinese.**",
+      "items": [
+        {
+          "prompt": "I have a friend. He plays the guitar.",
+          "answers": [
+            "I have a friend who plays the guitar.",
+            "I have a friend that plays the guitar."
+          ]
+        },
+        {
+          "prompt": "She bought a coat. It was very expensive.",
+          "answers": [
+            "She bought a coat that was very expensive.",
+            "She bought a coat which was very expensive."
+          ]
+        },
+        {
+          "prompt": "This is the man. He sells fruit.",
+          "answers": [
+            "This is the man who sells fruit.",
+            "This is the man that sells fruit."
+          ]
+        },
+        {
+          "prompt": "I read a book. It was about animals.",
+          "answers": [
+            "I read a book that was about animals.",
+            "I read a book which was about animals."
+          ]
+        },
+        {
+          "prompt": "We met some people. They live in Canada.",
+          "answers": [
+            "We met some people who live in Canada.",
+            "We met some people that live in Canada."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Что это?",
+      "instruction": "Напишите определение: **A/An ... is a person who ... / a thing that ...**",
+      "items": [
+        {
+          "prompt": "a driver",
+          "sample": "A driver is a person who drives a car, a bus or a taxi."
+        },
+        {
+          "prompt": "a dictionary",
+          "sample": "A dictionary is a book that explains the meaning of words."
+        },
+        {
+          "prompt": "a vet",
+          "sample": "A vet is a person who looks after animals."
+        },
+        {
+          "prompt": "a fridge",
+          "sample": "A fridge is a thing that keeps food cold."
+        },
+        {
+          "prompt": "a waiter",
+          "sample": "A waiter is a person who brings food to the table in a restaurant."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        {
+          "prompt": "Женщина, которая живёт рядом, врач.",
+          "answers": [
+            "The woman who lives next door is a doctor.",
+            "The woman that lives next door is a doctor."
+          ]
+        },
+        {
+          "prompt": "Я люблю фильмы, которые заставляют меня смеяться.",
+          "answers": [
+            "I like films that make me laugh.",
+            "I like films which make me laugh.",
+            "I like movies that make me laugh.",
+            "I like movies which make me laugh.",
+            "I love films that make me laugh.",
+            "I love films which make me laugh.",
+            "I love movies that make me laugh.",
+            "I love movies which make me laugh."
+          ]
+        },
+        {
+          "prompt": "Где ключ, который лежал на столе?",
+          "answers": [
+            "Where is the key that was on the table?",
+            "Where is the key which was on the table?"
+          ]
+        },
+        {
+          "prompt": "Мой брат — человек, который никогда не опаздывает.",
+          "answers": [
+            "My brother is a person who is never late.",
+            "My brother is a person who never comes late.",
+            "My brother is someone who is never late.",
+            "My brother is a man who is never late.",
+            "My brother is a person that is never late.",
+            "My brother is someone that is never late."
+          ]
+        },
+        {
+          "prompt": "Это автобус, который идёт в центр.",
+          "answers": [
+            "This is the bus that goes to the centre.",
+            "This is the bus which goes to the centre.",
+            "This is the bus that goes to the center.",
+            "This is the bus which goes to the center.",
+            "This is the bus that goes downtown.",
+            "This is the bus which goes downtown."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Закончите предложения о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "I have a friend who ...",
+          "sample": "I have a friend who lives in Germany."
+        },
+        {
+          "prompt": "I like people who ...",
+          "sample": "I like people who are kind and funny."
+        },
+        {
+          "prompt": "I don't like food that ...",
+          "sample": "I don't like food that is too spicy."
+        },
+        {
+          "prompt": "I want a phone that ...",
+          "sample": "I want a phone that has a good camera."
+        }
+      ]
+    }
+  ]
+}

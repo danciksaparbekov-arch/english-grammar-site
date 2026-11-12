@@ -1,0 +1,322 @@
+{
+  "id": 12,
+  "title": "I didn't ... Did you ...? (past simple negative and questions)",
+  "summary": "Отрицание и вопросы в past simple строятся с **did**: **I didn't watch ... Did you watch ...?** — основной глагол в начальной форме.",
+  "ru": "## Один вспомогательный глагол на всё прошедшее\nВ past simple для отрицаний и вопросов нужен **did** (для **всех** лиц), а основной глагол **возвращается к начальной форме**.\n> I watched TV. → I **didn't watch** TV. — Я не смотрел телевизор.\n> They went home. → **Did** they **go** home? — Они ушли домой?\n\n## Отрицание: didn't + глагол\n**didn't** = did not. Для всех: I / you / he / she / it / we / they.\n> I **didn't watch** TV yesterday.\n> She **didn't have** time. — У неё не было времени.\n> We **didn't enjoy** the film. — Нам не понравился фильм.\nГлагол остаётся в начальной форме: прошедшее время уже показано в **didn't**.\n> ~~I didn't watched.~~ → I didn't **watch**.\n> ~~He didn't went.~~ → He didn't **go**.\n\n## Вопрос: Did + подлежащее + глагол\n> **Did** you **see** Joe yesterday? — Ты видел Джо вчера?\n> **Did** your sister **phone** you? — Твоя сестра тебе звонила?\n> What **did** you **do** yesterday evening? — Что ты делал вчера вечером?\n> Where **did** your parents **go** for their holiday? — Куда ездили твои родители в отпуск?\n> How **did** the accident **happen**? — Как произошёл несчастный случай?\n\n## Краткие ответы\n> Did you see Joe? — **Yes, I did.** / **No, I didn't.**\n> Did it rain on Sunday? — **Yes, it did.** / **No, it didn't.**\n> Did Helen come? — **Yes, she did.** / **No, she didn't.**\nПовторяем только **did**.\n\n## Сравните: present и past\n| Present | Past |\n|---|---|\n| I **don't** watch TV. | I **didn't** watch TV. |\n| **Does** she go away? | **Did** she go away? |\n\n## Типичные ошибки\n- ~~I didn't went there.~~ → I didn't **go** there.\n- ~~Did you went?~~ → Did you **go**?\n- ~~Did she saw him?~~ → Did she **see** him?\n- ~~You saw Joe yesterday?~~ → **Did** you **see** Joe yesterday?\n- ~~I wasn't have time.~~ → I **didn't have** time.",
+  "en": "## One helper for the whole past\nIn the past simple, we use **did** in negatives and questions (for **all** subjects). The main verb goes back to the **infinitive** (base form).\n> I watched TV. → I **didn't watch** TV.\n> They went home. → **Did** they **go** home?\n\n## Negative: didn't + verb\n**didn't** = did not. It is the same for I / you / he / she / it / we / they.\n> I **didn't watch** TV yesterday.\n> She **didn't have** time.\n> We **didn't enjoy** the film.\nThe verb stays in the base form:\n> ~~I didn't watched.~~ → I didn't **watch**.\n> ~~He didn't went.~~ → He didn't **go**.\n\n## Question: Did + subject + verb\n> **Did** you **see** Joe yesterday?\n> **Did** your sister **phone** you?\n> What **did** you **do** yesterday evening?\n> Where **did** your parents **go** for their holiday?\n\n## Short answers\n> Did you see Joe? — **Yes, I did.** / **No, I didn't.**\n> Did it rain on Sunday? — **Yes, it did.** / **No, it didn't.**\nWe use only **did**.\n\n## Compare\n| Present | Past |\n|---|---|\n| I **don't** watch TV. | I **didn't** watch TV. |\n| **Does** she go away? | **Did** she go away? |\n\n## Common mistakes\n- ~~I didn't went there.~~ → I didn't **go** there.\n- ~~Did you went?~~ → Did you **go**?\n- ~~Did she saw him?~~ → Did she **see** him?",
+  "structure": "## Утверждение, отрицание, вопрос\n| | Форма | Пример |\n|---|---|---|\n| Утверждение | Подлежащее + **глагол в past** | She **watched** TV. · He **went** home. |\n| Отрицание | Подлежащее + **didn't** + глагол | She **didn't watch** TV. · He **didn't go** home. |\n| Вопрос | **Did** + подлежащее + глагол? | **Did** she **watch** TV? · **Did** he **go** home? |\n| Вопрос со словом | Слово + **did** + подлежащее + глагол? | What **did** she **watch**? · Where **did** he **go**? |\n\n## Краткие ответы\n| Вопрос | Да | Нет |\n|---|---|---|\n| Did I / you / he / she / it / we / they ...? | Yes, I / you / he / she / it / we / they **did**. | No, I / you / he / she / it / we / they **didn't**. |\n\n## Формулы\n> Подлежащее + **didn't** + глагол (начальная форма)\n> **Did** + подлежащее + глагол (начальная форма)**?**\n\n## do / does → did\n| Present | Past |\n|---|---|\n| don't / doesn't | **didn't** |\n| Do / Does ...? | **Did** ...? |\n\n## Важно\n- После **did / didn't** глагол **без** -ed и без особой формы: *didn't **go***, *Did you **see***.\n- С **be** (was / were) did не нужен: *I **wasn't** there. **Were** you there?* (см. unit 10).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Отрицание",
+      "instruction": "Вставьте глагол в отрицательной форме (**didn't + глагол**).",
+      "items": [
+        {
+          "text": "I saw Barbara but I {{didn't see|did not see}} Jane.",
+          "hint": "see"
+        },
+        {
+          "text": "They worked on Monday but they {{didn't work|did not work}} on Tuesday.",
+          "hint": "work"
+        },
+        {
+          "text": "We went to the post office but we {{didn't go|did not go}} to the bank.",
+          "hint": "go"
+        },
+        {
+          "text": "She had a pen but she {{didn't have|did not have}} any paper.",
+          "hint": "have"
+        },
+        {
+          "text": "Jack did French at school but he {{didn't do|did not do}} German.",
+          "hint": "do"
+        },
+        {
+          "text": "The film was boring. We {{didn't enjoy|did not enjoy}} it.",
+          "hint": "enjoy"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вопросы с Did",
+      "instruction": "Вставьте глагол в скобках: **did** и основной глагол в нужной форме.",
+      "items": [
+        {
+          "text": "{{Did}} you {{watch}} TV last night?",
+          "hint": "watch"
+        },
+        {
+          "text": "What {{did}} you {{do}} yesterday evening?",
+          "hint": "do"
+        },
+        {
+          "text": "{{Did}} it {{rain}} on Sunday?",
+          "hint": "rain"
+        },
+        {
+          "text": "Where {{did}} your parents {{go}} for their holiday?",
+          "hint": "go"
+        },
+        {
+          "text": "{{Did}} Helen {{come}} to the party?",
+          "hint": "come"
+        },
+        {
+          "text": "How {{did}} the accident {{happen}}?",
+          "hint": "happen"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I ___ the film. It was boring.",
+          "options": [
+            "didn't enjoy",
+            "don't enjoyed",
+            "didn't enjoyed"
+          ],
+          "answer": 0,
+          "why": "didn't + начальная форма: **didn't enjoy**."
+        },
+        {
+          "q": "___ you phone Tom yesterday?",
+          "options": [
+            "Do",
+            "Did",
+            "Does"
+          ],
+          "answer": 1,
+          "why": "Прошлое → **Did**."
+        },
+        {
+          "q": "She didn't ___ breakfast this morning.",
+          "options": [
+            "had",
+            "have",
+            "has"
+          ],
+          "answer": 1,
+          "why": "После didn't — **have**."
+        },
+        {
+          "q": "Did he ___ the answer?",
+          "options": [
+            "knew",
+            "know",
+            "knows"
+          ],
+          "answer": 1,
+          "why": "После did — начальная форма: **know**."
+        },
+        {
+          "q": "What time ___ the film start?",
+          "options": [
+            "did",
+            "does",
+            "was"
+          ],
+          "answer": 0,
+          "why": "Вопрос о прошлом → **did**."
+        },
+        {
+          "q": "We ___ to the party because we were ill.",
+          "options": [
+            "didn't go",
+            "didn't went",
+            "weren't go"
+          ],
+          "answer": 0,
+          "why": "**didn't go**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Краткие ответы и ошибки",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "Did you see Joe? — No, ___.",
+          "options": [
+            "I didn't",
+            "I don't",
+            "I wasn't"
+          ],
+          "answer": 0,
+          "why": "**No, I didn't.**"
+        },
+        {
+          "q": "Did it rain? — Yes, ___.",
+          "options": [
+            "it was",
+            "it did",
+            "it does"
+          ],
+          "answer": 1,
+          "why": "**Yes, it did.**"
+        },
+        {
+          "q": "Как сказать «Ты видел его?»",
+          "options": [
+            "Did you saw him?",
+            "Did you see him?",
+            "Do you saw him?"
+          ],
+          "answer": 1,
+          "why": "Did + see (не saw)."
+        },
+        {
+          "q": "Как сказать «Она не пришла»?",
+          "options": [
+            "She didn't came.",
+            "She didn't come.",
+            "She not came."
+          ],
+          "answer": 1,
+          "why": "didn't + come."
+        },
+        {
+          "q": "Как спросить «Где ты был?» (с be)",
+          "options": [
+            "Where did you were?",
+            "Where were you?",
+            "Where you were?"
+          ],
+          "answer": 1,
+          "why": "С be did не используем: **Where were you?**"
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Задайте вопрос с Did",
+      "instruction": "Задайте вопрос о вчерашнем дне по образцу.",
+      "example": "I watched TV last night. And you? → **Did you watch TV last night?**",
+      "items": [
+        {
+          "prompt": "I enjoyed the party. And you?",
+          "answers": [
+            "Did you enjoy the party?"
+          ]
+        },
+        {
+          "prompt": "I had a good holiday. And you?",
+          "answers": [
+            "Did you have a good holiday?"
+          ]
+        },
+        {
+          "prompt": "I finished work early. And you?",
+          "answers": [
+            "Did you finish work early?"
+          ]
+        },
+        {
+          "prompt": "I slept well last night. And you?",
+          "answers": [
+            "Did you sleep well last night?"
+          ]
+        },
+        {
+          "prompt": "I went to the shop. And your brother?",
+          "answers": [
+            "Did your brother go to the shop?"
+          ]
+        },
+        {
+          "prompt": "I bought a new phone. And Tom?",
+          "answers": [
+            "Did Tom buy a new phone?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **didn't** или **Did**.",
+      "items": [
+        {
+          "prompt": "Я не смотрела телевизор вчера.",
+          "answers": [
+            "I didn't watch TV yesterday.",
+            "I did not watch TV yesterday.",
+            "Yesterday I didn't watch TV.",
+            "I didn't watch television yesterday.",
+            "I did not watch television yesterday."
+          ]
+        },
+        {
+          "prompt": "Он не позвонил мне.",
+          "answers": [
+            "He didn't phone me.",
+            "He didn't call me.",
+            "He did not phone me.",
+            "He did not call me.",
+            "He didn't ring me.",
+            "He did not ring me."
+          ]
+        },
+        {
+          "prompt": "Вы ходили вчера в магазин?",
+          "answers": [
+            "Did you go to the shop yesterday?",
+            "Did you go to the store yesterday?",
+            "Did you go shopping yesterday?"
+          ]
+        },
+        {
+          "prompt": "Что ты делал в воскресенье?",
+          "answers": [
+            "What did you do on Sunday?"
+          ]
+        },
+        {
+          "prompt": "Где они жили в 2015 году?",
+          "answers": [
+            "Where did they live in 2015?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Did you go out last night?",
+          "sample": "No, I didn't. I stayed at home."
+        },
+        {
+          "prompt": "What did you do last weekend?",
+          "sample": "I met my friends and we went to the park."
+        },
+        {
+          "prompt": "Did you sleep well last night?",
+          "sample": "Yes, I did. I slept very well."
+        },
+        {
+          "prompt": "Что вы НЕ сделали вчера, хотя хотели?",
+          "sample": "I didn't clean my room."
+        },
+        {
+          "prompt": "Where did you go on your last holiday?",
+          "sample": "I went to Issyk-Kul with my family."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": 55,
+  "title": "get",
+  "summary": "Многозначный глагол **get**: получить/купить/найти, стать (get tired), добраться (get to), а также get in/out/on/off/up.",
+  "ru": "## get + существительное: получить, купить, принести, найти\n**Get** очень частый глагол. Его значение зависит от контекста.\n> Did you **get** my message? — Yes, I got it yesterday. — Ты получил моё сообщение? (получить)\n> I like your jacket. Where did you **get** it? — Где ты её купила? (купить)\n> Wait here. I'll **get** the doctor. — Подожди тут. Я позову врача. (привести/принести)\n> It's hard to **get** a job now. — Сейчас трудно найти работу. (найти)\n> I **got** the bus to work. — Я поехал на работу на автобусе. (сесть на автобус)\n\n## get + прилагательное: становиться\n**Get + прилагательное** = «становиться, делаться».\n> If you don't eat, you **get hungry**. — Если не есть, проголодаешься.\n> Drink your tea. It's **getting cold**. — Пей чай, он остывает.\n> I hope she **gets better** soon. — Надеюсь, ей скоро станет лучше.\n> We **got wet** in the rain. — Мы промокли под дождём.\nУстойчивые: **get married** (пожениться), **get dressed** (одеться), **get lost** (заблудиться), **get tired** (устать).\n\n## get to + место: добраться\n> I usually **get to** work at 8.30. — Обычно я прихожу на работу в 8:30.\n> We **got to** Manchester at 12.45. — Мы добрались до Манчестера в 12:45.\n> How did you **get here**? — Как ты сюда добрался?\n> What time did you **get home**? — Во сколько ты пришёл домой? (**get home** — без to)\n\n## get in / out / on / off / up\n- **get in / get out of** — машина, такси: She **got in** the car. A man **got out of** the car.\n- **get on / get off** — автобус, поезд, самолёт: We **got on** the bus and **got off** at the station.\n- **get up** — вставать с постели: I **get up** at seven.\n\n## Типичные ошибки\n- ~~I got to home at six.~~ → I **got home** at six.\n- ~~She got in the bus.~~ → She **got on** the bus.\n- ~~We arrived to the hotel.~~ → We **got to** the hotel (или arrived **at**).",
+  "en": "## get + noun: receive, buy, bring, find\nThe meaning of **get** depends on the context.\n> Did you **get** my message? — Yes, I got it yesterday. (= receive)\n> I like your jacket. Where did you **get** it? (= buy)\n> Wait here. I'll **get** the doctor. (= fetch)\n> It's hard to **get** a job now. (= find)\n> I **got** the bus to work. (= take)\n\n## get + adjective: become\n> If you don't eat, you **get hungry**.\n> Drink your tea. It's **getting cold**.\n> I hope she **gets better** soon.\n> We **got wet** in the rain.\nAlso: **get married, get dressed, get lost, get tired**.\n\n## get to + place: arrive\n> I usually **get to** work at 8.30.\n> We **got to** Manchester at 12.45.\n> How did you **get here**?\n> What time did you **get home**? (**get home** — no to)\n\n## get in / out / on / off / up\n- **get in / get out of** a car or taxi: She **got in** the car. A man **got out of** the car.\n- **get on / get off** a bus, train or plane: We **got on** the bus and **got off** at the station.\n- **get up** — leave your bed: I **get up** at seven.\n\n## Common mistakes\n- ~~I got to home at six.~~ → I **got home** at six.\n- ~~She got in the bus.~~ → She **got on** the bus.",
+  "structure": "## Значения get\n| Значение | Конструкция | Пример |\n|---|---|---|\n| получить | get + сущ. | I got a letter. |\n| купить | get + сущ. | Where did you get it? |\n| найти | get + a job | He got a job. |\n| принести, позвать | get + сущ. | I'll get a glass of water. |\n| стать | get + прилагательное | It gets dark early. |\n| добраться | get to + место | We got to the hotel. |\n| добраться | get here / there / home | I got home late. |\n\n## Предлоги\n| В чём | Прибыть | Выйти |\n|---|---|---|\n| car / taxi | get in / get into | get out of |\n| bus / train / plane | get on | get off |\n\n## Формы get\n| get | got | got |\n|---|---|---|\n| Present | Past | Past participle |\n\n## Памятка\n> **get** + прилагательное = становиться · **get to** = добраться · **get home / here / there** — без to.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "get + прилагательное",
+      "instruction": "Вставьте нужное слово: **hungry, cold, dark, tired, better, wet, lost, dressed**.",
+      "items": [
+        {
+          "text": "It's winter. It gets {{dark}} early."
+        },
+        {
+          "text": "Close the window. It's getting {{cold}}."
+        },
+        {
+          "text": "I'm walking all day. I'm getting {{tired}}."
+        },
+        {
+          "text": "We forgot our umbrellas and got {{wet}}."
+        },
+        {
+          "text": "I hope your cold gets {{better}} soon."
+        },
+        {
+          "text": "We got {{lost}} in the forest because we had no map."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "get in, out, on, off, to",
+      "instruction": "Вставьте **in, out, on, off** или **to**.",
+      "items": [
+        {
+          "text": "She got {{in}} the taxi and went home."
+        },
+        {
+          "text": "We got {{on}} the train at Bishkek station."
+        },
+        {
+          "text": "We got {{off}} the bus in front of the museum."
+        },
+        {
+          "text": "A man got {{out}} of the car."
+        },
+        {
+          "text": "What time did you get {{to}} the hotel?"
+        },
+        {
+          "text": "I got {{on}} the plane and sat by the window."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Какое значение get?",
+      "instruction": "Выберите правильное объяснение.",
+      "items": [
+        {
+          "q": "I got a postcard from my friend.",
+          "options": [
+            "получил",
+            "купил",
+            "стал"
+          ],
+          "answer": 0,
+          "why": "get a postcard from ... = получить."
+        },
+        {
+          "q": "It's getting late. Let's go home.",
+          "options": [
+            "поздно становится",
+            "я получаю поздно",
+            "я позднее купил"
+          ],
+          "answer": 0,
+          "why": "get + прилагательное = становиться."
+        },
+        {
+          "q": "Where did you get that bag?",
+          "options": [
+            "Где ты её купила?",
+            "Где ты её сделала?",
+            "Куда ты её дела?"
+          ],
+          "answer": 0,
+          "why": "get = купить/достать."
+        },
+        {
+          "q": "We got to the cinema at six.",
+          "options": [
+            "мы купили кино",
+            "мы добрались до кино",
+            "мы стали кино"
+          ],
+          "answer": 1,
+          "why": "get to + место = добраться."
+        },
+        {
+          "q": "I'll get a coffee. Do you want one?",
+          "options": [
+            "куплю/принесу кофе",
+            "стану кофе",
+            "получу письмо"
+          ],
+          "answer": 0,
+          "why": "get = принести, купить."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "What time did you get ___ yesterday?",
+          "options": [
+            "to home",
+            "home",
+            "at home"
+          ],
+          "answer": 1,
+          "why": "get home — без to."
+        },
+        {
+          "q": "We got ___ the bus at the station.",
+          "options": [
+            "in",
+            "on",
+            "to"
+          ],
+          "answer": 1,
+          "why": "bus — get on / get off."
+        },
+        {
+          "q": "He got ___ the car and started the engine.",
+          "options": [
+            "in",
+            "off",
+            "on"
+          ],
+          "answer": 0,
+          "why": "car — get in / get out of."
+        },
+        {
+          "q": "They got ___ last year. (поженились)",
+          "options": [
+            "married",
+            "marry",
+            "marrying"
+          ],
+          "answer": 0,
+          "why": "get married."
+        },
+        {
+          "q": "I usually ___ up at seven o'clock.",
+          "options": [
+            "get",
+            "gets",
+            "am getting"
+          ],
+          "answer": 0,
+          "why": "I — основная форма get."
+        },
+        {
+          "q": "It's difficult ___ a good job.",
+          "options": [
+            "get",
+            "to get",
+            "getting"
+          ],
+          "answer": 1,
+          "why": "difficult + to + глагол: to get a job."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Переведите на английский",
+      "instruction": "Используйте глагол **get** в нужной форме.",
+      "items": [
+        {
+          "prompt": "Мы приехали в Лондон в семь часов.",
+          "answers": [
+            "We got to London at seven.",
+            "We got to London at 7.",
+            "We arrived in London at seven.",
+            "We arrived in London at 7."
+          ]
+        },
+        {
+          "prompt": "Она купила новую куртку.",
+          "answers": [
+            "She got a new jacket.",
+            "She bought a new jacket."
+          ]
+        },
+        {
+          "prompt": "Суп остыл.",
+          "answers": [
+            "The soup got cold.",
+            "The soup is getting cold.",
+            "The soup has got cold."
+          ]
+        },
+        {
+          "prompt": "Во сколько ты пришёл домой вчера?",
+          "answers": [
+            "What time did you get home yesterday?"
+          ]
+        },
+        {
+          "prompt": "Я вышла из автобуса на этой остановке.",
+          "answers": [
+            "I got off the bus at this stop.",
+            "I got off the bus at that stop."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What time do you get up?",
+          "sample": "I get up at seven o'clock."
+        },
+        {
+          "prompt": "How do you get to work or school?",
+          "sample": "I get a bus to school."
+        },
+        {
+          "prompt": "What time do you get home?",
+          "sample": "I get home at about six."
+        },
+        {
+          "prompt": "When do you get tired?",
+          "sample": "I get tired in the evening."
+        },
+        {
+          "prompt": "Where did you get your phone?",
+          "sample": "I got it in a shop in the centre."
+        }
+      ]
+    }
+  ]
+}

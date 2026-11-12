@@ -1,0 +1,332 @@
+{
+  "id": 63,
+  "title": "-'s (Ann's camera / my brother's car) etc.",
+  "summary": "Притяжательный падеж: **Ann's camera**, **my brother's car**; разница **friend's / friends'** и конструкция **of** для вещей.",
+  "ru": "## Чьё это? — апостроф + s\nДля людей добавляем **'s** к существительному — получаем «чей-то».\n> **Ann's** camera = her camera — камера Энн\n> my **brother's** car = his car — машина моего брата\n> the **manager's** office = his / her office — кабинет менеджера\nВ русском это родительный падеж («камера Энн»), в английском — **'s** в начале, а владелец стоит **перед** вещью.\n\n## Порядок слов\nВладелец → **'s** → вещь. Порядок обратный русскому.\n> my **sister's** house — дом моей сестры\n> Have you met **Mr Kelly's** wife? — Ты знакома с женой мистера Келли?\nНельзя: ~~the house of my sister~~ (о людях говорим с 's).\n\n## Имена на -s\nЕсли имя на -s, добавляем **'s** обычно тоже: *James's party*. Также можно писать *James' party*, но 's — норма.\n\n## Без существительного\nПосле **'s** вещь можно не называть, если понятно, о чём речь.\n> Mary's hair is longer than **Ann's**. (= Ann's hair)\n> 'Whose umbrella is this?' 'It's my **mother's**.'\n> I was at **Paul's** last night. (= at Paul's house)\n\n## friend's и friends'\n- **'s** — один человек: *my **friend's** house* (дом одного друга)\n- **s'** — несколько: *my **friends'** house* (дом нескольких друзей)\n- *my **mother's** car* (одна мама), *my **parents'** car* (родители)\nЕсли слово во множественном числе не заканчивается на -s (children, men, women), пишем **'s**: *the **children's** room*.\n\n## Для вещей — of\nО вещах и местах обычно **не** используем 's, а **of**.\n> Look at the roof **of** that building. (не ~~that building's roof~~)\n> What's the name **of** this village?\n> Madrid is the capital **of** Spain.\n> Do you know the cause **of** the problem?\n\n## Типичные ошибки\n- ~~the camera of Ann~~ → **Ann's** camera\n- ~~my friends house~~ → my **friend's** / **friends'** house (нужен апостроф!)\n- ~~the door's car~~ → the door **of the car**\n- ~~Anns camera~~ → **Ann's** camera",
+  "en": "## Whose is it? Add 's\nFor people we add **'s** to a noun to show possession.\n> **Ann's** camera = her camera\n> my **brother's** car = his car\n> the **manager's** office\n\n## Word order\nThe owner comes first, then **'s**, then the thing.\n> my **sister's** house\n> Have you met **Mr Kelly's** wife?\nWe don't say ~~the house of my sister~~ for people.\n\n## Names ending in -s\nWe write **James's** party (or James' party, but 's is normal).\n\n## Without a noun\nYou can leave the thing out if it is clear.\n> Mary's hair is longer than **Ann's**.\n> 'Whose umbrella is this?' 'It's my **mother's**.'\n> I was at **Paul's** last night. (= Paul's house)\n\n## friend's or friends'?\n- **'s** = one person: *my **friend's** house*\n- **s'** = more than one: *my **friends'** house*\n- *my **mother's** car*, *my **parents'** car*\nFor plurals without -s we write **'s**: *the **children's** room*.\n\n## Things: use of\nFor things and places we use **of**.\n> Look at the roof **of** that building.\n> What's the name **of** this village?\n> Madrid is the capital **of** Spain.\n\n## Common mistakes\n- ~~the camera of Ann~~ → **Ann's** camera\n- ~~my friends house~~ → my **friend's** house\n- ~~the door's car~~ → the door **of the car**",
+  "structure": "## Формулы\n> Один владелец: существительное + **'s** + вещь — my **sister's** phone\n> Несколько владельцев (на -s): существительное + **s'** + вещь — my **parents'** house\n> Множественное без -s: существительное + **'s** — the **children's** toys\n> Вещи, места: вещь + **of** + ... — the **top of** the page\n\n## Сравнение\n| Один | Несколько |\n|---|---|\n| my friend's car | my friends' car |\n| the student's book | the students' books |\n| my mother's room | my parents' room |\n| the child's toy | the children's toys |\n\n## Без существительного\n> Whose bag is this? — It's **Tom's**.\n> I'm at **my aunt's**. — Я у моей тёти.\n\n## Когда of, а не 's\n- о вещах и местах: **the end of the film**, **the door of the room**\n- о странах и городах: **the capital of France**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "'s или s'?",
+      "instruction": "Впишите слово с апострофом.",
+      "items": [
+        {
+          "text": "This is my sister's phone. (одна сестра) → This is my {{sister's}} phone."
+        },
+        {
+          "text": "These are my parents' keys. (родители) → These are my {{parents'}} keys."
+        },
+        {
+          "text": "That is my teacher's office. (один учитель) → That is my {{teacher's}} office."
+        },
+        {
+          "text": "The students' books are on the table. (несколько) → The {{students'}} books are on the table."
+        },
+        {
+          "text": "This is the children's room. → This is the {{children's}} room."
+        },
+        {
+          "text": "It's my friend's house. (один друг) → It's my {{friend's}} house."
+        },
+        {
+          "text": "This is my friends' flat. (двое друзей) → This is my {{friends'}} flat."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Напишите по-другому",
+      "instruction": "Вставьте слово с **'s**.",
+      "example": "the hat of Mary → **Mary's** hat",
+      "items": [
+        {
+          "text": "It's the camera of Ann. → It's {{Ann's}} camera."
+        },
+        {
+          "text": "It's the car of my brother. → It's my {{brother's}} car."
+        },
+        {
+          "text": "It's the bag of Tom. → It's {{Tom's}} bag."
+        },
+        {
+          "text": "It's the office of the manager. → It's the {{manager's}} office."
+        },
+        {
+          "text": "It's the house of my grandmother. → It's my {{grandmother's}} house."
+        },
+        {
+          "text": "It's the wife of Mr Kelly. → It's {{Mr Kelly's}} wife."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "'s или of?",
+      "instruction": "Вставьте **'s** или **of the ...**.",
+      "items": [
+        {
+          "text": "What's the name {{of}} this street?"
+        },
+        {
+          "text": "I'm going to my {{sister's}} birthday party."
+        },
+        {
+          "text": "Look at the top {{of}} that mountain!"
+        },
+        {
+          "text": "This is {{Peter's}} phone."
+        },
+        {
+          "text": "The end {{of}} the film was sad."
+        },
+        {
+          "text": "Do you know the capital {{of}} Italy?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите вариант",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "Is this ___ car?",
+          "options": [
+            "Tom",
+            "Tom's",
+            "of Tom"
+          ],
+          "answer": 1,
+          "why": "Человек → **Tom's**."
+        },
+        {
+          "q": "This is ___ room.",
+          "options": [
+            "the children's",
+            "the childrens'",
+            "the childrens"
+          ],
+          "answer": 0,
+          "why": "Множественное без -s → **children's**."
+        },
+        {
+          "q": "Look at the roof ___ the building.",
+          "options": [
+            "of",
+            "'s",
+            "for"
+          ],
+          "answer": 0,
+          "why": "Для вещей — **of**: the roof of the building."
+        },
+        {
+          "q": "My ___ house is big. (мои родители)",
+          "options": [
+            "parent's",
+            "parents'",
+            "parents"
+          ],
+          "answer": 1,
+          "why": "Несколько владельцев → **parents'**."
+        },
+        {
+          "q": "A: Whose coat is this? B: It's my ___.",
+          "options": [
+            "mother's",
+            "mothers'",
+            "mother"
+          ],
+          "answer": 0,
+          "why": "Одна мама → **mother's**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите верное предложение",
+      "instruction": "Верно только одно.",
+      "items": [
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "The house of my sister is nice.",
+            "My sister's house is nice.",
+            "My sisters house is nice."
+          ],
+          "answer": 1,
+          "why": "Человек → **my sister's house**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "What's the name of this village?",
+            "What's this village's name?",
+            "What's the this village name?"
+          ],
+          "answer": 0,
+          "why": "Для вещей и мест — **of**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I met Mary's mother's.",
+            "I met Mary mother.",
+            "I met Mary's mother."
+          ],
+          "answer": 2,
+          "why": "Mary's mother — владелец + 's + вещь."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "It's ours friends' car.",
+            "It's our friends' car.",
+            "It's our friends car."
+          ],
+          "answer": 1,
+          "why": "our friends' car — несколько друзей."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I was at Paul's.",
+            "I was at Pauls.",
+            "I was at Paul."
+          ],
+          "answer": 0,
+          "why": "at Paul's (= в доме Пола)."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **'s** или **s'**.",
+      "items": [
+        {
+          "prompt": "(this / the bag / of my mother)",
+          "answers": [
+            "This is my mother's bag.",
+            "This bag is my mother's.",
+            "This is the bag of my mother."
+          ]
+        },
+        {
+          "prompt": "(that / the car / of Tom and Sue / is)",
+          "answers": [
+            "That is Tom and Sue's car.",
+            "That is Tom's and Sue's car.",
+            "That car is Tom and Sue's."
+          ]
+        },
+        {
+          "prompt": "(my parents / house / is big)",
+          "answers": [
+            "My parents' house is big."
+          ]
+        },
+        {
+          "prompt": "(the children / toys / are on the floor)",
+          "answers": [
+            "The children's toys are on the floor."
+          ]
+        },
+        {
+          "prompt": "(I / stay / at my aunt) → use 's",
+          "answers": [
+            "I'm staying at my aunt's.",
+            "I am staying at my aunt's.",
+            "I stay at my aunt's.",
+            "I stayed at my aunt's."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Это машина моего брата.",
+          "answers": [
+            "This is my brother's car.",
+            "It's my brother's car.",
+            "That is my brother's car.",
+            "That's my brother's car."
+          ]
+        },
+        {
+          "prompt": "Как зовут жену Тома?",
+          "answers": [
+            "What's Tom's wife's name?",
+            "What is Tom's wife's name?",
+            "What's the name of Tom's wife?",
+            "What is the name of Tom's wife?"
+          ]
+        },
+        {
+          "prompt": "Он в офисе директора.",
+          "answers": [
+            "He's in the manager's office.",
+            "He is in the manager's office.",
+            "He's in the director's office.",
+            "He is in the director's office."
+          ]
+        },
+        {
+          "prompt": "Начало фильма было скучным.",
+          "answers": [
+            "The beginning of the film was boring.",
+            "The start of the film was boring."
+          ]
+        },
+        {
+          "prompt": "Это игрушки моих детей.",
+          "answers": [
+            "These are my children's toys.",
+            "Those are my children's toys.",
+            "These are my kids' toys.",
+            "Those are my kids' toys."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя **'s** или **s'**.",
+      "items": [
+        {
+          "prompt": "What's your mother's name?",
+          "sample": "My mother's name is Aigul."
+        },
+        {
+          "prompt": "Where is your best friend's house?",
+          "sample": "My best friend's house is near the park."
+        },
+        {
+          "prompt": "What's your parents' job?",
+          "sample": "My parents' jobs are interesting. My father is a doctor."
+        },
+        {
+          "prompt": "Whose birthday is next?",
+          "sample": "My sister's birthday is next month."
+        },
+        {
+          "prompt": "Describe a friend's room.",
+          "sample": "My friend's room is small but nice. Its windows are big."
+        }
+      ]
+    }
+  ]
+}

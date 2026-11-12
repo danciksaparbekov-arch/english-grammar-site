@@ -1,0 +1,322 @@
+{
+  "id": 108,
+  "title": "put on your shoes / put your shoes on (phrasal verbs 2)",
+  "summary": "Фразовые глаголы с дополнением: **put on, take off, turn on, pick up** — можно сказать **put on your coat** и **put your coat on**, но с местоимением только **put it on**.",
+  "ru": "## Фразовые глаголы с дополнением\nМногие фразовые глаголы имеют дополнение (что? кого?): **put on** (надеть) что? — *shoes*; **turn off** (выключить) что? — *the light*.\n> She **put on** her coat. — Она надела пальто.\n> Please **turn off** the TV. — Выключи, пожалуйста, телевизор.\n\n## Два порядка слов\nС существительным можно двумя способами:\n> **Put on** your shoes. = **Put** your shoes **on**.\n> **Turn off** the light. = **Turn** the light **off**.\n> **Pick up** the phone. = **Pick** the phone **up**.\n\n## Если дополнение — местоимение\nС **it, them, me, you, him, her, us** частица ставится **после** местоимения.\n> **Put it on.** (не ~~put on it~~) — Надень это.\n> **Turn them off.** — Выключи их.\n> **Pick it up.** — Подними это.\n\n## Частые фразовые глаголы с дополнением\n- **put on / take off** — надеть / снять (одежду): *Take off your hat.*\n- **turn on / turn off** — включить / выключить: *Turn on the lamp.*\n- **switch on / off** — включить / выключить (свет, прибор)\n- **pick up** — поднять, забрать: *Pick up your toys.*\n- **put down** — положить: *Put the bag down.*\n- **give back** — вернуть: *Give me back my pen.*\n- **throw away** — выбросить: *Throw it away.*\n- **fill in** — заполнить (форму): *Fill in this form.*\n- **look up** — найти (в словаре): *Look the word up.*\n- **try on** — примерить: *Try these shoes on.*\n- **turn up / down** — сделать громче / тише\n\n## Типичные ошибки\n- ~~Put on it.~~ → **Put it on.**\n- ~~Turn off it.~~ → **Turn it off.**\n- ~~Pick up them.~~ → **Pick them up.**\n- ~~Take off the shoes them.~~ → Take them off.\nС существительным обе схемы верны: *put on the coat / put the coat on*.",
+  "en": "## Phrasal verbs with an object\nSome phrasal verbs need an object: **put on** (shoes), **turn off** (the light).\n> She **put on** her coat.\n> Please **turn off** the TV.\n\n## Two word orders\nWith a noun, both orders are possible:\n> **Put on** your shoes. = **Put** your shoes **on**.\n> **Turn off** the light. = **Turn** the light **off**.\n> **Pick up** the phone. = **Pick** the phone **up**.\n\n## With a pronoun\nWith **it, them, me, you, him, her, us** the small word goes **after** the pronoun.\n> **Put it on.** (not ~~put on it~~)\n> **Turn them off.**\n> **Pick it up.**\n\n## Common phrasal verbs with an object\n- **put on / take off**: *Take off your hat.*\n- **turn on / turn off**: *Turn on the lamp.*\n- **pick up**: *Pick up your toys.*\n- **put down**: *Put the bag down.*\n- **give back**: *Give me back my pen.*\n- **throw away**: *Throw it away.*\n- **fill in**: *Fill in this form.*\n- **look up**: *Look the word up.*\n- **try on**: *Try these shoes on.*\n- **turn up / down**\n\n## Common mistakes\n- ~~Put on it.~~ → **Put it on.**\n- ~~Turn off it.~~ → **Turn it off.**\n- ~~Pick up them.~~ → **Pick them up.**",
+  "structure": "## Схема\n| Дополнение | Порядок | Пример |\n|---|---|---|\n| существительное | глагол + частица + сущ. | Put on your coat. |\n| существительное | глагол + сущ. + частица | Put your coat on. |\n| местоимение | глагол + местоимение + частица | Put it on. |\n\n## Формулы\n> **put on** + одежда: *put on a jacket*\n> **take off** + одежда: *take off your shoes*\n> **turn on / off** + прибор: *turn off the TV*\n> **turn** + прибор + **on / off**: *turn the TV off*\n\n## Вопрос и отрицание\n> Can you **turn the light on**? · I **didn't turn it off**.\n> **Don't throw it away**!\n> Did you **fill the form in**? — Yes, I **filled it in**.\n\n## Запомните\n- Местоимение **никогда** не ставится после частицы: ~~put on it~~.\n- Длинное дополнение лучше ставить после частицы: *Put on the red jacket that I bought.*",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Местоимение вместо существительного",
+      "instruction": "Замените выделенное слово на местоимение: **it** или **them**.",
+      "example": "Put on your shoes. → Put **them** on.",
+      "items": [
+        {
+          "text": "Turn off the light. → Turn {{it}} off."
+        },
+        {
+          "text": "Pick up your toys. → Pick {{them}} up."
+        },
+        {
+          "text": "Take off your coat. → Take {{it}} off."
+        },
+        {
+          "text": "Put on your shoes. → Put {{them}} on."
+        },
+        {
+          "text": "Throw away the old magazines. → Throw {{them}} away."
+        },
+        {
+          "text": "Fill in the form. → Fill {{it}} in."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вставьте фразовый глагол",
+      "instruction": "Вставьте частицу: **on, off, up, down, away, back, in**.",
+      "items": [
+        {
+          "text": "It's cold outside. Put your jacket {{on}}."
+        },
+        {
+          "text": "Please take your shoes {{off}} before you come in."
+        },
+        {
+          "text": "I can't hear the TV. Turn it {{up}}."
+        },
+        {
+          "text": "Please fill {{in|out}} this form."
+        },
+        {
+          "text": "This is too expensive. Please put it {{back|down}}."
+        },
+        {
+          "text": "That box is empty. You can throw it {{away}}."
+        },
+        {
+          "text": "Can you turn the music {{down}}? I'm trying to sleep."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите правильный порядок слов.",
+      "items": [
+        {
+          "q": "It's dark. ___.",
+          "options": [
+            "Turn on it",
+            "Turn it on",
+            "Turn on them"
+          ],
+          "answer": 1,
+          "why": "Местоимение **it** стоит перед частицей."
+        },
+        {
+          "q": "Your shoes are dirty. ___ outside.",
+          "options": [
+            "Take off them",
+            "Take them off",
+            "Take off it"
+          ],
+          "answer": 1,
+          "why": "**Take them off**."
+        },
+        {
+          "q": "She ___ her hat.",
+          "options": [
+            "put on",
+            "put in",
+            "put up"
+          ],
+          "answer": 0,
+          "why": "Надеть — **put on**."
+        },
+        {
+          "q": "Can I try ___ ? (платье)",
+          "options": [
+            "on it",
+            "it on",
+            "on"
+          ],
+          "answer": 1,
+          "why": "**try it on**."
+        },
+        {
+          "q": "I can't find the word. I'll ___ in a dictionary.",
+          "options": [
+            "look it up",
+            "look up it",
+            "look at up it"
+          ],
+          "answer": 0,
+          "why": "**look it up**."
+        },
+        {
+          "q": "Your phone is ringing! ___ !",
+          "options": [
+            "Pick up it",
+            "Pick it up",
+            "Pick on it"
+          ],
+          "answer": 1,
+          "why": "**Pick it up**."
+        },
+        {
+          "q": "The film is boring. Let's ___ the TV.",
+          "options": [
+            "turn off",
+            "turn in",
+            "turn away off"
+          ],
+          "answer": 0,
+          "why": "Выключить — **turn off**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Надень его»?",
+          "options": [
+            "Put on it.",
+            "Put it on.",
+            "Put on him."
+          ],
+          "answer": 1,
+          "why": "**Put it on**."
+        },
+        {
+          "q": "Как сказать «Выключи свет»?",
+          "options": [
+            "Turn the light off.",
+            "Turn off to the light.",
+            "Turn the off light."
+          ],
+          "answer": 0,
+          "why": "**Turn the light off** или **Turn off the light**."
+        },
+        {
+          "q": "Как сказать «Выбрось их»?",
+          "options": [
+            "Throw away them.",
+            "Throw them away.",
+            "Throw them off."
+          ],
+          "answer": 1,
+          "why": "**Throw them away**."
+        },
+        {
+          "q": "Как сказать «Подними это»?",
+          "options": [
+            "Pick up it.",
+            "Pick it up.",
+            "Pick it down."
+          ],
+          "answer": 1,
+          "why": "**Pick it up**."
+        },
+        {
+          "q": "Как сказать «Снимите обувь»?",
+          "options": [
+            "Take off your shoes.",
+            "Take down your shoes.",
+            "Take your off shoes."
+          ],
+          "answer": 0,
+          "why": "**Take off your shoes** или **take your shoes off**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Перепишите предложение",
+      "instruction": "Перепишите, поставив частицу в конец (после существительного или местоимения).",
+      "items": [
+        {
+          "prompt": "Put on your coat. →",
+          "answers": [
+            "Put your coat on."
+          ]
+        },
+        {
+          "prompt": "She turned off the radio. →",
+          "answers": [
+            "She turned the radio off."
+          ]
+        },
+        {
+          "prompt": "I picked up the keys. →",
+          "answers": [
+            "I picked the keys up."
+          ]
+        },
+        {
+          "prompt": "Take off your hat. →",
+          "answers": [
+            "Take your hat off."
+          ]
+        },
+        {
+          "prompt": "He threw away the letter. → (use: it)",
+          "answers": [
+            "He threw it away."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Следите за местоимениями.",
+      "items": [
+        {
+          "prompt": "Выключи телевизор.",
+          "answers": [
+            "Turn off the TV.",
+            "Turn the TV off.",
+            "Turn off the television.",
+            "Turn the television off.",
+            "Switch off the TV.",
+            "Switch the TV off."
+          ]
+        },
+        {
+          "prompt": "Надень куртку, на улице холодно.",
+          "answers": [
+            "Put on your jacket. It's cold outside.",
+            "Put your jacket on. It's cold outside.",
+            "Put on your jacket, it's cold outside.",
+            "Put your jacket on, it's cold outside.",
+            "Put on your jacket. It's cold outside"
+          ]
+        },
+        {
+          "prompt": "Я примерила платье, но оно маленькое.",
+          "answers": [
+            "I tried the dress on, but it's too small.",
+            "I tried on the dress, but it's too small.",
+            "I tried it on, but it's too small.",
+            "I tried the dress on but it's too small.",
+            "I tried on the dress but it's too small."
+          ]
+        },
+        {
+          "prompt": "Это мусор. Выбрось его.",
+          "answers": [
+            "It's rubbish. Throw it away.",
+            "It's trash. Throw it away.",
+            "It's garbage. Throw it away.",
+            "This is rubbish. Throw it away.",
+            "This is trash. Throw it away."
+          ]
+        },
+        {
+          "prompt": "Она сняла обувь и положила её у двери.",
+          "answers": [
+            "She took off her shoes and put them by the door.",
+            "She took her shoes off and put them by the door.",
+            "She took her shoes off and put them next to the door.",
+            "She took off her shoes and put them next to the door."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What do you put on in the morning?",
+          "sample": "I put on my jeans and a T-shirt."
+        },
+        {
+          "prompt": "What do you take off when you come home?",
+          "sample": "I take off my shoes and my coat."
+        },
+        {
+          "prompt": "Do you turn off your phone at night? Why / why not?",
+          "sample": "No, I don't turn it off. I use it as an alarm clock."
+        },
+        {
+          "prompt": "What do you do when you get a form to fill in?",
+          "sample": "I fill it in carefully and check it twice."
+        }
+      ]
+    }
+  ]
+}

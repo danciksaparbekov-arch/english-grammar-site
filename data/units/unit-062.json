@@ -1,0 +1,337 @@
+{
+  "id": 62,
+  "title": "myself/yourself/themselves etc.",
+  "summary": "Возвратные местоимения **myself, himself, themselves** (действие направлено на себя), выражения **by myself** и **each other**.",
+  "ru": "## Что это такое\nКогда человек делает действие **с самим собой**, после глагола ставим возвратное местоимение на **-self / -selves**. В русском это «-ся» или «себя».\n> He cut **himself** with a knife. — Он порезался ножом.\n> I looked at **myself** in the mirror. — Я посмотрела на себя в зеркало.\n> Be careful. Don't hurt **yourself**. — Осторожно, не поранься.\n\n## Таблица\n- I → **myself**\n- you (один) → **yourself**\n- he → **himself**\n- she → **herself**\n- it → **itself**\n- we → **ourselves**\n- you (несколько) → **yourselves**\n- they → **themselves**\n\n## me или myself?\n- **me, him, them** — это **другой** человек: *You never talk to **me**. — Ты никогда не говоришь со мной.*\n- **myself, himself, themselves** — **тот же** человек, что и подлежащее: *I talk to **myself**. — Я говорю сам с собой.*\n\n## Устойчивые выражения\n- **Help yourself!** — Угощайтесь! (берите сами)\n- **Enjoy yourself! / We enjoyed ourselves.** — Приятно провести время / Мы хорошо провели время.\n- **by myself / by yourself** = **один, без помощи**: *I went on holiday **by myself**. — Я поехала в отпуск одна.*\n\n## each other — друг друга\n**each other** используем, когда двое (или больше) делают одно и то же друг с другом.\n> Jill and Ann know **each other** well. — Джилл и Энн хорошо знают друг друга.\n> Steve and Sue looked at **each other**. — Стив и Сью посмотрели друг на друга.\n> Steve and Sue looked at **themselves**. — Стив и Сью посмотрели на самих себя (каждый на себя, например, в зеркало).\n\n## Когда НЕ нужно -self\nВ английском некоторые глаголы уже подразумевают «себя»: **wash, shave, dress, relax** — не добавляйте -self.\n> I **washed** and got dressed. (не ~~washed myself~~)\n> He **shaved** and left. (не ~~shaved himself~~)\n\n## Типичные ошибки\n- ~~She hurt her.~~ → She hurt **herself**.\n- ~~They enjoyed theirselves.~~ → They enjoyed **themselves**.\n- ~~Help you!~~ → Help **yourself**!\n- ~~They looked at themselves (друг на друга).~~ → They looked at **each other**.",
+  "en": "## Reflexive pronouns\nWhen the subject and the object are the **same person**, we use **-self / -selves**.\n> He cut **himself** with a knife.\n> I looked at **myself** in the mirror.\n> Don't hurt **yourself**.\n\n## The list\n- I → **myself**\n- you (one) → **yourself**\n- he → **himself**\n- she → **herself**\n- it → **itself**\n- we → **ourselves**\n- you (more than one) → **yourselves**\n- they → **themselves**\n\n## me or myself?\n- **me, him, them** = a different person: *You never talk to **me**.*\n- **myself, himself, themselves** = the same person: *I talk to **myself**.*\n\n## Useful phrases\n- **Help yourself!** — Take what you want.\n- **We enjoyed ourselves.** — We had a good time.\n- **by myself** = alone: *I went on holiday **by myself**.*\n\n## each other\nWe use **each other** when two people do the same thing to one another.\n> Jill and Ann know **each other** well.\n> Steve and Sue looked at **each other**. (he looked at her, she looked at him)\n> Steve and Sue looked at **themselves**. (each looked at himself or herself)\n\n## No -self needed\nWe don't use -self with **wash, shave, dress, relax**.\n> I **washed** and got dressed.\n\n## Common mistakes\n- ~~She hurt her.~~ → She hurt **herself**.\n- ~~They enjoyed theirselves.~~ → They enjoyed **themselves**.",
+  "structure": "## Таблица\n| Подлежащее | Возвратное |\n|---|---|\n| I | myself |\n| you (ед.) | yourself |\n| he | himself |\n| she | herself |\n| it | itself |\n| we | ourselves |\n| you (мн.) | yourselves |\n| they | themselves |\n\n## Формулы\n> Подлежащее + глагол + **-self / -selves**\n> She cut **herself**. · We enjoyed **ourselves**.\n\n> **by** + -self = «один, сам»\n> I live **by myself**. · He did it **by himself**.\n\n> A and B + глагол + **each other**\n> Tom and Ann love **each other**.\n\n## Правила\n- **himself**, **themselves** — не ~~hisself~~, ~~theirselves~~.\n- Единственное число: **-self**, множественное: **-selves**.\n- Глаголы **wash, dress, shave, relax, meet, feel** обычно без -self.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "myself, yourself ...",
+      "instruction": "Вставьте возвратное местоимение.",
+      "example": "He looks at *him* in the mirror → He looks at **himself** in the mirror.",
+      "items": [
+        {
+          "text": "I looked at {{myself}} in the mirror."
+        },
+        {
+          "text": "She fell off her bike, but she didn't hurt {{herself}}."
+        },
+        {
+          "text": "He cut {{himself}} while he was cooking."
+        },
+        {
+          "text": "We had a good holiday. We enjoyed {{ourselves}}."
+        },
+        {
+          "text": "The children are playing. They are enjoying {{themselves}}."
+        },
+        {
+          "text": "Please help {{yourself}}, Ann. There is a lot of food."
+        },
+        {
+          "text": "Please help {{yourselves}}, everybody. There is a lot of food."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "me / him / them или myself / himself / themselves?",
+      "instruction": "Выберите нужное слово и впишите его.",
+      "items": [
+        {
+          "text": "Don't look at {{me}}! I'm not ready."
+        },
+        {
+          "text": "He is looking at {{himself}} in the mirror."
+        },
+        {
+          "text": "She is looking at {{him}}. He is her brother."
+        },
+        {
+          "text": "I'm very proud of {{myself}}. I passed the exam!"
+        },
+        {
+          "text": "Tom and Sue love {{each other}}."
+        },
+        {
+          "text": "They paid for {{themselves}}. Nobody helped them."
+        },
+        {
+          "text": "Why are you angry with {{me}}? I didn't do anything."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "by myself",
+      "instruction": "Вставьте **by myself, by yourself, by himself, by herself, by ourselves, by themselves**.",
+      "items": [
+        {
+          "text": "I went to the cinema {{by myself}}. Nobody came with me."
+        },
+        {
+          "text": "She lives {{by herself}} in a small flat."
+        },
+        {
+          "text": "Did you do your homework {{by yourself}}?"
+        },
+        {
+          "text": "He built this house {{by himself}}."
+        },
+        {
+          "text": "We cleaned the whole house {{by ourselves}}."
+        },
+        {
+          "text": "The children made lunch {{by themselves}}."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите вариант",
+      "instruction": "Выберите правильную форму.",
+      "items": [
+        {
+          "q": "Be careful with that knife. Don't cut ___.",
+          "options": [
+            "you",
+            "yourself",
+            "your"
+          ],
+          "answer": 1,
+          "why": "Тот же человек → **yourself**."
+        },
+        {
+          "q": "Jack and Ann are good friends. They like ___.",
+          "options": [
+            "themselves",
+            "each other",
+            "them"
+          ],
+          "answer": 1,
+          "why": "Друг друга → **each other**."
+        },
+        {
+          "q": "I'm looking at ___ in the mirror.",
+          "options": [
+            "me",
+            "my",
+            "myself"
+          ],
+          "answer": 2,
+          "why": "Тот же человек → **myself**."
+        },
+        {
+          "q": "They had a great time. They enjoyed ___.",
+          "options": [
+            "them",
+            "themselves",
+            "each other"
+          ],
+          "answer": 1,
+          "why": "enjoyed oneself = хорошо провести время."
+        },
+        {
+          "q": "A: Who helped you? B: Nobody. I did it ___.",
+          "options": [
+            "by myself",
+            "me",
+            "mine"
+          ],
+          "answer": 0,
+          "why": "Сам, без помощи → **by myself**."
+        },
+        {
+          "q": "Paul and I live near ___.",
+          "options": [
+            "ourselves",
+            "each other",
+            "us"
+          ],
+          "answer": 1,
+          "why": "Рядом друг с другом → **each other**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "each other или -selves?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "Steve looked at the photo of ___ (он сам).",
+          "options": [
+            "himself",
+            "each other",
+            "him"
+          ],
+          "answer": 0,
+          "why": "Тот же человек → **himself**."
+        },
+        {
+          "q": "Mary and Jane don't talk to ___. They are angry.",
+          "options": [
+            "themselves",
+            "each other",
+            "them"
+          ],
+          "answer": 1,
+          "why": "Друг с другом → **each other**."
+        },
+        {
+          "q": "We often write to ___.",
+          "options": [
+            "ourselves",
+            "each other",
+            "us"
+          ],
+          "answer": 1,
+          "why": "Друг другу → **each other**."
+        },
+        {
+          "q": "The cat washed ___.",
+          "options": [
+            "itself",
+            "each other",
+            "it"
+          ],
+          "answer": 0,
+          "why": "Кошка умыла саму себя → **itself**."
+        },
+        {
+          "q": "Tom and Kate saw ___ in the mirror. (каждый себя)",
+          "options": [
+            "themselves",
+            "each other",
+            "them"
+          ],
+          "answer": 0,
+          "why": "Каждый увидел себя → **themselves**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение со словами в скобках и нужным местоимением.",
+      "items": [
+        {
+          "prompt": "(she / look at / in the mirror)",
+          "answers": [
+            "She looked at herself in the mirror.",
+            "She is looking at herself in the mirror.",
+            "She looks at herself in the mirror.",
+            "She's looking at herself in the mirror."
+          ]
+        },
+        {
+          "prompt": "(we / enjoy / at the party)",
+          "answers": [
+            "We enjoyed ourselves at the party.",
+            "We enjoy ourselves at the party.",
+            "We are enjoying ourselves at the party.",
+            "We're enjoying ourselves at the party."
+          ]
+        },
+        {
+          "prompt": "(he / hurt / yesterday)",
+          "answers": [
+            "He hurt himself yesterday."
+          ]
+        },
+        {
+          "prompt": "(Ann and Tom / know / well)",
+          "answers": [
+            "Ann and Tom know each other well."
+          ]
+        },
+        {
+          "prompt": "(I / live / alone) → use by",
+          "answers": [
+            "I live by myself."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Я порезался.",
+          "answers": [
+            "I cut myself."
+          ]
+        },
+        {
+          "prompt": "Угощайтесь! (вам одному)",
+          "answers": [
+            "Help yourself!",
+            "Help yourself."
+          ]
+        },
+        {
+          "prompt": "Мы хорошо провели время.",
+          "answers": [
+            "We enjoyed ourselves.",
+            "We had a good time."
+          ]
+        },
+        {
+          "prompt": "Они давно знают друг друга.",
+          "answers": [
+            "They know each other well.",
+            "They have known each other for a long time.",
+            "They've known each other for a long time.",
+            "They know each other for a long time."
+          ]
+        },
+        {
+          "prompt": "Она живёт одна.",
+          "answers": [
+            "She lives by herself.",
+            "She lives alone."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте на вопросы полными предложениями.",
+      "items": [
+        {
+          "prompt": "Do you ever talk to yourself?",
+          "sample": "Yes, sometimes I talk to myself when I'm alone."
+        },
+        {
+          "prompt": "Did you enjoy yourself last weekend?",
+          "sample": "Yes, I enjoyed myself. I met my friends."
+        },
+        {
+          "prompt": "Do you like doing things by yourself?",
+          "sample": "Sometimes I like doing things by myself, but I prefer friends."
+        },
+        {
+          "prompt": "Who are your friends? Do you know each other long?",
+          "sample": "My friend Dana and I know each other for ten years."
+        },
+        {
+          "prompt": "Did you ever hurt yourself? How?",
+          "sample": "Yes, I once cut myself with a knife."
+        }
+      ]
+    }
+  ]
+}

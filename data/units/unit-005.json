@@ -1,0 +1,109 @@
+{
+  "id": 5,
+  "title": "I do/work/like etc. (present simple)",
+  "summary": "Present simple — для фактов, привычек и повторяющихся действий; с **he / she / it** к глаголу добавляем **-s / -es**.",
+  "ru": "## Когда используем\nPresent simple — это то, что **верно в общем**, происходит **регулярно** или **всё время**. По-русски: «Я работаю в банке», «Она часто ходит в кино», «Земля вращается вокруг Солнца».\n> I **work** in a shop. — Я работаю в магазине.\n> The shops **open** at 9 and **close** at 6. — Магазины открываются в 9 и закрываются в 6.\n> My sister **likes** ice cream. — Моя сестра любит мороженое.\n\n## Как образуется\nС **I / we / you / they** глагол остаётся без изменений. С **he / she / it** добавляем **-s**.\n> I work → she **works**\n> They live → it **lives**\n> We read → he **reads**\n\n## Правила написания -s / -es\n- Обычно **+ s**: work → works, play → plays.\n- После **-s, -sh, -ch, -x, -o**: **+ es** → pass → passes, finish → finishes, watch → watches, go → goes, do → does.\n- Согласная + **y**: **y → ies** → study → studies, try → tries.\n- Гласная + y: просто + s → play → plays.\n- **have → has** (особая форма).\n> John **has** a shower every day. — Джон принимает душ каждый день.\n\n## Слова частоты\n**always, usually, often, sometimes, never** стоят **перед** основным глаголом.\n> Sue **always arrives** early. — Сью всегда приходит рано.\n> I **usually go** to work by bus. — Я обычно езжу на работу на автобусе.\n> Julia **never eats** breakfast. — Джулия никогда не завтракает.\n\n## Типичные ошибки\n- ~~My brother work in a bank.~~ → My brother **works** in a bank. (he/she/it → +s)\n- ~~She go to school.~~ → She **goes** to school.\n- ~~He have a car.~~ → He **has** a car.\n- ~~Sue arrives always early.~~ → Sue **always arrives** early.\n- ~~She studys.~~ → She **studies**.",
+  "en": "## When do we use it?\nWe use the present simple for things that are **true in general**, or that happen **regularly**, **sometimes** or **all the time**.\n> I **work** in a shop.\n> The shops **open** at 9 and **close** at 6.\n> My sister **likes** ice cream.\n\n## How to make it\nWith **I / we / you / they** the verb does not change. With **he / she / it** we add **-s**.\n> I work → she **works**\n> They live → it **lives**\n\n## Spelling\n- Most verbs: **+ s** (work → works, play → plays).\n- After **-s, -sh, -ch, -x, -o**: **+ es** (pass → passes, finish → finishes, watch → watches, go → goes, do → does).\n- Consonant + **y**: **-y → -ies** (study → studies, try → tries).\n- **have → has**.\n\n## Frequency words\n**always, usually, often, sometimes, never** go **before** the main verb.\n> Sue **always arrives** early.\n> I **usually go** to work by bus.\n\n## Common mistakes\n- ~~My brother work in a bank.~~ → My brother **works** in a bank.\n- ~~He have a car.~~ → He **has** a car.\n- ~~Sue arrives always early.~~ → Sue **always arrives** early.",
+  "structure": "## Утверждение\n| Подлежащее | Глагол | Пример |\n|---|---|---|\n| I / we / you / they | work, like, live | I work. They like tea. |\n| he / she / it | work**s**, like**s**, live**s** | He works. She likes tea. |\n\n## Правила написания (he / she / it)\n| Правило | Пример |\n|---|---|\n| + s | work → works, read → reads, play → plays |\n| + es (после -s, -sh, -ch, -x, -o) | pass → passes, finish → finishes, watch → watches, go → goes |\n| согласная + y → ies | study → studies, try → tries, fly → flies |\n| особые формы | have → **has**, do → **does** |\n\n## Формула\n> I / we / you / they + **глагол** · He / she / it + **глагол + s**\n> My dad **works** in a hospital. · We **live** in Bishkek.\n\n## Слова частоты\n| always | usually | often | sometimes | never |\n|---|---|---|---|---|\n| всегда | обычно | часто | иногда | никогда |\n\n> Подлежащее + **always / usually / often / sometimes / never** + глагол.\n> Исключение: с **be** слово частоты стоит после: She **is** always late.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Добавьте -s или -es",
+      "instruction": "Напишите форму глагола с **he / she / it**.",
+      "example": "read → she **reads**",
+      "items": [
+        { "text": "think → he {{thinks}}" },
+        { "text": "fly → it {{flies}}" },
+        { "text": "dance → he {{dances}}" },
+        { "text": "have → she {{has}}" },
+        { "text": "finish → it {{finishes}}" },
+        { "text": "go → she {{goes}}" },
+        { "text": "play → he {{plays}}" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Закончите предложения",
+      "instruction": "Поставьте глагол в скобках в present simple.",
+      "items": [
+        { "text": "Margaret {{speaks}} four languages.", "hint": "speak" },
+        { "text": "The banks {{open}} at 9 o'clock.", "hint": "open" },
+        { "text": "My brother {{works}} in a hospital.", "hint": "work" },
+        { "text": "Tina {{teaches}} English to children.", "hint": "teach" },
+        { "text": "I {{meet}} a lot of people in my job.", "hint": "meet" },
+        { "text": "The museum {{closes}} at 5 o'clock.", "hint": "close" },
+        { "text": "My sister {{washes}} her hair every day.", "hint": "wash" },
+        { "text": "It {{costs}} a lot of money to fly to Japan.", "hint": "cost" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "My mother ___ in a school.", "options": ["work", "works", "working"], "answer": 1, "why": "my mother = she → **works**." },
+        { "q": "They ___ football every Sunday.", "options": ["plays", "play", "is playing"], "answer": 1, "why": "they → без -s: **play**." },
+        { "q": "He ___ a shower every morning.", "options": ["have", "haves", "has"], "answer": 2, "why": "have → **has** с he/she/it." },
+        { "q": "My sister ___ to the gym twice a week.", "options": ["goes", "go", "gos"], "answer": 0, "why": "go → **goes** (+es)." },
+        { "q": "The Earth ___ round the Sun.", "options": ["go", "goes", "going"], "answer": 1, "why": "Общий факт; the Earth = it → **goes**." },
+        { "q": "She ___ at the university.", "options": ["studys", "study", "studies"], "answer": 2, "why": "study → **studies** (согласная + y → ies)." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Где правильно стоит слово частоты?",
+      "instruction": "Выберите правильное предложение.",
+      "items": [
+        { "q": "«Он всегда рано встаёт»", "options": ["He gets always up early.", "He always gets up early.", "Always he gets up early."], "answer": 1, "why": "Слово частоты стоит перед основным глаголом." },
+        { "q": "«Мы никогда не смотрим телевизор»", "options": ["We watch never TV.", "We never watch TV.", "Never we watch TV."], "answer": 1, "why": "never — перед глаголом." },
+        { "q": "«Анна часто ест фрукты»", "options": ["Anna often eats fruit.", "Anna eats often fruit.", "Anna often eat fruit."], "answer": 0, "why": "often перед глаголом + -s для she." },
+        { "q": "«Она всегда опаздывает» (be)", "options": ["She always is late.", "She is always late.", "She late is always."], "answer": 1, "why": "С **be** слово частоты стоит после глагола." },
+        { "q": "«Я обычно иду пешком»", "options": ["I walk usually.", "I usually walk.", "Usually walk I."], "answer": 1, "why": "usually перед глаголом." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение в present simple из слов.",
+      "items": [
+        { "prompt": "(Sue / always / arrive / early)", "answers": ["Sue always arrives early."] },
+        { "prompt": "(I / usually / go to work / by bus)", "answers": ["I usually go to work by bus."] },
+        { "prompt": "(Julia / never / eat / breakfast)", "answers": ["Julia never eats breakfast."] },
+        { "prompt": "(Tom / live / near us)", "answers": ["Tom lives near us."] },
+        { "prompt": "(we / often / see / him)", "answers": ["We often see him."] },
+        { "prompt": "(my father / sometimes / work / at weekends)", "answers": ["My father sometimes works at weekends.", "My father works sometimes at weekends.", "Sometimes my father works at weekends."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте present simple.",
+      "items": [
+        { "prompt": "Моя сестра работает в банке.", "answers": ["My sister works in a bank."] },
+        { "prompt": "Они живут в Бишкеке.", "answers": ["They live in Bishkek."] },
+        { "prompt": "Он любит шоколад.", "answers": ["He likes chocolate."] },
+        { "prompt": "Магазин открывается в девять.", "answers": ["The shop opens at nine.", "The shop opens at 9.", "The shop opens at nine o'clock.", "The shop opens at 9 o'clock."] },
+        { "prompt": "Моя мама всегда готовит ужин.", "answers": ["My mum always cooks dinner.", "My mother always cooks dinner.", "My mom always cooks dinner."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе и своей семье. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Где вы живёте?", "sample": "I live in Bishkek." },
+        { "prompt": "Во сколько вы обычно встаёте?", "sample": "I usually get up at seven." },
+        { "prompt": "Что вы часто делаете в выходные?", "sample": "I often meet my friends at weekends." },
+        { "prompt": "Где работает или учится ваш родственник?", "sample": "My brother works in a bank." },
+        { "prompt": "Что вы никогда не делаете?", "sample": "I never eat fish." }
+      ]
+    }
+  ]
+}

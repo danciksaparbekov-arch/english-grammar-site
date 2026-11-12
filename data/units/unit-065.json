@@ -1,0 +1,355 @@
+{
+  "id": 65,
+  "title": "flower(s) bus(es) (singular and plural)",
+  "summary": "Множественное число существительных: окончания **-s, -es, -ies, -ves**, исключения (**men, children, people**) и слова, которые бывают только во множественном числе (**trousers, glasses**).",
+  "ru": "## Основное правило: добавляем -s\nОдин предмет — **singular**, два и больше — **plural**. Обычно к слову добавляем **-s**.\n> a flower → two flower**s** — цветок → цветы\n> a week → two week**s**\n> this shop → these shop**s**\n\n## Написание\n- Слова на **-s, -ss, -sh, -ch, -x** → **-es**: *bus → bus**es**, dish → dish**es**, church → church**es**, box → box**es***\n- Слова на согласная + **-y** → **-ies**: *baby → bab**ies**, party → part**ies***\n- Но гласная + **y** → просто **-s**: *day → days, boy → boys, monkey → monkeys*\n- **-f / -fe** → **-ves**: *knife → knives, wife → wives, shelf → shelves*\n- Слова на **-o**: иногда **-es**: *potato → potatoes, tomato → tomatoes*, но *photo → photos*.\n\n## Особые формы\nНекоторые слова образуют множественное число не по правилу — их надо **выучить**.\n- man → **men**, woman → **women**\n- child → **children**\n- foot → **feet**, tooth → **teeth**\n- mouse → **mice**\n- person → **people**\n- sheep → **sheep**, fish → **fish** (не меняются)\n\n## Только множественное число\nНекоторые вещи состоят из двух частей, и по-английски это всегда множественное число: **scissors, glasses, trousers, jeans, pyjamas**.\n> Where **are** my glasses? — Где мои очки?\n> I need a new **pair of** jeans. — Мне нужны новые джинсы.\nНельзя: ~~a new jeans~~, но можно *a pair of jeans*.\n\n## people и police\n**people** и **police** — множественное число, хотя нет окончания -s: *People **are** friendly. The police **are** here.*\n> Они хорошие люди. They're nice **people**. (не ~~persons~~)\n\n## Типичные ошибки\n- ~~two childs~~ → two **children**\n- ~~three mans~~ → three **men**\n- ~~a lot of people speaks English~~ → people **speak**\n- ~~my trousers is new~~ → my trousers **are** new",
+  "en": "## The basic rule: add -s\nOne thing = **singular**. Two or more = **plural**. We usually add **-s**.\n> a flower → two flower**s**\n> a week → two week**s**\n> this shop → these shop**s**\n\n## Spelling\n- **-s, -ss, -sh, -ch, -x** → **-es**: *bus → bus**es**, dish → dish**es**, box → box**es***\n- consonant + **y** → **-ies**: *baby → bab**ies**, party → part**ies***\n- vowel + **y** → **-s**: *day → days, boy → boys*\n- **-f / -fe** → **-ves**: *knife → knives, wife → wives*\n- some words with **-o** take **-es**: *potato → potatoes*\n\n## Irregular plurals\n- man → **men**, woman → **women**\n- child → **children**\n- foot → **feet**, tooth → **teeth**\n- mouse → **mice**\n- person → **people**\n- sheep → **sheep**, fish → **fish**\n\n## Plural-only nouns\n**scissors, glasses, trousers, jeans, pyjamas** are always plural.\n> Where **are** my glasses?\n> I need a **pair of** jeans.\n~~a new jeans~~ is wrong.\n\n## people and police\n**people** and **police** are plural.\n> People **speak** English here.\n> The police **are** here.\n\n## Common mistakes\n- ~~two childs~~ → two **children**\n- ~~three mans~~ → three **men**\n- ~~my trousers is new~~ → my trousers **are** new",
+  "structure": "## Правила окончаний\n| Слово оканчивается на | Окончание | Пример |\n|---|---|---|\n| обычно | -s | flower → flowers |\n| -s, -ss, -sh, -ch, -x | -es | bus → buses, box → boxes |\n| согласная + -y | -ies | baby → babies |\n| гласная + -y | -s | day → days |\n| -f / -fe | -ves | knife → knives |\n| -o (некоторые) | -es | potato → potatoes |\n\n## Нерегулярные\n| Ед. число | Мн. число |\n|---|---|\n| man | men |\n| woman | women |\n| child | children |\n| foot | feet |\n| tooth | teeth |\n| mouse | mice |\n| person | people |\n| sheep | sheep |\n\n## Только мн. число\n> scissors · glasses · trousers · jeans · pyjamas\n> a **pair of** scissors = one thing, but plural verb: *The scissors **are** on the table.*",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Множественное число",
+      "instruction": "Напишите множественное число.",
+      "example": "a book → two **books**",
+      "items": [
+        {
+          "text": "a flower → two {{flowers}}"
+        },
+        {
+          "text": "a bus → two {{buses}}"
+        },
+        {
+          "text": "a baby → two {{babies}}"
+        },
+        {
+          "text": "a day → two {{days}}"
+        },
+        {
+          "text": "a dish → two {{dishes}}"
+        },
+        {
+          "text": "a box → two {{boxes}}"
+        },
+        {
+          "text": "a party → two {{parties}}"
+        },
+        {
+          "text": "a knife → two {{knives}}"
+        },
+        {
+          "text": "a potato → two {{potatoes}}"
+        },
+        {
+          "text": "a monkey → two {{monkeys}}"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Нерегулярные формы",
+      "instruction": "Напишите множественное число.",
+      "items": [
+        {
+          "text": "a man → two {{men}}"
+        },
+        {
+          "text": "a woman → two {{women}}"
+        },
+        {
+          "text": "a child → two {{children}}"
+        },
+        {
+          "text": "a foot → two {{feet}}"
+        },
+        {
+          "text": "a tooth → two {{teeth}}"
+        },
+        {
+          "text": "a mouse → two {{mice}}"
+        },
+        {
+          "text": "a person → two {{people}}"
+        },
+        {
+          "text": "a sheep → two {{sheep}}"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "is или are?",
+      "instruction": "Вставьте **is** или **are**.",
+      "items": [
+        {
+          "text": "My glasses {{are}} on the table."
+        },
+        {
+          "text": "The scissors {{are}} in the drawer."
+        },
+        {
+          "text": "People {{are}} very friendly here."
+        },
+        {
+          "text": "Her trousers {{are}} too long."
+        },
+        {
+          "text": "The police {{are}} here."
+        },
+        {
+          "text": "This child {{is}} very clever."
+        },
+        {
+          "text": "These shoes {{are}} new."
+        },
+        {
+          "text": "A lot of people {{are}} in the park today."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите форму",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I have two ___.",
+          "options": [
+            "child",
+            "childs",
+            "children"
+          ],
+          "answer": 2,
+          "why": "child → **children** (нерегулярное)."
+        },
+        {
+          "q": "There are three ___ in the room.",
+          "options": [
+            "womans",
+            "woman",
+            "women"
+          ],
+          "answer": 2,
+          "why": "woman → **women**."
+        },
+        {
+          "q": "My ___ hurt.",
+          "options": [
+            "foots",
+            "feet",
+            "foot"
+          ],
+          "answer": 1,
+          "why": "foot → **feet**."
+        },
+        {
+          "q": "She has two ___.",
+          "options": [
+            "babys",
+            "babies",
+            "babyes"
+          ],
+          "answer": 1,
+          "why": "Согласная + y → **-ies**."
+        },
+        {
+          "q": "I'm buying five ___.",
+          "options": [
+            "tomatos",
+            "tomatoes",
+            "tomato"
+          ],
+          "answer": 1,
+          "why": "tomato → **tomatoes**."
+        },
+        {
+          "q": "These ___ are very sharp.",
+          "options": [
+            "knifes",
+            "knives",
+            "knive"
+          ],
+          "answer": 1,
+          "why": "-fe → **-ves**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Верно только одно.",
+      "items": [
+        {
+          "q": "Как сказать «Мне нужны новые джинсы»?",
+          "options": [
+            "I need a new jeans.",
+            "I need new jeans.",
+            "I need a new jean."
+          ],
+          "answer": 1,
+          "why": "jeans — только мн. число."
+        },
+        {
+          "q": "Как сказать «Много людей говорят по-английски»?",
+          "options": [
+            "A lot of people speaks English.",
+            "A lot of people speak English.",
+            "A lot of persons speak English."
+          ],
+          "answer": 1,
+          "why": "people — мн. число → **speak**."
+        },
+        {
+          "q": "Как сказать «Где мои очки?»?",
+          "options": [
+            "Where is my glasses?",
+            "Where are my glasses?",
+            "Where are my glass?"
+          ],
+          "answer": 1,
+          "why": "glasses — мн. число → **are**."
+        },
+        {
+          "q": "Как сказать «Это добрые люди»?",
+          "options": [
+            "They're nice people.",
+            "They're nice persons.",
+            "They're nice peoples."
+          ],
+          "answer": 0,
+          "why": "**people** — множественное число слова person."
+        },
+        {
+          "q": "Как сказать «У меня две пары ножниц»?",
+          "options": [
+            "I have two scissors.",
+            "I have two pairs of scissors.",
+            "I have two scissor."
+          ],
+          "answer": 1,
+          "why": "**a pair of scissors**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Напишите во множественном числе",
+      "instruction": "Перепишите предложение во множественном числе.",
+      "items": [
+        {
+          "prompt": "This is a new shop. → These ___.",
+          "answers": [
+            "These are new shops."
+          ]
+        },
+        {
+          "prompt": "That man is tall. → Those ___.",
+          "answers": [
+            "Those men are tall."
+          ]
+        },
+        {
+          "prompt": "The baby is crying. → The ___.",
+          "answers": [
+            "The babies are crying."
+          ]
+        },
+        {
+          "prompt": "My foot hurts. → My ___.",
+          "answers": [
+            "My feet hurt."
+          ]
+        },
+        {
+          "prompt": "The child is happy. → The ___.",
+          "answers": [
+            "The children are happy."
+          ]
+        },
+        {
+          "prompt": "She has a beautiful dress. → They ___.",
+          "answers": [
+            "They have beautiful dresses."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Эти женщины — врачи.",
+          "answers": [
+            "These women are doctors.",
+            "Those women are doctors."
+          ]
+        },
+        {
+          "prompt": "У меня болят зубы.",
+          "answers": [
+            "My teeth hurt.",
+            "I have toothache."
+          ]
+        },
+        {
+          "prompt": "На столе две коробки.",
+          "answers": [
+            "There are two boxes on the table.",
+            "Two boxes are on the table."
+          ]
+        },
+        {
+          "prompt": "Они хорошие люди.",
+          "answers": [
+            "They're nice people.",
+            "They are nice people.",
+            "They are good people.",
+            "They're good people."
+          ]
+        },
+        {
+          "prompt": "Где мои брюки?",
+          "answers": [
+            "Where are my trousers?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями (используйте множественное число).",
+      "items": [
+        {
+          "prompt": "What do you have in your bag?",
+          "sample": "I have two books, some pens and my keys."
+        },
+        {
+          "prompt": "How many people are in your family?",
+          "sample": "There are five people in my family."
+        },
+        {
+          "prompt": "What fruit and vegetables do you like?",
+          "sample": "I like tomatoes, potatoes and apples."
+        },
+        {
+          "prompt": "Do you have children? (or: Do you like children?)",
+          "sample": "I like children. They are fun."
+        },
+        {
+          "prompt": "What animals do you like?",
+          "sample": "I like cats, dogs and horses."
+        }
+      ]
+    }
+  ]
+}

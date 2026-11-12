@@ -1,0 +1,340 @@
+{
+  "id": 69,
+  "title": "the ...",
+  "summary": "Когда использовать **the**: понятные из ситуации предметы, **the same**, **the sun / the sky / the world**, **the top / the end / the middle**, музыкальные инструменты, **the radio**; и когда **the** не нужен.",
+  "ru": "## Когда ставим the\n**the** нужен, если понятно, о каком предмете или человеке речь.\n> What's the name of this street? — Как называется эта улица? (у улицы одно название)\n> Who is the best player in your team? — Кто лучший игрок в команде?\n> Can you tell me the time, please? — Подскажите время, пожалуйста.\n> My office is on the first floor. — Мой офис на первом этаже.\nНе забывайте **the** там, где он нужен: ~~near city centre~~ → near **the** city centre; ~~where is nearest bank?~~ → where is **the** nearest bank?\n\n## the same — тот же\nВсегда **the same**, без пропусков.\n> We live in **the same** street. — Мы живём на одной улице.\n> 'Are these two books different?' 'No, they're **the same**.' — Эти книги разные? — Нет, одинаковые.\nНельзя: ~~in same street~~.\n\n## the + единственное в мире\n**the sun, the moon, the sky, the world, the sea, the country** — они одни.\n> The sky is blue and **the sun** is shining. — Небо голубое, светит солнце.\n> Do you live in a town or in **the country**? — Вы живёте в городе или за городом?\n\n## the + службы\n**the police, the fire brigade, the army** — организации.\n> My brother is a soldier. He's in **the army**. — Мой брат солдат. Он служит в армии.\n\n## the + положение\n**the top, the bottom, the end, the middle, the left, the right**.\n> Write your name at **the top** of the page.\n> My house is at **the end** of this street.\n> The table is in **the middle** of the room.\n> Do you drive on **the right** or on **the left**?\n\n## the + музыкальные инструменты, the radio\n> Paula is learning to play **the piano**. — Паула учится играть на пианино.\n> I listen to **the radio** a lot. — Я много слушаю радио.\n\n## Без the: television\n> I watch **television** a lot. (не ~~the television~~)\n> What's on **television** tonight?\nНо: *Turn off **the** TV* (имеется в виду конкретный телевизор).\n\n## Типичные ошибки\n- ~~in same street~~ → in **the same** street\n- ~~I play piano.~~ → I play **the** piano.\n- ~~I watch the television.~~ → I watch **television**.",
+  "en": "## When we use the\nWe use **the** when it is clear which thing or person we mean.\n> What's the name of this street?\n> Who is the best player in your team?\n> Can you tell me the time, please?\n> My office is on the first floor.\nDon't forget **the**: ~~near city centre~~ → near **the** city centre.\n\n## the same\n> We live in **the same** street.\n> 'Are these two books different?' 'No, they're **the same**.'\nWe can't say ~~in same street~~.\n\n## One in the world\n**the sun, the moon, the sky, the world, the sea, the country**\n> The sky is blue and **the sun** is shining.\n> Do you live in a town or in **the country**?\n\n## Services\n**the police, the fire brigade, the army**\n> He's a soldier. He's in **the army**.\n\n## Positions\n**the top, the bottom, the end, the middle, the left, the right**\n> Write your name at **the top** of the page.\n> My house is at **the end** of this street.\n> Do you drive on **the right** or on **the left**?\n\n## Instruments and the radio\n> Paula is learning to play **the piano**.\n> I listen to **the radio** a lot.\n\n## No the: television\n> I watch **television** a lot.\nBut: *Turn off **the** TV.* (a specific TV)\n\n## Common mistakes\n- ~~in same street~~ → in **the same** street\n- ~~I play piano.~~ → I play **the** piano.\n- ~~I watch the television.~~ → I watch **television**.",
+  "structure": "## the — со всем, что понятно\n> **the** + существительное (ситуация ясна): **the** door, **the** station, **the** first floor\n\n## Постоянные сочетания\n| С the | Пример |\n|---|---|\n| the same | in **the same** class |\n| the sun / moon / sky / sea / world | **the sun** is hot |\n| the country | in **the country** |\n| the police / army / fire brigade | He's in **the army** |\n| the top / end / middle / left / right | at **the end** of the street |\n| play the + инструмент | play **the piano** / **the guitar** |\n| the radio | listen to **the radio** |\n\n## Без the\n| Без the | Пример |\n|---|---|\n| television | I watch **television**. |\n| (но с a TV) | There is **a** TV in my room. |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "the или пропуск?",
+      "instruction": "Вставьте **the** или слово из подсказки.",
+      "example": "Do you live in a town or in __ country? → **the** country",
+      "items": [
+        {
+          "text": "The sky is blue and {{the}} sun is shining."
+        },
+        {
+          "text": "My brother is in {{the}} army."
+        },
+        {
+          "text": "I listen to {{the}} radio every morning."
+        },
+        {
+          "text": "She is learning to play {{the}} guitar."
+        },
+        {
+          "text": "I watch {{television}} in the evening.",
+          "hint": "the television / television"
+        },
+        {
+          "text": "Write your name at {{the}} top of the page."
+        },
+        {
+          "text": "We live in {{the}} same street."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Положение",
+      "instruction": "Вставьте нужное слово: **top, bottom, end, middle, left, right**.",
+      "items": [
+        {
+          "text": "My house is at the {{end}} of this street."
+        },
+        {
+          "text": "The table is in the {{middle}} of the room."
+        },
+        {
+          "text": "In England people drive on the {{left}}."
+        },
+        {
+          "text": "In Russia people drive on the {{right}}."
+        },
+        {
+          "text": "Write your name at the {{top}} of the page."
+        },
+        {
+          "text": "The shoes are at the {{bottom}} of the bag."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Пропущено the",
+      "instruction": "Вставьте **the** там, где нужно.",
+      "items": [
+        {
+          "text": "Where is {{the}} nearest bank, please?"
+        },
+        {
+          "text": "I live near {{the}} city centre."
+        },
+        {
+          "text": "What is {{the}} name of this street?"
+        },
+        {
+          "text": "Can you tell me {{the}} time, please?"
+        },
+        {
+          "text": "Our office is on {{the}} second floor."
+        },
+        {
+          "text": "Is this {{the}} same book?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "the или нет?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I watch ___ every evening.",
+          "options": [
+            "the television",
+            "television",
+            "a television"
+          ],
+          "answer": 1,
+          "why": "С television — без the."
+        },
+        {
+          "q": "He plays ___ very well.",
+          "options": [
+            "piano",
+            "the piano",
+            "a piano"
+          ],
+          "answer": 1,
+          "why": "play + the + инструмент."
+        },
+        {
+          "q": "Look at ___ sky! It's beautiful.",
+          "options": [
+            "a",
+            "the",
+            "—"
+          ],
+          "answer": 1,
+          "why": "Небо одно → **the sky**."
+        },
+        {
+          "q": "They live in ___ same house.",
+          "options": [
+            "a",
+            "—",
+            "the"
+          ],
+          "answer": 2,
+          "why": "**the same**."
+        },
+        {
+          "q": "My uncle is in ___ army.",
+          "options": [
+            "the",
+            "an",
+            "—"
+          ],
+          "answer": 0,
+          "why": "the army."
+        },
+        {
+          "q": "Where's the post office? — At ___ end of the street.",
+          "options": [
+            "an",
+            "the",
+            "—"
+          ],
+          "answer": 1,
+          "why": "the end of the street."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите верное предложение",
+      "instruction": "Верно только одно.",
+      "items": [
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I live in same town.",
+            "I live in the same town.",
+            "I live in a same town."
+          ],
+          "answer": 1,
+          "why": "**the same**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I have a TV in my room.",
+            "I have television in my room.",
+            "I have TV in my room."
+          ],
+          "answer": 0,
+          "why": "Устройство — **a TV**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "She plays guitar.",
+            "She plays the guitar.",
+            "She plays a guitar."
+          ],
+          "answer": 1,
+          "why": "play + the + инструмент."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "Turn off a radio.",
+            "Turn off the radio.",
+            "Turn off radio."
+          ],
+          "answer": 1,
+          "why": "Конкретное радио → the radio."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "Where is nearest bank?",
+            "Where is a nearest bank?",
+            "Where is the nearest bank?"
+          ],
+          "answer": 2,
+          "why": "the nearest."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение со словами в скобках.",
+      "items": [
+        {
+          "prompt": "(we / live / in / same / house)",
+          "answers": [
+            "We live in the same house."
+          ]
+        },
+        {
+          "prompt": "(my father / be / in / army)",
+          "answers": [
+            "My father is in the army.",
+            "My father's in the army."
+          ]
+        },
+        {
+          "prompt": "(she / play / piano / well)",
+          "answers": [
+            "She plays the piano well.",
+            "She plays piano well."
+          ]
+        },
+        {
+          "prompt": "(I / listen to / radio / every day)",
+          "answers": [
+            "I listen to the radio every day."
+          ]
+        },
+        {
+          "prompt": "(the sun / be / hot / today)",
+          "answers": [
+            "The sun is hot today.",
+            "The sun's hot today."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Мы учимся в одном классе.",
+          "answers": [
+            "We are in the same class.",
+            "We're in the same class.",
+            "We study in the same class."
+          ]
+        },
+        {
+          "prompt": "Он играет на гитаре.",
+          "answers": [
+            "He plays the guitar."
+          ]
+        },
+        {
+          "prompt": "Подскажите, пожалуйста, время.",
+          "answers": [
+            "Can you tell me the time, please?",
+            "Can you tell me the time please?",
+            "Could you tell me the time, please?",
+            "What's the time, please?",
+            "What time is it, please?"
+          ]
+        },
+        {
+          "prompt": "Небо серое, солнца нет.",
+          "answers": [
+            "The sky is grey and there is no sun.",
+            "The sky is grey. There is no sun.",
+            "The sky is gray and there is no sun.",
+            "The sky is grey, and there is no sun."
+          ]
+        },
+        {
+          "prompt": "Я смотрю телевизор по вечерам.",
+          "answers": [
+            "I watch television in the evening.",
+            "I watch television in the evenings.",
+            "I watch television every evening.",
+            "I watch TV in the evening.",
+            "I watch TV in the evenings.",
+            "I watch TV every evening."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите 4–5 предложений о себе.",
+      "items": [
+        {
+          "prompt": "Do you play an instrument?",
+          "sample": "I play the guitar. I don't play the piano."
+        },
+        {
+          "prompt": "Do you listen to the radio? When?",
+          "sample": "I listen to the radio in the car."
+        },
+        {
+          "prompt": "Do you watch television?",
+          "sample": "I watch television in the evening."
+        },
+        {
+          "prompt": "Where do you live: in a town or in the country?",
+          "sample": "I live in a town."
+        },
+        {
+          "prompt": "Who is the best player in your favourite team?",
+          "sample": "The best player is Messi."
+        }
+      ]
+    }
+  ]
+}

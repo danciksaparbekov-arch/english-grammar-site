@@ -1,0 +1,91 @@
+{
+  "id": 51,
+  "title": "to ... (I want to do) and -ing (I enjoy doing)",
+  "summary": "После одних глаголов ставим **to + глагол** (want to do), после других — **-ing** (enjoy doing), а после like/love/start возможны оба варианта.",
+  "ru": "## Глаголы + to + глагол\nПосле некоторых глаголов следующий глагол ставится с **to**: **want, need, plan, decide, hope, expect, offer, promise, refuse, learn, forget, try**.\n> What do you **want to do** tonight? — Что ты хочешь делать вечером?\n> Tina has **decided to sell** her car. — Тина решила продать машину.\n> I **forgot to switch off** the light. — Я забыл выключить свет.\n> My brother is **learning to drive**. — Мой брат учится водить.\n> I **tried to read**, but I was too tired. — Я пытался читать, но слишком устал.\n\n## Глаголы + -ing\nПосле этих глаголов нужен **-ing**: **enjoy, mind, stop, finish, suggest**.\n> I **enjoy dancing**. — Мне нравится танцевать.\n> I don't **mind getting up** early. — Мне нетрудно рано вставать.\n> Has it **stopped raining**? — Дождь перестал?\n> She **suggested going** to the cinema. — Она предложила пойти в кино.\n- ~~I enjoy to dance.~~ → I enjoy **dancing**.\n\n## Глаголы, после которых можно и то и другое\nПосле **like, love, hate, prefer, start, begin, continue** допустимы оба варианта, смысл почти не меняется.\n> I **like getting up** early. = I **like to get up** early.\n> It **started raining**. = It **started to rain**.\n> Ann **loves dancing**. = Ann **loves to dance**.\n\n## would like / would love / would prefer + to\nПосле **would like, would love, would prefer, would hate** — только **to + глагол**.\n> Julia **would like to meet** you. — Юлия хотела бы с вами познакомиться.\n> I'd **love to go** to Australia. — Я бы очень хотела поехать в Австралию.\n> **Would** you **like to sit** down? — Хотите присесть?\n- ~~Would you like sitting down?~~ → Would you like **to sit** down?\n\n## Типичные ошибки\nВ русском после «хочу», «люблю», «закончил» всегда идёт инфинитив. В английском придётся запомнить, какой глагол требует какую форму.\n- ~~I want going home.~~ → I want **to go** home.\n- ~~She finished to write.~~ → She finished **writing**.",
+  "en": "## Verbs + to ...\nSome verbs are followed by **to + verb**: **want, need, plan, decide, hope, expect, offer, promise, refuse, learn, forget, try**.\n> What do you **want to do** tonight?\n> Tina has **decided to sell** her car.\n> I **forgot to switch off** the light.\n> My brother is **learning to drive**.\n> I **tried to read**, but I was too tired.\n\n## Verbs + -ing\nSome verbs are followed by **-ing**: **enjoy, mind, stop, finish, suggest**.\n> I **enjoy dancing**.\n> I don't **mind getting up** early.\n> Has it **stopped raining**?\n> She **suggested going** to the cinema.\n- ~~I enjoy to dance.~~ → I enjoy **dancing**.\n\n## Verbs with -ing or to ...\nAfter **like, love, hate, prefer, start, begin, continue** you can use both.\n> I **like getting up** early. = I **like to get up** early.\n> It **started raining**. = It **started to rain**.\n> Ann **loves dancing**. = Ann **loves to dance**.\n\n## would like / would love / would prefer + to\nAfter **would like, would love, would prefer, would hate** we use only **to**.\n> Julia **would like to meet** you.\n> I'd **love to go** to Australia.\n> **Would** you **like to sit** down?\n- ~~Would you like sitting down?~~ → Would you like **to sit** down?\n\n## Common mistakes\n- ~~I want going home.~~ → I want **to go** home.\n- ~~She finished to write.~~ → She finished **writing**.",
+  "structure": "## Какая форма после какого глагола\n| Группа | Глаголы | Форма |\n|---|---|---|\n| to + глагол | want, need, plan, decide, hope, expect, offer, promise, refuse, learn, forget, try | I want **to go**. |\n| -ing | enjoy, mind, stop, finish, suggest | I enjoy **swimming**. |\n| to или -ing | like, love, hate, prefer, start, begin, continue | I like **cooking** / **to cook**. |\n| только to | would like, would love, would prefer, would hate | I'd like **to go**. |\n\n## Отрицание\n> I decided **not to go**. · I don't mind **waiting**. · I wouldn't like **to be** late.\n\n## Правила написания -ing\n| Правило | Пример |\n|---|---|\n| Глагол на -e → -e отпадает | make → making |\n| Одна гласная + одна согласная → удвоение | stop → stopping, run → running |\n| Остальное: + -ing | enjoy → enjoying |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "to или -ing?",
+      "instruction": "Поставьте глагол в скобках в правильную форму: **to do** или **doing**.",
+      "items": [
+        { "text": "I enjoy {{dancing}} at parties. (dance)" },
+        { "text": "What do you want {{to do}} tonight? (do)" },
+        { "text": "We decided {{to take}} a taxi. (take)" },
+        { "text": "She has finished {{reading}} the book. (read)" },
+        { "text": "They plan {{to visit}} Spain next year. (visit)" },
+        { "text": "I don't mind {{waiting}} for you. (wait)" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Дополните предложения",
+      "instruction": "Поставьте глагол в скобках в нужную форму.",
+      "items": [
+        { "text": "Would you like {{to have}} some tea? (have)" },
+        { "text": "He has stopped {{smoking}}. (smoke)" },
+        { "text": "I forgot {{to lock}} the door. (lock)" },
+        { "text": "My sister suggested {{going}} to the beach. (go)" },
+        { "text": "Julia refused {{to help}} me. (help)" },
+        { "text": "I'd love {{to see}} your new flat. (see)" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I hope ___ you soon.", "options": ["see", "to see", "seeing"], "answer": 1, "why": "hope + to." },
+        { "q": "She enjoys ___ novels.", "options": ["to read", "reading", "read"], "answer": 1, "why": "enjoy + -ing." },
+        { "q": "I'd like ___ a glass of water.", "options": ["having", "have", "to have"], "answer": 2, "why": "would like + to." },
+        { "q": "Tom promised ___ me.", "options": ["to call", "calling", "call"], "answer": 0, "why": "promise + to." },
+        { "q": "Did you finish ___ your homework?", "options": ["to do", "doing", "do"], "answer": 1, "why": "finish + -ing." },
+        { "q": "My dog started ___ at midnight.", "options": ["to bark", "barking", "оба варианта верны"], "answer": 2, "why": "После start можно и to, и -ing." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Я люблю рисовать»?", "options": ["I love draw.", "I love drawing.", "I love to drawing."], "answer": 1, "why": "love + -ing или to draw." },
+        { "q": "Как сказать «Они решили не ехать»?", "options": ["They decided not to go.", "They decided not going.", "They not decided to go."], "answer": 0, "why": "decide + not to + глагол." },
+        { "q": "Как сказать «Мне не трудно помочь»?", "options": ["I don't mind to help.", "I don't mind helping.", "I don't mind help."], "answer": 1, "why": "mind + -ing." },
+        { "q": "Как сказать «Я бы хотела отдохнуть»?", "options": ["I'd like resting.", "I'd like to rest.", "I like to rest."], "answer": 1, "why": "I'd like (would like) + to." },
+        { "q": "Как сказать «Дождь перестал»?", "options": ["It stopped to rain.", "It stopped raining.", "It stopped rain."], "answer": 1, "why": "stop + -ing." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение. Поставьте глагол в нужную форму (to ... или -ing).",
+      "items": [
+        { "prompt": "(I / enjoy / cook / for my friends)", "answers": ["I enjoy cooking for my friends."] },
+        { "prompt": "(she / decide / buy / a new phone)", "answers": ["She decided to buy a new phone.", "She has decided to buy a new phone."] },
+        { "prompt": "(we / finish / work / at six)", "answers": ["We finished working at six.", "We finish working at six.", "We've finished working at six.", "We have finished working at six."] },
+        { "prompt": "(would you / like / come / with us?)", "answers": ["Would you like to come with us?"] },
+        { "prompt": "(he / suggest / go / for a walk)", "answers": ["He suggested going for a walk.", "He suggests going for a walk."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Допишите предложения о себе. Проверьте по образцу.",
+      "items": [
+        { "prompt": "I enjoy ...", "sample": "I enjoy listening to music." },
+        { "prompt": "I want ...", "sample": "I want to learn to drive." },
+        { "prompt": "I don't mind ...", "sample": "I don't mind getting up early." },
+        { "prompt": "Next year I plan ...", "sample": "Next year I plan to travel to Turkey." },
+        { "prompt": "I'd love ...", "sample": "I'd love to have my own café." }
+      ]
+    }
+  ]
+}

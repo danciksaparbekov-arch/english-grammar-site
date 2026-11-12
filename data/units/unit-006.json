@@ -1,0 +1,106 @@
+{
+  "id": 6,
+  "title": "I don't ... (present simple negative)",
+  "summary": "Отрицание в present simple: **don't** (I/we/you/they) и **doesn't** (he/she/it) + глагол в начальной форме.",
+  "ru": "## Как сказать «не делаю»\nДля отрицания в present simple нужен вспомогательный глагол **do**: **don't** или **doesn't**, а после него — глагол **в начальной форме** (без -s).\n> I **don't like** coffee. — Я не люблю кофе.\n> She **doesn't like** coffee. — Она не любит кофе.\n\n## Какую форму выбрать\n- **don't** (= do not) — с **I / we / you / they** и множественным числом\n- **doesn't** (= does not) — с **he / she / it** и одним человеком или предметом\n> We **don't watch** TV very often. — Мы нечасто смотрим телевизор.\n> My car **doesn't use** much petrol. — Моя машина не расходует много бензина.\n> Gerry and Linda **don't know** many people. — Джерри и Линда мало кого знают.\n\n## Главное правило: -s пропадает\nВ отрицании **-s уже стоит в doesn't**, поэтому к глаголу его не добавляем.\n> He plays tennis. → He **doesn't play** tennis. (не ~~doesn't plays~~)\n> She has a car. → She **doesn't have** a car. (не ~~doesn't has~~)\n> Tom does his homework. → Tom **doesn't do** his homework.\n\n## С be — по-другому\nС глаголом **be** (am / is / are) do не нужен: **I'm not, he isn't, they aren't**.\n> I **am not** tired. (не ~~I don't am tired~~)\n\n## Типичные ошибки\n- ~~I no like coffee.~~ → I **don't like** coffee.\n- ~~He don't like football.~~ → He **doesn't like** football.\n- ~~She doesn't likes music.~~ → She **doesn't like** music.\n- ~~Fred don't know me.~~ → Fred **doesn't know** me.\n- ~~I don't have breakfast usually.~~ → I **don't usually have** breakfast. (слово частоты перед глаголом)",
+  "en": "## How to make a negative\nIn the present simple we use **do / does + not** (**don't / doesn't**) and the **infinitive** (the base form of the verb, with no -s).\n> I **don't like** coffee.\n> She **doesn't like** coffee.\n\n## Which one?\n- **don't** — with **I / we / you / they** and plural nouns\n- **doesn't** — with **he / she / it** and singular nouns\n> We **don't watch** TV very often.\n> My car **doesn't use** much petrol.\n> Gerry and Linda **don't know** many people.\n\n## Important: no -s on the verb\n**Doesn't** already shows he / she / it, so the main verb has no -s.\n> He plays tennis. → He **doesn't play** tennis. (not ~~doesn't plays~~)\n> She has a car. → She **doesn't have** a car. (not ~~doesn't has~~)\n\n## With be\nWith **be** we don't use do: **I'm not, he isn't, they aren't**.\n\n## Common mistakes\n- ~~I no like coffee.~~ → I **don't like** coffee.\n- ~~He don't like football.~~ → He **doesn't like** football.\n- ~~She doesn't likes music.~~ → She **doesn't like** music.",
+  "structure": "## Отрицание\n| Подлежащее | do not | Глагол | Пример |\n|---|---|---|---|\n| I / we / you / they | **don't** (do not) | work, like, have | I don't work. They don't like tea. |\n| he / she / it | **doesn't** (does not) | work, like, have | He doesn't work. It doesn't rain. |\n\n## Формула\n> Подлежащее + **don't / doesn't** + глагол (начальная форма)\n> I **don't know** his name. · She **doesn't speak** French.\n\n## Сравните\n| Утверждение | Отрицание |\n|---|---|\n| I like fish. | I don't like fish. |\n| He likes fish. | He doesn't like fish. |\n| She has a dog. | She doesn't have a dog. |\n| He does yoga. | He doesn't do yoga. |\n\n## Со словами частоты\n> I **don't** often watch TV. · She **doesn't** usually eat meat.\n> **never** уже содержит отрицание, don't с ним не нужен: I **never** eat fish. (не ~~I don't never eat~~)\n\n## Краткая и полная форма\n- don't = do not · doesn't = does not",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Составьте отрицание",
+      "instruction": "Вставьте **don't** или **doesn't**.",
+      "items": [
+        { "text": "I {{don't|do not}} like horror films.", "hint": "I" },
+        { "text": "Sue {{doesn't|does not}} drink coffee.", "hint": "Sue" },
+        { "text": "They {{don't|do not}} know my phone number.", "hint": "they" },
+        { "text": "The weather is nice. It {{doesn't|does not}} rain much here.", "hint": "it" },
+        { "text": "We {{don't|do not}} watch TV very often.", "hint": "we" },
+        { "text": "My brother {{doesn't|does not}} play the piano.", "hint": "my brother" },
+        { "text": "You {{don't|do not}} work very hard.", "hint": "you" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Сделайте предложение отрицательным",
+      "instruction": "Напишите пропущенную часть отрицательного предложения (**don't / doesn't + глагол**).",
+      "items": [
+        { "text": "I play the guitar. → I {{don't play|do not play}} the guitar." },
+        { "text": "Jane plays the guitar. → Jane {{doesn't play|does not play}} the guitar." },
+        { "text": "They know my address. → They {{don't know|do not know}} my address." },
+        { "text": "He has a bath every day. → He {{doesn't have|does not have}} a bath every day." },
+        { "text": "You do the same thing every day. → You {{don't do|do not do}} the same thing every day." },
+        { "text": "She speaks Italian. → She {{doesn't speak|does not speak}} Italian." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "My sister ___ eat meat.", "options": ["don't", "doesn't", "isn't"], "answer": 1, "why": "my sister = she → **doesn't**." },
+        { "q": "We ___ live in a big house.", "options": ["doesn't", "aren't", "don't"], "answer": 2, "why": "we → **don't**." },
+        { "q": "He doesn't ___ English at home.", "options": ["speak", "speaks", "speaking"], "answer": 0, "why": "После doesn't — начальная форма: **speak**." },
+        { "q": "She doesn't ___ a car.", "options": ["has", "have", "having"], "answer": 1, "why": "После doesn't — **have**, а не has." },
+        { "q": "I ___ tired. I'm very happy.", "options": ["don't", "am not", "doesn't"], "answer": 1, "why": "С be — **am not**, don't не используется." },
+        { "q": "Paul and Ann ___ like cold weather.", "options": ["doesn't", "don't", "not"], "answer": 1, "why": "Paul and Ann = they → **don't**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант грамматически верный.",
+      "items": [
+        { "q": "Как сказать «Он не любит футбол»?", "options": ["He no like football.", "He don't like football.", "He doesn't like football."], "answer": 2, "why": "he → **doesn't** + like." },
+        { "q": "Как сказать «Они не говорят по-французски»?", "options": ["They don't speak French.", "They doesn't speak French.", "They don't speaks French."], "answer": 0, "why": "they → **don't** + speak." },
+        { "q": "Как сказать «Я нечасто смотрю ТВ»?", "options": ["I watch not often TV.", "I don't watch TV often very.", "I don't often watch TV."], "answer": 2, "why": "don't + often + глагол." },
+        { "q": "Как сказать «Она не живёт здесь»?", "options": ["She doesn't live here.", "She don't live here.", "She doesn't lives here."], "answer": 0, "why": "**doesn't live** — без -s." },
+        { "q": "Как сказать «Моя машина не тратит много бензина»?", "options": ["My car don't use much petrol.", "My car doesn't use much petrol.", "My car not uses much petrol."], "answer": 1, "why": "my car = it → **doesn't** use." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Сделайте предложения отрицательными",
+      "instruction": "Перепишите предложение в отрицательной форме. Используйте краткую форму **don't / doesn't**.",
+      "items": [
+        { "prompt": "I play tennis very well.", "answers": ["I don't play tennis very well.", "I do not play tennis very well."] },
+        { "prompt": "Anna plays tennis very well.", "answers": ["Anna doesn't play tennis very well.", "Anna does not play tennis very well."] },
+        { "prompt": "We work very hard.", "answers": ["We don't work very hard.", "We do not work very hard."] },
+        { "prompt": "He has a shower every day.", "answers": ["He doesn't have a shower every day.", "He does not have a shower every day."] },
+        { "prompt": "They know my phone number.", "answers": ["They don't know my phone number.", "They do not know my phone number."] },
+        { "prompt": "She likes coffee.", "answers": ["She doesn't like coffee.", "She does not like coffee."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **don't / doesn't**.",
+      "items": [
+        { "prompt": "Я не люблю рыбу.", "answers": ["I don't like fish.", "I do not like fish."] },
+        { "prompt": "Моя мама не пьёт кофе.", "answers": ["My mum doesn't drink coffee.", "My mother doesn't drink coffee.", "My mom doesn't drink coffee.", "My mum does not drink coffee.", "My mother does not drink coffee.", "My mom does not drink coffee."] },
+        { "prompt": "Они не живут рядом.", "answers": ["They don't live near here.", "They don't live near us.", "They don't live nearby.", "They do not live near here.", "They do not live near us.", "They do not live nearby.", "They don't live near.", "They do not live near."] },
+        { "prompt": "Он не понимает меня.", "answers": ["He doesn't understand me.", "He does not understand me."] },
+        { "prompt": "Мы не работаем в воскресенье.", "answers": ["We don't work on Sunday.", "We don't work on Sundays.", "We do not work on Sunday.", "We do not work on Sundays."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Напишите о себе",
+      "instruction": "Напишите о себе, используя **I never ... / I don't ... very often**. Проверьте по образцу.",
+      "items": [
+        { "prompt": "(watch TV)", "sample": "I don't watch TV very often." },
+        { "prompt": "(go to the theatre)", "sample": "I never go to the theatre." },
+        { "prompt": "(eat in restaurants)", "sample": "I don't eat in restaurants very often." },
+        { "prompt": "(ride a bicycle)", "sample": "I never ride a bicycle." },
+        { "prompt": "Что любит ваш друг, но вы не любите?", "sample": "My friend likes horror films, but I don't like them." }
+      ]
+    }
+  ]
+}

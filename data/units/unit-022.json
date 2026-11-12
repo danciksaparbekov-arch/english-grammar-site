@@ -1,0 +1,107 @@
+{
+  "id": 22,
+  "title": "is being done has been done (passive 2)",
+  "summary": "Пассив в present continuous (**is being done** — делается сейчас) и в present perfect (**has been done** — уже сделано).",
+  "ru": "## Два новых пассивных времени\nВ юните 21 мы учили пассив в простом настоящем и прошедшем. Теперь добавим:\n- **is / are being + причастие** — действие происходит **сейчас**\n- **has / have been + причастие** — действие **уже произошло** (результат виден сейчас)\n\n## is / are being done — делается сейчас\n> Somebody is repairing my car. (актив)\n> My car **is being repaired**. — Мою машину сейчас ремонтируют. (пассив)\n> New houses **are being built** near the park. — Рядом с парком строят новые дома.\n> The room **is being cleaned** at the moment. — В комнате сейчас убирают.\n\n## has / have been done — уже сделано\n> Somebody has stolen my keys. (актив)\n> My keys **have been stolen**. — Мои ключи украли. (пассив)\n> The door **has been painted**. — Дверь покрасили.\n> I'm not going to the party. I **haven't been invited**. — Я не иду на вечеринку: меня не пригласили.\n> **Has** this shirt **been washed**? — Эту рубашку уже постирали?\n\n## Сравнение времён\n| Время | Пример |\n|---|---|\n| present simple | The office **is cleaned** every day. (всегда) |\n| present continuous | The office **is being cleaned** now. (сейчас) |\n| present perfect | The office **has been cleaned**. (уже, результат) |\n| past simple | The office **was cleaned** yesterday. (вчера) |\n\n## Типичные ошибки\n- ~~My car is repairing.~~ → My car **is being repaired**. (пассив, не актив)\n- ~~My keys have stolen.~~ → My keys **have been stolen**. (нужно been)\n- ~~The room has been cleaned yesterday.~~ → The room **was cleaned** yesterday. (с законченным временем — past simple)",
+  "en": "## Two more passive forms\nIn Unit 21 we practised the present simple and past simple passive. Now we add:\n- **is / are being + past participle** = the action is happening **now**\n- **has / have been + past participle** = the action **has finished** (the result is important now)\n\n## is / are being done\n> Somebody is repairing my car. (active)\n> My car **is being repaired**. (passive)\n> New houses **are being built** near the park.\n> The room **is being cleaned** at the moment.\n\n## has / have been done\n> Somebody has stolen my keys. (active)\n> My keys **have been stolen**. (passive)\n> The door **has been painted**.\n> I'm not going to the party. I **haven't been invited**.\n> **Has** this shirt **been washed**?\n\n## Compare\n| Tense | Example |\n|---|---|\n| present simple | The office **is cleaned** every day. |\n| present continuous | The office **is being cleaned** now. |\n| present perfect | The office **has been cleaned**. |\n| past simple | The office **was cleaned** yesterday. |\n\n## Common mistakes\n- ~~My car is repairing.~~ → My car **is being repaired**.\n- ~~My keys have stolen.~~ → My keys **have been stolen**.\n- ~~The room has been cleaned yesterday.~~ → The room **was cleaned** yesterday.",
+  "structure": "## Present continuous passive\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| The car is being repaired. | The car isn't being repaired. | Is the car being repaired? |\n| The cars are being repaired. | The cars aren't being repaired. | Are the cars being repaired? |\n| I am being followed. | I'm not being followed. | Am I being followed? |\n\n## Present perfect passive\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| My key has been stolen. | My key hasn't been stolen. | Has my key been stolen? |\n| My keys have been stolen. | My keys haven't been stolen. | Have my keys been stolen? |\n\n## Формулы\n> **am / is / are + being + past participle** — сейчас\n> **have / has + been + past participle** — уже сделано\n\n## Краткие ответы\n- Is it being repaired? — Yes, it **is**. / No, it **isn't**.\n- Has it been repaired? — Yes, it **has**. / No, it **hasn't**.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Что происходит сейчас?",
+      "instruction": "Поставьте глагол в present continuous passive (is / are being + причастие).",
+      "example": "(the car / repair) → The car is being repaired.",
+      "items": [
+        { "text": "The windows {{are being cleaned|'re being cleaned}} at the moment.", "hint": "clean" },
+        { "text": "A new bridge {{is being built|'s being built}} near our school.", "hint": "build" },
+        { "text": "The dinner {{is being cooked|'s being cooked}} now.", "hint": "cook" },
+        { "text": "My shirts {{are being ironed|'re being ironed}} today.", "hint": "iron" },
+        { "text": "The grass {{is being cut|'s being cut}} right now.", "hint": "cut" },
+        { "text": "Our house {{is being painted|'s being painted}} this week.", "hint": "paint" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Что уже произошло?",
+      "instruction": "Поставьте глагол в present perfect passive (has / have been + причастие).",
+      "items": [
+        { "text": "My bike {{has been stolen|'s been stolen}}.", "hint": "steal" },
+        { "text": "The rooms {{have been cleaned|'ve been cleaned}}.", "hint": "clean" },
+        { "text": "The letter {{has been sent|'s been sent}}.", "hint": "send" },
+        { "text": "{{Have}} the tickets {{been bought}}?", "hint": "have / buy" },
+        { "text": "The windows {{haven't been washed|have not been washed}} yet.", "hint": "not / wash" },
+        { "text": "{{Has}} this dress {{been washed}}?", "hint": "have / wash" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "My car isn't here. It ___ at the garage right now.", "options": ["is being repaired", "has repaired", "was being repair"], "answer": 0, "why": "Сейчас → **is being repaired**." },
+        { "q": "I can't find my phone. I think it ___.", "options": ["has been stolen", "is being stolen", "was stealing"], "answer": 0, "why": "Результат сейчас → **has been stolen**." },
+        { "q": "Many new roads ___ in this city now.", "options": ["are built", "are being built", "have being built"], "answer": 1, "why": "Происходит сейчас → **are being built**." },
+        { "q": "Your room ___ . You can go in.", "options": ["has been cleaned", "is being cleaned", "cleaned"], "answer": 0, "why": "Уже убрано → **has been cleaned**." },
+        { "q": "Don't go in! The floor ___ .", "options": ["has been washed", "is being washed", "washed"], "answer": 1, "why": "Моют сейчас → **is being washed**." },
+        { "q": "The bank ___ yesterday.", "options": ["has been robbed", "was robbed", "is being robbed"], "answer": 1, "why": "Yesterday → past simple passive." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Какое время?",
+      "instruction": "Выберите правильное предложение.",
+      "items": [
+        { "q": "«Мой компьютер сейчас чинят».", "options": ["My computer is repairing.", "My computer is being repaired.", "My computer has repaired."], "answer": 1, "why": "**is being repaired**." },
+        { "q": "«Мои ключи нашли».", "options": ["My keys have been found.", "My keys have found.", "My keys are being found yesterday."], "answer": 0, "why": "**have been found**." },
+        { "q": "«Меня не приглашали (до сих пор)».", "options": ["I haven't invited.", "I haven't been invited.", "I wasn't being invite."], "answer": 1, "why": "**haven't been invited**." },
+        { "q": "«Эту рубашку уже постирали?»", "options": ["Has this shirt been washed?", "Is this shirt washed been?", "Did this shirt been washed?"], "answer": 0, "why": "**Has ... been washed?**" },
+        { "q": "«Дом построили в прошлом году».", "options": ["The house has been built last year.", "The house was built last year.", "The house is being built last year."], "answer": 1, "why": "Last year → past simple." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Актив → пассив",
+      "instruction": "Перепишите предложение в пассиве.",
+      "items": [
+        { "text": "Somebody is painting the door. → The door {{is being painted}}.", "hint": "paint" },
+        { "text": "Somebody has broken the window. → The window {{has been broken}}.", "hint": "break" },
+        { "text": "They are building a new school. → A new school {{is being built}}.", "hint": "build" },
+        { "text": "Someone has taken my umbrella. → My umbrella {{has been taken}}.", "hint": "take" },
+        { "text": "Somebody is washing the car. → The car {{is being washed}}.", "hint": "wash" },
+        { "text": "Somebody has cleaned the kitchen. → The kitchen {{has been cleaned}}.", "hint": "clean" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение в нужном пассивном времени.",
+      "items": [
+        { "prompt": "(my car / repair / at the moment)", "answers": ["My car is being repaired at the moment."] },
+        { "prompt": "(the keys / find)", "answers": ["The keys have been found."] },
+        { "prompt": "(new houses / build / now)", "answers": ["New houses are being built now."] },
+        { "prompt": "(I / not / invite / to the party)", "answers": ["I haven't been invited to the party.", "I have not been invited to the party."] },
+        { "prompt": "(this shirt / wash?)", "answers": ["Has this shirt been washed?"] },
+        { "prompt": "(the kitchen / clean / right now)", "answers": ["The kitchen is being cleaned right now."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Опишите ситуации вокруг вас, используя пассив.",
+      "items": [
+        { "prompt": "Что сейчас строят или ремонтируют в вашем районе?", "sample": "A new road is being built near my house." },
+        { "prompt": "Что уже сделано в вашем доме на этой неделе?", "sample": "The windows have been cleaned." },
+        { "prompt": "Что ещё не сделано?", "sample": "The kitchen hasn't been painted yet." },
+        { "prompt": "Что сейчас делают в вашем офисе или школе?", "sample": "The classrooms are being cleaned now." },
+        { "prompt": "Что у вас когда-то украли или потеряли?", "sample": "My bike was stolen two years ago." }
+      ]
+    }
+  ]
+}

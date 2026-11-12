@@ -1,0 +1,107 @@
+{
+  "id": 26,
+  "title": "What are you doing tomorrow?",
+  "summary": "Present continuous для **договорённостей и планов** на будущее (**I'm meeting Tom tomorrow**) и present simple для расписаний.",
+  "ru": "## Present continuous о будущем\nМы уже знаем **am / is / are + -ing** для действия «прямо сейчас». Но то же время используется и для **ближайшего будущего**, если мы **заранее договорились или спланировали**.\n> They **are playing** tennis now. — Они сейчас играют в теннис. (сейчас)\n> Andrew **is playing** tennis tomorrow. — Эндрю завтра играет в теннис. (договорились)\n> I'm **not working** next week. — Я не работаю на следующей неделе.\n\nПо-русски мы тоже можем сказать «Завтра я иду к врачу» — настоящее время в значении будущего. Это и есть present continuous.\n\n## Когда использовать\n**I'm doing something tomorrow** = у меня уже есть план, договорённость, билет, встреча.\n> Alice **is going** to the dentist on Friday. — Элис в пятницу идёт к зубному (записана).\n> We're **having** a party next weekend. — В выходные у нас вечеринка.\n> Are you **meeting** Bill this evening? — Ты встречаешься с Биллом вечером?\n> What are you **doing** tomorrow evening? — Что ты делаешь завтра вечером?\n> I'm **not going** out tonight. I'm **staying** at home. — Сегодня вечером я не выхожу, остаюсь дома.\n\n## Не present simple!\nДля планов и договорённостей present simple **не** используем.\n- ~~I stay at home this evening.~~ → I'm **staying** at home this evening.\n- ~~Do you go out tonight?~~ → **Are** you **going** out tonight?\n- ~~Ann doesn't come to the party.~~ → Ann **isn't coming** to the party.\n\n## Present simple для расписаний\nДля **расписаний, программ, поездов, автобусов, фильмов** используем present simple.\n> The train **arrives** at 7.30. — Поезд прибывает в 7.30.\n> What time **does** the film **finish**? — Во сколько заканчивается фильм?\n\n## Сравнение\n| present continuous (люди) | present simple (расписание) |\n|---|---|\n| I'm going to a concert tomorrow. | The concert starts at 7.30. |\n| What time are you leaving? | What time does your train leave? |\n\n## Типичные ошибки\n- ~~I go to the cinema tomorrow.~~ → I'm **going** to the cinema tomorrow.\n- ~~We meet them at 5. (договорились)~~ → We're **meeting** them at 5.",
+  "en": "## The present continuous for the future\nWe know **am / is / are + -ing** for things happening now. We also use it for the **future** when we have **arranged** or **planned** something.\n> They **are playing** tennis now. (now)\n> Andrew **is playing** tennis tomorrow. (arranged)\n> I'm **not working** next week.\n\n## When to use it\n**I'm doing something tomorrow** = I have a plan or an arrangement (an appointment, a ticket, a meeting).\n> Alice **is going** to the dentist on Friday.\n> We're **having** a party next weekend.\n> Are you **meeting** Bill this evening?\n> What are you **doing** tomorrow evening?\n> I'm **not going** out tonight. I'm **staying** at home.\n\n## Not the present simple!\nDon't use the present simple for plans and arrangements.\n- ~~I stay at home this evening.~~ → I'm **staying** at home this evening.\n- ~~Do you go out tonight?~~ → **Are** you **going** out tonight?\n- ~~Ann doesn't come to the party.~~ → Ann **isn't coming** to the party.\n\n## The present simple for timetables\nWe use the present simple for **timetables, programmes, trains, buses and films**.\n> The train **arrives** at 7.30.\n> What time **does** the film **finish**?\n\n## Compare\n| present continuous (people) | present simple (timetable) |\n|---|---|\n| I'm going to a concert tomorrow. | The concert starts at 7.30. |\n| What time are you leaving? | What time does your train leave? |\n\n## Common mistakes\n- ~~I go to the cinema tomorrow.~~ → I'm **going** to the cinema tomorrow.",
+  "structure": "## Формы (будущее: договорённость)\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| I'm meeting Tom at 6. | I'm not meeting Tom. | Am I meeting Tom? |\n| She's going to the dentist. | She isn't going to the dentist. | Is she going to the dentist? |\n| We're having a party. | We aren't having a party. | Are we having a party? |\n\n## Слова-подсказки\n- tomorrow, tonight, this evening, next week, next Friday, on Saturday, at the weekend\n\n## Полезные вопросы\n- **What are you doing** tomorrow / tonight / at the weekend?\n- **Are you doing** anything this evening?\n- **What time are you meeting** her?\n\n## Формула\n> **am / is / are + -ing** + время в будущем — договорённость, план\n> **present simple** + время — расписание (поезд, фильм, урок)\n\n## Краткие ответы\n- Are you going out tonight? — Yes, I **am**. / No, I'm **not**.\n- Is she coming? — Yes, she **is**. / No, she **isn't**.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Что вы делаете в пятницу?",
+      "instruction": "Поставьте глагол в present continuous (будущее).",
+      "example": "Andrew (play) tennis on Friday. → Andrew is playing tennis.",
+      "items": [
+        { "text": "Richard {{is going|'s going}} to the cinema on Friday.", "hint": "go" },
+        { "text": "Barbara {{is meeting|'s meeting}} her friend for lunch.", "hint": "meet" },
+        { "text": "We {{are having|'re having}} a party on Saturday.", "hint": "have" },
+        { "text": "I {{am visiting|'m visiting}} my grandmother next week.", "hint": "visit" },
+        { "text": "They {{are flying|'re flying}} to Rome tomorrow.", "hint": "fly" },
+        { "text": "Sue {{isn't working|is not working|'s not working}} tomorrow. It's her day off.", "hint": "not / work" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вопросы о планах",
+      "instruction": "Составьте вопрос о будущем из слов в скобках.",
+      "items": [
+        { "text": "{{Are}} you {{going}} out tonight?", "hint": "go" },
+        { "text": "{{Are}} you {{working}} next week?", "hint": "work" },
+        { "text": "What {{are}} you {{doing}} tomorrow evening?", "hint": "do" },
+        { "text": "What time {{are}} you {{meeting}} Tom?", "hint": "meet" },
+        { "text": "{{Is}} Anna {{coming}} to the party?", "hint": "come" },
+        { "text": "Where {{are}} they {{going}} on holiday?", "hint": "go" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I ___ my friend tomorrow. We have already arranged it.", "options": ["meet", "am meeting", "meets"], "answer": 1, "why": "Договорённость → present continuous." },
+        { "q": "What time ___ the train leave?", "options": ["is", "does", "do"], "answer": 1, "why": "Расписание → present simple: **does the train leave**." },
+        { "q": "We ___ at home tonight.", "options": ["stay", "are staying", "stays"], "answer": 1, "why": "План → **are staying**." },
+        { "q": "The film ___ at 8 o'clock.", "options": ["is starting", "starts", "start"], "answer": 1, "why": "Расписание → present simple." },
+        { "q": "___ you doing anything on Friday?", "options": ["Do", "Are", "Will"], "answer": 1, "why": "**Are you doing** — план." },
+        { "q": "Ann ___ to the party next week.", "options": ["doesn't come", "isn't coming", "don't coming"], "answer": 1, "why": "Решила не идти → **isn't coming**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "«Завтра я иду к врачу».", "options": ["I go to the doctor tomorrow.", "I'm going to the doctor tomorrow.", "I going to the doctor tomorrow."], "answer": 1, "why": "**am going** — договорённость." },
+        { "q": "«Ты идёшь сегодня вечером в кино?»", "options": ["Do you go to the cinema tonight?", "Are you going to the cinema tonight?", "You are go to the cinema tonight?"], "answer": 1, "why": "**Are you going** ... ?" },
+        { "q": "«Концерт начинается в 7».", "options": ["The concert is starting at 7.", "The concert starts at 7.", "The concert start at 7."], "answer": 1, "why": "Расписание → present simple." },
+        { "q": "«Мы не работаем в субботу».", "options": ["We aren't working on Saturday.", "We don't working on Saturday.", "We not work on Saturday."], "answer": 0, "why": "**aren't working**." },
+        { "q": "«Во сколько ты уезжаешь?»", "options": ["What time you leave?", "What time are you leaving?", "What time do you leaving?"], "answer": 1, "why": "**What time are you leaving?**" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Continuous или simple?",
+      "instruction": "Поставьте глагол в present continuous (план) или present simple (расписание).",
+      "items": [
+        { "text": "The bus {{leaves}} at 9.15.", "hint": "leave" },
+        { "text": "I {{am playing|'m playing}} tennis with Julia tomorrow.", "hint": "play" },
+        { "text": "What time {{does}} the shop {{open}}?", "hint": "do / open" },
+        { "text": "We {{are having|'re having}} dinner with friends tonight.", "hint": "have" },
+        { "text": "The lesson {{starts}} at ten o'clock.", "hint": "start" },
+        { "text": "Are you {{coming}} to my birthday party on Saturday?", "hint": "come" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение о будущем в present continuous.",
+      "items": [
+        { "prompt": "(I / see / the dentist / tomorrow)", "answers": ["I'm seeing the dentist tomorrow.", "I am seeing the dentist tomorrow."] },
+        { "prompt": "(Anna / not / come / to the party)", "answers": ["Anna isn't coming to the party.", "Anna is not coming to the party.", "Anna's not coming to the party."] },
+        { "prompt": "(what / you / do / tonight?)", "answers": ["What are you doing tonight?"] },
+        { "prompt": "(we / have / a meeting / on Monday)", "answers": ["We're having a meeting on Monday.", "We are having a meeting on Monday."] },
+        { "prompt": "(you / meet / Bill / this evening?)", "answers": ["Are you meeting Bill this evening?"] },
+        { "prompt": "(they / not / go / out / tonight)", "answers": ["They aren't going out tonight.", "They are not going out tonight.", "They're not going out tonight."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Расскажите о своих планах. Используйте present continuous.",
+      "items": [
+        { "prompt": "Что вы делаете сегодня вечером?", "sample": "I'm meeting my friend for dinner." },
+        { "prompt": "Что вы делаете в эти выходные?", "sample": "I'm visiting my parents on Saturday." },
+        { "prompt": "Что вы не делаете завтра?", "sample": "I'm not working tomorrow." },
+        { "prompt": "Куда вы едете в следующем месяце?", "sample": "I'm going to Osh next month." },
+        { "prompt": "Спросите друга о его планах на завтра.", "sample": "What are you doing tomorrow?" }
+      ]
+    }
+  ]
+}

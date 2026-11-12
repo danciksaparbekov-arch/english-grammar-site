@@ -1,0 +1,108 @@
+{
+  "id": 15,
+  "title": "I have done (present perfect 1)",
+  "summary": "Present perfect (**have / has + past participle**) — действие в прошлом, у которого есть **результат сейчас**: «я потерял ключи» (и их нет).",
+  "ru": "## Когда используем\nPresent perfect связывает прошлое и настоящее: что-то **произошло**, и мы видим **результат сейчас**.\n> I'**ve lost** my passport. — Я потерял паспорт. (и сейчас не могу его найти)\n> She'**s gone** to bed. — Она легла спать. (она сейчас в постели)\n> We'**ve bought** a new car. — Мы купили новую машину. (теперь она у нас есть)\n> He **has cleaned** his shoes. — Он почистил туфли. (они чистые сейчас)\nНам важен не момент в прошлом, а то, **что есть сейчас**.\n\n## Как образуется\n**have / has + причастие прошедшего времени (past participle)**\n- **have** — I / we / you / they\n- **has** — he / she / it\n> I **have** finished. She **has** started. They **have** gone out.\nКраткие формы: **I've, you've, we've, they've, he's, she's, it's**.\nОтрицание: **haven't / hasn't + причастие**\n> I **haven't bought** her a present. — Я не купил ей подарок.\nВопрос: **Have / Has + подлежащее + причастие?**\n> **Have** you **finished** with it? — Ты закончил с этим?\n> Where **has** he **gone**? — Куда он ушёл?\n\n## Причастие (past participle)\n- **Правильные глаголы**: причастие = past simple (**-ed**): clean → cleaned, finish → finished, start → started.\n- **Неправильные**: иногда совпадает с past simple, иногда нет.\n\n| Глагол | Past simple | Past participle |\n|---|---|---|\n| buy | bought | **bought** |\n| have | had | **had** |\n| lose | lost | **lost** |\n| break | broke | **broken** |\n| see | saw | **seen** |\n| fall | fell | **fallen** |\n| go | went | **gone** |\n| do | did | **done** |\n| take | took | **taken** |\n| forget | forgot | **forgotten** |\n\n## Типичные ошибки\n- ~~I have lost my keys yesterday.~~ → I **lost** my keys yesterday. (с yesterday, last week — past simple)\n- ~~She have gone.~~ → She **has** gone.\n- ~~He has went.~~ → He has **gone**.\n- ~~I have saw it.~~ → I have **seen** it.\n- ~~Has she finish?~~ → Has she **finished**?",
+  "en": "## When do we use it?\nThe present perfect connects the past and the present. Something **happened**, and there is a **result now**.\n> I'**ve lost** my passport. (I can't find it now)\n> She'**s gone** to bed. (she is in bed now)\n> We'**ve bought** a new car. (we have a new car now)\n> He **has cleaned** his shoes. (they are clean now)\nThe important thing is not **when** it happened, but **what is true now**.\n\n## How to make it\n**have / has + past participle**\n- **have** — I / we / you / they\n- **has** — he / she / it\n> I **have** finished. She **has** started. They **have** gone out.\nShort forms: **I've, you've, we've, they've, he's, she's, it's**.\nNegative: **haven't / hasn't + past participle**\n> I **haven't bought** her a present.\nQuestion: **Have / Has + subject + past participle?**\n> **Have** you **finished** with it?\n> Where **has** he **gone**?\n\n## Past participle\n- **Regular verbs**: the same as the past simple (**-ed**): clean → cleaned, finish → finished.\n- **Irregular verbs**: sometimes the same as the past simple, sometimes different.\n\n| Verb | Past simple | Past participle |\n|---|---|---|\n| buy | bought | **bought** |\n| have | had | **had** |\n| lose | lost | **lost** |\n| break | broke | **broken** |\n| see | saw | **seen** |\n| go | went | **gone** |\n| do | did | **done** |\n| take | took | **taken** |\n\n## Common mistakes\n- ~~I have lost my keys yesterday.~~ → I **lost** my keys yesterday. (with yesterday, last week we use the past simple)\n- ~~She have gone.~~ → She **has** gone.\n- ~~He has went.~~ → He has **gone**.\n- ~~I have saw it.~~ → I have **seen** it.",
+  "structure": "## Утверждение, отрицание, вопрос\n| Подлежащее | Утверждение | Отрицание | Вопрос |\n|---|---|---|---|\n| I / we / you / they | I have lost → I've lost | I haven't lost | Have you lost? |\n| he / she / it | she has lost → she's lost | she hasn't lost | Has she lost? |\n\n## Краткие ответы\n| Вопрос | Да | Нет |\n|---|---|---|\n| Have I / we / you / they ...? | Yes, I / we / you / they **have**. | No, I / we / you / they **haven't**. |\n| Has he / she / it ...? | Yes, he / she / it **has**. | No, he / she / it **hasn't**. |\n\n## Формула\n> Подлежащее + **have / has** + **past participle**\n> I **have lost** my keys. · She **has gone** out. · **Have** you **seen** my bag?\n\n## Причастия\n| Тип | Правило | Пример |\n|---|---|---|\n| Правильные | + ed (= past simple) | cleaned, finished, started, decided |\n| Совпадает с past simple | особая форма | bought, had, lost, made, found, told |\n| Отличается от past simple | особая форма | broke → broken, saw → seen, took → taken, went → gone, did → done, forgot → forgotten |\n\n## Present perfect или past simple?\n| Present perfect | Past simple |\n|---|---|\n| результат сейчас: I've lost my keys. | время названо: I lost my keys yesterday. |\n\n## Особенности\n- **have gone** = ушёл и ещё не вернулся: *She's gone to bed.*\n- **been** — причастие от be: *I've been to Paris.* (см. дальше в курсе)",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Закончите предложения",
+      "instruction": "Поставьте глагол в скобках в present perfect.",
+      "items": [
+        { "text": "Can I have this newspaper? — Yes, I {{have finished|'ve finished}} with it.", "hint": "finish" },
+        { "text": "I {{have bought|'ve bought}} some new shoes. Do you want to see them?", "hint": "buy" },
+        { "text": "Where is Liz? — She {{has gone|'s gone}} out.", "hint": "go" },
+        { "text": "Look! Somebody {{has broken|'s broken}} that window.", "hint": "break" },
+        { "text": "I can't find my umbrella. Somebody {{has taken|'s taken}} it.", "hint": "take" },
+        { "text": "I know that woman but I {{have forgotten|'ve forgotten}} her name.", "hint": "forget" },
+        { "text": "Sue is having a party tonight. She {{has invited|'s invited}} a lot of people.", "hint": "invite" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Причастия (past participle)",
+      "instruction": "Напишите причастие прошедшего времени.",
+      "items": [
+        { "text": "clean → {{cleaned}}" },
+        { "text": "lose → {{lost}}" },
+        { "text": "see → {{seen}}" },
+        { "text": "do → {{done}}" },
+        { "text": "go → {{gone}}" },
+        { "text": "break → {{broken}}" },
+        { "text": "buy → {{bought}}" },
+        { "text": "write → {{written}}" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "have или has?",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I ___ lost my phone.", "options": ["has", "have", "am"], "answer": 1, "why": "I → **have**." },
+        { "q": "My sister ___ gone to work.", "options": ["has", "have", "is"], "answer": 0, "why": "my sister = she → **has**." },
+        { "q": "We ___ finished the lesson.", "options": ["has", "have", "did"], "answer": 1, "why": "we → **have**." },
+        { "q": "___ you seen my keys?", "options": ["Has", "Did", "Have"], "answer": 2, "why": "you → **Have** you seen ...?" },
+        { "q": "She hasn't ___ her homework.", "options": ["did", "do", "done"], "answer": 2, "why": "do → причастие **done**." },
+        { "q": "The children have ___ their shoes.", "options": ["took", "taken", "taking"], "answer": 1, "why": "take → причастие **taken**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант грамматически верный.",
+      "items": [
+        { "q": "Как сказать «Он потерял ключи» (результат сейчас)?", "options": ["He has lose his keys.", "He has lost his keys.", "He have lost his keys."], "answer": 1, "why": "he → **has** + lost." },
+        { "q": "Как сказать «Она ушла»?", "options": ["She has went.", "She has gone.", "She have gone."], "answer": 1, "why": "go → gone; she → has." },
+        { "q": "Как сказать «Я не купила подарок»?", "options": ["I haven't bought a present.", "I haven't buy a present.", "I hasn't bought a present."], "answer": 0, "why": "I → **haven't** + bought." },
+        { "q": "Как спросить «Куда он ушёл?»", "options": ["Where has he gone?", "Where have he gone?", "Where did he gone?"], "answer": 0, "why": "Where + has + he + gone." },
+        { "q": "Как сказать «Я потерял ключи вчера»?", "options": ["I have lost my keys yesterday.", "I lost my keys yesterday.", "I losed my keys yesterday."], "answer": 1, "why": "Названо время (yesterday) → past simple **lost**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Что случилось?",
+      "instruction": "Составьте предложение в present perfect по подсказке.",
+      "items": [
+        { "prompt": "(I / lose / my passport)", "answers": ["I have lost my passport.", "I've lost my passport."] },
+        { "prompt": "(she / go / to bed)", "answers": ["She has gone to bed.", "She's gone to bed."] },
+        { "prompt": "(we / buy / a new car)", "answers": ["We have bought a new car.", "We've bought a new car."] },
+        { "prompt": "(I / not / buy / her a present)", "answers": ["I haven't bought her a present.", "I have not bought her a present."] },
+        { "prompt": "(somebody / break / the window)", "answers": ["Somebody has broken the window.", "Somebody's broken the window."] },
+        { "prompt": "(they / not / finish / their work)", "answers": ["They haven't finished their work.", "They have not finished their work."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте present perfect.",
+      "items": [
+        { "prompt": "Я потеряла телефон.", "answers": ["I've lost my phone.", "I have lost my phone.", "I've lost the phone.", "I have lost the phone."] },
+        { "prompt": "Он уже ушёл на работу. (результат: его нет дома)", "answers": ["He has gone to work.", "He's gone to work."] },
+        { "prompt": "Мы не закончили урок.", "answers": ["We haven't finished the lesson.", "We have not finished the lesson.", "We haven't finished our lesson.", "We have not finished our lesson."] },
+        { "prompt": "Ты видел мои ключи?", "answers": ["Have you seen my keys?"] },
+        { "prompt": "Она разбила чашку.", "answers": ["She has broken a cup.", "She's broken a cup.", "She has broken the cup.", "She's broken the cup.", "She has broken her cup.", "She's broken her cup."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите предложения о недавних событиях в вашей жизни. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Что вы только что сделали (результат виден сейчас)?", "sample": "I've cleaned my room. It's tidy now." },
+        { "prompt": "Что вы купили недавно?", "sample": "I've bought a new phone." },
+        { "prompt": "Что вы потеряли или забыли?", "sample": "I've forgotten my umbrella." },
+        { "prompt": "Что вы ещё не сделали?", "sample": "I haven't done my homework." },
+        { "prompt": "Куда ушёл кто-то из вашей семьи?", "sample": "My brother has gone to the gym." }
+      ]
+    }
+  ]
+}

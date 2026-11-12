@@ -1,0 +1,347 @@
+{
+  "id": 64,
+  "title": "a/an ...",
+  "summary": "Неопределённый артикль **a / an**: перед исчисляемым существительным в единственном числе — «один, какой-то» и для профессий.",
+  "ru": "## Зачем нужен артикль\nВ русском артиклей нет, а в английском перед исчисляемым существительным в единственном числе **обязателен a или an**. Он значит «один из многих, какой-то».\n> Alice works in **a** bank. — Элис работает в банке.\n> Can I ask **a** question? — Можно задать вопрос?\n> I haven't got **a** car. — У меня нет машины.\nНельзя: ~~Alice works in bank.~~, ~~I haven't got car.~~\n\n## a или an?\nВыбор зависит от **звука** первой буквы, а не от написания.\n- **a** — перед согласным звуком: **a** book, **a** car, **a** hat\n- **an** — перед гласным звуком (a, e, i, o, u): **an** apple, **an** egg, **an** umbrella\n> I'm going to buy **a** hat and **an** umbrella.\n> There was **an** interesting programme on TV.\n\n## Особые случаи\n- **an hour** — h не читается: [auər]\n- **a university**, **a European country** — первый звук «ю», это согласный звук.\n- **another** = an + other, пишется **слитно**: *Can I have **another** cup of tea?*\n\n## Когда используем a / an\n1. **Кто или что это** — определение: *The sun is **a** star. Football is **a** game. A mouse is **an** animal.*\n2. **Профессия**: *What's your job? — I'm **a** dentist. He's **an** engineer.* (русское «Я врач» — но в английском артикль нужен!)\n3. **Один из многих**: *There's **a** woman at the bus stop.*\n4. После **What a / such a**: *What **a** beautiful day!*\n\n## Только единственное число\n**a/an** нельзя ставить перед множественным числом: ~~a books~~. Говорим: *a book* (одна) или *books* (много).\n\n## Типичные ошибки\n- ~~I'm teacher.~~ → I'm **a** teacher.\n- ~~She is engineer.~~ → She is **an** engineer.\n- ~~an university~~ → **a** university\n- ~~a hour~~ → **an** hour\n- ~~Can I ask question?~~ → Can I ask **a** question?",
+  "en": "## What are a / an?\n**a / an** is the indefinite article. We use it before **singular countable nouns** when we mean \"one\" or \"any\".\n> Alice works in **a** bank.\n> Can I ask **a** question?\n> I haven't got **a** car.\nYou can't say ~~Alice works in bank~~.\n\n## a or an?\nIt depends on the **sound**, not the letter.\n- **a** + consonant sound: **a** book, **a** car, **a** hat\n- **an** + vowel sound: **an** apple, **an** egg, **an** umbrella\n> I'm going to buy **a** hat and **an** umbrella.\n\n## Special cases\n- **an hour** — the h is silent\n- **a university**, **a European country** — they start with a \"y\" sound\n- **another** = an + other (one word)\n\n## When we use a / an\n1. To say what something is: *The sun is **a** star. A mouse is **an** animal.*\n2. For jobs: *I'm **a** dentist. He's **an** engineer.*\n3. For \"one of many\": *There's **a** woman at the bus stop.*\n\n## Singular only\nWe don't use a / an with plural nouns: ~~a books~~.\n\n## Common mistakes\n- ~~I'm teacher.~~ → I'm **a** teacher.\n- ~~an university~~ → **a** university\n- ~~a hour~~ → **an** hour",
+  "structure": "## Формула\n> **a** + согласный звук + существительное (ед. ч.) — **a** car, **a** key\n> **an** + гласный звук + существительное (ед. ч.) — **an** egg, **an** old house\n\n## a / an: правило звука\n| a | an |\n|---|---|\n| a book | an apple |\n| a university [ю] | an umbrella |\n| a European city [ю] | an hour [h не читается] |\n| a good idea | an interesting idea |\n\n## Профессии\n> be + **a / an** + профессия\n> I'm **a** nurse. · He's **an** artist. · She isn't **a** teacher.\n\n## Прилагательное между\nВыбор a / an зависит от **следующего слова**, а не от существительного.\n> **a** car → **a** new car · **an** apple → **a** red apple · **an** old car",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "a или an?",
+      "instruction": "Впишите **a** или **an**.",
+      "example": "__ egg → **an** egg",
+      "items": [
+        {
+          "text": "{{an}} old book"
+        },
+        {
+          "text": "{{a}} window"
+        },
+        {
+          "text": "{{a}} horse"
+        },
+        {
+          "text": "{{an}} airport"
+        },
+        {
+          "text": "{{a}} new airport"
+        },
+        {
+          "text": "{{an}} orange"
+        },
+        {
+          "text": "{{a}} university"
+        },
+        {
+          "text": "{{an}} hour"
+        },
+        {
+          "text": "{{an}} economic problem"
+        },
+        {
+          "text": "{{a}} European country"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Что это?",
+      "instruction": "Вставьте **a** или **an** и слово из скобок: (cat, animal, doctor, engineer, cake, city, star, month).",
+      "items": [
+        {
+          "text": "A cat is {{an}} animal."
+        },
+        {
+          "text": "The sun is {{a}} star."
+        },
+        {
+          "text": "London is {{a}} city."
+        },
+        {
+          "text": "July is {{a}} month."
+        },
+        {
+          "text": "A mouse is {{an}} animal."
+        },
+        {
+          "text": "Paris is {{a}} city."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Профессии",
+      "instruction": "Вставьте **a** или **an**.",
+      "items": [
+        {
+          "text": "'What does your mother do?' 'She's {{a}} dentist.'"
+        },
+        {
+          "text": "My brother is {{an}} engineer."
+        },
+        {
+          "text": "Do you want to be {{a}} teacher?"
+        },
+        {
+          "text": "Beethoven was {{a}} composer."
+        },
+        {
+          "text": "Picasso was {{a}} famous painter."
+        },
+        {
+          "text": "My father is {{an}} accountant."
+        },
+        {
+          "text": "Anna is {{an}} actress."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "a или an?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I need ___ umbrella.",
+          "options": [
+            "a",
+            "an",
+            "—"
+          ],
+          "answer": 1,
+          "why": "Гласный звук → **an**."
+        },
+        {
+          "q": "Is he ___ student?",
+          "options": [
+            "a",
+            "an",
+            "—"
+          ],
+          "answer": 0,
+          "why": "Согласный звук → **a**."
+        },
+        {
+          "q": "She works in ___ office.",
+          "options": [
+            "a",
+            "an",
+            "—"
+          ],
+          "answer": 1,
+          "why": "Гласный звук → **an**."
+        },
+        {
+          "q": "It's ___ hour from here.",
+          "options": [
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": 1,
+          "why": "h не читается → **an hour**."
+        },
+        {
+          "q": "He studies at ___ university.",
+          "options": [
+            "a",
+            "an",
+            "—"
+          ],
+          "answer": 0,
+          "why": "Начинается со звука «ю» → **a**."
+        },
+        {
+          "q": "Can I have ___ cup of tea?",
+          "options": [
+            "an",
+            "another",
+            "other"
+          ],
+          "answer": 1,
+          "why": "**another** = ещё одну."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Верно только одно.",
+      "items": [
+        {
+          "q": "Как сказать «Я врач»?",
+          "options": [
+            "I'm doctor.",
+            "I'm a doctor.",
+            "I'm an doctor."
+          ],
+          "answer": 1,
+          "why": "Профессия → **a doctor**."
+        },
+        {
+          "q": "Как сказать «У неё нет машины»?",
+          "options": [
+            "She hasn't got car.",
+            "She hasn't got a car.",
+            "She hasn't got an car."
+          ],
+          "answer": 1,
+          "why": "Исчисляемое, ед. ч. → **a car**."
+        },
+        {
+          "q": "Как сказать «Это интересная книга»?",
+          "options": [
+            "It's a interesting book.",
+            "It's an interesting book.",
+            "It's interesting book."
+          ],
+          "answer": 1,
+          "why": "interesting начинается с гласного → **an**."
+        },
+        {
+          "q": "Как сказать «Он в университете»?",
+          "options": [
+            "He's at an university.",
+            "He's at a university.",
+            "He's at university a."
+          ],
+          "answer": 1,
+          "why": "Звук «ю» → **a university**."
+        },
+        {
+          "q": "Как сказать «Это очень красивый день»?",
+          "options": [
+            "It's a very beautiful day.",
+            "It's an very beautiful day.",
+            "It's very beautiful day."
+          ],
+          "answer": 0,
+          "why": "Слово после артикля — very, оно на согласный → **a**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение. Не забудьте **a / an**.",
+      "items": [
+        {
+          "prompt": "(my father / engineer)",
+          "answers": [
+            "My father is an engineer.",
+            "My father's an engineer."
+          ]
+        },
+        {
+          "prompt": "(I / have / idea)",
+          "answers": [
+            "I have an idea.",
+            "I've got an idea.",
+            "I have got an idea."
+          ]
+        },
+        {
+          "prompt": "(she / want / apple)",
+          "answers": [
+            "She wants an apple."
+          ]
+        },
+        {
+          "prompt": "(Tom / not / teacher)",
+          "answers": [
+            "Tom isn't a teacher.",
+            "Tom is not a teacher.",
+            "Tom's not a teacher."
+          ]
+        },
+        {
+          "prompt": "(there / be / cat / in the garden)",
+          "answers": [
+            "There is a cat in the garden.",
+            "There's a cat in the garden."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Я учитель.",
+          "answers": [
+            "I'm a teacher.",
+            "I am a teacher."
+          ]
+        },
+        {
+          "prompt": "У него есть собака.",
+          "answers": [
+            "He has a dog.",
+            "He's got a dog.",
+            "He has got a dog."
+          ]
+        },
+        {
+          "prompt": "Ты хочешь яблоко?",
+          "answers": [
+            "Do you want an apple?"
+          ]
+        },
+        {
+          "prompt": "Она работает в банке.",
+          "answers": [
+            "She works in a bank.",
+            "She works at a bank."
+          ]
+        },
+        {
+          "prompt": "Это старая машина.",
+          "answers": [
+            "It's an old car.",
+            "This is an old car.",
+            "That's an old car.",
+            "It is an old car."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите несколько предложений с **a / an**.",
+      "items": [
+        {
+          "prompt": "What is your job? (or: what do you study?)",
+          "sample": "I'm a student. / I'm an engineer."
+        },
+        {
+          "prompt": "What does your father or mother do?",
+          "sample": "My mother is a nurse. My father is an accountant."
+        },
+        {
+          "prompt": "What do you have in your bag? (3 things)",
+          "sample": "I have a phone, a book and an umbrella."
+        },
+        {
+          "prompt": "Describe your town: 'It's a ...'",
+          "sample": "It's a small town. It has a nice park."
+        },
+        {
+          "prompt": "What animal do you like?",
+          "sample": "I like a cat. A cat is a good friend."
+        }
+      ]
+    }
+  ]
+}

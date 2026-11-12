@@ -1,0 +1,108 @@
+{
+  "id": 89,
+  "title": "the oldest the most expensive",
+  "summary": "Превосходная степень: **the oldest**, **the most expensive** — «самый …» из нескольких.",
+  "ru": "## Сравнительная и превосходная степень\nСравнительная степень сравнивает двоих (older), превосходная выделяет **одного** из многих («самый старый»).\n> This hotel is **more expensive than** that one. — Этот отель дороже того.\n> This hotel is **the most expensive** in the town. — Этот отель самый дорогой в городе.\n\n## Как образуется\n- Короткие слова: **the + прилагательное + -est**: old → **the oldest**, cheap → **the cheapest**\n- На -e добавляем -st: nice → **the nicest**\n- Удвоение согласной: big → **the biggest**, hot → **the hottest**\n- Слова на -y: **-iest**: easy → **the easiest**, heavy → **the heaviest**\n- Длинные слова: **the most + прилагательное**: **the most careful**, **the most interesting**\n- Исключения: good → **the best**, bad → **the worst**, far → **the furthest**\n\n## Всегда с the\nПеред превосходной степенью почти всегда ставим **the**.\n> It's **the oldest** building in the town. — Это самое старое здание в городе.\n> What's **the longest** river in the world? — Какая самая длинная река в мире?\n> Where's **the nearest** bank? — Где ближайший банк?\n\n## Можно без существительного\n> Ken is a good player, but he isn't **the best** in the team. — Кен хороший игрок, но не лучший в команде.\n\n## in или of?\nПосле превосходной степени для места и группы используем **in**: the biggest city **in** the country, the best student **in** the class. Для числа предметов — **of**: the best **of** the three.\n\n## superlative + ever\nС превосходной степенью часто используем **ever** и present perfect.\n> It's **the worst** film I've **ever** seen. — Это худший фильм, что я когда-либо видела.\n> This is **the most unusual** thing you've ever done. — Это самое необычное, что ты делал.\n\n## Типичные ошибки\n- ~~the more expensive hotel in the town~~ → the **most** expensive hotel\n- ~~the most old~~ → **the oldest**\n- ~~oldest building~~ → **the** oldest building\n- ~~the biggest of the country~~ → the biggest **in** the country",
+  "en": "## Comparative and superlative\nThe comparative compares two things (older). The superlative picks **one** from a group (the oldest).\n> This hotel is **more expensive than** that one.\n> This hotel is **the most expensive** in the town.\n\n## How to form it\n- Short words: **the + -est**: old → **the oldest**, cheap → **the cheapest**\n- ending in -e: nice → **the nicest**\n- double the consonant: big → **the biggest**, hot → **the hottest**\n- ending in -y: **-iest**: easy → **the easiest**, heavy → **the heaviest**\n- long words: **the most + adjective**: **the most careful**, **the most interesting**\n- special forms: good → **the best**, bad → **the worst**, far → **the furthest**\n\n## We use the\nWe nearly always use **the** before a superlative.\n> It's **the oldest** building in the town.\n> What's **the longest** river in the world?\n> Where's **the nearest** bank?\n\n## Without a noun\n> Ken is a good player but he isn't **the best** in the team.\n\n## in or of?\nAfter a superlative we use **in** with a place or a group: the biggest city **in** the country. We use **of** with a number of things: the best **of** the three.\n\n## superlative + ever\n> It's **the worst** film I've **ever** seen.\n> What's **the most unusual** thing you've ever done?\n\n## Common mistakes\n- ~~the more expensive hotel in the town~~ → the **most** expensive hotel\n- ~~the most old~~ → **the oldest**\n- ~~the biggest of the country~~ → the biggest **in** the country",
+  "structure": "## Образование превосходной степени\n| Тип слова | Правило | Пример |\n|---|---|---|\n| 1 слог | the + **-est** | old → the oldest, cheap → the cheapest |\n| на -e | the + **-st** | nice → the nicest, late → the latest |\n| гласная + согласная | удвоить + **-est** | big → the biggest, hot → the hottest |\n| на -y | the + **-iest** | easy → the easiest, heavy → the heaviest |\n| 2+ слога | the **most** + слово | the most expensive |\n| исключения | особые формы | the best, the worst, the furthest |\n\n## Формула\n> Подлежащее + be + **the + superlative** + (существительное) + **in / of** ...\n> She's **the youngest** in the class. · It's **the most expensive** of the three.\n\n## Сравните три степени\n| Положительная | Сравнительная | Превосходная |\n|---|---|---|\n| old | older | the oldest |\n| easy | easier | the easiest |\n| interesting | more interesting | the most interesting |\n| good | better | the best |\n| bad | worse | the worst |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Превосходная степень",
+      "instruction": "Напишите превосходную степень (с **the**).",
+      "example": "old → **the oldest**",
+      "items": [
+        { "text": "cheap → {{the cheapest}}" },
+        { "text": "big → {{the biggest}}" },
+        { "text": "easy → {{the easiest}}" },
+        { "text": "interesting → {{the most interesting}}" },
+        { "text": "good → {{the best}}" },
+        { "text": "nice → {{the nicest}}" },
+        { "text": "bad → {{the worst}}" },
+        { "text": "expensive → {{the most expensive}}" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Закончите предложения",
+      "instruction": "Вставьте превосходную степень слова в скобках.",
+      "items": [
+        { "text": "The church is {{the oldest}} building in the town.", "hint": "old" },
+        { "text": "Mount Everest is {{the highest}} mountain in the world.", "hint": "high" },
+        { "text": "This is {{the most comfortable}} chair in the house.", "hint": "comfortable" },
+        { "text": "July is {{the hottest}} month of the year here.", "hint": "hot" },
+        { "text": "That was {{the worst}} meal I've ever had.", "hint": "bad" },
+        { "text": "Which is {{the longest}} river in the country?", "hint": "long" },
+        { "text": "Anna is {{the youngest}} student in the class.", "hint": "young" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "My brother is ___ person in our family.", "options": ["tallest", "the tallest", "the most tall"], "answer": 1, "why": "tall → **the tallest**." },
+        { "q": "This is ___ film I've ever seen.", "options": ["the most good", "the better", "the best"], "answer": 2, "why": "good → **the best**." },
+        { "q": "She's the best singer ___ the class.", "options": ["of", "in", "than"], "answer": 1, "why": "Группа или место → **in the class**." },
+        { "q": "It's ___ restaurant in the city.", "options": ["the most expensive", "the expensivest", "most expensive"], "answer": 0, "why": "Длинное слово → **the most expensive**." },
+        { "q": "Today is ___ day of my life!", "options": ["the happiest", "the most happy", "the happyest"], "answer": 0, "why": "happy → **the happiest**." },
+        { "q": "Where is ___ bank, please?", "options": ["nearest", "the most near", "the nearest"], "answer": 2, "why": "near → **the nearest**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Сравнительная или превосходная?",
+      "instruction": "Выберите правильную форму по смыслу.",
+      "items": [
+        { "q": "Bishkek is ___ than Naryn.", "options": ["bigger", "the biggest", "the most big"], "answer": 0, "why": "Сравниваем двух → comparative + than." },
+        { "q": "Bishkek is ___ city in Kyrgyzstan.", "options": ["bigger", "the biggest", "biggest than"], "answer": 1, "why": "Один из многих → the biggest." },
+        { "q": "This phone is ___ than that one.", "options": ["the most cheap", "the cheapest", "cheaper"], "answer": 2, "why": "Два предмета → cheaper." },
+        { "q": "This phone is ___ in the shop.", "options": ["cheaper", "the cheapest", "more cheap"], "answer": 1, "why": "Из всех в магазине → the cheapest." },
+        { "q": "Of the three boys, Tom is ___.", "options": ["older", "the oldest", "more old"], "answer": 1, "why": "Из трёх → the oldest." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с превосходной степенью.",
+      "example": "(Alex / tall / in the team) → Alex is the tallest in the team.",
+      "items": [
+        { "prompt": "(this / big / building / in the town)", "answers": ["This is the biggest building in the town."] },
+        { "prompt": "(Lake Baikal / deep / lake / in the world)", "answers": ["Lake Baikal is the deepest lake in the world."] },
+        { "prompt": "(my sister / young / in the family)", "answers": ["My sister is the youngest in the family."] },
+        { "prompt": "(it / good / film / I've ever seen)", "answers": ["It's the best film I've ever seen.", "It is the best film I've ever seen."] },
+        { "prompt": "(this / bad / day / of my life)", "answers": ["This is the worst day of my life.", "This is the worst day in my life."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        { "prompt": "Это самый старый дом в нашей улице.", "answers": ["This is the oldest house in our street.", "It's the oldest house in our street.", "It is the oldest house in our street.", "This is the oldest house on our street.", "It's the oldest house on our street.", "It is the oldest house on our street."] },
+        { "prompt": "Какой самый длинный день в году?", "answers": ["What is the longest day of the year?", "What's the longest day of the year?", "Which is the longest day of the year?", "What is the longest day in the year?", "What's the longest day in the year?"] },
+        { "prompt": "Она самая добрая в нашей группе.", "answers": ["She is the kindest in our group.", "She's the kindest in our group.", "She is the kindest person in our group.", "She's the kindest person in our group."] },
+        { "prompt": "Это самая интересная книга, которую я когда-либо читала.", "answers": ["It's the most interesting book I've ever read.", "It is the most interesting book I've ever read.", "This is the most interesting book I've ever read."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте превосходную степень.",
+      "items": [
+        { "prompt": "Какой ваш любимый самый красивый город?", "sample": "Istanbul is the most beautiful city I've ever visited." },
+        { "prompt": "Кто самый старший или самый младший в вашей семье?", "sample": "My grandmother is the oldest in my family." },
+        { "prompt": "Лучший фильм или книга, которые вы видели/читали.", "sample": "It's the best film I've ever seen." },
+        { "prompt": "Самый трудный предмет или день на неделе.", "sample": "Monday is the hardest day of the week." },
+        { "prompt": "Самая вкусная еда, которую вы пробовали.", "sample": "It's the most delicious food I've ever eaten." }
+      ]
+    }
+  ]
+}

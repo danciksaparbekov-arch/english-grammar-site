@@ -1,0 +1,285 @@
+{
+  "id": 84,
+  "title": "old/nice/interesting etc. (adjectives)",
+  "summary": "Прилагательные стоят перед существительным и не меняются; после be, look, feel, smell, taste, sound тоже идёт прилагательное.",
+  "ru": "## Прилагательное + существительное\nПрилагательное отвечает на вопрос «какой?». В английском оно стоит **перед** существительным и **никогда не меняется** (нет рода, числа, падежа).\n> a **nice** day — хороший день\n> **brown** eyes — карие глаза\n> an **old** bridge — старый мост\n> **foreign** languages — иностранные языки\n> a **different** place / different **places** (не ~~differents~~)\nПорядок: **прилагательное → существительное**:\n> They live in a **modern house**. (не ~~a house modern~~)\n> Have you met any **famous people**? (не ~~people famous~~)\n\n## be + прилагательное\nПрилагательное может стоять **после be** (am / is / are / was / were):\n> The weather **is nice**. — Погода хорошая.\n> These flowers **are beautiful**. — Эти цветы красивые.\n> The film **wasn't good**. It **was boring**. — Фильм был нехорошим, скучным.\n> Please **be quiet**. — Пожалуйста, потише.\n\n## look / feel / smell / taste / sound + прилагательное\nПосле этих глаголов тоже **прилагательное** (не наречие):\n> You **look tired**. — Ты выглядишь усталой.\n> I **feel hungry**. — Я чувствую голод.\n> It **smells good**. — Хорошо пахнет.\n> This soup **tastes great**. — Этот суп очень вкусный.\n> That **sounds interesting**. — Звучит интересно.\nСравните: *He **is** tired* / *He **looks** tired* — оба говорят «он усталый».\n\n## Типичные ошибки\n- ~~a car red~~ → a **red car**\n- ~~two beautifuls girls~~ → two **beautiful** girls\n- ~~She looks happily.~~ → She looks **happy**.\n- ~~It smells well.~~ → It smells **good**.",
+  "en": "## Adjective + noun\nAn adjective tells us what something is like. It goes **before** the noun and is **always the same** (no plural form).\n> a **nice** day · **brown** eyes · an **old** bridge · **foreign** languages\n> a **different** place / different **places** (not ~~differents~~)\n> They live in a **modern house**. (not ~~a house modern~~)\n\n## be + adjective\n> The weather **is nice**. · These flowers **are beautiful**. · The film **wasn't good**. · Please **be quiet**.\n\n## look / feel / smell / taste / sound + adjective\nAfter these verbs we use an **adjective**:\n> You **look tired**. · I **feel hungry**. · It **smells good**. · This soup **tastes great**. · That **sounds interesting**.\nCompare: *He **is** tired.* / *He **looks** tired.*\n\n## Common mistakes\n- ~~a car red~~ → a **red car**\n- ~~two beautifuls girls~~ → two **beautiful** girls\n- ~~She looks happily.~~ → She looks **happy**.\n- ~~It smells well.~~ → It smells **good**.",
+  "structure": "## Формулы\n> **a / an** + прилагательное + существительное: *a big house, an old car*\n> прилагательное + существительное (мн. число): *red apples, famous people*\n> **be** + прилагательное: *She is happy.*\n> **look / feel / smell / taste / sound** + прилагательное: *It smells nice.*\n\n## Порядок слов\n| неверно | верно |\n|---|---|\n| a woman young | a **young woman** |\n| a film interesting | an **interesting film** |\n| a new blue car (цвет — ближе к существительному) | a **new blue car** |\n\n## a / an\n> **a** + согласный звук: *a nice day*\n> **an** + гласный звук: *an old bridge, an expensive hotel*",
+  "exercises": [
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Расставьте слова",
+      "instruction": "Составьте предложение из слов в скобках.",
+      "items": [
+        {
+          "prompt": "(new / live in / house / they / a)",
+          "answers": [
+            "They live in a new house."
+          ]
+        },
+        {
+          "prompt": "(like / jacket / I / that / green)",
+          "answers": [
+            "I like that green jacket."
+          ]
+        },
+        {
+          "prompt": "(music / like / do / classical / you?)",
+          "answers": [
+            "Do you like classical music?"
+          ]
+        },
+        {
+          "prompt": "(had / wonderful / a / I / holiday)",
+          "answers": [
+            "I had a wonderful holiday."
+          ]
+        },
+        {
+          "prompt": "(went to / restaurant / a / Chinese / we)",
+          "answers": [
+            "We went to a Chinese restaurant."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Прилагательное + существительное",
+      "instruction": "Используйте прилагательное и существительное из скобок.",
+      "items": [
+        {
+          "text": "Do you speak any {{foreign}} {{languages}}? (foreign / languages)"
+        },
+        {
+          "text": "Look at those {{black}} {{clouds}}. It's going to rain. (black / clouds)"
+        },
+        {
+          "text": "Be careful! That's a {{sharp}} {{knife}}. (sharp / knife)"
+        },
+        {
+          "text": "I'd like a {{long}} {{holiday}} by the sea. (long / holiday)"
+        },
+        {
+          "text": "Open the window. I need some {{fresh}} {{air}}. (fresh / air)"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "She is wearing a ___ dress.",
+          "options": [
+            "dress red",
+            "red",
+            "reds"
+          ],
+          "answer": 1,
+          "why": "Прилагательное перед существительным; без -s."
+        },
+        {
+          "q": "This soup tastes ___.",
+          "options": [
+            "well",
+            "good",
+            "badly"
+          ],
+          "answer": 1,
+          "why": "После taste — прилагательное **good**."
+        },
+        {
+          "q": "You look ___. Are you OK?",
+          "options": [
+            "tiredly",
+            "tired",
+            "tire"
+          ],
+          "answer": 1,
+          "why": "look + прилагательное → **tired**."
+        },
+        {
+          "q": "They are ___ students.",
+          "options": [
+            "interesteds",
+            "interesting",
+            "interest"
+          ],
+          "answer": 1,
+          "why": "Прилагательное не меняется: **interesting students**."
+        },
+        {
+          "q": "That ___ interesting.",
+          "options": [
+            "sounds",
+            "sounds like",
+            "sound"
+          ],
+          "answer": 0,
+          "why": "that + sounds + adjective."
+        },
+        {
+          "q": "It's an ___ question.",
+          "options": [
+            "easy",
+            "an easy",
+            "easyes"
+          ],
+          "answer": 0,
+          "why": "**an easy question**, прилагательное без -s."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "She has eyes blue.",
+            "She has blue eyes.",
+            "She has blues eyes."
+          ],
+          "answer": 1,
+          "why": "Прилагательное перед существительным, без -s."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "The cake smells well.",
+            "The cake smells good.",
+            "The cake smells nicely."
+          ],
+          "answer": 1,
+          "why": "smell + adjective."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "He lives in a house modern.",
+            "He lives in a modern house.",
+            "He lives in a modern houses."
+          ],
+          "answer": 1,
+          "why": "**a modern house**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "I feel coldly.",
+            "I feel cold.",
+            "I am feel cold."
+          ],
+          "answer": 1,
+          "why": "feel + adjective → **cold**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "They are famouses actors.",
+            "They are famous actors.",
+            "They are actors famous."
+          ],
+          "answer": 1,
+          "why": "**famous actors**."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Вставьте прилагательное",
+      "instruction": "Вставьте подходящее прилагательное из списка: **tired, delicious, cold, boring, quiet**.",
+      "items": [
+        {
+          "text": "I walked ten kilometres. I'm very {{tired}}."
+        },
+        {
+          "text": "Please be {{quiet}}. The baby is sleeping."
+        },
+        {
+          "text": "This pizza tastes {{delicious}}."
+        },
+        {
+          "text": "Close the window. I feel {{cold}}."
+        },
+        {
+          "text": "The lesson was long and {{boring}}."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "У неё красивые голубые глаза.",
+          "answers": [
+            "She has beautiful blue eyes.",
+            "She's got beautiful blue eyes.",
+            "She has got beautiful blue eyes."
+          ]
+        },
+        {
+          "prompt": "Это интересная книга.",
+          "answers": [
+            "It's an interesting book.",
+            "This is an interesting book.",
+            "It is an interesting book."
+          ]
+        },
+        {
+          "prompt": "Ты выглядишь счастливым.",
+          "answers": [
+            "You look happy."
+          ]
+        },
+        {
+          "prompt": "Этот суп вкусно пахнет.",
+          "answers": [
+            "This soup smells good.",
+            "This soup smells nice.",
+            "The soup smells good.",
+            "The soup smells nice."
+          ]
+        },
+        {
+          "prompt": "Мы живём в старом доме.",
+          "answers": [
+            "We live in an old house."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями с прилагательными. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Опишите свой дом или квартиру.",
+          "sample": "I live in a small modern flat."
+        },
+        {
+          "prompt": "Как вы себя чувствуете сегодня?",
+          "sample": "I feel a little tired today."
+        },
+        {
+          "prompt": "Какая ваша любимая еда и как она пахнет/на вкус?",
+          "sample": "My favourite food is plov. It smells wonderful and tastes delicious."
+        }
+      ]
+    }
+  ]
+}

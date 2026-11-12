@@ -1,0 +1,336 @@
+{
+  "id": 114,
+  "title": "the people we met, the hotel you stayed at (relative clauses 2)",
+  "summary": "Придаточные без **who / that / which**, когда у придаточной есть своё подлежащее (**the people we met**), и придаточные с предлогом в конце (**the hotel we stayed at**).",
+  "ru": "## Когда who / that можно опустить\nЕсли в придаточной части **уже есть** своё подлежащее (I, you, we, she, Tom ...), то **who / that / which** можно не писать.\n> The people **(that)** we met were very friendly. = The people we met were very friendly. — Люди, которых мы встретили, были очень дружелюбны.\n> Where is the book **(which)** you bought? = Where is the book you bought? — Где книга, которую ты купила?\n> The girl **(who)** I saw was Kate. = The girl I saw was Kate.\n\n## Сравните: когда нельзя опускать\nЕсли **who / that / which** — подлежащее придаточной (сразу после него идёт глагол), опускать **нельзя**.\n> The man **who lives** next door is a nurse. (после who — глагол lives → нельзя опустить)\n> The man **I met** is a nurse. (после man — подлежащее I → who опускаем)\n\n## Предлог в конце\nЕсли глагол в придаточной требует предлога, он стоит **в самом конце** придаточной части, а не перед who.\n> This is the hotel **we stayed at**. — Вот отель, в котором мы останавливались.\n> The man **I spoke to** was very nice. — Мужчина, с которым я говорила, был очень мил.\n> Where is the film **you told me about**? — Где фильм, о котором ты мне говорила?\n> The girl **he is looking for** is my sister. — Девушка, которую он ищет, моя сестра.\nМожно и с that / which: *the hotel **that / which** we stayed at*.\n\n## Формальный вариант\nВ русском предлог стоит перед «котором», в английском — в конце.\n> ~~the hotel at which we stayed~~ → слишком формально; лучше **the hotel we stayed at**.\n> ~~the man to who I spoke~~ → **the man I spoke to**.\n\n## Типичные ошибки\n- ~~The girl I saw her was Kate.~~ → The girl **I saw** was Kate. (her лишнее)\n- ~~The book which I read it.~~ → The book **(which) I read**.\n- ~~The hotel we stayed.~~ → The hotel we stayed **at**. (потерян предлог)\n- ~~The man to whom I spoke.~~ — формально; лучше **the man I spoke to**.",
+  "en": "## When you can leave out who / that / which\nIf the relative clause already has its own subject (I, you, we, she, Tom ...), you can leave out **who / that / which**.\n> The people **(that)** we met were very friendly. = The people we met were very friendly.\n> Where is the book **(which)** you bought? = Where is the book you bought?\n> The girl **(who)** I saw was Kate. = The girl I saw was Kate.\n\n## When you can't leave it out\nIf **who / that / which** is the subject (a verb comes next), you must keep it.\n> The man **who lives** next door is a nurse.\n> The man **I met** is a nurse.\n\n## Preposition at the end\nIf the verb needs a preposition, it goes at the **end** of the clause.\n> This is the hotel **we stayed at**.\n> The man **I spoke to** was very nice.\n> Where is the film **you told me about**?\n> The girl **he is looking for** is my sister.\nYou can also use that / which: *the hotel **that / which** we stayed at*.\n\n## Don't repeat the object\n> ~~The girl I saw her was Kate.~~ → The girl **I saw** was Kate.\n> ~~The book which I read it.~~ → The book **(which) I read**.\n\n## Common mistakes\n- ~~The hotel we stayed.~~ → The hotel we stayed **at**.\n- ~~The man to who I spoke.~~ → The man **I spoke to**.",
+  "structure": "## Схема\n| Тип | Конструкция | Пример |\n|---|---|---|\n| who / that — подлежащее | сущ. + **who** + глагол | The man **who lives** here |\n| who / that — дополнение | сущ. + (**who**) + подлежащее + глагол | The man (who) **I met** |\n| с предлогом | сущ. + подлежащее + глагол + **предлог** | The hotel **we stayed at** |\n\n## Формулы\n> Существительное + **подлежащее + глагол** (без who / that)\n> the people **we met** · the film **I saw** · the song **she sings**\n> Существительное + подлежащее + глагол + **предлог**\n> the person **I talked to** · the key **I'm looking for**\n\n## Запомните\n- Нет **who / that** + подлежащее после существительного → слово опущено, это нормально.\n- Есть глагол сразу после существительного → **who / that / which** обязательно.\n- Предлог — в конце: **for, to, at, about, with, of**.\n- Местоимение-дополнение (**her, it, them**) в такой придаточной не повторяем.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Нужно ли who / that?",
+      "instruction": "Вставьте **who / that / which**, или **—**, если слово можно опустить.",
+      "items": [
+        {
+          "text": "The man {{who|that}} lives next door is a dentist."
+        },
+        {
+          "text": "The book {{—|-|that|which}} I bought was very interesting."
+        },
+        {
+          "text": "Where is the cake {{that|which}} was on the table?"
+        },
+        {
+          "text": "The girl {{—|-|who|that}} I met yesterday is called Dina."
+        },
+        {
+          "text": "I like people {{who|that}} laugh a lot."
+        },
+        {
+          "text": "The film {{—|-|that|which}} we saw was boring."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Предлог в конце",
+      "instruction": "Допишите предлог: **at, to, for, about, with, in**.",
+      "items": [
+        {
+          "text": "This is the hotel we stayed {{at}}."
+        },
+        {
+          "text": "The woman I spoke {{to|with}} was very kind."
+        },
+        {
+          "text": "Where is the key you were looking {{for}}?"
+        },
+        {
+          "text": "The film I told you {{about}} is on TV tonight."
+        },
+        {
+          "text": "The boy she is going out {{with}} is her classmate."
+        },
+        {
+          "text": "That's the house we lived {{in}} when I was small."
+        },
+        {
+          "text": "Is this the song you were listening {{to}}?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "The people ___ were very friendly.",
+          "options": [
+            "we met",
+            "we met them",
+            "who we met them"
+          ],
+          "answer": 0,
+          "why": "**the people we met** — без повторения дополнения."
+        },
+        {
+          "q": "The man ___ lives next door is a doctor.",
+          "options": [
+            "—",
+            "who",
+            "he"
+          ],
+          "answer": 1,
+          "why": "Нужен **who**, потому что дальше глагол."
+        },
+        {
+          "q": "This is the shop ___.",
+          "options": [
+            "I work at",
+            "I work",
+            "I work it at"
+          ],
+          "answer": 0,
+          "why": "Предлог остаётся в конце: **the shop I work at**."
+        },
+        {
+          "q": "Is this the bus ___ ?",
+          "options": [
+            "you waited for",
+            "you waited",
+            "for you waited"
+          ],
+          "answer": 0,
+          "why": "Предлог остаётся в конце: **waited for**."
+        },
+        {
+          "q": "The girl ___ is my friend.",
+          "options": [
+            "I told you about",
+            "I told you",
+            "about I told you"
+          ],
+          "answer": 0,
+          "why": "**told you about** — предлог в конце."
+        },
+        {
+          "q": "I can't find the keys ___.",
+          "options": [
+            "I'm looking",
+            "I'm looking for",
+            "for I'm looking"
+          ],
+          "answer": 1,
+          "why": "**look for** — предлог в конце."
+        },
+        {
+          "q": "The woman ___ called me was my aunt.",
+          "options": [
+            "who",
+            "—",
+            "she"
+          ],
+          "answer": 0,
+          "why": "После woman идёт глагол **called** → нужен who."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Фильм, который мы посмотрели, был скучным»?",
+          "options": [
+            "The film we saw was boring.",
+            "The film we saw it was boring.",
+            "The film which we saw it was boring."
+          ],
+          "answer": 0,
+          "why": "Дополнение (it) не повторяем."
+        },
+        {
+          "q": "Как сказать «Это отель, в котором мы жили»?",
+          "options": [
+            "This is the hotel we stayed.",
+            "This is the hotel we stayed at.",
+            "This is the hotel at we stayed."
+          ],
+          "answer": 1,
+          "why": "Предлог **at** — в конце."
+        },
+        {
+          "q": "Как сказать «Человек, с которым я говорила, — мой сосед»?",
+          "options": [
+            "The man I spoke to is my neighbour.",
+            "The man to I spoke is my neighbour.",
+            "The man I spoke is my neighbour to."
+          ],
+          "answer": 0,
+          "why": "**spoke to** — предлог сразу после глагола."
+        },
+        {
+          "q": "Как сказать «Книга, которую я читаю, очень интересная»?",
+          "options": [
+            "The book I'm reading is very interesting.",
+            "The book I'm reading it is very interesting.",
+            "The book who I'm reading is very interesting."
+          ],
+          "answer": 0,
+          "why": "Без повторения it, who — для людей."
+        },
+        {
+          "q": "Как сказать «Женщина, которая живёт рядом, — врач»?",
+          "options": [
+            "The woman lives next door is a doctor.",
+            "The woman who lives next door is a doctor.",
+            "The woman she lives next door is a doctor."
+          ],
+          "answer": 1,
+          "why": "Перед глаголом **lives** нужен **who**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Соедините предложения",
+      "instruction": "Соедините два предложения. Пропустите **who / that / which**, если можно.",
+      "example": "I bought a book. It was boring. → **The book I bought was boring.**",
+      "items": [
+        {
+          "prompt": "We met some people. They were very nice.",
+          "answers": [
+            "The people we met were very nice.",
+            "The people that we met were very nice.",
+            "The people who we met were very nice."
+          ]
+        },
+        {
+          "prompt": "I'm looking for some keys. They are in my bag. → The keys ...",
+          "answers": [
+            "The keys I'm looking for are in my bag.",
+            "The keys that I'm looking for are in my bag.",
+            "The keys which I'm looking for are in my bag."
+          ]
+        },
+        {
+          "prompt": "She sings a song. I love it. → I love the song ...",
+          "answers": [
+            "I love the song she sings.",
+            "I love the song that she sings.",
+            "I love the song which she sings."
+          ]
+        },
+        {
+          "prompt": "I stayed at a hotel. It was very cheap. → The hotel ...",
+          "answers": [
+            "The hotel I stayed at was very cheap.",
+            "The hotel that I stayed at was very cheap.",
+            "The hotel which I stayed at was very cheap."
+          ]
+        },
+        {
+          "prompt": "I talked to a man. He was very friendly. → The man ...",
+          "answers": [
+            "The man I talked to was very friendly.",
+            "The man that I talked to was very friendly.",
+            "The man who I talked to was very friendly."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Не повторяйте дополнение и ставьте предлог в конец.",
+      "items": [
+        {
+          "prompt": "Где фильм, который ты купил?",
+          "answers": [
+            "Where is the film you bought?",
+            "Where is the movie you bought?",
+            "Where's the film you bought?",
+            "Where's the movie you bought?",
+            "Where is the film that you bought?",
+            "Where is the movie that you bought?",
+            "Where is the film which you bought?",
+            "Where is the movie which you bought?"
+          ]
+        },
+        {
+          "prompt": "Отель, в котором мы остановились, был чистым.",
+          "answers": [
+            "The hotel we stayed at was clean.",
+            "The hotel that we stayed at was clean.",
+            "The hotel which we stayed at was clean."
+          ]
+        },
+        {
+          "prompt": "Девушка, с которой я говорил, — моя сестра.",
+          "answers": [
+            "The girl I spoke to is my sister.",
+            "The girl I talked to is my sister.",
+            "The girl that I spoke to is my sister.",
+            "The girl that I talked to is my sister.",
+            "The girl who I spoke to is my sister.",
+            "The girl who I talked to is my sister."
+          ]
+        },
+        {
+          "prompt": "Музыка, которую я слушаю, очень тихая.",
+          "answers": [
+            "The music I listen to is very quiet.",
+            "The music I'm listening to is very quiet.",
+            "The music that I listen to is very quiet.",
+            "The music that I'm listening to is very quiet.",
+            "The music which I listen to is very quiet.",
+            "The music which I'm listening to is very quiet."
+          ]
+        },
+        {
+          "prompt": "Это ключи, которые я искал.",
+          "answers": [
+            "These are the keys I was looking for.",
+            "These are the keys that I was looking for.",
+            "These are the keys which I was looking for.",
+            "Those are the keys I was looking for.",
+            "Those are the keys that I was looking for.",
+            "Those are the keys which I was looking for."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Закончите предложения о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "The best film I've seen is ...",
+          "sample": "The best film I've seen is Interstellar."
+        },
+        {
+          "prompt": "The person I talk to most is ...",
+          "sample": "The person I talk to most is my best friend."
+        },
+        {
+          "prompt": "The place I'd like to go to is ...",
+          "sample": "The place I'd like to go to is Japan."
+        },
+        {
+          "prompt": "The last book I read was ...",
+          "sample": "The last book I read was a detective story."
+        }
+      ]
+    }
+  ]
+}

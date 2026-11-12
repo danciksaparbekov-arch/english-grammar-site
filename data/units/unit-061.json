@@ -1,0 +1,328 @@
+{
+  "id": 61,
+  "title": "I/me/my/mine",
+  "summary": "Повторение: четыре типа слов — **I / me / my / mine** — и как выбрать нужное в предложении.",
+  "ru": "## Четыре формы одного «лица»\nКаждому лицу соответствуют четыре слова:\n\n| Роль | Пример |\n|---|---|\n| подлежащее (кто делает) | **I** know him. |\n| дополнение (на кого) | He knows **me**. |\n| перед существительным (чей) | That's **my** pen. |\n| без существительного (чей) | That pen is **mine**. |\n\n## Как выбрать\n1. Слово **перед глаголом** и делает действие → **I, he, she, we, they**.\n2. Слово **после глагола или предлога** → **me, him, her, us, them**.\n3. Слово **перед существительным**, показывает «чей» → **my, his, her, our, their**.\n4. Слово **само по себе**, заменяет «чей + существительное» → **mine, his, hers, ours, theirs**.\n\n## Примеры\n> 'Do you know that man?' 'Yes, I know **him**, but I can't remember **his** name.'\n> — Ты знаешь этого мужчину? — Да, знаю, но не помню, как его зовут.\n> She was happy because we invited **her** to stay at **our** house.\n> — Она была рада, что мы пригласили её остановиться у нас дома.\n> 'Is this your umbrella?' 'No, it's **yours**.'\n> — Это твой зонт? — Нет, твой (= это твой, а не мой).\n> He had no umbrella, so she gave **him hers**. — У него не было зонта, и она дала ему свой.\n\n## Таблица сразу\n| Подлежащее | Дополнение | Перед сущ. | Без сущ. |\n|---|---|---|---|\n| I | me | my | mine |\n| we | us | our | ours |\n| you | you | your | yours |\n| he | him | his | his |\n| she | her | her | hers |\n| they | them | their | theirs |\n\n## Типичные ошибки\n- ~~He gave a book to I.~~ → He gave a book to **me**.\n- ~~They invited we.~~ → They invited **us**.\n- ~~This is mine book.~~ → This is **my** book.\n- ~~a friend of me~~ → a friend of **mine**.",
+  "en": "## Four words for each person\n| Job in the sentence | Example |\n|---|---|\n| subject | **I** know him. |\n| object | He knows **me**. |\n| before a noun | That's **my** pen. |\n| without a noun | That pen is **mine**. |\n\n## How to choose\n1. The word is before the verb and does the action → **I, he, she, we, they**.\n2. The word is after a verb or a preposition → **me, him, her, us, them**.\n3. The word is before a noun and says \"whose\" → **my, his, her, our, their**.\n4. The word stands alone and replaces \"whose + noun\" → **mine, his, hers, ours, theirs**.\n\n## Examples\n> 'Do you know that man?' 'Yes, I know **him**, but I can't remember **his** name.'\n> She was happy because we invited **her** to stay at **our** house.\n> 'Is this your umbrella?' 'No, it's **yours**.'\n\n## Common mistakes\n- ~~He gave a book to I.~~ → He gave a book to **me**.\n- ~~They invited we.~~ → They invited **us**.\n- ~~This is mine book.~~ → This is **my** book.\n- ~~a friend of me~~ → a friend of **mine**.",
+  "structure": "## Четыре колонки\n| Подлежащее | Дополнение | + существительное | Самостоятельно |\n|---|---|---|---|\n| I | me | my | mine |\n| we | us | our | ours |\n| you | you | your | yours |\n| he | him | his | his |\n| she | her | her | hers |\n| it | it | its | — |\n| they | them | their | theirs |\n\n## Формулы\n> **I** + глагол + **me / him / her / them** — She loves **him**.\n> **my / his / her / our / their** + существительное — **their** house\n> существительное + be + **mine / yours / hers / ours / theirs** — The house is **theirs**.\n> a friend **of mine / of hers / of theirs** — одна из моих (её, их) знакомых",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Знаете ли вы их?",
+      "instruction": "Ответьте по образцу.",
+      "example": "Do you know that man? — Yes, I know **him**, but I can't remember **his** name.",
+      "items": [
+        {
+          "text": "Do you know that woman? — Yes, I know {{her}}, but I can't remember {{her}} name."
+        },
+        {
+          "text": "Do you know those people? — Yes, I know {{them}}, but I can't remember {{their}} names."
+        },
+        {
+          "text": "Do you know that man? — Yes, I know {{him}}, but I can't remember {{his}} name."
+        },
+        {
+          "text": "Do you know Mrs Green? — Yes, I know {{her}}, but I can't remember {{her}} first name."
+        },
+        {
+          "text": "Do you know these boys? — Yes, I know {{them}}, but I can't remember {{their}} surnames."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Мы пригласили...",
+      "instruction": "Вставьте нужные слова: **me, him, her, us, them / my, his, her, our, their**.",
+      "example": "We invited her to stay with → **us** at our house.",
+      "items": [
+        {
+          "text": "We invited her to stay with us at {{our}} house."
+        },
+        {
+          "text": "He invited us to stay with {{him}} at {{his}} house."
+        },
+        {
+          "text": "They invited me to stay with {{them}} at {{their}} house."
+        },
+        {
+          "text": "I invited them to stay with {{me}} at {{my}} house."
+        },
+        {
+          "text": "She invited us to stay with {{her}} at {{her}} house."
+        },
+        {
+          "text": "Did you invite him to stay with {{you}} at {{your}} house?"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Выберите слово",
+      "instruction": "Вставьте нужное слово.",
+      "items": [
+        {
+          "text": "That's not my pen. I think it's {{yours}}."
+        },
+        {
+          "text": "I like Sara. {{She}} is my friend, and I often visit {{her}}."
+        },
+        {
+          "text": "They have a nice flat, but {{our}} flat is bigger."
+        },
+        {
+          "text": "This is Tom's bag and that bag is {{mine}}."
+        },
+        {
+          "text": "Where are the kids? I can't see {{them}}."
+        },
+        {
+          "text": "'Is that your dog?' 'No, it's {{theirs}}.'"
+        },
+        {
+          "text": "We love {{our}} job, and they love {{theirs}}."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "I / me / my / mine?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "Can you give ___ the salt, please?",
+          "options": [
+            "I",
+            "me",
+            "mine"
+          ],
+          "answer": 1,
+          "why": "После глагола — **me**."
+        },
+        {
+          "q": "This bag is not ___. It's Sue's.",
+          "options": [
+            "my",
+            "I",
+            "mine"
+          ],
+          "answer": 2,
+          "why": "Без существительного — **mine**."
+        },
+        {
+          "q": "___ brother is a doctor.",
+          "options": [
+            "Me",
+            "My",
+            "Mine"
+          ],
+          "answer": 1,
+          "why": "Перед существительным — **My**."
+        },
+        {
+          "q": "They are our neighbours. We often talk to ___.",
+          "options": [
+            "they",
+            "them",
+            "theirs"
+          ],
+          "answer": 1,
+          "why": "После предлога — **them**."
+        },
+        {
+          "q": "A: Is this Tom's umbrella? B: No, it's ___.",
+          "options": [
+            "her",
+            "hers",
+            "she"
+          ],
+          "answer": 1,
+          "why": "Без существительного — **hers**."
+        },
+        {
+          "q": "___ are good friends. We play tennis together.",
+          "options": [
+            "Us",
+            "We",
+            "Our"
+          ],
+          "answer": 1,
+          "why": "Подлежащее — **We**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите верное предложение",
+      "instruction": "Верно только одно.",
+      "items": [
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I met a friend of me.",
+            "I met a friend of mine.",
+            "I met a friend of my."
+          ],
+          "answer": 1,
+          "why": "a friend of **mine**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "She gave he a book.",
+            "She gave him a book.",
+            "She gave his a book."
+          ],
+          "answer": 1,
+          "why": "После глагола — **him**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "Their house is bigger than ours.",
+            "Their house is bigger than our.",
+            "Theirs house is bigger than ours."
+          ],
+          "answer": 0,
+          "why": "Their house + than ours (без существительного)."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "Us are late.",
+            "We are late.",
+            "Our are late."
+          ],
+          "answer": 1,
+          "why": "Подлежащее — **We**."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "Is this you pen?",
+            "Is this your pen?",
+            "Is this yours pen?"
+          ],
+          "answer": 1,
+          "why": "Перед существительным — **your**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Замените слова",
+      "instruction": "Замените выделенные слова местоимениями и допишите предложение.",
+      "items": [
+        {
+          "prompt": "I know Anna and Tom. → I know ___.",
+          "answers": [
+            "I know them."
+          ]
+        },
+        {
+          "prompt": "I gave the book to Tom. → I gave ___ the book.",
+          "answers": [
+            "I gave him the book."
+          ]
+        },
+        {
+          "prompt": "This is my coat. → This coat is ___.",
+          "answers": [
+            "This coat is mine."
+          ]
+        },
+        {
+          "prompt": "Kate's car is red. → ___ car is red.",
+          "answers": [
+            "Her car is red."
+          ]
+        },
+        {
+          "prompt": "We invited Sue and Pete to our party. → We invited ___ to our party.",
+          "answers": [
+            "We invited them to our party."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Он позвонил мне, но я не знаю его номер.",
+          "answers": [
+            "He called me, but I don't know his number.",
+            "He called me but I don't know his number."
+          ]
+        },
+        {
+          "prompt": "Они пригласили нас в свой дом.",
+          "answers": [
+            "They invited us to their house.",
+            "They invited us to their home."
+          ]
+        },
+        {
+          "prompt": "Этот зонт мой, а тот твой.",
+          "answers": [
+            "This umbrella is mine and that one is yours.",
+            "This umbrella is mine, and that one is yours.",
+            "This umbrella is mine, and that is yours.",
+            "This umbrella is mine and that is yours."
+          ]
+        },
+        {
+          "prompt": "Я встретил одного её друга.",
+          "answers": [
+            "I met a friend of hers."
+          ]
+        },
+        {
+          "prompt": "Мы любим наших детей, а они любят нас.",
+          "answers": [
+            "We love our children and they love us.",
+            "We love our children, and they love us.",
+            "We love our kids and they love us.",
+            "We love our kids, and they love us."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите 4–5 предложений о себе и друге. Используйте **I, me, my, mine** и **he / she, him / her, his / hers**.",
+      "items": [
+        {
+          "prompt": "Who is your best friend? Do you know his / her family?",
+          "sample": "My best friend is Dana. I know her family well."
+        },
+        {
+          "prompt": "Do you often call him / her? Does he / she call you?",
+          "sample": "I often call her, and she calls me too."
+        },
+        {
+          "prompt": "Whose house do you like? Compare it with yours.",
+          "sample": "I like my friend's house. Hers is bigger than mine."
+        },
+        {
+          "prompt": "Is there a friend of yours who lives far away?",
+          "sample": "A friend of mine lives in Germany. I miss him."
+        },
+        {
+          "prompt": "What do you and your family like to do together?",
+          "sample": "We like to eat together in our kitchen. It's our favourite place."
+        }
+      ]
+    }
+  ]
+}

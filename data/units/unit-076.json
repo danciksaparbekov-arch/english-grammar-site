@@ -1,0 +1,282 @@
+{
+  "id": 76,
+  "title": "not + any no none",
+  "summary": "Три способа отрицания: not + any, no + существительное и none (отдельное слово); следим, чтобы отрицание было одно.",
+  "ru": "## Три способа сказать «нет, ничего нет»\n1. **not + any**: *There aren't any cars.*\n2. **no + существительное**: *There are no cars.*\n3. **none** — отдельное слово-ответ: *How many cars? — None.*\n\n## not + any\n> We haven't got **any** money. — У нас нет денег.\n> I don't want **any** coffee. — Я не хочу кофе.\n\n## no + существительное\n**no** значит то же, что **not any** (или **not a**). Часто с **have (got)** и **there is / there are**.\n> We've got **no** money. = We haven't got any money.\n> There is **no** garden. = There isn't a garden.\n> There are **no** buses today. = There aren't any buses today.\nПомните: в английском предложении **одно отрицание**.\n- ~~We haven't got no money.~~ → We have**n't** got **any** money. / We've got **no** money.\n\n## none — без существительного\nЭто ответ на **How much?** / **How many?**:\n> — How much money have you got? — **None.** — Сколько у тебя денег? — Нисколько.\n> — Were there any problems? — No, **none**. — Проблемы были? — Нет, никаких.\n\n## none и no-one\n- **none** — ответ на *How much / How many* (вещи и люди в количестве).\n- **no-one / nobody** — ответ на *Who?*:\n> — Who did you meet? — **No-one.**\n\n## Типичные ошибки\n- ~~I don't have no time.~~ → I don't have **any** time. / I have **no** time.\n- ~~There are none people.~~ → There are **no** people.\n- ~~How many books have you got? — No.~~ → **None.**",
+  "en": "## Three ways to say there is nothing\n1. **not + any**: *There aren't any cars.*\n2. **no + noun**: *There are no cars.*\n3. **none** (alone): *How many cars? — None.*\n\n## not + any\n> We haven't got **any** money.\n> I don't want **any** coffee.\n\n## no + noun\n**no** = **not any** / **not a**. We often use it after **have (got)** and **there is / there are**.\n> We've got **no** money. = We haven't got any money.\n> There is **no** garden. = There isn't a garden.\nIn English one negative is enough:\n- ~~We haven't got no money.~~ → We haven't got **any** money. / We've got **no** money.\n\n## none — without a noun\nIt answers **How much?** and **How many?**\n> — How much money have you got? — **None.**\n> — Were there any problems? — No, **none**.\n\n## none and no-one\n- **none** answers *How much / How many*.\n- **no-one / nobody** answers *Who?*: — Who did you meet? — **No-one.**\n\n## Common mistakes\n- ~~I don't have no time.~~ → I don't have **any** time. / I have **no** time.\n- ~~There are none people.~~ → There are **no** people.",
+  "structure": "## Схема\n| Способ | Пример | Значение |\n|---|---|---|\n| not + any | There **isn't any** sugar. | сахара нет |\n| no + noun | There is **no** sugar. | сахара нет |\n| none | — How much sugar? — **None.** | нисколько |\n\n## Формулы\n> отрицательный глагол + **any** = положительный глагол + **no**\n> They haven't got **any** children. = They've got **no** children.\n\n## Что нельзя\n> ~~not + no~~ (двойное отрицание): *I don't have no car* — ошибка.\n> ~~none + существительное~~: *none friends* — ошибка → **no friends**.\n> **none of** + the / my / these (см. дальше): *none of my friends*",
+  "exercises": [
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Перепишите с no",
+      "instruction": "Перепишите предложение, используя **no**.",
+      "items": [
+        {
+          "prompt": "We haven't got any money.",
+          "answers": [
+            "We've got no money.",
+            "We have no money."
+          ]
+        },
+        {
+          "prompt": "There aren't any shops near here.",
+          "answers": [
+            "There are no shops near here."
+          ]
+        },
+        {
+          "prompt": "She hasn't got any friends here.",
+          "answers": [
+            "She's got no friends here.",
+            "She has got no friends here.",
+            "She has no friends here."
+          ]
+        },
+        {
+          "prompt": "There isn't any milk in the fridge.",
+          "answers": [
+            "There's no milk in the fridge.",
+            "There is no milk in the fridge."
+          ]
+        },
+        {
+          "prompt": "They don't have any children.",
+          "answers": [
+            "They have no children.",
+            "They've got no children."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Перепишите с not ... any",
+      "instruction": "Перепишите предложение, используя **not ... any**.",
+      "items": [
+        {
+          "prompt": "There are no cars in the street.",
+          "answers": [
+            "There aren't any cars in the street.",
+            "There are not any cars in the street."
+          ]
+        },
+        {
+          "prompt": "I've got no time.",
+          "answers": [
+            "I haven't got any time.",
+            "I have not got any time.",
+            "I don't have any time."
+          ]
+        },
+        {
+          "prompt": "He has no brothers.",
+          "answers": [
+            "He doesn't have any brothers.",
+            "He hasn't got any brothers."
+          ]
+        },
+        {
+          "prompt": "There is no bread at home.",
+          "answers": [
+            "There isn't any bread at home.",
+            "There is not any bread at home."
+          ]
+        },
+        {
+          "prompt": "We have no questions.",
+          "answers": [
+            "We don't have any questions.",
+            "We haven't got any questions."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "any, no или none",
+      "instruction": "Вставьте **any**, **no** или **none**.",
+      "items": [
+        {
+          "text": "— How many tickets have you got? — {{None}}."
+        },
+        {
+          "text": "There are {{no}} chairs in this room."
+        },
+        {
+          "text": "I didn't buy {{any}} fruit today."
+        },
+        {
+          "text": "We've got {{no}} sugar. Can you buy some?"
+        },
+        {
+          "text": "— Did you take any photos? — No, {{none}}."
+        },
+        {
+          "text": "I can't help you. I haven't got {{any}} information."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Один и тот же смысл",
+      "instruction": "Вставьте слово, чтобы второе предложение значило то же самое.",
+      "items": [
+        {
+          "text": "I haven't got any brothers. = I've got {{no}} brothers."
+        },
+        {
+          "text": "There is no water in the bottle. = There isn't {{any}} water in the bottle."
+        },
+        {
+          "text": "We didn't have any problems. = We had {{no}} problems."
+        },
+        {
+          "text": "She doesn't have any money. = She has {{no}} money."
+        },
+        {
+          "text": "There aren't any lessons today. = There are {{no}} lessons today."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "There isn't ___ milk in the fridge.",
+          "options": [
+            "no",
+            "any",
+            "none"
+          ],
+          "answer": 1,
+          "why": "После **isn't** — **any**."
+        },
+        {
+          "q": "How many mistakes did you make? — ___.",
+          "options": [
+            "No",
+            "Any",
+            "None"
+          ],
+          "answer": 2,
+          "why": "Ответ без существительного → **none**."
+        },
+        {
+          "q": "We've got ___ time to waste.",
+          "options": [
+            "none",
+            "any",
+            "no"
+          ],
+          "answer": 2,
+          "why": "Положительный глагол + **no** + noun."
+        },
+        {
+          "q": "I don't have ___ questions.",
+          "options": [
+            "no",
+            "any",
+            "none"
+          ],
+          "answer": 1,
+          "why": "Отрицание → **any**."
+        },
+        {
+          "q": "There were ___ people in the park. It was empty.",
+          "options": [
+            "no",
+            "none",
+            "any"
+          ],
+          "answer": 0,
+          "why": "**no** + noun."
+        },
+        {
+          "q": "Who did you see at the party? — ___.",
+          "options": [
+            "None",
+            "Nothing",
+            "No-one"
+          ],
+          "answer": 2,
+          "why": "Вопрос **Who?** → **No-one**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "I haven't got no money.",
+            "I haven't got any money.",
+            "I have got none money."
+          ],
+          "answer": 1,
+          "why": "Одно отрицание: **haven't ... any**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "There are no tickets left.",
+            "There aren't no tickets left.",
+            "There are none tickets left."
+          ],
+          "answer": 0,
+          "why": "**no** + noun с положительным глаголом."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "She has no any friends.",
+            "She has no friends.",
+            "She doesn't have no friends."
+          ],
+          "answer": 1,
+          "why": "**no friends**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "How much milk? — Any.",
+            "How much milk? — None.",
+            "How much milk? — No."
+          ],
+          "answer": 1,
+          "why": "Ответ на How much? → **None**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя **no**, **not ... any** или **none**.",
+      "items": [
+        {
+          "prompt": "Сколько у вас сейчас свободных денег?",
+          "sample": "I've got no money with me. / I haven't got any money."
+        },
+        {
+          "prompt": "Есть ли у вас домашние животные?",
+          "sample": "I haven't got any pets."
+        },
+        {
+          "prompt": "Сколько ошибок вы сделали сегодня? Ответьте одним словом.",
+          "sample": "None."
+        }
+      ]
+    }
+  ]
+}

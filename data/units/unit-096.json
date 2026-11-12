@@ -1,0 +1,327 @@
+{
+  "id": 96,
+  "title": "at 8 o'clock on Monday in April",
+  "summary": "Предлоги времени **at**, **on**, **in**: когда что использовать (часы, дни, месяцы, годы, части дня).",
+  "ru": "## Три главных предлога\nВ русском время обозначается по-разному («в 8 часов», «в понедельник», «в апреле»). В английском выбор предлога зависит от **типа времени**.\n\n## at — точное время\n- **at** + часы: **at** 8 o'clock, **at** 6.30, **at** midnight\n- **at** + момент: **at** lunchtime, **at** night, **at** the weekend (брит.), **at** Christmas\n> The film starts **at** 7.30. — Фильм начинается в 7.30.\n> I don't like driving **at night**. — Я не люблю ездить ночью.\n\n## on — дни и даты\n- **on** + день недели: **on** Monday, **on** Friday morning\n- **on** + дата: **on** 5 May, **on** my birthday\n> I'll see you **on Saturday**. — Увидимся в субботу.\n> She was born **on** 12 June. — Она родилась 12 июня.\n> Мн. число: **on Sundays** — по воскресеньям.\n\n## in — месяцы, годы, части дня\n- **in** + месяц: **in** April, **in** December\n- **in** + время года: **in** summer, **in** winter\n- **in** + год: **in** 1999, **in** 2024\n- **in** + часть дня: **in** the morning, **in** the afternoon, **in** the evening\n> It rains a lot **in autumn**. — Осенью много дождей.\n> I get up **in the morning**. — Утром я встаю.\nНо: **at night** (ночью).\n\n## Без предлога\nПеред словами **this, next, last, every, tomorrow, yesterday, today** предлог **не нужен**.\n> I'll call you **tomorrow**. — Я позвоню тебе завтра.\n> We went there **last summer**. — Мы ездили туда прошлым летом.\n> They play football **every Sunday**. — Они играют в футбол каждое воскресенье.\n\n## in = «через»\n**in** + период времени = «через»:\n> The train leaves **in** ten minutes. — Поезд отправляется через десять минут.\n> I'll see you **in** two days. — Увидимся через два дня.\n\n## Типичные ошибки\n- ~~in Monday~~ → **on** Monday\n- ~~at the morning~~ → **in** the morning\n- ~~in 8 o'clock~~ → **at** 8 o'clock\n- ~~on next Friday~~ → next Friday (без предлога)\n- ~~in the night~~ → **at** night",
+  "en": "## The three main prepositions\nIn English we choose the preposition by the **type of time**.\n\n## at — exact times\n- **at** + clock time: **at** 8 o'clock, **at** 6.30, **at** midnight\n- **at** + moment: **at** lunchtime, **at** night, **at** the weekend (UK), **at** Christmas\n> The film starts **at** 7.30.\n> I don't like driving **at night**.\n\n## on — days and dates\n- **on** + day: **on** Monday, **on** Friday morning\n- **on** + date: **on** 5 May, **on** my birthday\n> I'll see you **on Saturday**.\n> She was born **on** 12 June.\n> **on Sundays** = every Sunday.\n\n## in — months, years, parts of the day\n- **in** + month: **in** April, **in** December\n- **in** + season: **in** summer, **in** winter\n- **in** + year: **in** 1999, **in** 2024\n- **in** + part of day: **in** the morning, **in** the afternoon, **in** the evening\n> It rains a lot **in autumn**.\n> I get up **in the morning**.\nBut: **at night**.\n\n## No preposition\nWe don't use a preposition before **this, next, last, every, tomorrow, yesterday, today**.\n> I'll call you **tomorrow**.\n> We went there **last summer**.\n> They play football **every Sunday**.\n\n## in = «after a period»\n> The train leaves **in** ten minutes.\n> I'll see you **in** two days.\n\n## Common mistakes\n- ~~in Monday~~ → **on** Monday\n- ~~at the morning~~ → **in** the morning\n- ~~in 8 o'clock~~ → **at** 8 o'clock\n- ~~on next Friday~~ → next Friday",
+  "structure": "## at / on / in\n| Предлог | Что | Примеры |\n|---|---|---|\n| **at** | часы, момент | at 5 o'clock, at noon, at night, at the weekend |\n| **on** | день, дата | on Monday, on 3 May, on Friday evening, on my birthday |\n| **in** | месяц, сезон, год, часть дня | in July, in winter, in 2020, in the evening |\n\n## Без предлога\n> this / next / last / every / today / tomorrow / yesterday + время\n> **next week**, **last year**, **every day**, **this morning**\n\n## Другие полезные формы\n- **in** + период = через: **in an hour**\n- **at the moment** — сейчас\n- **at the end of** — в конце\n- **in the middle of** — в середине",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "at, on или in?",
+      "instruction": "Вставьте **at**, **on** или **in**.",
+      "items": [
+        {
+          "text": "The lesson starts {{at}} 9 o'clock."
+        },
+        {
+          "text": "We have a test {{on}} Friday."
+        },
+        {
+          "text": "My birthday is {{in}} October."
+        },
+        {
+          "text": "I usually read {{in}} the evening."
+        },
+        {
+          "text": "She was born {{in}} 1995."
+        },
+        {
+          "text": "Let's meet {{at}} six o'clock."
+        },
+        {
+          "text": "He goes to the gym {{on}} Mondays."
+        },
+        {
+          "text": "It's very cold {{in}} winter."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Ещё at, on, in",
+      "instruction": "Вставьте **at**, **on** или **in**. Если предлог не нужен, напишите **-**.",
+      "items": [
+        {
+          "text": "We went to the sea {{-}} last summer."
+        },
+        {
+          "text": "I'll see you {{on}} Saturday morning."
+        },
+        {
+          "text": "They arrive {{in}} ten minutes."
+        },
+        {
+          "text": "I like to sleep late {{at|on}} the weekend."
+        },
+        {
+          "text": "She phones me {{-}} every day."
+        },
+        {
+          "text": "The shop closes {{at}} midnight."
+        },
+        {
+          "text": "My parents got married {{on}} 14 June 1990."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите предлог",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I have English classes ___ Thursday evening.",
+          "options": [
+            "in",
+            "at",
+            "on"
+          ],
+          "answer": 2,
+          "why": "День недели → **on Thursday evening**."
+        },
+        {
+          "q": "My flight is ___ 6.45.",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "answer": 2,
+          "why": "Точное время → **at**."
+        },
+        {
+          "q": "We often go to the park ___ Sundays.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "answer": 2,
+          "why": "День недели → **on**."
+        },
+        {
+          "q": "He doesn't work ___ night.",
+          "options": [
+            "on",
+            "at",
+            "in"
+          ],
+          "answer": 1,
+          "why": "**at night**."
+        },
+        {
+          "q": "There's a party ___ Saturday evening.",
+          "options": [
+            "on",
+            "at",
+            "in"
+          ],
+          "answer": 0,
+          "why": "Определённый день → **on Saturday evening**."
+        },
+        {
+          "q": "I'll be back ___ an hour.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "answer": 1,
+          "why": "**in** an hour = через час."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "I'll see you on next Friday.",
+            "I'll see you next Friday.",
+            "I'll see you in next Friday."
+          ],
+          "answer": 1,
+          "why": "С **next** предлог не нужен."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "I get up at the morning.",
+            "I get up in the morning.",
+            "I get up on the morning."
+          ],
+          "answer": 1,
+          "why": "**in the morning**."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "We met in 5 May.",
+            "We met at 5 May.",
+            "We met on 5 May."
+          ],
+          "answer": 2,
+          "why": "Дата → **on**."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "She came here in 2019.",
+            "She came here on 2019.",
+            "She came here at 2019."
+          ],
+          "answer": 0,
+          "why": "Год → **in**."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "They play football every Sunday.",
+            "They play football on every Sunday.",
+            "They play football at every Sunday."
+          ],
+          "answer": 0,
+          "why": "С **every** предлог не нужен."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение. Выберите **at / on / in**.",
+      "items": [
+        {
+          "prompt": "(the bus / leave / 8.15)",
+          "answers": [
+            "The bus leaves at 8.15.",
+            "The bus leaves at 8:15."
+          ]
+        },
+        {
+          "prompt": "(my sister / come / Sunday)",
+          "answers": [
+            "My sister comes on Sunday.",
+            "My sister is coming on Sunday."
+          ]
+        },
+        {
+          "prompt": "(we / go on holiday / August)",
+          "answers": [
+            "We go on holiday in August.",
+            "We are going on holiday in August.",
+            "We're going on holiday in August."
+          ]
+        },
+        {
+          "prompt": "(I / drink coffee / the morning)",
+          "answers": [
+            "I drink coffee in the morning."
+          ]
+        },
+        {
+          "prompt": "(the film / finish / midnight)",
+          "answers": [
+            "The film finishes at midnight."
+          ]
+        },
+        {
+          "prompt": "(he / was born / 1 January 2000)",
+          "answers": [
+            "He was born on 1 January 2000.",
+            "He was born on 1st January 2000.",
+            "He was born on January 1, 2000."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Следите за предлогами времени.",
+      "items": [
+        {
+          "prompt": "Урок начинается в 10 часов.",
+          "answers": [
+            "The lesson starts at 10 o'clock.",
+            "The lesson starts at ten o'clock.",
+            "The lesson starts at 10.",
+            "The lesson begins at 10 o'clock.",
+            "The lesson begins at ten o'clock."
+          ]
+        },
+        {
+          "prompt": "Я родилась в мае.",
+          "answers": [
+            "I was born in May."
+          ]
+        },
+        {
+          "prompt": "Мы встречаемся в понедельник.",
+          "answers": [
+            "We meet on Monday.",
+            "We are meeting on Monday.",
+            "We're meeting on Monday."
+          ]
+        },
+        {
+          "prompt": "Я позвоню тебе завтра.",
+          "answers": [
+            "I'll call you tomorrow.",
+            "I will call you tomorrow.",
+            "I'll phone you tomorrow.",
+            "I will phone you tomorrow.",
+            "I'm going to call you tomorrow.",
+            "I'm going to phone you tomorrow."
+          ]
+        },
+        {
+          "prompt": "Поезд отправляется через пять минут.",
+          "answers": [
+            "The train leaves in five minutes.",
+            "The train leaves in 5 minutes.",
+            "The train is leaving in five minutes.",
+            "The train is leaving in 5 minutes."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте **at / on / in**.",
+      "items": [
+        {
+          "prompt": "Во сколько вы встаёте?",
+          "sample": "I get up at 7 o'clock."
+        },
+        {
+          "prompt": "Когда ваш день рождения?",
+          "sample": "My birthday is in March."
+        },
+        {
+          "prompt": "Что вы делаете по воскресеньям?",
+          "sample": "I visit my parents on Sundays."
+        },
+        {
+          "prompt": "Когда вы обычно ужинаете?",
+          "sample": "I usually have dinner in the evening, at 7 o'clock."
+        },
+        {
+          "prompt": "В каком году вы начали учить английский?",
+          "sample": "I started learning English in 2023."
+        }
+      ]
+    }
+  ]
+}

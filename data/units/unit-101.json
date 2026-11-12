@@ -12,14 +12,30 @@
       "title": "to, in или at?",
       "instruction": "Вставьте **to**, **in** или **at**.",
       "items": [
-        { "text": "We went {{to}} the beach yesterday." },
-        { "text": "Is Sara {{at}} the bank?" },
-        { "text": "I'd like to go {{to}} Italy next year." },
-        { "text": "My parents live {{in}} a small village." },
-        { "text": "Let's go {{to}} the cinema tonight." },
-        { "text": "Were you {{at}} the party on Friday?" },
-        { "text": "They're coming {{to}} our wedding." },
-        { "text": "I stayed {{in}} Paris for a week." }
+        {
+          "text": "We went {{to}} the beach yesterday."
+        },
+        {
+          "text": "Is Sara {{at}} the bank?"
+        },
+        {
+          "text": "I'd like to go {{to}} Italy next year."
+        },
+        {
+          "text": "My parents live {{in}} a small village."
+        },
+        {
+          "text": "Let's go {{to}} the cinema tonight."
+        },
+        {
+          "text": "Were you {{at}} the party on Friday?"
+        },
+        {
+          "text": "They're coming {{to}} our wedding."
+        },
+        {
+          "text": "I stayed {{in}} Paris for a week."
+        }
       ]
     },
     {
@@ -28,12 +44,24 @@
       "title": "Arrive, get, go",
       "instruction": "Вставьте **to**, **in**, **at** или поставьте **—**, если предлог не нужен.",
       "items": [
-        { "text": "We arrived {{in}} Tokyo on Monday morning." },
-        { "text": "What time do you get {{to}} work?" },
-        { "text": "I was tired, so I went {{—|-}} home early." },
-        { "text": "They arrived {{at}} the hotel at midnight." },
-        { "text": "When did she get {{—|-}} home last night?" },
-        { "text": "The plane arrived {{at}} the airport on time." }
+        {
+          "text": "We arrived {{in}} Tokyo on Monday morning."
+        },
+        {
+          "text": "What time do you get {{to}} work?"
+        },
+        {
+          "text": "I was tired, so I went {{—|-}} home early."
+        },
+        {
+          "text": "They arrived {{at}} the hotel at midnight."
+        },
+        {
+          "text": "When did she get {{—|-}} home last night?"
+        },
+        {
+          "text": "The plane arrived {{at}} the airport on time."
+        }
       ]
     },
     {
@@ -42,13 +70,76 @@
       "title": "Выберите правильный вариант",
       "instruction": "Выберите один вариант.",
       "items": [
-        { "q": "We're going ___ the supermarket.", "options": ["in", "to", "at"], "answer": 1, "why": "Движение → **to**." },
-        { "q": "They arrived ___ Berlin yesterday.", "options": ["to", "at", "in"], "answer": 2, "why": "Прибытие в город → **arrive in**." },
-        { "q": "I got ___ at six o'clock.", "options": ["to home", "home", "at home"], "answer": 1, "why": "**get home** — без предлога." },
-        { "q": "Dan is ___ the dentist's now.", "options": ["to", "at", "in"], "answer": 1, "why": "Находится у врача → **at the dentist's**." },
-        { "q": "Have you ever been ___ Spain?", "options": ["to", "in", "at"], "answer": 0, "why": "**been to** + страна." },
-        { "q": "The train arrived ___ the station late.", "options": ["in", "to", "at"], "answer": 2, "why": "Станция — **arrive at**." },
-        { "q": "I'm ___ home. Come and see me!", "options": ["to", "at", "in"], "answer": 1, "why": "Нахождение дома → **at home**." }
+        {
+          "q": "We're going ___ the supermarket.",
+          "options": [
+            "in",
+            "to",
+            "at"
+          ],
+          "answer": 1,
+          "why": "Движение → **to**."
+        },
+        {
+          "q": "They arrived ___ Berlin yesterday.",
+          "options": [
+            "to",
+            "at",
+            "in"
+          ],
+          "answer": 2,
+          "why": "Прибытие в город → **arrive in**."
+        },
+        {
+          "q": "I got ___ at six o'clock.",
+          "options": [
+            "to home",
+            "home",
+            "at home"
+          ],
+          "answer": 1,
+          "why": "**get home** — без предлога."
+        },
+        {
+          "q": "Dan is ___ the dentist's now.",
+          "options": [
+            "to",
+            "at",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Находится у врача → **at the dentist's**."
+        },
+        {
+          "q": "Have you ever been ___ Spain?",
+          "options": [
+            "to",
+            "for",
+            "at"
+          ],
+          "answer": 0,
+          "why": "**been to** + страна (быть где-то и вернуться)."
+        },
+        {
+          "q": "The train arrived ___ the station late.",
+          "options": [
+            "in",
+            "to",
+            "at"
+          ],
+          "answer": 2,
+          "why": "Станция — **arrive at**."
+        },
+        {
+          "q": "I'm ___ home. Come and see me!",
+          "options": [
+            "to",
+            "at",
+            "in"
+          ],
+          "answer": 1,
+          "why": "Нахождение дома → **at home**."
+        }
       ]
     },
     {
@@ -57,11 +148,56 @@
       "title": "Найдите правильное предложение",
       "instruction": "Только один вариант верный.",
       "items": [
-        { "q": "Как сказать «Я иду домой»?", "options": ["I'm going to home.", "I'm going home.", "I'm going at home."], "answer": 1, "why": "**go home**, без to." },
-        { "q": "Как сказать «Мы приехали в Лондон»?", "options": ["We arrived to London.", "We arrived at London.", "We arrived in London."], "answer": 2, "why": "Город → **arrive in**." },
-        { "q": "Как сказать «Он в кино»?", "options": ["He's at the cinema.", "He's to the cinema.", "He's on the cinema."], "answer": 0, "why": "Нахождение → **at**." },
-        { "q": "Как сказать «Она никогда не была в Индии»?", "options": ["She's never been in India.", "She's never been to India.", "She's never gone India."], "answer": 1, "why": "**been to** + страна." },
-        { "q": "Как сказать «Когда ты добрался до отеля?»", "options": ["When did you get to the hotel?", "When did you get at the hotel?", "When did you get in to hotel?"], "answer": 0, "why": "**get to** + место." }
+        {
+          "q": "Как сказать «Я иду домой»?",
+          "options": [
+            "I'm going to home.",
+            "I'm going home.",
+            "I'm going at home."
+          ],
+          "answer": 1,
+          "why": "**go home**, без to."
+        },
+        {
+          "q": "Как сказать «Мы приехали в Лондон»?",
+          "options": [
+            "We arrived to London.",
+            "We arrived at London.",
+            "We arrived in London."
+          ],
+          "answer": 2,
+          "why": "Город → **arrive in**."
+        },
+        {
+          "q": "Как сказать «Он в кино»?",
+          "options": [
+            "He's at the cinema.",
+            "He's to the cinema.",
+            "He's on the cinema."
+          ],
+          "answer": 0,
+          "why": "Нахождение → **at**."
+        },
+        {
+          "q": "Как сказать «Она никогда не была в Индии»?",
+          "options": [
+            "She's never been at India.",
+            "She's never been to India.",
+            "She's never gone India."
+          ],
+          "answer": 1,
+          "why": "**been to** + страна."
+        },
+        {
+          "q": "Как сказать «Когда ты добрался до отеля?»",
+          "options": [
+            "When did you get to the hotel?",
+            "When did you get at the hotel?",
+            "When did you get in to hotel?"
+          ],
+          "answer": 0,
+          "why": "**get to** + место."
+        }
       ]
     },
     {
@@ -70,12 +206,24 @@
       "title": "Мой выходной",
       "instruction": "Вставьте **to**, **in**, **at** или **—**.",
       "items": [
-        { "text": "On Saturday I got up late and went {{to}} the market." },
-        { "text": "I met my friend Dina {{at}} the bus stop." },
-        { "text": "We walked {{to}} the lake and had lunch there." },
-        { "text": "In the evening we went {{—|-}} home." },
-        { "text": "Dina lives {{in}} Karakol, so she took a bus home." },
-        { "text": "She arrived {{in}} Karakol at ten o'clock." }
+        {
+          "text": "On Saturday I got up late and went {{to}} the market."
+        },
+        {
+          "text": "I met my friend Dina {{at}} the bus stop."
+        },
+        {
+          "text": "We walked {{to}} the lake and had lunch there."
+        },
+        {
+          "text": "In the evening we went {{—|-}} home."
+        },
+        {
+          "text": "Dina lives {{in}} Karakol, so she took a bus home."
+        },
+        {
+          "text": "She arrived {{in}} Karakol at ten o'clock."
+        }
       ]
     },
     {
@@ -84,11 +232,44 @@
       "title": "Составьте предложения",
       "instruction": "Составьте предложение со словами в скобках. Добавьте **to / in / at**, если нужно.",
       "items": [
-        { "prompt": "(we / go / the zoo / tomorrow)", "answers": ["We are going to the zoo tomorrow.", "We're going to the zoo tomorrow.", "We go to the zoo tomorrow.", "We'll go to the zoo tomorrow.", "We will go to the zoo tomorrow."] },
-        { "prompt": "(Anna / arrive / the airport / at nine)", "answers": ["Anna arrived at the airport at nine.", "Anna arrives at the airport at nine."] },
-        { "prompt": "(I / get / home / at five o'clock)", "answers": ["I got home at five o'clock.", "I get home at five o'clock."] },
-        { "prompt": "(they / not / at home / now)", "answers": ["They aren't at home now.", "They're not at home now.", "They are not at home now."] },
-        { "prompt": "(my parents / arrive / Astana / yesterday)", "answers": ["My parents arrived in Astana yesterday."] }
+        {
+          "prompt": "(we / go / the zoo / tomorrow)",
+          "answers": [
+            "We are going to the zoo tomorrow.",
+            "We're going to the zoo tomorrow.",
+            "We go to the zoo tomorrow.",
+            "We'll go to the zoo tomorrow.",
+            "We will go to the zoo tomorrow."
+          ]
+        },
+        {
+          "prompt": "(Anna / arrive / the airport / at nine)",
+          "answers": [
+            "Anna arrived at the airport at nine.",
+            "Anna arrives at the airport at nine."
+          ]
+        },
+        {
+          "prompt": "(I / get / home / at five o'clock)",
+          "answers": [
+            "I got home at five o'clock.",
+            "I get home at five o'clock."
+          ]
+        },
+        {
+          "prompt": "(they / not / at home / now)",
+          "answers": [
+            "They aren't at home now.",
+            "They're not at home now.",
+            "They are not at home now."
+          ]
+        },
+        {
+          "prompt": "(my parents / arrive / Astana / yesterday)",
+          "answers": [
+            "My parents arrived in Astana yesterday."
+          ]
+        }
       ]
     },
     {
@@ -97,11 +278,48 @@
       "title": "Переведите на английский",
       "instruction": "Переведите. Следите за предлогами.",
       "items": [
-        { "prompt": "Мы ходили в театр вчера.", "answers": ["We went to the theatre yesterday.", "We went to the theater yesterday.", "Yesterday we went to the theatre.", "Yesterday we went to the theater."] },
-        { "prompt": "Я пришла домой в семь часов.", "answers": ["I got home at seven o'clock.", "I came home at seven o'clock.", "I got home at seven.", "I came home at seven.", "I arrived home at seven o'clock.", "I arrived home at seven."] },
-        { "prompt": "Они сейчас в аэропорту.", "answers": ["They're at the airport now.", "They are at the airport now.", "Now they're at the airport.", "Now they are at the airport."] },
-        { "prompt": "Поезд прибыл в Москву утром.", "answers": ["The train arrived in Moscow in the morning.", "The train arrived in Moscow this morning."] },
-        { "prompt": "Ты когда-нибудь был в Японии?", "answers": ["Have you ever been to Japan?"] }
+        {
+          "prompt": "Мы ходили в театр вчера.",
+          "answers": [
+            "We went to the theatre yesterday.",
+            "We went to the theater yesterday.",
+            "Yesterday we went to the theatre.",
+            "Yesterday we went to the theater."
+          ]
+        },
+        {
+          "prompt": "Я пришла домой в семь часов.",
+          "answers": [
+            "I got home at seven o'clock.",
+            "I came home at seven o'clock.",
+            "I got home at seven.",
+            "I came home at seven.",
+            "I arrived home at seven o'clock.",
+            "I arrived home at seven."
+          ]
+        },
+        {
+          "prompt": "Они сейчас в аэропорту.",
+          "answers": [
+            "They're at the airport now.",
+            "They are at the airport now.",
+            "Now they're at the airport.",
+            "Now they are at the airport."
+          ]
+        },
+        {
+          "prompt": "Поезд прибыл в Москву утром.",
+          "answers": [
+            "The train arrived in Moscow in the morning.",
+            "The train arrived in Moscow this morning."
+          ]
+        },
+        {
+          "prompt": "Ты когда-нибудь был в Японии?",
+          "answers": [
+            "Have you ever been to Japan?"
+          ]
+        }
       ]
     },
     {
@@ -110,11 +328,26 @@
       "title": "Напишите о себе",
       "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
       "items": [
-        { "prompt": "Where did you go last weekend?", "sample": "I went to the park with my friends." },
-        { "prompt": "What time do you usually get home?", "sample": "I usually get home at six o'clock." },
-        { "prompt": "Which countries have you been to?", "sample": "I've been to Kazakhstan and Turkey." },
-        { "prompt": "Where are you now?", "sample": "I'm at home." },
-        { "prompt": "Where would you like to go next summer?", "sample": "I'd like to go to the mountains." }
+        {
+          "prompt": "Where did you go last weekend?",
+          "sample": "I went to the park with my friends."
+        },
+        {
+          "prompt": "What time do you usually get home?",
+          "sample": "I usually get home at six o'clock."
+        },
+        {
+          "prompt": "Which countries have you been to?",
+          "sample": "I've been to Kazakhstan and Turkey."
+        },
+        {
+          "prompt": "Where are you now?",
+          "sample": "I'm at home."
+        },
+        {
+          "prompt": "Where would you like to go next summer?",
+          "sample": "I'd like to go to the mountains."
+        }
       ]
     }
   ]

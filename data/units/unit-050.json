@@ -1,0 +1,91 @@
+{
+  "id": 50,
+  "title": "work/working go/going do/doing",
+  "summary": "Какую форму глагола ставить после других слов: **work** (после can, will, do), **to work** (после want, going) или **working** (после am/is/are, was/were).",
+  "ru": "## Три формы глагола\nУ многих глаголов в предложении встречаются три формы: **work**, **to work** и **working**. Какую выбрать — зависит от слова, которое стоит перед глаголом.\n\n## 1. Просто глагол: work / go / be\nТак бывает после модальных глаголов (**will, can, could, must, should, might, would, shall, may**) и после **do / does / did**.\n> Ann **will be** here soon. — Анна скоро будет здесь.\n> I **can't meet** you tomorrow. — Не смогу встретиться завтра.\n> You **should go** to bed. — Тебе стоит лечь спать.\n> **Do** you **work** here? — Ты здесь работаешь?\n> We **didn't sleep** well. — Мы плохо спали.\nПосле этих слов **to не нужно**.\n\n## 2. to work / to go / to be\nИспользуем после: **going to**, **have to**, **want to**, **would like to**, **used to**.\n> I'm **going to play** tennis tomorrow. — Я собираюсь играть в теннис.\n> I **have to go** now. — Мне пора идти.\n> Do you **want to go** out? — Хочешь выйти?\n> I'd **like to talk** to you. — Я хотел бы поговорить.\n> Dave **used to work** in a factory. — Дейв раньше работал на фабрике.\n\n## 3. working / going / playing\nИспользуем после **am / is / are** (Present Continuous) и **was / were** (Past Continuous).\n> Please be quiet. I'**m working**. — Тише, я работаю.\n> What **were** you **doing** when the phone rang? — Что ты делал, когда зазвонил телефон?\n\n## Типичные ошибки\n- ~~I can to swim.~~ → I **can swim**.\n- ~~She doesn't works.~~ → She doesn't **work**.\n- ~~I want go home.~~ → I want **to go** home.\n- ~~He is work now.~~ → He is **working** now.\n- ~~Did you went?~~ → Did you **go**?",
+  "en": "## Three forms of the verb\nA verb can be **work**, **to work** or **working**. The word before it tells us which form to use.\n\n## 1. The verb alone: work / go / be\nWe use it after modal verbs (**will, can, could, must, should, might, would, shall, may**) and after **do / does / did**.\n> Ann **will be** here soon.\n> I **can't meet** you tomorrow.\n> You **should go** to bed.\n> **Do** you **work** here?\n> We **didn't sleep** well.\nWe don't use **to** after these words.\n\n## 2. to work / to go / to be\nWe use it after **going to**, **have to**, **want to**, **would like to** and **used to**.\n> I'm **going to play** tennis tomorrow.\n> I **have to go** now.\n> Do you **want to go** out?\n> I'd **like to talk** to you.\n> Dave **used to work** in a factory.\n\n## 3. working / going / playing\nWe use it after **am / is / are** (present continuous) and **was / were** (past continuous).\n> Please be quiet. I'**m working**.\n> What **were** you **doing** when the phone rang?\n\n## Common mistakes\n- ~~I can to swim.~~ → I **can swim**.\n- ~~She doesn't works.~~ → She doesn't **work**.\n- ~~I want go home.~~ → I want **to go** home.\n- ~~He is work now.~~ → He is **working** now.",
+  "structure": "## Какая форма после какого слова\n| Перед глаголом | Форма | Пример |\n|---|---|---|\n| will, shall, can, could, may, might, must, should, would | глагол (work) | She can swim. |\n| do, does, did | глагол (work) | Do you know him? |\n| going to, have to, want to, would like to, used to | to + глагол | I want to go. |\n| am, is, are | глагол + -ing | He is cooking. |\n| was, were | глагол + -ing | We were sleeping. |\n\n## Отрицание и вопрос\n| Форма | Отрицание | Вопрос |\n|---|---|---|\n| will + work | won't work | Will you work? |\n| to work | don't want to work | Do you want to work? |\n| is working | isn't working | Is he working? |\n\n## Памятка\n> После **модальных** и **do/does/did** — глагол без to.\n> После **want / going / have / would like / used** — **to** + глагол.\n> После **be** (am/is/are, was/were) — глагол с **-ing**.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Выберите форму глагола",
+      "instruction": "Вставьте глагол в скобках в правильной форме: **go**, **to go** или **going**.",
+      "items": [
+        { "text": "Can you {{come}} to the party? (come)" },
+        { "text": "I want {{to see}} the new film. (see)" },
+        { "text": "She is {{cooking}} dinner now. (cook)" },
+        { "text": "We must {{leave}} early tomorrow. (leave)" },
+        { "text": "What time did you {{get}} up? (get)" },
+        { "text": "They are {{playing}} football in the park. (play)" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Дополните предложения",
+      "instruction": "Вставьте глагол в нужной форме.",
+      "items": [
+        { "text": "Tom doesn't {{like}} fish. (like)" },
+        { "text": "I'm going {{to buy}} a new bike. (buy)" },
+        { "text": "Why are you {{laughing}}? (laugh)" },
+        { "text": "Would you like {{to come}} with us? (come)" },
+        { "text": "Sorry, I can't {{help}} you now. (help)" },
+        { "text": "When I was a child, I used {{to live}} in a village. (live)" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I can ___ a bike.", "options": ["ride", "to ride", "riding"], "answer": 0, "why": "После can — глагол без to." },
+        { "q": "She wants ___ a doctor.", "options": ["be", "to be", "being"], "answer": 1, "why": "После want — to + глагол." },
+        { "q": "Look! It ___ .", "options": ["snow", "snows", "is snowing"], "answer": 2, "why": "Происходит сейчас — am/is/are + -ing." },
+        { "q": "Did you ___ the news?", "options": ["watched", "watch", "to watch"], "answer": 1, "why": "После did — глагол в основной форме." },
+        { "q": "We ___ to the cinema when it started to rain.", "options": ["were going", "going", "went to go"], "answer": 0, "why": "Действие в процессе в прошлом — was/were + -ing." },
+        { "q": "They didn't ___ me.", "options": ["to call", "calling", "call"], "answer": 2, "why": "После didn't — основной глагол." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Мне надо идти»?", "options": ["I have go.", "I have to go.", "I have going."], "answer": 1, "why": "have to + глагол." },
+        { "q": "Как сказать «Она не говорит по-французски»?", "options": ["She doesn't speak French.", "She doesn't speaks French.", "She not speak French."], "answer": 0, "why": "После doesn't — глагол без -s." },
+        { "q": "Как сказать «Мы собираемся поужинать»?", "options": ["We're going have dinner.", "We're going to have dinner.", "We go to have dinner."], "answer": 1, "why": "going to + глагол." },
+        { "q": "Как сказать «Он сейчас работает»?", "options": ["He works now.", "He is work now.", "He is working now."], "answer": 2, "why": "Сейчас — Present Continuous." },
+        { "q": "Как сказать «Мне не следует есть много»?", "options": ["I shouldn't to eat a lot.", "I shouldn't eat a lot.", "I shouldn't eating a lot."], "answer": 1, "why": "should + глагол без to." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов в скобках. Глагол поставьте в правильную форму.",
+      "items": [
+        { "prompt": "(Sara / can / swim / very well)", "answers": ["Sara can swim very well."] },
+        { "prompt": "(they / go / to the cinema / now) — Present Continuous", "answers": ["They are going to the cinema now.", "They're going to the cinema now."] },
+        { "prompt": "(I / want / learn / German)", "answers": ["I want to learn German."] },
+        { "prompt": "(you / do / your homework / yesterday?) — вопрос", "answers": ["Did you do your homework yesterday?"] },
+        { "prompt": "(he / not / have / a car) — отрицание, Present Simple", "answers": ["He doesn't have a car.", "He does not have a car."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        { "prompt": "What can you do well?", "sample": "I can cook and swim." },
+        { "prompt": "What are you doing now?", "sample": "I'm doing an English exercise." },
+        { "prompt": "What do you want to do at the weekend?", "sample": "I want to visit my friends." },
+        { "prompt": "What are you going to do tomorrow?", "sample": "I'm going to go to work and then play tennis." },
+        { "prompt": "What did you do yesterday?", "sample": "I worked, cooked dinner and watched a film." }
+      ]
+    }
+  ]
+}

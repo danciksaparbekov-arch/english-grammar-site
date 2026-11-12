@@ -1,0 +1,259 @@
+{
+  "id": 56,
+  "title": "do and make",
+  "summary": "**do** — действие, работа, занятия (do homework, do the shopping); **make** — создавать, производить (make a cake) и устойчивые сочетания (make a mistake, make a phone call).",
+  "ru": "## do — делать (действие, занятие)\n**Do** — общий глагол для действий и дел. Русское «делать» часто переводится как **do**.\n> What are you **doing** this evening? — Что ты делаешь сегодня вечером?\n> 'Shall I open the window?' 'No, I'll **do** it.' — Я сам.\n> Julia **does** the same thing every day. — Юлия каждый день делает одно и то же.\n> What do you **do**? — I work in a bank. — Кем ты работаешь?\n\n## make — создавать, производить\n**Make** — когда что-то создаём или производим.\n> She's **making** coffee. — Она варит кофе.\n> He has **made** a cake. — Он испёк торт.\n> They **make** umbrellas. — Они делают зонты.\n> It was **made** in France. — Это сделано во Франции.\n\n## Сравните\n> I **did** a lot of things yesterday. I cleaned my room, wrote some letters and **made** a cake.\n> What do you **do** in your free time? — I **make** clothes. (шью одежду)\n\n## Устойчивые сочетания с do\n- **do** homework, exercises, housework, an exam / a test, a course\n- **do** a favour (оказать услугу): Could you **do me a favour**?\n- **do** the shopping, the washing, the washing-up, the ironing, the cooking\n> Have the children **done** their homework? — Дети сделали уроки?\n> I hate **doing housework**. — Ненавижу домашние дела.\n\n## Устойчивые сочетания с make\n- **make** a mistake (ошибиться), an appointment (записаться), a phone call (позвонить), a list (составить список), a noise (шуметь), a bed (застелить постель)\n> I'm sorry, I **made a mistake**. — Простите, я ошибся.\n> I must **make an appointment** to see the doctor. — Надо записаться к врачу.\n> Don't **make** a noise! — Не шумите!\n\n## Типичные ошибки\n- ~~I make my homework.~~ → I **do** my homework.\n- ~~She did a mistake.~~ → She **made** a mistake.\n- ~~What are you making this evening?~~ → What are you **doing**?\n- ~~Can you make me a favour?~~ → Can you **do** me a favour?",
+  "en": "## do — actions and activities\n**Do** is a general word for actions and jobs.\n> What are you **doing** this evening?\n> 'Shall I open the window?' 'No, I'll **do** it.'\n> Julia **does** the same thing every day.\n> What do you **do**? — I work in a bank. (= What's your job?)\n\n## make — create or produce\n> She's **making** coffee.\n> He has **made** a cake.\n> They **make** umbrellas.\n> It was **made** in France.\n\n## Compare\n> I **did** a lot of things yesterday. I cleaned my room, wrote some letters and **made** a cake.\n> What do you **do** in your free time? — I **make** clothes.\n\n## Expressions with do\n- **do** homework, exercises, housework, an exam / a test, a course\n- **do** a favour: Could you **do me a favour**?\n- **do** the shopping, the washing, the washing-up, the ironing, the cooking\n> Have the children **done** their homework?\n> I hate **doing housework**.\n\n## Expressions with make\n- **make** a mistake, an appointment, a phone call, a list, a noise, a bed\n> I'm sorry, I **made a mistake**.\n> I must **make an appointment** to see the doctor.\n> Don't **make** a noise!\n\n## Common mistakes\n- ~~I make my homework.~~ → I **do** my homework.\n- ~~She did a mistake.~~ → She **made** a mistake.\n- ~~Can you make me a favour?~~ → Can you **do** me a favour?",
+  "structure": "## Сочетания\n| do | make |\n|---|---|\n| do homework | make a mistake |\n| do exercises | make a phone call |\n| do housework | make an appointment |\n| do an exam / a test | make a list |\n| do a course | make a noise |\n| do a favour | make a bed |\n| do the shopping / washing / ironing / cooking | make food and drinks: make coffee, make a cake |\n\n## Формы\n| Глагол | Present | Past | Participle |\n|---|---|---|---|\n| do | do / does | did | done |\n| make | make / makes | made | made |\n\n## Вопрос и отрицание\n> **Do** you **do** sport? · What **did** you **do**? · He **doesn't make** mistakes.\n\n## Памятка\n> **do** — делать дела и занятия; **make** — создавать и производить.\n> Выражения нужно **запоминать**: do homework, make a mistake.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "do или make?",
+      "instruction": "Вставьте **do / does / did / done** или **make / makes / made**.",
+      "items": [
+        {
+          "text": "I usually {{do}} my homework after dinner."
+        },
+        {
+          "text": "She {{made}} a cake for my birthday."
+        },
+        {
+          "text": "Please don't {{make}} so much noise."
+        },
+        {
+          "text": "He {{did}} the washing-up yesterday."
+        },
+        {
+          "text": "Have you {{done}} the shopping?"
+        },
+        {
+          "text": "They {{make}} furniture in this factory."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Устойчивые сочетания",
+      "instruction": "Вставьте **do** или **make** в нужной форме.",
+      "items": [
+        {
+          "text": "Can you {{do}} me a favour?"
+        },
+        {
+          "text": "I must {{make}} an appointment with the dentist."
+        },
+        {
+          "text": "Sorry, I {{made}} a mistake."
+        },
+        {
+          "text": "He is {{doing|taking}} his driving test next week."
+        },
+        {
+          "text": "Let's {{make}} a list of things to buy."
+        },
+        {
+          "text": "My brother never {{makes}} his bed in the morning."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный глагол",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I need to ___ some exercises.",
+          "options": [
+            "do",
+            "make",
+            "have"
+          ],
+          "answer": 0,
+          "why": "do exercises."
+        },
+        {
+          "q": "She ___ a phone call to her mother.",
+          "options": [
+            "did",
+            "made",
+            "took"
+          ],
+          "answer": 1,
+          "why": "make a phone call."
+        },
+        {
+          "q": "What time do you ___ the ironing?",
+          "options": [
+            "make",
+            "do",
+            "get"
+          ],
+          "answer": 1,
+          "why": "do the ironing."
+        },
+        {
+          "q": "He ___ coffee every morning.",
+          "options": [
+            "does",
+            "makes",
+            "has done"
+          ],
+          "answer": 1,
+          "why": "make coffee — готовить."
+        },
+        {
+          "q": "Don't ___ a mistake!",
+          "options": [
+            "do",
+            "make",
+            "take"
+          ],
+          "answer": 1,
+          "why": "make a mistake."
+        },
+        {
+          "q": "Dad ___ the cooking on Sundays.",
+          "options": [
+            "makes",
+            "does",
+            "makes a"
+          ],
+          "answer": 1,
+          "why": "do the cooking."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Я делаю уроки»?",
+          "options": [
+            "I make my homework.",
+            "I do my homework.",
+            "I'm making homework."
+          ],
+          "answer": 1,
+          "why": "do homework."
+        },
+        {
+          "q": "Как сказать «Она ошиблась»?",
+          "options": [
+            "She did a mistake.",
+            "She made a mistake.",
+            "She has a mistake."
+          ],
+          "answer": 1,
+          "why": "make a mistake."
+        },
+        {
+          "q": "Как сказать «Кем ты работаешь?»",
+          "options": [
+            "What do you do?",
+            "What are you making?",
+            "What do you make?"
+          ],
+          "answer": 0,
+          "why": "What do you do? = кем работаешь."
+        },
+        {
+          "q": "Как сказать «Они делают сыр»?",
+          "options": [
+            "They do cheese.",
+            "They make cheese.",
+            "They have cheese."
+          ],
+          "answer": 1,
+          "why": "make — производить."
+        },
+        {
+          "q": "Как сказать «Окажи мне услугу»?",
+          "options": [
+            "Do me a favour.",
+            "Make me a favour.",
+            "Give me favour."
+          ],
+          "answer": 0,
+          "why": "do a favour."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **do** или **make**.",
+      "items": [
+        {
+          "prompt": "(I / the washing / yesterday)",
+          "answers": [
+            "I did the washing yesterday."
+          ]
+        },
+        {
+          "prompt": "(she / a cake / for the party) — прошлое",
+          "answers": [
+            "She made a cake for the party."
+          ]
+        },
+        {
+          "prompt": "(we / not / any noise / at night)",
+          "answers": [
+            "We don't make any noise at night.",
+            "We do not make any noise at night.",
+            "We don't make a noise at night.",
+            "We don't make noise at night."
+          ]
+        },
+        {
+          "prompt": "(Tom / his homework / now) — Present Continuous",
+          "answers": [
+            "Tom is doing his homework now.",
+            "Tom's doing his homework now."
+          ]
+        },
+        {
+          "prompt": "(you / do / me / a favour?) — вопрос с can",
+          "answers": [
+            "Can you do me a favour?",
+            "Could you do me a favour?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What do you do? (профессия или учёба)",
+          "sample": "I'm a student. I study design."
+        },
+        {
+          "prompt": "Who does the shopping in your family?",
+          "sample": "My mother does the shopping."
+        },
+        {
+          "prompt": "What do you make in the kitchen?",
+          "sample": "I make soup and pasta."
+        },
+        {
+          "prompt": "Do you make your bed every morning?",
+          "sample": "Yes, I make my bed every morning."
+        },
+        {
+          "prompt": "What did you do yesterday?",
+          "sample": "I did my homework and made dinner."
+        }
+      ]
+    }
+  ]
+}

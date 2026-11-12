@@ -1,0 +1,109 @@
+{
+  "id": 21,
+  "title": "is done was done (passive 1)",
+  "summary": "Страдательный залог в настоящем и прошедшем: **is / are / was / were + причастие** — когда важно действие, а не тот, кто его делает.",
+  "ru": "## Что такое пассив\nВ активном предложении делающий действие — подлежащее: «Кто-то убирает офис». В пассиве на первом месте то, **с чем** делают: «Офис убирается».\n> Somebody **cleans** the office every day. (актив)\n> The office **is cleaned** every day. — Офис убирают каждый день. (пассив)\n\nПассив используем, когда нам неважно или неизвестно, кто делает.\n\n## Как образуется\n> **am / is / are** + причастие (present simple passive)\n> **was / were** + причастие (past simple passive)\n\nПричастие у правильных глаголов = **-ed** (cleaned, painted), у неправильных — третья форма (made, built, taken, stolen).\n> Butter **is made** from milk. — Масло делают из молока.\n> These rooms **are cleaned** every day. — Эти комнаты убирают каждый день.\n> This house **was built** 100 years ago. — Этот дом построили 100 лет назад.\n> The windows **were broken** last night. — Окна разбили прошлой ночью.\n\n## Отрицание и вопрос\n> I'm never invited to parties. — Меня никогда не приглашают на вечеринки.\n> We **weren't** invited. — Нас не пригласили.\n> **When was** the telephone invented? — Когда изобрели телефон?\n> **How often are** the rooms cleaned? — Как часто убирают комнаты?\n\n## was / were born\nПо-русски «я родилась» — глагол в прошедшем. По-английски — только пассив в прошедшем.\n> I **was born** in 1998. — Я родилась в 1998 году.\n> Where **were** you **born**? — Где ты родилась?\n- ~~I am born in Osh.~~ → I **was born** in Osh.\n\n## by — кем сделано\nЕсли важно, кто делает, добавляем **by**.\n> The telephone was invented **by** Alexander Bell. — Телефон изобрёл Александр Белл.\n> My brother was bitten **by** a dog. — Моего брата укусила собака.\n\n## Типичные ошибки\n- ~~The house built in 1990.~~ → The house **was built** in 1990. (be обязателен)\n- ~~It was invent in 1876.~~ → It was **invented** in 1876. (нужно причастие)",
+  "en": "## What is the passive?\nIn an active sentence the subject does the action: \"Somebody cleans the office\". In a passive sentence the subject is the thing that receives the action: \"The office is cleaned\".\n> Somebody **cleans** the office every day. (active)\n> The office **is cleaned** every day. (passive)\n\nWe use the passive when we don't know who does the action, or it isn't important.\n\n## How to form it\n> **am / is / are** + past participle (present simple passive)\n> **was / were** + past participle (past simple passive)\n\nRegular past participles end in **-ed** (cleaned, painted). Irregular ones are different (made, built, taken, stolen).\n> Butter **is made** from milk.\n> These rooms **are cleaned** every day.\n> This house **was built** 100 years ago.\n> The windows **were broken** last night.\n\n## Negative and questions\n> I'm never invited to parties.\n> We **weren't** invited.\n> **When was** the telephone invented?\n> **How often are** the rooms cleaned?\n\n## was / were born\nWe always say **was / were born** (not *am born*).\n> I **was born** in 1998.\n> Where **were** you **born**?\n\n## by ...\nWe use **by** to say who did the action.\n> The telephone was invented **by** Alexander Bell.\n> My brother was bitten **by** a dog.\n\n## Common mistakes\n- ~~The house built in 1990.~~ → The house **was built** in 1990.\n- ~~It was invent in 1876.~~ → It was **invented** in 1876.\n- ~~I am born in Osh.~~ → I **was born** in Osh.",
+  "structure": "## Present simple passive\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| The room is cleaned. | The room isn't cleaned. | Is the room cleaned? |\n| I am invited. | I'm not invited. | Am I invited? |\n| The rooms are cleaned. | The rooms aren't cleaned. | Are the rooms cleaned? |\n\n## Past simple passive\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| The house was built. | The house wasn't built. | Was the house built? |\n| The houses were built. | The houses weren't built. | Were the houses built? |\n\n## Формула\n> Подлежащее + **am / is / are / was / were** + past participle (+ **by** + кто)\n\n## Краткие ответы\n- Was it made in China? — Yes, it **was**. / No, it **wasn't**.\n- Are they sold here? — Yes, they **are**. / No, they **aren't**.\n\n## Правописание причастия\n- clean → cleaned, paint → painted\n- love → loved (+d), study → studied (y → ied)\n- неправильные: make → made, build → built, steal → stolen, take → taken, write → written",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Present simple passive",
+      "instruction": "Поставьте глагол в скобках в present simple passive.",
+      "example": "(the rooms / clean) → The rooms are cleaned.",
+      "items": [
+        { "text": "Bread {{is made|'s made}} from flour.", "hint": "make" },
+        { "text": "These cars {{are made|'re made}} in Japan.", "hint": "make" },
+        { "text": "The shops {{are closed|'re closed}} on Sundays.", "hint": "close" },
+        { "text": "English {{is spoken|'s spoken}} all over the world.", "hint": "speak" },
+        { "text": "How often {{is}} the floor {{washed}}?", "hint": "wash" },
+        { "text": "I {{am never invited|'m never invited}} to their parties.", "hint": "never / invite" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Past simple passive",
+      "instruction": "Поставьте глагол в past simple passive (was / were + причастие).",
+      "items": [
+        { "text": "This bridge {{was built}} in 1960.", "hint": "build" },
+        { "text": "Two people {{were taken}} to hospital after the accident.", "hint": "take" },
+        { "text": "The window {{was broken}} yesterday.", "hint": "break" },
+        { "text": "My phone {{was stolen|was taken}} last week.", "hint": "steal" },
+        { "text": "{{Were}} you {{invited}} to the wedding?", "hint": "invite" },
+        { "text": "These letters {{weren't written|were not written}} by me.", "hint": "not / write" },
+        { "text": "When {{was}} this church {{built}}?", "hint": "build" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "The office ___ every day.", "options": ["cleans", "is cleaned", "cleaned"], "answer": 1, "why": "Офис убирают (пассив) → **is cleaned**." },
+        { "q": "My grandmother ___ in 1950.", "options": ["is born", "was born", "born"], "answer": 1, "why": "**was born** — всегда пассив в прошедшем." },
+        { "q": "These books ___ in Germany.", "options": ["is printed", "are printed", "printed"], "answer": 1, "why": "These books — мн. число → **are printed**." },
+        { "q": "The thieves ___ yesterday.", "options": ["were caught", "caught", "are caught"], "answer": 0, "why": "Их поймали вчера → **were caught**." },
+        { "q": "Where ___ you born?", "options": ["are", "did", "were"], "answer": 2, "why": "**Where were you born?**" },
+        { "q": "The letter ___ by my boss.", "options": ["was written", "wrote", "is writing"], "answer": 0, "why": "Письмо написано боссом → **was written by**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Актив или пассив?",
+      "instruction": "Выберите правильное предложение.",
+      "items": [
+        { "q": "«Эту картину нарисовал Пикассо».", "options": ["This picture painted Picasso.", "This picture was painted by Picasso.", "This picture is painted by Picasso yesterday."], "answer": 1, "why": "Картину нарисовали → **was painted by**." },
+        { "q": "«Мой телефон украли».", "options": ["My phone was stolen.", "My phone stole.", "My phone is steal."], "answer": 0, "why": "**was stolen**." },
+        { "q": "«Здесь говорят по-английски».", "options": ["English speaks here.", "English is spoken here.", "English was spoken here now."], "answer": 1, "why": "**is spoken**." },
+        { "q": "«Меня не пригласили».", "options": ["I wasn't invited.", "I didn't invited.", "I not was invited."], "answer": 0, "why": "**wasn't invited**." },
+        { "q": "«Когда построили этот дом?»", "options": ["When built this house?", "When was this house built?", "When did this house built?"], "answer": 1, "why": "Вопрос: **When was ... built?**" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Актив → пассив",
+      "instruction": "Перепишите предложение в пассиве (в конце — недостающая часть).",
+      "example": "Somebody cleans the room. → The room is cleaned.",
+      "items": [
+        { "text": "Somebody locks the door at night. → The door {{is locked}} at night.", "hint": "lock" },
+        { "text": "Somebody made this cake yesterday. → This cake {{was made}} yesterday.", "hint": "make" },
+        { "text": "People grow rice in Asia. → Rice {{is grown}} in Asia.", "hint": "grow" },
+        { "text": "Somebody stole my bag. → My bag {{was stolen}}.", "hint": "steal" },
+        { "text": "They build many houses here. → Many houses {{are built}} here.", "hint": "build" },
+        { "text": "Alexander Bell invented the telephone. → The telephone {{was invented}} by Alexander Bell.", "hint": "invent" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение в пассиве.",
+      "items": [
+        { "prompt": "(the office / clean / every day)", "answers": ["The office is cleaned every day."] },
+        { "prompt": "(glass / make / from sand)", "answers": ["Glass is made from sand."] },
+        { "prompt": "(these rooms / clean / every day?)", "answers": ["Are these rooms cleaned every day?"] },
+        { "prompt": "(the film / not / make / in 2010)", "answers": ["The film wasn't made in 2010.", "The film was not made in 2010."] },
+        { "prompt": "(when / this bridge / build?)", "answers": ["When was this bridge built?"] },
+        { "prompt": "(my car / steal / last night)", "answers": ["My car was stolen last night."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя пассив.",
+      "items": [
+        { "prompt": "Где вы родились?", "sample": "I was born in Bishkek." },
+        { "prompt": "В каком году вы родились?", "sample": "I was born in 1998." },
+        { "prompt": "Из чего делают ваше любимое блюдо?", "sample": "Plov is made from rice, meat and carrots." },
+        { "prompt": "Какой язык говорят в вашей стране?", "sample": "Russian and Kyrgyz are spoken in my country." },
+        { "prompt": "Что делают с вашей комнатой каждую неделю?", "sample": "My room is cleaned every Saturday." }
+      ]
+    }
+  ]
+}

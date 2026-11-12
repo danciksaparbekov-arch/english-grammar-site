@@ -1,0 +1,343 @@
+{
+  "id": 60,
+  "title": "Whose is this? It's mine/yours/hers etc.",
+  "summary": "Абсолютные притяжательные **mine, yours, hers, ours, theirs** (без существительного), вопрос **Whose...?** и конструкция **a friend of mine**.",
+  "ru": "## my и mine: в чём разница\n**my, your, her, our, their** всегда стоят **перед существительным**. А **mine, yours, hers, ours, theirs** употребляются **без существительного** — вместо него.\n> Is this **your** book? — Это твоя книга?\n> Yes, it's **mine**. — Да, моя. (= my book)\n> It's their problem, not **ours**. — Это их проблема, не наша.\n\n## Таблица\n- my → **mine** (мой)\n- your → **yours** (твой, ваш)\n- his → **his** (его) — не меняется\n- her → **hers** (её)\n- our → **ours** (наш)\n- their → **theirs** (их)\n- its — в такой форме почти не используется.\n\n## Примеры\n> I didn't have an umbrella, so Ann gave me **hers**. — Зонта у меня не было, и Энн дала мне свой (= её зонт).\n> We went in our car and they went in **theirs**. — Мы поехали на нашей машине, а они — на своей.\n> 'Is this his camera or hers?' — 'It's **his**.' — «Это его камера или её?» — «Его».\n\n## Whose...? — Чей?\n**Whose** спрашивает о владельце. Можно с существительным и без него.\n> **Whose** book is this? — Чья это книга?\n> **Whose** is this? — Чьё это?\n> It's **Tom's**. / It's **mine**. — Это Тома. / Моё.\n> **Whose** shoes are these? — Чьи это туфли?\n> They're **hers**. — Они её.\nНе путайте: **Whose** (чей) и **Who's** (= who is, кто).\n\n## a friend of mine\nЕсли хотим сказать «один из моих друзей», используем **of + mine / yours / his / hers / ours / theirs**.\n> I met **a friend of mine**. — Я встретил одного моего друга.\n> Tom was with **a friend of his**. — Том был с одним своим другом.\n> Are those people **friends of yours**? — Эти люди — твои друзья?\n- ~~a friend of me~~ → a friend of **mine**\n- ~~friends of you~~ → friends of **yours**\n\n## Типичные ошибки\n- ~~Is this book mine or your?~~ → Is this book mine or **yours**?\n- ~~It's mine book.~~ → It's **my** book. / It's **mine**.\n- ~~It's hers book.~~ → It's **her** book. / It's **hers**.\n- ~~Who's book is this?~~ → **Whose** book is this?",
+  "en": "## my or mine?\n**my, your, her, our, their** go **before a noun**. **mine, yours, hers, ours, theirs** are used **without a noun**.\n> Is this **your** book?\n> Yes, it's **mine**. (= my book)\n> It's their problem, not **ours**.\n\n## The list\n- my → **mine**\n- your → **yours**\n- his → **his**\n- her → **hers**\n- our → **ours**\n- their → **theirs**\n\n## Examples\n> I didn't have an umbrella, so Ann gave me **hers**.\n> We went in our car and they went in **theirs**.\n> 'Is this his camera or hers?' 'It's **his**.'\n\n## Whose ...?\nWe use **whose** to ask who something belongs to. We can use it with or without a noun.\n> **Whose** book is this?\n> **Whose** is this?\n> It's **Tom's**. / It's **mine**.\n**Whose** is different from **Who's** (= who is).\n\n## a friend of mine\nTo say \"one of my friends\" we use **of + mine / yours / his / hers / ours / theirs**.\n> I met **a friend of mine**.\n> Tom was with **a friend of his**.\n- ~~a friend of me~~ → a friend of **mine**\n\n## Common mistakes\n- ~~It's mine book.~~ → It's **my** book. / It's **mine**.\n- ~~Who's book is this?~~ → **Whose** book is this?",
+  "structure": "## Две формы\n| Перед существительным | Без существительного |\n|---|---|\n| my book | mine |\n| your book | yours |\n| his book | his |\n| her book | hers |\n| our book | ours |\n| their book | theirs |\n\n## Формулы\n> **my** + существительное → **mine** (вместо)\n> It's **my** pen. = It's **mine**.\n\n> **Whose** + существительное + be + ...?\n> **Whose** bag is this? — It's **hers**.\n\n> a / some + существительное + **of** + mine / yours / his / hers / ours / theirs\n> a friend **of mine** · some friends **of hers**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "my или mine?",
+      "instruction": "Вставьте нужную форму в скобках.",
+      "example": "Whose pen is this? It's (my / mine). → It's **mine**.",
+      "items": [
+        {
+          "text": "This is not {{my}} umbrella. {{Mine}} is black.",
+          "hint": "my / mine"
+        },
+        {
+          "text": "Is this {{your}} phone, or is it Sara's? — I think it's {{hers}}.",
+          "hint": "your / hers"
+        },
+        {
+          "text": "We have a big garden, but {{theirs}} is bigger.",
+          "hint": "their / theirs"
+        },
+        {
+          "text": "Those are not our seats. {{Ours}} are over there.",
+          "hint": "our / ours"
+        },
+        {
+          "text": "That isn't his car. {{His}} car is blue.",
+          "hint": "his"
+        },
+        {
+          "text": "Can I use your pen? I forgot {{mine}}.",
+          "hint": "my / mine"
+        },
+        {
+          "text": "They love {{their}} house, and we love {{ours}}.",
+          "hint": "their / ours"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Ответьте коротко",
+      "instruction": "Ответьте, используя **mine, yours, his, hers, ours, theirs**.",
+      "items": [
+        {
+          "text": "Is this my coat? — Yes, it's {{yours}}."
+        },
+        {
+          "text": "Is this our table? — Yes, it's {{ours}}."
+        },
+        {
+          "text": "Is this Tom's bag? — Yes, it's {{his}}."
+        },
+        {
+          "text": "Is this Mary's phone? — Yes, it's {{hers}}."
+        },
+        {
+          "text": "Is this their car? — Yes, it's {{theirs}}."
+        },
+        {
+          "text": "Is that your coat? — Yes, it's {{mine}}."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "a friend of ...",
+      "instruction": "Вставьте нужную форму: **mine, yours, his, hers, ours, theirs**.",
+      "items": [
+        {
+          "text": "I'm meeting a friend of {{mine}} tonight."
+        },
+        {
+          "text": "Is Peter a friend of {{yours}}?"
+        },
+        {
+          "text": "Anna is going to the cinema with a friend of {{hers}}."
+        },
+        {
+          "text": "Tom has a problem. He is talking to a friend of {{his}}."
+        },
+        {
+          "text": "We invited some friends of {{ours}} for dinner."
+        },
+        {
+          "text": "My parents are visiting some friends of {{theirs}}."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Whose...?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "___ book is this?",
+          "options": [
+            "Who's",
+            "Whose",
+            "Who"
+          ],
+          "answer": 1,
+          "why": "Спрашиваем о владельце: **Whose**."
+        },
+        {
+          "q": "This isn't my pen. It's ___.",
+          "options": [
+            "your",
+            "yours",
+            "you"
+          ],
+          "answer": 1,
+          "why": "Без существительного — **yours**."
+        },
+        {
+          "q": "A: Whose shoes are these? B: They're ___.",
+          "options": [
+            "her",
+            "she",
+            "hers"
+          ],
+          "answer": 2,
+          "why": "Без существительного — **hers**."
+        },
+        {
+          "q": "We're talking about a friend of ___.",
+          "options": [
+            "me",
+            "my",
+            "mine"
+          ],
+          "answer": 2,
+          "why": "a friend of **mine**."
+        },
+        {
+          "q": "That house is ___. We live there.",
+          "options": [
+            "our",
+            "ours",
+            "us"
+          ],
+          "answer": 1,
+          "why": "Без существительного — **ours**."
+        },
+        {
+          "q": "It's not my problem. It's ___ problem.",
+          "options": [
+            "theirs",
+            "their",
+            "them"
+          ],
+          "answer": 1,
+          "why": "Перед существительным — **their**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Исправьте ошибку",
+      "instruction": "Выберите правильное предложение.",
+      "items": [
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "Is this book yours?",
+            "Is this book your?",
+            "Is this book you?"
+          ],
+          "answer": 0,
+          "why": "Без существительного — **yours**."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "Whose is this bag?",
+            "Who's is this bag?",
+            "Whose this bag is?"
+          ],
+          "answer": 0,
+          "why": "**Whose** is this bag?"
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "She is a friend of me.",
+            "She is a friend of mine.",
+            "She is a friend of my."
+          ],
+          "answer": 1,
+          "why": "a friend of **mine**."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "The red car is their.",
+            "The red car is theirs.",
+            "The red car is them."
+          ],
+          "answer": 1,
+          "why": "Без существительного — **theirs**."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "It's mine pen.",
+            "It's my pen.",
+            "It's me pen."
+          ],
+          "answer": 1,
+          "why": "Перед существительным — **my**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **mine, yours, hers, ours, theirs**.",
+      "items": [
+        {
+          "prompt": "(this / bag / is / my) → This bag is ...",
+          "answers": [
+            "This bag is mine."
+          ]
+        },
+        {
+          "prompt": "(those / keys / are / your) → Those keys are ...",
+          "answers": [
+            "Those keys are yours."
+          ]
+        },
+        {
+          "prompt": "(the red car / is / her)",
+          "answers": [
+            "The red car is hers."
+          ]
+        },
+        {
+          "prompt": "(this house / is / our)",
+          "answers": [
+            "This house is ours."
+          ]
+        },
+        {
+          "prompt": "(that dog / is / their)",
+          "answers": [
+            "That dog is theirs."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Чья это ручка?",
+          "answers": [
+            "Whose pen is this?",
+            "Whose is this pen?",
+            "Whose pen is it?",
+            "Whose is this?"
+          ]
+        },
+        {
+          "prompt": "Это не моя сумка. Моя синяя.",
+          "answers": [
+            "This isn't my bag. Mine is blue.",
+            "This is not my bag. Mine is blue.",
+            "It isn't my bag. Mine is blue.",
+            "It's not my bag. Mine is blue."
+          ]
+        },
+        {
+          "prompt": "Эта машина наша.",
+          "answers": [
+            "This car is ours.",
+            "That car is ours.",
+            "It's ours.",
+            "The car is ours."
+          ]
+        },
+        {
+          "prompt": "Я иду в кино с моим другом.",
+          "answers": [
+            "I'm going to the cinema with a friend of mine.",
+            "I am going to the cinema with a friend of mine.",
+            "I'm going to the cinema with my friend.",
+            "I am going to the cinema with my friend."
+          ]
+        },
+        {
+          "prompt": "Чьи это очки? — Её.",
+          "answers": [
+            "Whose glasses are these? They're hers.",
+            "Whose glasses are these? — They're hers.",
+            "Whose are these glasses? They're hers."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте на вопросы полными предложениями.",
+      "items": [
+        {
+          "prompt": "Whose phone is on your table? Is it yours?",
+          "sample": "It's mine. My phone is on the table."
+        },
+        {
+          "prompt": "Do you have a friend who lives abroad? Say: 'a friend of mine ...'",
+          "sample": "A friend of mine lives in Germany."
+        },
+        {
+          "prompt": "Compare your room and your friend's room (mine / his / hers).",
+          "sample": "My room is small. Hers is bigger."
+        },
+        {
+          "prompt": "Whose house is your favourite?",
+          "sample": "My favourite house is my grandmother's."
+        },
+        {
+          "prompt": "Whose car is in front of your house?",
+          "sample": "It's our neighbour's car. It's theirs."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "id": 70,
+  "title": "go to work / go home / go to the cinema",
+  "summary": "Устойчивые выражения без артикля (**go to work, go to school, go to bed, go home**) и с артиклем **the** (**go to the cinema, the bank, the doctor**).",
+  "ru": "## Без артикля: когда место — это «деятельность»\nЕсть слова, после которых **не ставим the**, если речь об обычной функции этого места (работать, учиться, спать, лечиться).\n> I'm going to **work** now. — Я иду на работу.\n> What did you learn at **school** today? — Чему вы научились в школе сегодня?\n> Helen wants to go to **university**. — Хелен хочет поступить в университет.\n> Jack had to go to **hospital**. — Джеку пришлось лечь в больницу.\n> I'm tired. I'm going to **bed**. — Я устала. Иду спать.\n> David usually goes to **church** on Sundays. — Дэвид обычно ходит в церковь по воскресеньям.\n> Why is he in **prison**? — Почему он в тюрьме?\n\n## Таблица: куда / где\n- **(go) to work** — **(be) at work**: *She's **at work**.*\n- **(go) to school** — **(be) at school**\n- **(go) to university / college** — **(be) at university**\n- **(go) to hospital** — **(be) in hospital** (лежать в больнице)\n- **(go) to prison** — **(be) in prison**\n- **(go) to church** — **(be) in / at church**\n- **(go) to bed** — **(be) in bed**\n- **(go) home** — **(be) at home**\n\n## home — без to\n**go home**, но **be at home**. Слово to перед home не нужно.\n> I'm going **home**. (не ~~to home~~)\n> Are you going out tonight or staying **at home**?\n\n## С the: просто здания\nЕсли это **место, здание**, куда идут по делу (а не «учиться», «лечиться»), ставим **the**.\n> I never go to **the** theatre but I often go to **the** cinema. — Я никогда не хожу в театр, но часто хожу в кино.\n> 'Are you going to **the** bank?' 'No, **the** post office.' — Ты идёшь в банк? — Нет, на почту.\n> You're not well. Why don't you go to **the** doctor? — Ты плохо себя чувствуешь. Сходи к врачу.\n> I'm going to **the** dentist tomorrow. — Завтра иду к дантисту.\nТакже **the station, the airport, the city centre**.\n\n## Почему так\n- **go to school** = учиться (функция).\n- **go to the school** = прийти в здание школы (например, на встречу родителей).\n> I go to school every day. (я ученик)\n> I'm going to the school to meet my son's teacher. (в здание)\n\n## Типичные ошибки\n- ~~I'm going to the work.~~ → I'm going to **work**.\n- ~~She is at the school.~~ (она ученица) → She is at **school**.\n- ~~I'm going to home.~~ → I'm going **home**.\n- ~~I go to cinema.~~ → I go to **the** cinema.",
+  "en": "## No article: when the place is an activity\nAfter some words we **don't use the** when we talk about what people usually do there (work, study, sleep, get treatment).\n> I'm going to **work** now.\n> What did you learn at **school** today?\n> Helen wants to go to **university**.\n> Jack had to go to **hospital**.\n> I'm tired. I'm going to **bed**.\n> David usually goes to **church** on Sundays.\n> Why is he in **prison**?\n\n## Going and being\n- **(go) to work** — **(be) at work**\n- **(go) to school** — **(be) at school**\n- **(go) to university / college** — **(be) at university**\n- **(go) to hospital** — **(be) in hospital**\n- **(go) to prison** — **(be) in prison**\n- **(go) to church** — **(be) in / at church**\n- **(go) to bed** — **(be) in bed**\n- **(go) home** — **(be) at home**\n\n## home — no \"to\"\n> I'm going **home**. (not ~~to home~~)\n> Are you staying **at home**?\n\n## With the: buildings and services\n> I never go to **the** theatre but I often go to **the** cinema.\n> 'Are you going to **the** bank?' 'No, **the** post office.'\n> Why don't you go to **the** doctor?\n> I'm going to **the** dentist tomorrow.\nAlso **the station, the airport, the city centre**.\n\n## Why?\n- **go to school** = to study there\n- **go to the school** = to visit the building\n> I go to school every day.\n> I'm going to the school to meet my son's teacher.\n\n## Common mistakes\n- ~~I'm going to the work.~~ → I'm going to **work**.\n- ~~I'm going to home.~~ → I'm going **home**.\n- ~~I go to cinema.~~ → I go to **the** cinema.",
+  "structure": "## Без the\n| Идти | Находиться |\n|---|---|\n| go to work | be at work |\n| go to school | be at school |\n| go to university / college | be at university |\n| go to hospital | be in hospital |\n| go to prison | be in prison |\n| go to church | be in / at church |\n| go to bed | be in bed |\n| go home | be at home |\n\n## С the\n| Идти | Находиться |\n|---|---|\n| go to **the** cinema | be at **the** cinema |\n| go to **the** theatre | be at **the** theatre |\n| go to **the** bank | be in / at **the** bank |\n| go to **the** post office | be at **the** post office |\n| go to **the** doctor | be at **the** doctor's |\n| go to **the** dentist | be at **the** dentist's |\n| go to **the** station / airport | be at **the** station / airport |\n\n## Формулы\n> go **to** + work / school / bed / hospital ... (без the)\n> go **home** (без to)\n> go to **the** + cinema / bank / doctor ... (с the)",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "to, at, in или -",
+      "instruction": "Вставьте **to, at, in** или **-** (если слова не нужно). Если слова не нужно, напишите **-**.",
+      "example": "I'm tired. I'm going ... bed. → I'm going **to** bed.",
+      "items": [
+        {
+          "text": "I'm tired. I'm going {{to}} bed."
+        },
+        {
+          "text": "Jack is {{in}} hospital. He had an accident."
+        },
+        {
+          "text": "She goes {{to}} school by bus."
+        },
+        {
+          "text": "I'm going {{-|—|–|0}} home."
+        },
+        {
+          "text": "What time do you go {{to}} work?"
+        },
+        {
+          "text": "Why is he {{in}} prison?"
+        },
+        {
+          "text": "They are {{at}} work now."
+        },
+        {
+          "text": "Is she {{at}} home today?"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "the или нет?",
+      "instruction": "Вставьте **the** или поставьте **-** (пусто).",
+      "items": [
+        {
+          "text": "I never go to {{the}} theatre."
+        },
+        {
+          "text": "He is going to {{-|—|–|0}} university next year."
+        },
+        {
+          "text": "I'm going to {{the}} post office."
+        },
+        {
+          "text": "She often goes to {{-|—|–|0}} church on Sunday."
+        },
+        {
+          "text": "You're ill. Go to {{the}} doctor."
+        },
+        {
+          "text": "We go to {{the}} cinema every Friday."
+        },
+        {
+          "text": "My daughter is at {{-|—|–|0}} school now."
+        },
+        {
+          "text": "I go to {{the}} bank on Monday."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Диалоги",
+      "instruction": "Вставьте нужные слова: **to, at, in, the** (или **-**).",
+      "items": [
+        {
+          "text": "A: Where is Tom? B: He's {{at}} work."
+        },
+        {
+          "text": "A: Where are you going? B: I'm going {{to}} the bank."
+        },
+        {
+          "text": "A: Is Mary ill? B: Yes, she's {{in}} bed."
+        },
+        {
+          "text": "A: Are you going out tonight? B: No, I'm staying {{at}} home."
+        },
+        {
+          "text": "A: Where does Paul study? B: He's {{at}} university."
+        },
+        {
+          "text": "A: How is your mother? B: She's {{in}} hospital."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите вариант",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I'm going ___ now. Goodbye!",
+          "options": [
+            "to the work",
+            "to work",
+            "at work"
+          ],
+          "answer": 1,
+          "why": "go to work — без the."
+        },
+        {
+          "q": "My children are ___ now.",
+          "options": [
+            "at school",
+            "at the school",
+            "to school"
+          ],
+          "answer": 0,
+          "why": "be at school (ученики)."
+        },
+        {
+          "q": "I'm tired. I'm going ___.",
+          "options": [
+            "to the bed",
+            "to bed",
+            "at bed"
+          ],
+          "answer": 1,
+          "why": "go to bed."
+        },
+        {
+          "q": "She is going ___ now.",
+          "options": [
+            "to home",
+            "at home",
+            "home"
+          ],
+          "answer": 2,
+          "why": "go home — без to."
+        },
+        {
+          "q": "Let's go ___ tonight.",
+          "options": [
+            "to cinema",
+            "to the cinema",
+            "at the cinema"
+          ],
+          "answer": 1,
+          "why": "go to **the** cinema."
+        },
+        {
+          "q": "You look ill. Why don't you go ___?",
+          "options": [
+            "to doctor",
+            "to the doctor",
+            "doctor"
+          ],
+          "answer": 1,
+          "why": "go to **the** doctor."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Правильное предложение",
+      "instruction": "Верно только одно.",
+      "items": [
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I'm going to the home.",
+            "I'm going to home.",
+            "I'm going home."
+          ],
+          "answer": 2,
+          "why": "go home."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "He is in hospital.",
+            "He is in the hospital.",
+            "He is at hospital."
+          ],
+          "answer": 0,
+          "why": "be in hospital (лечится)."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "She goes to the school every day.",
+            "She goes to school every day.",
+            "She goes school every day."
+          ],
+          "answer": 1,
+          "why": "go to school — учиться."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "Do you go to church?",
+            "Do you go to the church?",
+            "Do you go church?"
+          ],
+          "answer": 0,
+          "why": "go to church (молиться)."
+        },
+        {
+          "q": "Выберите верное.",
+          "options": [
+            "I'm going to the dentist tomorrow.",
+            "I'm going to dentist tomorrow.",
+            "I'm going dentist tomorrow."
+          ],
+          "answer": 0,
+          "why": "go to the dentist."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение со словами в скобках.",
+      "items": [
+        {
+          "prompt": "(I / go / work / at 8 o'clock)",
+          "answers": [
+            "I go to work at 8 o'clock.",
+            "I go to work at eight o'clock.",
+            "I go to work at 8.",
+            "I go to work at eight."
+          ]
+        },
+        {
+          "prompt": "(she / be / bed / now)",
+          "answers": [
+            "She is in bed now.",
+            "She's in bed now.",
+            "She is in bed.",
+            "She's in bed."
+          ]
+        },
+        {
+          "prompt": "(we / go / cinema / on Saturday)",
+          "answers": [
+            "We go to the cinema on Saturday.",
+            "We are going to the cinema on Saturday.",
+            "We're going to the cinema on Saturday."
+          ]
+        },
+        {
+          "prompt": "(he / not / be / home)",
+          "answers": [
+            "He isn't at home.",
+            "He is not at home.",
+            "He's not at home.",
+            "He isn't home.",
+            "He is not home.",
+            "He's not home."
+          ]
+        },
+        {
+          "prompt": "(they / go / bank)",
+          "answers": [
+            "They go to the bank.",
+            "They are going to the bank.",
+            "They're going to the bank."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Я иду на работу.",
+          "answers": [
+            "I'm going to work.",
+            "I am going to work.",
+            "I go to work."
+          ]
+        },
+        {
+          "prompt": "Она в больнице.",
+          "answers": [
+            "She's in hospital.",
+            "She is in hospital.",
+            "She's in the hospital.",
+            "She is in the hospital."
+          ]
+        },
+        {
+          "prompt": "Они идут домой.",
+          "answers": [
+            "They're going home.",
+            "They are going home.",
+            "They go home."
+          ]
+        },
+        {
+          "prompt": "Завтра я иду к врачу.",
+          "answers": [
+            "I'm going to the doctor tomorrow.",
+            "I am going to the doctor tomorrow.",
+            "Tomorrow I'm going to the doctor.",
+            "Tomorrow I am going to the doctor."
+          ]
+        },
+        {
+          "prompt": "Мы идём в кино сегодня вечером.",
+          "answers": [
+            "We're going to the cinema tonight.",
+            "We are going to the cinema tonight.",
+            "We're going to the cinema this evening.",
+            "We are going to the cinema this evening."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями.",
+      "items": [
+        {
+          "prompt": "What time do you go to work / school?",
+          "sample": "I go to school at eight o'clock."
+        },
+        {
+          "prompt": "What time do you go to bed?",
+          "sample": "I go to bed at eleven o'clock."
+        },
+        {
+          "prompt": "Where are you now? (at home / at work / at school)",
+          "sample": "I'm at home now."
+        },
+        {
+          "prompt": "Do you go to the cinema often?",
+          "sample": "No, I go to the cinema twice a year."
+        },
+        {
+          "prompt": "Where do you go on Saturday?",
+          "sample": "On Saturday I go to the market and then home."
+        }
+      ]
+    }
+  ]
+}

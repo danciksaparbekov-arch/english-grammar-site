@@ -1,0 +1,336 @@
+{
+  "id": 105,
+  "title": "afraid of ... good at ... etc. (preposition + -ing)",
+  "summary": "Прилагательные и глаголы с предлогами (**afraid of, good at, interested in, thank you for**), после которых глагол ставится в форме **-ing**.",
+  "ru": "## Прилагательное + предлог\nМногие прилагательные всегда идут с определённым предлогом.\n- **afraid of** — бояться: *I'm **afraid of** dogs.*\n- **good at / bad at** — хорошо / плохо что-то делать: *She's **good at** maths.*\n- **interested in** — интересоваться: *Are you **interested in** art?*\n- **fond of** — любить, быть привязанным: *He's **fond of** animals.*\n- **tired of / bored with** — уставать от, надоело: *I'm **tired of** waiting.*\n- **different from**, **married to**, **angry with / about**, **proud of**, **ready for**, **sorry for / about**, **excited about**\n\n## Предлог + глагол в форме -ing\nЕсли после предлога стоит глагол, он принимает форму **-ing** (никогда не to + глагол и не просто основа).\n> I'm afraid **of flying**. — Я боюсь летать.\n> He's good **at cooking**. — Он хорошо готовит.\n> I'm interested **in learning** Italian. — Я интересуюсь изучением итальянского.\n> Thank you **for helping** me. — Спасибо, что помогли мне.\n\n## Другие частые модели\n- **before / after / without / instead of / by + -ing**\n> **Before leaving**, check the windows. — Перед уходом проверь окна.\n> She left **without saying** goodbye. — Она ушла, не попрощавшись.\n> You can improve your English **by reading** a lot. — Можно улучшить английский, много читая.\n> **How about** going to the cinema? — Как насчёт кино?\n\n## Типичные ошибки\n- ~~I'm afraid to flying.~~ → I'm afraid **of flying**.\n- ~~She's good in cooking.~~ → She's good **at cooking**.\n- ~~Thank you for help me.~~ → Thank you **for helping** me.\n- ~~He left without to say goodbye.~~ → **without saying**.\n- ~~I'm interested to learn.~~ → I'm interested **in learning**.",
+  "en": "## Adjective + preposition\nMany adjectives are always followed by a certain preposition.\n- **afraid of**: *I'm **afraid of** dogs.*\n- **good at / bad at**: *She's **good at** maths.*\n- **interested in**: *Are you **interested in** art?*\n- **fond of**: *He's **fond of** animals.*\n- **tired of / bored with**: *I'm **tired of** waiting.*\n- also: **different from, married to, angry with / about, proud of, ready for, sorry for / about, excited about**\n\n## Preposition + -ing\nWhen a verb comes after a preposition, it ends in **-ing**.\n> I'm afraid **of flying**.\n> He's good **at cooking**.\n> I'm interested **in learning** Italian.\n> Thank you **for helping** me.\n\n## Other common patterns\n- **before / after / without / instead of / by + -ing**\n> **Before leaving**, check the windows.\n> She left **without saying** goodbye.\n> You can improve your English **by reading** a lot.\n> **How about** going to the cinema?\n\n## Common mistakes\n- ~~I'm afraid to flying.~~ → I'm afraid **of flying**.\n- ~~She's good in cooking.~~ → She's good **at cooking**.\n- ~~Thank you for help me.~~ → Thank you **for helping** me.",
+  "structure": "## Формулы\n> **be** + прилагательное + **предлог** + существительное / **-ing**\n> She **is good at** drawing. · They **are afraid of** spiders.\n> **Предлог** + глагол**-ing**\n> **Thank you for** coming. · **Before** **leaving**, call me.\n\n## Частые пары\n| Прилагательное | Предлог |\n|---|---|\n| afraid | of |\n| good / bad | at |\n| interested | in |\n| fond / proud / tired | of |\n| bored / angry | with |\n| excited / worried | about |\n| ready | for |\n\n## Правила написания -ing\n| Глагол | + -ing |\n|---|---|\n| cook | cooking |\n| make | making (e убираем) |\n| swim | swimming (удваиваем m) |\n| run | running |\n| lie | lying |\n\n## Отрицание\n> I'm sorry for **not calling** you. — Простите, что не позвонила.\n> перед -ing ставим **not**.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Предлог + -ing",
+      "instruction": "Поставьте глагол в скобках в форму **-ing**.",
+      "items": [
+        {
+          "text": "I'm afraid of {{flying}}. (fly)",
+          "hint": "fly"
+        },
+        {
+          "text": "She's good at {{singing}}. (sing)",
+          "hint": "sing"
+        },
+        {
+          "text": "Thank you for {{coming}}. (come)",
+          "hint": "come"
+        },
+        {
+          "text": "He's interested in {{learning}} Spanish. (learn)",
+          "hint": "learn"
+        },
+        {
+          "text": "Let's have lunch before {{going}} out. (go)",
+          "hint": "go"
+        },
+        {
+          "text": "She left without {{saying}} anything. (say)",
+          "hint": "say"
+        },
+        {
+          "text": "We're tired of {{waiting}} for the bus. (wait)",
+          "hint": "wait"
+        },
+        {
+          "text": "He's not good at {{swimming}}. (swim)",
+          "hint": "swim"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Какой предлог?",
+      "instruction": "Вставьте **of, at, in, for, with, about**.",
+      "items": [
+        {
+          "text": "Are you afraid {{of}} the dark?"
+        },
+        {
+          "text": "My brother is very good {{at}} football."
+        },
+        {
+          "text": "I'm not interested {{in}} sports."
+        },
+        {
+          "text": "She's proud {{of}} her son."
+        },
+        {
+          "text": "We're excited {{about}} the trip."
+        },
+        {
+          "text": "I'm angry {{with|at}} him for being late."
+        },
+        {
+          "text": "Are you ready {{for}} the exam?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I'm interested ___ history.",
+          "options": [
+            "of",
+            "at",
+            "in"
+          ],
+          "answer": 2,
+          "why": "**interested in**."
+        },
+        {
+          "q": "She's afraid ___ lose her job.",
+          "options": [
+            "of losing",
+            "to losing",
+            "losing"
+          ],
+          "answer": 0,
+          "why": "После предлога — **-ing**: **afraid of losing**."
+        },
+        {
+          "q": "Thanks ___ me with the bags.",
+          "options": [
+            "for help",
+            "for helping",
+            "to help"
+          ],
+          "answer": 1,
+          "why": "**Thanks for + -ing**."
+        },
+        {
+          "q": "Tom is good ___ fixing cars.",
+          "options": [
+            "in",
+            "for",
+            "at"
+          ],
+          "answer": 2,
+          "why": "**good at**."
+        },
+        {
+          "q": "She went out ___ her coat.",
+          "options": [
+            "without taking",
+            "without take",
+            "without to take"
+          ],
+          "answer": 0,
+          "why": "После **without** — **-ing**."
+        },
+        {
+          "q": "You can learn new words ___ films in English.",
+          "options": [
+            "by watch",
+            "by watching",
+            "by to watch"
+          ],
+          "answer": 1,
+          "why": "**by + -ing**."
+        },
+        {
+          "q": "I'm sorry ___ late.",
+          "options": [
+            "for being",
+            "of being",
+            "to being"
+          ],
+          "answer": 0,
+          "why": "**sorry for + -ing**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Я боюсь пауков»?",
+          "options": [
+            "I'm afraid spiders.",
+            "I'm afraid of spiders.",
+            "I'm afraid from spiders."
+          ],
+          "answer": 1,
+          "why": "**afraid of**."
+        },
+        {
+          "q": "Как сказать «Она хорошо рисует»?",
+          "options": [
+            "She's good at drawing.",
+            "She's good in drawing.",
+            "She's good to draw."
+          ],
+          "answer": 0,
+          "why": "**good at + -ing**."
+        },
+        {
+          "q": "Как сказать «Мне надоело ждать»?",
+          "options": [
+            "I'm tired to wait.",
+            "I'm tired of waiting.",
+            "I'm tired for waiting."
+          ],
+          "answer": 1,
+          "why": "**tired of + -ing**."
+        },
+        {
+          "q": "Как сказать «Перед сном я читаю»?",
+          "options": [
+            "Before to sleep, I read.",
+            "Before sleep, I'm reading.",
+            "Before going to bed, I read."
+          ],
+          "answer": 2,
+          "why": "**before + -ing**."
+        },
+        {
+          "q": "Как сказать «Он ушёл, не позавтракав»?",
+          "options": [
+            "He left without having breakfast.",
+            "He left without have breakfast.",
+            "He left without to have breakfast."
+          ],
+          "answer": 0,
+          "why": "**without + -ing**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов в скобках. Следите за формой глагола.",
+      "items": [
+        {
+          "prompt": "(I / interested / in / learn / English)",
+          "answers": [
+            "I'm interested in learning English.",
+            "I am interested in learning English."
+          ]
+        },
+        {
+          "prompt": "(she / good / at / cook)",
+          "answers": [
+            "She's good at cooking.",
+            "She is good at cooking."
+          ]
+        },
+        {
+          "prompt": "(they / afraid / of / drive / at night)",
+          "answers": [
+            "They're afraid of driving at night.",
+            "They are afraid of driving at night."
+          ]
+        },
+        {
+          "prompt": "(thank you / for / invite / me)",
+          "answers": [
+            "Thank you for inviting me."
+          ]
+        },
+        {
+          "prompt": "(he / leave / without / pay)",
+          "answers": [
+            "He left without paying.",
+            "He leaves without paying."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        {
+          "prompt": "Спасибо, что помогли мне.",
+          "answers": [
+            "Thank you for helping me.",
+            "Thanks for helping me."
+          ]
+        },
+        {
+          "prompt": "Я не умею хорошо готовить.",
+          "answers": [
+            "I'm not good at cooking.",
+            "I am not good at cooking.",
+            "I'm bad at cooking.",
+            "I am bad at cooking."
+          ]
+        },
+        {
+          "prompt": "Она боится ездить на велосипеде.",
+          "answers": [
+            "She's afraid of riding a bike.",
+            "She is afraid of riding a bike.",
+            "She's afraid of cycling.",
+            "She is afraid of cycling.",
+            "She's afraid of riding a bicycle.",
+            "She is afraid of riding a bicycle."
+          ]
+        },
+        {
+          "prompt": "Мой брат интересуется музыкой.",
+          "answers": [
+            "My brother is interested in music.",
+            "My brother's interested in music."
+          ]
+        },
+        {
+          "prompt": "Она вышла, не сказав ни слова.",
+          "answers": [
+            "She left without saying a word.",
+            "She went out without saying a word.",
+            "She left without saying anything.",
+            "She went out without saying anything."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What are you good at?",
+          "sample": "I'm good at drawing and cooking."
+        },
+        {
+          "prompt": "What are you afraid of?",
+          "sample": "I'm afraid of flying."
+        },
+        {
+          "prompt": "What are you interested in?",
+          "sample": "I'm interested in learning languages."
+        },
+        {
+          "prompt": "What do you do before going to bed?",
+          "sample": "Before going to bed, I read a book for half an hour."
+        },
+        {
+          "prompt": "How do you improve your English?",
+          "sample": "I improve my English by watching films and reading."
+        }
+      ]
+    }
+  ]
+}

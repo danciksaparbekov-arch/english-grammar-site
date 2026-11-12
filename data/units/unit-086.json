@@ -13,14 +13,30 @@
       "instruction": "Напишите сравнительную форму прилагательного.",
       "example": "old → **older**",
       "items": [
-        { "text": "strong → {{stronger}}" },
-        { "text": "happy → {{happier}}" },
-        { "text": "modern → {{more modern}}" },
-        { "text": "large → {{larger}}" },
-        { "text": "good → {{better}}" },
-        { "text": "serious → {{more serious}}" },
-        { "text": "pretty → {{prettier}}" },
-        { "text": "crowded → {{more crowded}}" }
+        {
+          "text": "strong → {{stronger}}"
+        },
+        {
+          "text": "happy → {{happier}}"
+        },
+        {
+          "text": "modern → {{more modern}}"
+        },
+        {
+          "text": "large → {{larger}}"
+        },
+        {
+          "text": "good → {{better}}"
+        },
+        {
+          "text": "serious → {{more serious}}"
+        },
+        {
+          "text": "pretty → {{prettier}}"
+        },
+        {
+          "text": "crowded → {{more crowded}}"
+        }
       ]
     },
     {
@@ -29,13 +45,34 @@
       "title": "Закончите предложения",
       "instruction": "Вставьте сравнительную степень слова в скобках.",
       "items": [
-        { "text": "My phone is very old. I want a {{newer}} one.", "hint": "new" },
-        { "text": "This exercise is too easy. I want something {{more difficult}}.", "hint": "difficult" },
-        { "text": "You're not very tall. Your brother is {{taller}}.", "hint": "tall" },
-        { "text": "It's cold today, but yesterday it was {{colder}}.", "hint": "cold" },
-        { "text": "I don't like this place. It's too noisy. I want a {{quieter}} place.", "hint": "quiet" },
-        { "text": "My English is bad, but my brother's English is {{worse}}.", "hint": "bad" },
-        { "text": "Is it {{cheaper}} to go by bus or by train?", "hint": "cheap" }
+        {
+          "text": "My phone is very old. I want a {{newer}} one.",
+          "hint": "new"
+        },
+        {
+          "text": "This exercise is too easy. I want something {{more difficult}}.",
+          "hint": "difficult"
+        },
+        {
+          "text": "You're not very tall. Your brother is {{taller}}.",
+          "hint": "tall"
+        },
+        {
+          "text": "It's cold today, but yesterday it was {{colder}}.",
+          "hint": "cold"
+        },
+        {
+          "text": "I don't like this place. It's too noisy. I want a {{quieter|more quiet}} place.",
+          "hint": "quiet"
+        },
+        {
+          "text": "My English is bad, but my brother's English is {{worse}}.",
+          "hint": "bad"
+        },
+        {
+          "text": "Is it {{cheaper}} to go by bus or by train?",
+          "hint": "cheap"
+        }
       ]
     },
     {
@@ -44,12 +81,66 @@
       "title": "Выберите правильную форму",
       "instruction": "Выберите один вариант.",
       "items": [
-        { "q": "This bag is ___ than that one.", "options": ["heavier", "more heavy", "heavyer"], "answer": 0, "why": "Слово на -y: y → **ier**: heavy → **heavier**." },
-        { "q": "Be ___! The glass is very thin.", "options": ["carefuler", "more careful", "more carefully"], "answer": 1, "why": "Длинное прилагательное → **more careful**." },
-        { "q": "The weather today is ___ than yesterday.", "options": ["more good", "gooder", "better"], "answer": 2, "why": "good → **better** (особая форма)." },
-        { "q": "My new flat is ___ than my old one.", "options": ["more big", "bigger", "biger"], "answer": 1, "why": "big → **bigger** (удваиваем g)." },
-        { "q": "Math is ___ than English for me.", "options": ["more hard", "harder", "hardder"], "answer": 1, "why": "Короткое слово hard → **harder**." },
-        { "q": "I feel ill. Yesterday I felt bad, today I feel ___.", "options": ["worse", "more bad", "badder"], "answer": 0, "why": "bad → **worse**." }
+        {
+          "q": "This bag is ___ than that one.",
+          "options": [
+            "heavier",
+            "more heavy",
+            "heavyer"
+          ],
+          "answer": 0,
+          "why": "Слово на -y: y → **ier**: heavy → **heavier**."
+        },
+        {
+          "q": "Be ___! The glass is very thin.",
+          "options": [
+            "carefuler",
+            "more careful",
+            "more carefully"
+          ],
+          "answer": 1,
+          "why": "Длинное прилагательное → **more careful**."
+        },
+        {
+          "q": "The weather today is ___ than yesterday.",
+          "options": [
+            "more good",
+            "gooder",
+            "better"
+          ],
+          "answer": 2,
+          "why": "good → **better** (особая форма)."
+        },
+        {
+          "q": "My new flat is ___ than my old one.",
+          "options": [
+            "more big",
+            "bigger",
+            "biger"
+          ],
+          "answer": 1,
+          "why": "big → **bigger** (удваиваем g)."
+        },
+        {
+          "q": "Math is ___ than English for me.",
+          "options": [
+            "more hard",
+            "harder",
+            "hardder"
+          ],
+          "answer": 1,
+          "why": "Короткое слово hard → **harder**."
+        },
+        {
+          "q": "I feel ill. Yesterday I felt bad, today I feel ___.",
+          "options": [
+            "worse",
+            "more bad",
+            "badder"
+          ],
+          "answer": 0,
+          "why": "bad → **worse**."
+        }
       ]
     },
     {
@@ -58,11 +149,56 @@
       "title": "Найдите правильное предложение",
       "instruction": "Только один вариант верный.",
       "items": [
-        { "q": "Как сказать «Рим старше, чем Лондон»?", "options": ["Rome is more old than London.", "Rome is older than London.", "Rome is olderer than London."], "answer": 1, "why": "old → **older**." },
-        { "q": "Как сказать «Эта книга интереснее»?", "options": ["This book is more interesting.", "This book is interestinger.", "This book is more interester."], "answer": 0, "why": "Длинное слово → **more interesting**." },
-        { "q": "Как сказать «Дальше»?", "options": ["farer", "further", "more far"], "answer": 1, "why": "far → **further**." },
-        { "q": "Как сказать «Позже»?", "options": ["later", "latter than", "more late"], "answer": 0, "why": "late → **later**." },
-        { "q": "Как сказать «Она счастливее»?", "options": ["She is more happy.", "She is happier.", "She is happyer."], "answer": 1, "why": "happy → **happier**." }
+        {
+          "q": "Как сказать «Рим старше, чем Лондон»?",
+          "options": [
+            "Rome is more old than London.",
+            "Rome is older than London.",
+            "Rome is olderer than London."
+          ],
+          "answer": 1,
+          "why": "old → **older**."
+        },
+        {
+          "q": "Как сказать «Эта книга интереснее»?",
+          "options": [
+            "This book is more interesting.",
+            "This book is interestinger.",
+            "This book is more interester."
+          ],
+          "answer": 0,
+          "why": "Длинное слово → **more interesting**."
+        },
+        {
+          "q": "Как сказать «Дальше»?",
+          "options": [
+            "farer",
+            "further",
+            "more far"
+          ],
+          "answer": 1,
+          "why": "far → **further**."
+        },
+        {
+          "q": "Как сказать «Позже»?",
+          "options": [
+            "later",
+            "latter than",
+            "more late"
+          ],
+          "answer": 0,
+          "why": "late → **later**."
+        },
+        {
+          "q": "Как сказать «Она счастливее»?",
+          "options": [
+            "She is more happy.",
+            "She is happier.",
+            "She is happyer."
+          ],
+          "answer": 1,
+          "why": "happy → **happier**."
+        }
       ]
     },
     {
@@ -72,11 +208,39 @@
       "instruction": "Напишите слово с противоположным значением (сравнительная степень).",
       "example": "younger → **older**",
       "items": [
-        { "prompt": "colder", "answers": ["hotter", "warmer"] },
-        { "prompt": "cheaper", "answers": ["more expensive"] },
-        { "prompt": "better", "answers": ["worse"] },
-        { "prompt": "easier", "answers": ["harder", "more difficult"] },
-        { "prompt": "nearer", "answers": ["further", "farther"] }
+        {
+          "prompt": "colder",
+          "answers": [
+            "hotter",
+            "warmer"
+          ]
+        },
+        {
+          "prompt": "cheaper",
+          "answers": [
+            "more expensive"
+          ]
+        },
+        {
+          "prompt": "better",
+          "answers": [
+            "worse"
+          ]
+        },
+        {
+          "prompt": "easier",
+          "answers": [
+            "harder",
+            "more difficult"
+          ]
+        },
+        {
+          "prompt": "nearer",
+          "answers": [
+            "further",
+            "farther"
+          ]
+        }
       ]
     },
     {
@@ -85,11 +249,50 @@
       "title": "Переведите на английский",
       "instruction": "Переведите. Используйте сравнительную степень.",
       "items": [
-        { "prompt": "Эта сумка тяжелее.", "answers": ["This bag is heavier.", "This bag's heavier."] },
-        { "prompt": "Мне нужна квартира побольше.", "answers": ["I need a bigger flat.", "I need a bigger apartment.", "I want a bigger flat.", "I want a bigger apartment."] },
-        { "prompt": "Сегодня холоднее.", "answers": ["It's colder today.", "It is colder today.", "Today it's colder.", "Today it is colder."] },
-        { "prompt": "Это более интересно.", "answers": ["It's more interesting.", "It is more interesting.", "This is more interesting.", "That's more interesting."] },
-        { "prompt": "Мне сегодня лучше.", "answers": ["I feel better today.", "I'm better today.", "I am better today."] }
+        {
+          "prompt": "Эта сумка тяжелее.",
+          "answers": [
+            "This bag is heavier.",
+            "This bag's heavier."
+          ]
+        },
+        {
+          "prompt": "Мне нужна квартира побольше.",
+          "answers": [
+            "I need a bigger flat.",
+            "I need a bigger apartment.",
+            "I want a bigger flat.",
+            "I want a bigger apartment.",
+            "I need a larger flat.",
+            "I want a larger flat."
+          ]
+        },
+        {
+          "prompt": "Сегодня холоднее.",
+          "answers": [
+            "It's colder today.",
+            "It is colder today.",
+            "Today it's colder.",
+            "Today it is colder."
+          ]
+        },
+        {
+          "prompt": "Это более интересно.",
+          "answers": [
+            "It's more interesting.",
+            "It is more interesting.",
+            "This is more interesting.",
+            "That's more interesting."
+          ]
+        },
+        {
+          "prompt": "Мне сегодня лучше.",
+          "answers": [
+            "I feel better today.",
+            "I'm better today.",
+            "I am better today."
+          ]
+        }
       ]
     },
     {
@@ -98,10 +301,22 @@
       "title": "Напишите о себе",
       "instruction": "Ответьте полными предложениями. Используйте сравнительную степень.",
       "items": [
-        { "prompt": "Что дешевле в вашем городе: автобус или такси?", "sample": "A bus is cheaper than a taxi." },
-        { "prompt": "Какое время года для вас лучше всего? Почему? (используйте comparative)", "sample": "Summer is better than winter. It's warmer." },
-        { "prompt": "Хотите ли вы что-то более интересное, чем ваша работа/учёба?", "sample": "I want something more interesting." },
-        { "prompt": "Сравните двух членов вашей семьи.", "sample": "My brother is taller than my sister." }
+        {
+          "prompt": "Что дешевле в вашем городе: автобус или такси?",
+          "sample": "A bus is cheaper than a taxi."
+        },
+        {
+          "prompt": "Какое время года для вас лучше всего? Почему? (используйте comparative)",
+          "sample": "Summer is better than winter. It's warmer."
+        },
+        {
+          "prompt": "Хотите ли вы что-то более интересное, чем ваша работа/учёба?",
+          "sample": "I want something more interesting."
+        },
+        {
+          "prompt": "Сравните двух членов вашей семьи.",
+          "sample": "My brother is taller than my sister."
+        }
       ]
     }
   ]

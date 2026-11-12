@@ -1,0 +1,309 @@
+{
+  "id": 98,
+  "title": "before after during while",
+  "summary": "Слова **before** («до, перед»), **after** («после»), **during** («во время»), **while** («пока») — как связывать события во времени.",
+  "ru": "## before и after\n**Before** — «до, перед». **After** — «после». Можно использовать и как предлог (+ существительное / -ing), и как союз (+ предложение).\n> We had lunch **before** the lesson. — Мы пообедали перед уроком.\n> **After** work, I go home. — После работы я иду домой.\n> Call me **before** you leave. — Позвони мне, прежде чем уйдёшь.\n> I'll have dinner **after** I finish my homework. — Я поужинаю после того, как закончу уроки.\n\n## before / after + -ing\nПосле **before** и **after** может идти глагол с **-ing** (когда подлежащее одно и то же).\n> **Before leaving**, she locked the door. — Прежде чем уйти, она заперла дверь.\n> **After eating**, we watched TV. — После еды мы смотрели телевизор.\n\n## during + существительное\n**During** значит «во время» чего-то. После него — **существительное**, не предложение.\n> I fell asleep **during the film**. — Я заснула во время фильма.\n> It rained **during the night**. — Ночью шёл дождь.\n> ~~during I was there~~ — так нельзя.\n\n## while + предложение\n**While** значит «пока, в то время как». После него — **подлежащее + глагол**.\n> I fell asleep **while I was watching** TV. — Я заснула, пока смотрела телевизор.\n> **While** she was cooking, I did the dishes. — Пока она готовила, я мыла посуду.\n> Don't talk **while** you're eating. — Не говори, пока ешь.\n\n## during и while — сравнение\n| Слово | Что после | Пример |\n|---|---|---|\n| **during** | существительное | **during** the lesson |\n| **while** | подлежащее + глагол | **while** the teacher was talking |\n\n## Типичные ошибки\n- ~~during I was cooking~~ → **while** I was cooking\n- ~~while the film~~ → **during** the film\n- ~~after to eat~~ → after **eating**\n- ~~before you will leave~~ → before you **leave** (после before / after / while — настоящее, а не will)",
+  "en": "## before and after\n**Before** and **after** can be prepositions (+ noun or -ing) or conjunctions (+ a clause).\n> We had lunch **before** the lesson.\n> **After** work, I go home.\n> Call me **before** you leave.\n> I'll have dinner **after** I finish my homework.\n\n## before / after + -ing\nAfter **before** and **after** we can use a verb with **-ing** (when the subject is the same).\n> **Before leaving**, she locked the door.\n> **After eating**, we watched TV.\n\n## during + noun\nWe use **during** + a **noun** to say when something happens.\n> I fell asleep **during the film**.\n> It rained **during the night**.\n> ~~during I was there~~ — wrong.\n\n## while + clause\nWe use **while** + a **subject + verb**.\n> I fell asleep **while I was watching** TV.\n> **While** she was cooking, I did the dishes.\n> Don't talk **while** you're eating.\n\n## during or while?\n| Word | Followed by | Example |\n|---|---|---|\n| **during** | a noun | **during** the lesson |\n| **while** | subject + verb | **while** the teacher was talking |\n\n## Common mistakes\n- ~~during I was cooking~~ → **while** I was cooking\n- ~~while the film~~ → **during** the film\n- ~~after to eat~~ → after **eating**\n- ~~before you will leave~~ → before you **leave**",
+  "structure": "## Конструкции\n| Слово | + существительное | + -ing | + предложение |\n|---|---|---|---|\n| **before** | before **lunch** | before **leaving** | before **I leave** |\n| **after** | after **work** | after **eating** | after **she came** |\n| **during** | during **the film** | — | — |\n| **while** | — | while **walking** | while **I was walking** |\n\n## Формулы\n> **during** + noun: She slept **during the journey**.\n> **while** + subject + verb: She slept **while we were driving**.\n> **before / after** + noun / -ing / clause\n\n## Время после союза\n| Союз | Будущее | Пример |\n|---|---|---|\n| before / after / while / when | не **will**, а **present** | I'll call you **before I leave**. |\n\n## Полезные фразы\n- **before breakfast** — перед завтраком\n- **after school** — после школы\n- **during the summer** — летом (на протяжении)\n- **while I was waiting** — пока я ждала",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "before или after?",
+      "instruction": "Вставьте **before** или **after**.",
+      "items": [
+        {
+          "text": "Wash your hands {{before}} you eat."
+        },
+        {
+          "text": "I usually watch TV {{after}} dinner."
+        },
+        {
+          "text": "Turn off the lights {{before}} you leave."
+        },
+        {
+          "text": "{{After}} the lesson, we went to a café."
+        },
+        {
+          "text": "Don't forget to call me {{before}} the meeting."
+        },
+        {
+          "text": "He always has a shower {{after}} running."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "during или while?",
+      "instruction": "Вставьте **during** или **while**.",
+      "items": [
+        {
+          "text": "I fell asleep {{during}} the film."
+        },
+        {
+          "text": "She phoned me {{while}} I was having dinner."
+        },
+        {
+          "text": "It was very hot {{during}} the summer."
+        },
+        {
+          "text": "Don't use your phone {{while}} you're driving."
+        },
+        {
+          "text": "We met some nice people {{during}} our holiday."
+        },
+        {
+          "text": "{{While}} I was cooking, he was reading a book."
+        },
+        {
+          "text": "Please be quiet {{during}} the test."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I saw Anna ___ I was walking home.",
+          "options": [
+            "during",
+            "while",
+            "for"
+          ],
+          "answer": 1,
+          "why": "Дальше идёт предложение → **while**."
+        },
+        {
+          "q": "He often falls asleep ___ the lessons.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "answer": 1,
+          "why": "Дальше существительное → **during**."
+        },
+        {
+          "q": "___ eating, we watched a film.",
+          "options": [
+            "After",
+            "During",
+            "For"
+          ],
+          "answer": 0,
+          "why": "**After eating** — после еды."
+        },
+        {
+          "q": "Call me ___ you arrive home.",
+          "options": [
+            "during",
+            "after",
+            "for"
+          ],
+          "answer": 1,
+          "why": "**after** + подлежащее + глагол: «после того, как приедешь»."
+        },
+        {
+          "q": "I'll wait here ___ you buy the tickets.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "answer": 0,
+          "why": "while + подлежащее + глагол."
+        },
+        {
+          "q": "Don't talk ___ the film. Other people are listening.",
+          "options": [
+            "while",
+            "during",
+            "after"
+          ],
+          "answer": 1,
+          "why": "the film — существительное → **during**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "I'll call you before I will leave.",
+            "I'll call you before I leave.",
+            "I'll call you before leaving I."
+          ],
+          "answer": 1,
+          "why": "После before — настоящее время (не will)."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "She slept during the journey.",
+            "She slept while the journey.",
+            "She slept during we were driving."
+          ],
+          "answer": 0,
+          "why": "**during** + существительное."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "After to finish work, I go home.",
+            "After finishing work, I go home.",
+            "After finish work, I go home."
+          ],
+          "answer": 1,
+          "why": "after + **-ing**."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "I read a book during I was waiting.",
+            "I read a book while I was waiting.",
+            "I read a book while the waiting."
+          ],
+          "answer": 1,
+          "why": "**while** + подлежащее + глагол."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Соедините предложения",
+      "instruction": "Объедините два предложения, используя слово в скобках.",
+      "example": "I had breakfast. I went to work. (after) → After I had breakfast, I went to work.",
+      "items": [
+        {
+          "prompt": "I brushed my teeth. I went to bed. (before)",
+          "answers": [
+            "I brushed my teeth before I went to bed.",
+            "Before I went to bed, I brushed my teeth.",
+            "I brushed my teeth before going to bed.",
+            "Before going to bed, I brushed my teeth."
+          ]
+        },
+        {
+          "prompt": "We did the shopping. We went home. (after)",
+          "answers": [
+            "We went home after we did the shopping.",
+            "After we did the shopping, we went home.",
+            "We went home after doing the shopping.",
+            "After doing the shopping, we went home."
+          ]
+        },
+        {
+          "prompt": "I was reading. The phone rang. (while)",
+          "answers": [
+            "The phone rang while I was reading.",
+            "While I was reading, the phone rang."
+          ]
+        },
+        {
+          "prompt": "She worked. She listened to music. (while)",
+          "answers": [
+            "She listened to music while she worked.",
+            "While she worked, she listened to music.",
+            "She listened to music while she was working.",
+            "While she was working, she listened to music.",
+            "She listened to music while working.",
+            "While working, she listened to music."
+          ]
+        },
+        {
+          "prompt": "He arrived. We had dinner. (before)",
+          "answers": [
+            "We had dinner before he arrived.",
+            "Before he arrived, we had dinner."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **before / after / during / while**.",
+      "items": [
+        {
+          "prompt": "Я заснула во время фильма.",
+          "answers": [
+            "I fell asleep during the film.",
+            "I fell asleep during the movie."
+          ]
+        },
+        {
+          "prompt": "Позвони мне перед выходом.",
+          "answers": [
+            "Call me before you leave.",
+            "Phone me before you leave.",
+            "Call me before leaving.",
+            "Phone me before leaving.",
+            "Call me before you go.",
+            "Phone me before you go."
+          ]
+        },
+        {
+          "prompt": "Мы поужинали после работы.",
+          "answers": [
+            "We had dinner after work.",
+            "We ate dinner after work."
+          ]
+        },
+        {
+          "prompt": "Она читала, пока я готовил.",
+          "answers": [
+            "She was reading while I was cooking.",
+            "She read while I was cooking.",
+            "She was reading while I cooked."
+          ]
+        },
+        {
+          "prompt": "Не говори по телефону, пока ты ведёшь машину.",
+          "answers": [
+            "Don't talk on the phone while you're driving.",
+            "Don't talk on the phone while you are driving.",
+            "Don't use your phone while you're driving.",
+            "Don't use your phone while you are driving.",
+            "Don't talk on the phone while driving.",
+            "Don't use your phone while driving."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте **before / after / during / while**.",
+      "items": [
+        {
+          "prompt": "Что вы делаете перед сном?",
+          "sample": "I read a book before I go to bed."
+        },
+        {
+          "prompt": "Что вы делаете после работы или учёбы?",
+          "sample": "After work I usually go for a walk."
+        },
+        {
+          "prompt": "Что вы любите делать, пока едете в транспорте?",
+          "sample": "I listen to music while I'm on the bus."
+        },
+        {
+          "prompt": "Что с вами случилось во время отпуска?",
+          "sample": "I met an old friend during my holiday."
+        }
+      ]
+    }
+  ]
+}

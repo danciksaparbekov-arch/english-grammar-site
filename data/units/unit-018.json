@@ -1,0 +1,120 @@
+{
+  "id": 18,
+  "title": "How long have you ...? (present perfect 4)",
+  "summary": "Present perfect (в том числе continuous) для вопроса **How long ...?**: действие или состояние началось в прошлом и продолжается сейчас.",
+  "ru": "## Главная идея\nПо-русски мы говорим в настоящем: «Я живу здесь три года», «Она знает его давно». В английском так сказать нельзя! Если ситуация началась в прошлом и **длится до сих пор**, нужен **present perfect**.\n> I **have lived** here for three years. — Я живу здесь три года.\n> How long **have you known** Tom? — Как давно ты знаешь Тома?\n\n## Настоящее vs present perfect\n| Сейчас | Как долго |\n|---|---|\n| She **is** in Ireland. | She **has been** in Ireland since Monday. |\n| I **know** Sarah. | I **have known** her for a long time. |\n| They **are** married. | They **have been** married for five years. |\n\n- ~~They are married for five years.~~ → They **have been** married for five years.\n- ~~How long do you know her?~~ → How long **have you known** her?\n\n## Глаголы состояния\nС **be, know, have, live** (состояние) используем **have + причастие**.\n> I've **had** this phone since April. — Этот телефон у меня с апреля.\n> My parents **have lived** here all their lives. — Мои родители живут здесь всю жизнь.\n\n## Present perfect continuous (have been + -ing)\nС действиями (learn, wait, watch, rain, work) — **have been + -ing**.\n> I've **been learning** English for two years. — Я учу английский два года.\n> It's **been raining** all day. — Дождь идёт весь день.\n> How long **have you been waiting**? — Как долго ты ждёшь?\n\n## for и since\n- **for** + период: for two hours, for a week\n- **since** + начало: since Monday, since 2020\n(подробно — в юните 19)\n\n## Типичные ошибки\n- ~~I am here since 9 o'clock.~~ → I **have been** here since 9 o'clock.\n- ~~I am learning English for a year.~~ → I **have been learning** English for a year.",
+  "en": "## The main idea\nIn English we can't use the present simple for something that started in the past and still continues. We use the **present perfect**.\n> I **have lived** here for three years.\n> How long **have you known** Tom?\n\n## Present vs present perfect\n| Now | How long |\n|---|---|\n| She **is** in Ireland. | She **has been** in Ireland since Monday. |\n| I **know** Sarah. | I **have known** her for a long time. |\n| They **are** married. | They **have been** married for five years. |\n\n- ~~They are married for five years.~~ → They **have been** married for five years.\n- ~~How long do you know her?~~ → How long **have you known** her?\n\n## State verbs\nWith **be, know, have, live** we use **have + past participle**.\n> I've **had** this phone since April.\n> My parents **have lived** here all their lives.\n\n## Present perfect continuous (have been + -ing)\nWith actions (learn, wait, watch, rain, work) we use **have been + -ing**.\n> I've **been learning** English for two years.\n> It's **been raining** all day.\n> How long **have you been waiting**?\n\n## for and since\n- **for** + a period: for two hours, for a week\n- **since** + the start: since Monday, since 2020\n\n## Common mistakes\n- ~~I am here since 9 o'clock.~~ → I **have been** here since 9 o'clock.\n- ~~I am learning English for a year.~~ → I **have been learning** English for a year.",
+  "structure": "## Present perfect simple\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| I have lived here for years. | I haven't lived here long. | How long have you lived here? |\n| She has known him since 2019. | She hasn't known him long. | How long has she known him? |\n\n## Present perfect continuous\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| I have been working. | I haven't been working. | How long have you been working? |\n| It has been raining. | It hasn't been raining. | How long has it been raining? |\n\n## Краткие формы\n- I've / you've / we've / they've been\n- he's / she's / it's been\n- haven't / hasn't\n\n## Формула\n> **How long** + have / has + подлежащее + past participle / been + -ing ... ?\n> Подлежащее + have / has + (been + -ing) + **for / since** ...",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Сейчас и как долго",
+      "instruction": "Допишите второе предложение (present perfect от глагола **be**, **know**, **have** или **live**).",
+      "example": "Anna is in hospital. She has been in hospital since Monday.",
+      "items": [
+        { "text": "Tom is ill. He {{has been|'s been}} ill for a week.", "hint": "be" },
+        { "text": "I know Kate. I {{have known|'ve known}} her for ten years.", "hint": "know" },
+        { "text": "They are married. They {{have been|'ve been}} married since 2015.", "hint": "be" },
+        { "text": "We live in Osh. We {{have lived|'ve lived}} here all our lives.", "hint": "live" },
+        { "text": "She has a bike. She {{has had|'s had}} it since March.", "hint": "have" },
+        { "text": "Max works in a bank. He {{has worked|'s worked}} there for two years.", "hint": "work" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "How long ...?",
+      "instruction": "Напишите вопросы с **How long**.",
+      "example": "(you / live / here) → How long have you lived here?",
+      "items": [
+        { "text": "{{How long have you known|How long've you known}} Alex?", "hint": "you / know" },
+        { "text": "{{How long has she been|How long's she been}} in Spain?", "hint": "she / be" },
+        { "text": "{{How long have they been|How long've they been}} married?", "hint": "they / be" },
+        { "text": "{{How long has he had|How long's he had}} his car?", "hint": "he / have" },
+        { "text": "{{How long have you been learning}} German?", "hint": "you / learn" },
+        { "text": "{{How long has it been raining|How long's it been raining}}?", "hint": "it / rain" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I ___ Maria since 2018.", "options": ["know", "have known", "am knowing"], "answer": 1, "why": "Началось в прошлом и продолжается → **have known**." },
+        { "q": "How long ___ here?", "options": ["do you live", "are you living", "have you lived"], "answer": 2, "why": "**How long have you lived** — present perfect." },
+        { "q": "It's 5 o'clock. I ___ for you for an hour!", "options": ["wait", "have been waiting", "am waiting"], "answer": 1, "why": "Действие длится до сих пор → **have been waiting**." },
+        { "q": "Ben ___ married for two years.", "options": ["is", "has been", "was being"], "answer": 1, "why": "**has been married for** — состояние до сих пор." },
+        { "q": "She ___ TV since lunch.", "options": ["watches", "is watching", "has been watching"], "answer": 2, "why": "С **since** и действием — **has been watching**." },
+        { "q": "How long ___ English?", "options": ["do you learn", "have you been learning", "you have learned"], "answer": 1, "why": "Вопрос **How long have you been learning**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "«Мы здесь живём пять лет».", "options": ["We live here for five years.", "We have lived here for five years.", "We are living here five years."], "answer": 1, "why": "**have lived ... for**." },
+        { "q": "«Он знает меня с детства».", "options": ["He has known me since childhood.", "He knows me since childhood.", "He is knowing me since childhood."], "answer": 0, "why": "**has known** + since." },
+        { "q": "«Как давно ты изучаешь английский?»", "options": ["How long do you study English?", "How long are you studying English?", "How long have you been studying English?"], "answer": 2, "why": "**have you been studying**." },
+        { "q": "«У меня этот телефон с апреля».", "options": ["I have this phone since April.", "I've had this phone since April.", "I'm having this phone since April."], "answer": 1, "why": "**have** → **have had**." },
+        { "q": "«Идёт дождь весь день».", "options": ["It rains all day.", "It's been raining all day.", "It's rain all day."], "answer": 1, "why": "**has been raining**." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Continuous или simple?",
+      "instruction": "Поставьте глагол в present perfect continuous (have been + -ing).",
+      "items": [
+        { "text": "She {{has been learning|'s been learning}} Spanish since September.", "hint": "learn" },
+        { "text": "We {{have been waiting|'ve been waiting}} for the bus for twenty minutes.", "hint": "wait" },
+        { "text": "He {{has been playing|'s been playing}} computer games all evening.", "hint": "play" },
+        { "text": "I {{have been working|'ve been working}} here since 2021.", "hint": "work" },
+        { "text": "The children {{have been sleeping|'ve been sleeping}} since eight o'clock.", "hint": "sleep" },
+        { "text": "How long {{have}} you {{been}} studying?", "hint": "have / be" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Напишите предложение или вопрос в present perfect.",
+      "items": [
+        { "prompt": "(how long / you / know / Sarah?)", "answers": ["How long have you known Sarah?"] },
+        { "prompt": "(my sister / live / in London / since 2019)", "answers": ["My sister has lived in London since 2019.", "My sister's lived in London since 2019."] },
+        { "prompt": "(I / not / see / him / for a long time)", "answers": ["I haven't seen him for a long time.", "I have not seen him for a long time."] },
+        { "prompt": "(how long / it / rain?)", "answers": ["How long has it been raining?"] },
+        { "prompt": "(they / be / married / for ten years)", "answers": ["They have been married for ten years.", "They've been married for ten years."] },
+        { "prompt": "(he / drive / a taxi / since January)", "answers": ["He has been driving a taxi since January.", "He's been driving a taxi since January."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите, используя present perfect.",
+      "items": [
+        { "prompt": "Я живу в этом городе пять лет.", "answers": ["I have lived in this city for five years.", "I've lived in this city for five years.", "I have been living in this city for five years.", "I've been living in this city for five years."] },
+        { "prompt": "Как давно ты знаешь Анну?", "answers": ["How long have you known Anna?"] },
+        { "prompt": "Мы ждём автобус уже полчаса.", "answers": ["We have been waiting for the bus for half an hour.", "We've been waiting for the bus for half an hour.", "We have been waiting for the bus for thirty minutes.", "We've been waiting for the bus for thirty minutes."] },
+        { "prompt": "Она больна с понедельника.", "answers": ["She has been ill since Monday.", "She's been ill since Monday.", "She has been sick since Monday.", "She's been sick since Monday."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя present perfect.",
+      "items": [
+        { "prompt": "Как долго вы живёте в своём городе?", "sample": "I've lived in Bishkek for ten years." },
+        { "prompt": "Как долго вы изучаете английский?", "sample": "I've been learning English for two years." },
+        { "prompt": "Как давно вы знаете своего лучшего друга?", "sample": "I've known my best friend since school." },
+        { "prompt": "Сколько у вас этот телефон?", "sample": "I've had this phone for a year." },
+        { "prompt": "Как долго вы сегодня работаете или учитесь?", "sample": "I've been studying since morning." }
+      ]
+    }
+  ]
+}

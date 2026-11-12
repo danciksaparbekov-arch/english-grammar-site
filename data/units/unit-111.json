@@ -1,0 +1,339 @@
+{
+  "id": 111,
+  "title": "If we go ... If you see ... etc.",
+  "summary": "Условные предложения о реальном будущем и общих фактах: **If it rains, we'll stay at home**. После **if** — настоящее время, в главной части — **will**.",
+  "ru": "## Что выражает if\n**If** значит «если». Мы используем его, когда говорим, что может случиться, и что будет в этом случае.\n> **If** it rains tomorrow, we'll stay at home. — Если завтра пойдёт дождь, мы останемся дома.\n> **If** you see Tom, tell him to call me. — Если увидишь Тома, скажи ему позвонить мне.\n\n## Правило: if + Present simple, will + глагол\nПосле **if** о будущем ставим **Present simple** (не will!). Результат выражаем через **will**.\n> **If** I **have** time, I'**ll help** you. — Если у меня будет время, я тебе помогу.\n> **If** she **doesn't come**, we **won't start**. — Если она не придёт, мы не начнём.\nКак и после **when**: ~~If I will have time~~ — неверно.\n\n## Порядок частей\n**If**-часть может стоять первой (с запятой) или второй (без запятой).\n> **If** you're late, I'll be angry. = I'll be angry **if** you're late.\n\n## Вместо will можно\n- **can, may, must, should**, команда (Imperative): *If you're tired, **go** to bed.* / *If you want, you **can** stay.*\n\n## if и when\n- **when** — событие точно произойдёт: *When I get home, I'll call you.*\n- **if** — может произойти, а может нет: *If I get home early, I'll call you.*\n\n## Общие факты\nИногда if + Present simple, Present simple: правда всегда.\n> **If** you heat ice, it **melts**. — Если нагреть лёд, он тает.\n\n## Типичные ошибки\n- ~~If it will rain, we'll stay at home.~~ → **If it rains**, we'll stay at home.\n- ~~If I'll see him, I'll tell him.~~ → **If I see** him, I'll tell him.\n- ~~If you will come, I'll be happy.~~ → **If you come**, I'll be happy.\n- ~~If you will hurry, you'll catch the bus.~~ → **If you hurry**, you'll catch the bus.",
+  "en": "## What if means\nWe use **if** to talk about something that can happen and what will happen then.\n> **If** it rains tomorrow, we'll stay at home.\n> **If** you see Tom, tell him to call me.\n\n## Rule: if + present simple, will + verb\nAfter **if** we use **present simple** for the future, not **will**. The result uses **will**.\n> **If** I **have** time, I'**ll help** you.\n> **If** she **doesn't come**, we **won't start**.\n\n## Word order\nThe **if**-part can come first (with a comma) or second (no comma).\n> **If** you're late, I'll be angry. = I'll be angry **if** you're late.\n\n## Instead of will\nYou can also use **can, may, must, should** or an imperative.\n> If you're tired, **go** to bed. · If you want, you **can** stay.\n\n## if and when\n- **when**: it will certainly happen: *When I get home, I'll call you.*\n- **if**: it may or may not happen: *If I get home early, I'll call you.*\n\n## General facts\n> **If** you heat ice, it **melts**.\n\n## Common mistakes\n- ~~If it will rain, we'll stay at home.~~ → **If it rains**, we'll stay at home.\n- ~~If I'll see him, I'll tell him.~~ → **If I see** him, I'll tell him.",
+  "structure": "## Схема\n| Часть с if | Главная часть | Пример |\n|---|---|---|\n| If + Present simple | will + глагол | If it rains, we'll stay in. |\n| If + Present simple | won't + глагол | If you don't hurry, you won't catch the bus. |\n| If + Present simple | команда | If you see Ann, say hello. |\n| If + Present simple | Present simple | If you heat ice, it melts. |\n\n## Формулы\n> **If** + подлежащее + **Present simple**, подлежащее + **will** + глагол\n> Подлежащее + **will** + глагол + **if** + подлежащее + **Present simple**\n\n## Вопрос\n> What **will** you do **if** you **miss** the bus? — I'll take a taxi.\n> **Will** she be angry **if** I'm late? — Yes, she **will**. / No, she **won't**.\n\n## Запомните\n- Никакого **will** прямо после **if**.\n- Запятая нужна, когда **if**-часть стоит первой.\n- Отрицание: **if I don't ... / if she doesn't ...**; **won't** = will not.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Поставьте глагол в нужную форму",
+      "instruction": "Present simple после **if**, **will / won't** в главной части.",
+      "items": [
+        {
+          "text": "If it {{rains}} tomorrow, we {{will stay|'ll stay}} at home. (rain / stay)"
+        },
+        {
+          "text": "If you {{don't hurry|do not hurry}}, you {{will miss|'ll miss}} the bus. (not hurry / miss)"
+        },
+        {
+          "text": "If I {{see}} Tom, I {{will tell|'ll tell}} him. (see / tell)"
+        },
+        {
+          "text": "She {{will be|'ll be}} angry if you {{are|'re}} late. (be / be)"
+        },
+        {
+          "text": "If we {{go}} by taxi, we {{will arrive|'ll arrive}} earlier. (go / arrive)"
+        },
+        {
+          "text": "If he {{doesn't study|does not study}}, he {{won't pass|will not pass}} the exam. (not study / not pass)"
+        },
+        {
+          "text": "I {{will help|'ll help}} you if you {{ask|want}} me to. (help / ask)"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "if или when?",
+      "instruction": "Вставьте **if** или **when**.",
+      "items": [
+        {
+          "text": "I'll buy that bag {{if}} it's not too expensive."
+        },
+        {
+          "text": "Call me {{when}} you arrive at the station. (ты точно приедешь)"
+        },
+        {
+          "text": "{{If}} you see her, say hello. (может, увидишь)"
+        },
+        {
+          "text": "{{When}} the lesson ends, we'll go for coffee."
+        },
+        {
+          "text": "We'll have a picnic {{if}} the weather is nice."
+        },
+        {
+          "text": "I'll give you the book {{when}} I finish it."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "If you ___ hard, you'll pass the exam.",
+          "options": [
+            "will study",
+            "study",
+            "studied"
+          ],
+          "answer": 1,
+          "why": "После **if** — Present simple."
+        },
+        {
+          "q": "If it's cold, I ___ my coat.",
+          "options": [
+            "wearing",
+            "will wear",
+            "wore"
+          ],
+          "answer": 1,
+          "why": "Результат в будущем: **will wear**."
+        },
+        {
+          "q": "If she ___ late, we'll start without her.",
+          "options": [
+            "is",
+            "will be",
+            "was"
+          ],
+          "answer": 0,
+          "why": "**If she is late**."
+        },
+        {
+          "q": "What will you do if you ___ your keys?",
+          "options": [
+            "will lose",
+            "lose",
+            "lost"
+          ],
+          "answer": 1,
+          "why": "**if you lose**."
+        },
+        {
+          "q": "If you don't hurry, you ___ the train.",
+          "options": [
+            "miss",
+            "will miss",
+            "missed"
+          ],
+          "answer": 1,
+          "why": "Результат → **will miss**."
+        },
+        {
+          "q": "I'll be happy if you ___ to my party.",
+          "options": [
+            "come",
+            "will come",
+            "came"
+          ],
+          "answer": 0,
+          "why": "**if you come**."
+        },
+        {
+          "q": "If you heat water to 100 degrees, it ___.",
+          "options": [
+            "will boil",
+            "boils",
+            "would boil"
+          ],
+          "answer": 1,
+          "why": "Общий факт → Present simple."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Как сказать «Если пойдёт дождь, мы останемся дома»?",
+          "options": [
+            "If it will rain, we stay at home.",
+            "If it rains, we'll stay at home.",
+            "If it rains, we stay at home tomorrow."
+          ],
+          "answer": 1,
+          "why": "**If it rains, we'll stay**."
+        },
+        {
+          "q": "Как сказать «Если ты опоздаешь, я не буду ждать»?",
+          "options": [
+            "If you are late, I won't wait.",
+            "If you will be late, I don't wait.",
+            "If you are late, I didn't wait."
+          ],
+          "answer": 0,
+          "why": "**if + Present simple, won't**."
+        },
+        {
+          "q": "Как сказать «Что ты будешь делать, если не получишь работу?»",
+          "options": [
+            "What will you do if you will not get the job?",
+            "What do you do if you won't get the job?",
+            "What will you do if you don't get the job?"
+          ],
+          "answer": 2,
+          "why": "**if you don't get**."
+        },
+        {
+          "q": "Как сказать «Я позвоню, если мне понадобится помощь»?",
+          "options": [
+            "I'll call you if I need help.",
+            "I'll call you if I'll need help.",
+            "I call you if I will need help."
+          ],
+          "answer": 0,
+          "why": "**if I need**."
+        },
+        {
+          "q": "Как сказать «Если увидишь Тома, скажи ему привет»?",
+          "options": [
+            "If you will see Tom, say hello.",
+            "If you see Tom, say hello.",
+            "If you saw Tom, say hello."
+          ],
+          "answer": 1,
+          "why": "**if you see**, команда."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте условное предложение из слов в скобках.",
+      "items": [
+        {
+          "prompt": "(if / it / rain / we / stay / at home)",
+          "answers": [
+            "If it rains, we'll stay at home.",
+            "If it rains we'll stay at home.",
+            "If it rains, we will stay at home.",
+            "If it rains we will stay at home."
+          ]
+        },
+        {
+          "prompt": "(if / you / not / hurry / you / miss / the bus)",
+          "answers": [
+            "If you don't hurry, you'll miss the bus.",
+            "If you don't hurry you'll miss the bus.",
+            "If you don't hurry, you will miss the bus.",
+            "If you don't hurry you will miss the bus.",
+            "If you do not hurry, you will miss the bus."
+          ]
+        },
+        {
+          "prompt": "(I / help / you / if / you / ask)",
+          "answers": [
+            "I'll help you if you ask.",
+            "I will help you if you ask.",
+            "I'll help you if you ask me.",
+            "I will help you if you ask me."
+          ]
+        },
+        {
+          "prompt": "(if / she / call / I / tell / her)",
+          "answers": [
+            "If she calls, I'll tell her.",
+            "If she calls I'll tell her.",
+            "If she calls, I will tell her.",
+            "If she calls I will tell her."
+          ]
+        },
+        {
+          "prompt": "(if / we / be / late / they / be / angry)",
+          "answers": [
+            "If we're late, they'll be angry.",
+            "If we are late, they will be angry.",
+            "If we're late they'll be angry.",
+            "If we are late they will be angry.",
+            "If we are late, they'll be angry.",
+            "If we're late, they will be angry."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите.",
+      "items": [
+        {
+          "prompt": "Если будет жарко, мы пойдём на пляж.",
+          "answers": [
+            "If it's hot, we'll go to the beach.",
+            "If it is hot, we'll go to the beach.",
+            "If it's hot, we will go to the beach.",
+            "If it is hot, we will go to the beach.",
+            "If it's hot we'll go to the beach.",
+            "If it is hot we will go to the beach."
+          ]
+        },
+        {
+          "prompt": "Если ты не придёшь, я расстроюсь.",
+          "answers": [
+            "If you don't come, I'll be upset.",
+            "If you don't come, I will be upset.",
+            "If you don't come, I'll be sad.",
+            "If you don't come, I will be sad.",
+            "If you don't come I'll be upset."
+          ]
+        },
+        {
+          "prompt": "Я куплю этот телефон, если он будет недорогим.",
+          "answers": [
+            "I'll buy this phone if it's not expensive.",
+            "I will buy this phone if it is not expensive.",
+            "I'll buy this phone if it isn't expensive.",
+            "I will buy this phone if it isn't expensive.",
+            "I'll buy this phone if it's cheap.",
+            "I will buy this phone if it is cheap."
+          ]
+        },
+        {
+          "prompt": "Что ты сделаешь, если опоздаешь на поезд?",
+          "answers": [
+            "What will you do if you miss the train?",
+            "What will you do if you're late for the train?",
+            "What will you do if you are late for the train?"
+          ]
+        },
+        {
+          "prompt": "Если мне понадобится помощь, я позвоню тебе.",
+          "answers": [
+            "If I need help, I'll call you.",
+            "If I need help, I will call you.",
+            "If I need help I'll call you.",
+            "If I need help, I'll phone you.",
+            "If I need help, I will phone you."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Закончите предложения о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "If the weather is nice this weekend, I ...",
+          "sample": "If the weather is nice this weekend, I'll go for a walk in the park."
+        },
+        {
+          "prompt": "If I have free time tonight, I ...",
+          "sample": "If I have free time tonight, I'll watch a film."
+        },
+        {
+          "prompt": "If I don't sleep well, I ...",
+          "sample": "If I don't sleep well, I'm tired all day."
+        },
+        {
+          "prompt": "What will you do if you win a lot of money?",
+          "sample": "If I win a lot of money, I'll travel around the world."
+        }
+      ]
+    }
+  ]
+}

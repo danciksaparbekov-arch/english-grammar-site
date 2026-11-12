@@ -1,0 +1,103 @@
+{
+  "id": 94,
+  "title": "still yet already",
+  "summary": "Слова **still** («всё ещё»), **yet** («уже / ещё» в вопросах и отрицаниях) и **already** («уже») и их место в предложении.",
+  "ru": "## still — «всё ещё»\n**Still** показывает, что ситуация продолжается и не закончилась. Стоит **перед основным глаголом**, но **после be**.\n> It's 11 o'clock and she's **still** in bed. — Уже 11, а она всё ещё в постели.\n> Do you **still** live in Almaty? — Ты всё ещё живёшь в Алматы?\n> I **still** don't understand. — Я всё ещё не понимаю.\n\n## yet — «ещё не» / «уже?»\n**Yet** используем в **отрицаниях** и **вопросах**, обычно в **конце** предложения. Он показывает, что что-то ожидалось, но (пока) не произошло.\n> **Has** he arrived **yet**? — Он уже приехал?\n> I **haven't** finished **yet**. — Я ещё не закончила.\n> It's 10 o'clock and he **hasn't** called **yet**. — Уже 10, а он ещё не позвонил.\nВ утверждениях **yet** не ставим.\n\n## already — «уже»\n**Already** значит «уже» и показывает, что что-то произошло раньше, чем ожидали. Стоит **перед основным глаголом** (после have/has / be).\n> I've **already** done my homework. — Я уже сделала домашнее задание.\n> She's **already** here. — Она уже здесь.\n> Don't phone him. I've **already** told him. — Не звони ему. Я уже ему сказала.\n\n## still, yet, already — сравнение\n| Слово | Смысл | Где |\n|---|---|---|\n| still | всё ещё | перед глаголом / после be |\n| yet | ещё (не) / уже? | в конце |\n| already | уже | перед глаголом |\n\n> He **still** hasn't come. = He **hasn't** come **yet**.\n> She's **still** a student. — Она всё ещё студентка.\n\n## Типичные ошибки\n- ~~I have yet finished.~~ → I haven't finished **yet**.\n- ~~She is yet here.~~ → She is **already** here.\n- ~~I already don't know.~~ → I **still** don't know. (если «всё ещё не знаю»)",
+  "en": "## still\n**Still** shows that a situation continues and hasn't finished. It goes **before the main verb** but **after be**.\n> It's 11 o'clock and she's **still** in bed.\n> Do you **still** live in Almaty?\n> I **still** don't understand.\n\n## yet\nWe use **yet** in **negatives** and **questions**, usually at the **end**. It shows that we expect something to happen, but it hasn't happened up to now.\n> **Has** he arrived **yet**?\n> I **haven't** finished **yet**.\n> It's 10 o'clock and he **hasn't** called **yet**.\nWe don't use **yet** in positive sentences.\n\n## already\n**Already** means «before now» and shows that something happened earlier than expected. It goes **before the main verb** (after have/has or be).\n> I've **already** done my homework.\n> She's **already** here.\n> Don't phone him. I've **already** told him.\n\n## Compare still, yet, already\n| Word | Meaning | Place |\n|---|---|---|\n| still | continuing | before the verb / after be |\n| yet | not up to now / in a question | at the end |\n| already | earlier than expected | before the verb |\n\n> He **still** hasn't come. = He **hasn't** come **yet**.\n\n## Common mistakes\n- ~~I have yet finished.~~ → I haven't finished **yet**.\n- ~~She is yet here.~~ → She is **already** here.",
+  "structure": "## Положение слов\n| Слово | Утверждение | Отрицание | Вопрос |\n|---|---|---|---|\n| **still** | She **is still** here. | She **still** doesn't know. | **Is** she **still** here? |\n| **yet** | — | She **hasn't** come **yet**. | **Has** she come **yet**? |\n| **already** | She **has already** come. | — | **Has** she **already** come? |\n\n## Формулы\n> **still**: подлежащее + still + глагол / be + still + ...\n> **yet**: have / has + not + V3 + ... + yet\n> **already**: have / has + already + V3\n\n## Примеры\n- **I haven't seen the film yet.** — Я ещё не видела фильм.\n- **Is it still raining?** — Дождь всё ещё идёт?\n- **We've already eaten.** — Мы уже поели.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "still",
+      "instruction": "Вставьте **still** («всё ещё»).",
+      "items": [
+        { "text": "It's late but she is {{still}} working.", "hint": "still" },
+        { "text": "He lived there ten years ago. Does he {{still}} live there?", "hint": "still" },
+        { "text": "I don't know the answer. I {{still}} don't know it.", "hint": "still" },
+        { "text": "It's midnight and the children are {{still}} awake.", "hint": "still" },
+        { "text": "We're {{still}} waiting for the bus.", "hint": "still" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "yet или already?",
+      "instruction": "Вставьте **yet** или **already**.",
+      "items": [
+        { "text": "Have you finished your homework {{yet}}?" },
+        { "text": "I've {{already}} eaten, thank you." },
+        { "text": "She hasn't arrived {{yet}}." },
+        { "text": "Don't tell me the end. I've {{already}} seen the film." },
+        { "text": "Is lunch ready {{yet}}?" },
+        { "text": "He's only 10 but he's {{already}} taller than me." },
+        { "text": "I haven't read this book {{yet}}." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "still, yet или already?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        { "q": "Hurry up! The film has ___ started.", "options": ["still", "yet", "already"], "answer": 2, "why": "Уже началось раньше, чем мы ждали → **already**." },
+        { "q": "I'm waiting for Tom. He hasn't come ___.", "options": ["already", "yet", "still"], "answer": 1, "why": "Отрицание, ожидаем → **yet** в конце." },
+        { "q": "Do you ___ play tennis? You played years ago.", "options": ["yet", "already", "still"], "answer": 2, "why": "«Всё ещё» → **still**." },
+        { "q": "Have you seen this film ___?", "options": ["yet", "still", "already"], "answer": 0, "why": "Вопрос о том, чего ждали → **yet**." },
+        { "q": "It's 9 pm and he ___ isn't at home.", "options": ["already", "yet", "still"], "answer": 2, "why": "**still** перед isn't: он всё ещё не дома." },
+        { "q": "I can't buy the ticket. I've ___ spent all my money.", "options": ["already", "yet", "still"], "answer": 0, "why": "Уже потратила → **already**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Я ещё не закончил»?", "options": ["I haven't finished yet.", "I have yet finished.", "I yet haven't finished."], "answer": 0, "why": "Отрицание + **yet** в конце." },
+        { "q": "Как сказать «Он всё ещё спит»?", "options": ["He is still sleeping.", "He still is sleeping.", "He is sleeping still."], "answer": 0, "why": "После **be** (is), перед основным глаголом." },
+        { "q": "Как сказать «Я уже позвонила ему»?", "options": ["I've phoned already him.", "I've already phoned him.", "I yet phoned him."], "answer": 1, "why": "**already** — между have и V3." },
+        { "q": "Как сказать «Ты уже поел?»", "options": ["Have you eaten yet?", "Have you eaten still?", "Do you yet eat?"], "answer": 0, "why": "В вопросе — **yet** в конце." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **still**, **yet** или **already**.",
+      "items": [
+        { "prompt": "(I / not / finish / yet)", "answers": ["I haven't finished yet.", "I have not finished yet."] },
+        { "prompt": "(she / still / sleep)", "answers": ["She is still sleeping.", "She's still sleeping.", "She still sleeps."] },
+        { "prompt": "(we / already / eat)", "answers": ["We have already eaten.", "We've already eaten.", "We already ate."] },
+        { "prompt": "(you / do / your homework / yet ?)", "answers": ["Have you done your homework yet?"] },
+        { "prompt": "(they / not / call / yet)", "answers": ["They haven't called yet.", "They have not called yet."] },
+        { "prompt": "(he / still / live / in Osh)", "answers": ["He still lives in Osh.", "He is still living in Osh.", "He's still living in Osh."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **still / yet / already**.",
+      "items": [
+        { "prompt": "Они ещё не приехали.", "answers": ["They haven't arrived yet.", "They have not arrived yet.", "They haven't come yet.", "They have not come yet."] },
+        { "prompt": "Я уже купила билеты.", "answers": ["I've already bought the tickets.", "I have already bought the tickets.", "I already bought the tickets.", "I've already bought tickets.", "I have already bought tickets."] },
+        { "prompt": "Ты всё ещё работаешь в банке?", "answers": ["Do you still work in a bank?", "Do you still work at a bank?", "Are you still working in a bank?", "Are you still working at a bank?"] },
+        { "prompt": "Ты уже видела этот фильм?", "answers": ["Have you seen this film yet?", "Have you seen this movie yet?", "Have you already seen this film?", "Have you already seen this movie?"] },
+        { "prompt": "Он всё ещё не знает.", "answers": ["He still doesn't know.", "He still does not know."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте **still / yet / already**.",
+      "items": [
+        { "prompt": "Вы уже позавтракали сегодня?", "sample": "I've already had breakfast." },
+        { "prompt": "Что вы ещё не сделали на этой неделе?", "sample": "I haven't done my laundry yet." },
+        { "prompt": "Вы всё ещё живёте там, где родились?", "sample": "I still live in Bishkek." },
+        { "prompt": "Какой город вы уже посетили?", "sample": "I've already visited Istanbul." }
+      ]
+    }
+  ]
+}

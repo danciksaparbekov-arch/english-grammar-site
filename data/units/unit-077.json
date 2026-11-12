@@ -1,0 +1,284 @@
+{
+  "id": 77,
+  "title": "not + anybody/anyone/anything nobody/no-one/nothing",
+  "summary": "Отрицание с anybody/anyone/anything и nobody/no-one/nothing: в предложении только одно отрицание.",
+  "ru": "## Две пары слов\n| про людей | про вещи |\n|---|---|\n| not + **anybody / anyone** | not + **anything** |\n| **nobody / no-one** | **nothing** |\n**anybody = anyone**, **nobody = no-one** — это одно и то же.\n\n## not + anybody / anyone / anything\nОтрицательный глагол + **any-**:\n> I don't know **anybody** here. — Я здесь никого не знаю.\n> There isn't **anyone** in the room. — В комнате никого нет.\n> I can't remember **anything**. — Я ничего не помню.\n\n## nobody / no-one / nothing\nПоложительный глагол + **no-**:\n> There is **nobody** in the room. = There isn't anybody in the room.\n> She said **nothing**. = She didn't say anything.\n> There's **nothing** to eat. — Есть нечего.\n\n## В начале предложения и как ответ\nВ начале предложения нужно только **nobody / no-one / nothing** (не *anybody*).\n> **Nobody** lives here. — Здесь никто не живёт.\n> **Nothing** happened. — Ничего не случилось.\n> — Who did you meet? — **No-one.** — Кого ты встретил? — Никого.\n> — What did you say? — **Nothing.** — Что ты сказал? — Ничего.\n\n## Главное правило\nВ английском предложении **только одно отрицание**:\n- ~~I don't know nothing.~~ → I don't know **anything**. / I know **nothing**.\n- ~~Don't tell nobody.~~ → Don't tell **anybody**.\n- ~~There isn't nobody here.~~ → There isn't **anybody** here. / There is **nobody** here.\n(В русском: «Я **ничего не** знаю» — два отрицания, в английском нельзя!)",
+  "en": "## Two groups\n| people | things |\n|---|---|\n| not + **anybody / anyone** | not + **anything** |\n| **nobody / no-one** | **nothing** |\n**anybody = anyone**, **nobody = no-one**.\n\n## not + anybody / anyone / anything\n> I don't know **anybody** here.\n> There isn't **anyone** in the room.\n> I can't remember **anything**.\n\n## nobody / no-one / nothing\nA positive verb + **no-**:\n> There is **nobody** in the room. = There isn't anybody in the room.\n> She said **nothing**. = She didn't say anything.\n> There's **nothing** to eat.\n\n## At the start of a sentence and as an answer\nWe use **nobody / no-one / nothing** (not *anybody*) at the beginning of a sentence.\n> **Nobody** lives here. · **Nothing** happened.\n> — Who did you meet? — **No-one.**\n> — What did you say? — **Nothing.**\n\n## The key rule\nOne negative in a sentence is enough:\n- ~~I don't know nothing.~~ → I don't know **anything**. / I know **nothing**.\n- ~~Don't tell nobody.~~ → Don't tell **anybody**.",
+  "structure": "## Схема\n| Значение | Отрицательный глагол + | Положительный глагол + |\n|---|---|---|\n| никто (люди) | not + anybody / anyone | nobody / no-one |\n| ничто (вещи) | not + anything | nothing |\n\n## Примеры пар\n> I didn't see **anybody**. = I saw **nobody**.\n> He doesn't want **anything**. = He wants **nothing**.\n> There isn't **anyone** here. = There is **no-one** here.\n\n## Формула\n> **nobody / no-one / nothing** + глагол (в утверждении)\n> **not** + глагол + **anybody / anyone / anything**\n\n## Ответ на вопрос\n> Who ...? → **Nobody. / No-one.**\n> What ...? → **Nothing.**\n\n## Правописание\n> **no-one** пишется через дефис (или **no one**); **nobody**, **nothing** — слитно.",
+  "exercises": [
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Перепишите с nobody / no-one / nothing",
+      "instruction": "Перепишите предложение, используя **nobody**, **no-one** или **nothing**.",
+      "items": [
+        {
+          "prompt": "There isn't anybody in the kitchen.",
+          "answers": [
+            "There is nobody in the kitchen.",
+            "There is no-one in the kitchen.",
+            "There's nobody in the kitchen.",
+            "There's no-one in the kitchen.",
+            "There is no one in the kitchen.",
+            "There's no one in the kitchen."
+          ]
+        },
+        {
+          "prompt": "I didn't hear anything.",
+          "answers": [
+            "I heard nothing."
+          ]
+        },
+        {
+          "prompt": "She didn't tell anyone.",
+          "answers": [
+            "She told no-one.",
+            "She told nobody.",
+            "She told no one."
+          ]
+        },
+        {
+          "prompt": "We haven't got anything to do.",
+          "answers": [
+            "We've got nothing to do.",
+            "We have got nothing to do.",
+            "We have nothing to do."
+          ]
+        },
+        {
+          "prompt": "There isn't anything on TV.",
+          "answers": [
+            "There is nothing on TV.",
+            "There's nothing on TV."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Перепишите с not ... anybody / anything",
+      "instruction": "Перепишите предложение, используя **not ... anybody / anyone / anything**.",
+      "items": [
+        {
+          "prompt": "There is nobody at home.",
+          "answers": [
+            "There isn't anybody at home.",
+            "There isn't anyone at home."
+          ]
+        },
+        {
+          "prompt": "He said nothing.",
+          "answers": [
+            "He didn't say anything."
+          ]
+        },
+        {
+          "prompt": "I know no-one here.",
+          "answers": [
+            "I don't know anybody here.",
+            "I don't know anyone here."
+          ]
+        },
+        {
+          "prompt": "There is nothing in the box.",
+          "answers": [
+            "There isn't anything in the box."
+          ]
+        },
+        {
+          "prompt": "They invited nobody.",
+          "answers": [
+            "They didn't invite anybody.",
+            "They didn't invite anyone."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "any- или no-?",
+      "instruction": "Вставьте **anybody**, **anyone**, **anything**, **nobody**, **no-one** или **nothing**.",
+      "items": [
+        {
+          "text": "I'm hungry. There is {{nothing}} to eat."
+        },
+        {
+          "text": "I don't know {{anybody|anyone}} in this city."
+        },
+        {
+          "text": "{{Nobody|No-one}} answered the phone."
+        },
+        {
+          "text": "She didn't buy {{anything}} at the market."
+        },
+        {
+          "text": "— Who is at the door? — {{Nobody|No-one}}."
+        },
+        {
+          "text": "He can't see {{anything}} without his glasses."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Ещё раз: any- или no-",
+      "instruction": "Вставьте **anything**, **anybody** или **nothing**, **nobody**.",
+      "items": [
+        {
+          "text": "— What did you do? — {{Nothing}}."
+        },
+        {
+          "text": "I didn't talk to {{anybody|anyone}}."
+        },
+        {
+          "text": "{{Nothing}} is impossible."
+        },
+        {
+          "text": "Please don't tell {{anybody|anyone}} my secret."
+        },
+        {
+          "text": "{{Nobody|No-one}} knows the answer."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I don't want ___.",
+          "options": [
+            "nothing",
+            "anything",
+            "nobody"
+          ],
+          "answer": 1,
+          "why": "Отрицательный глагол → **anything**."
+        },
+        {
+          "q": "___ lives in that old house.",
+          "options": [
+            "Anybody",
+            "Nobody",
+            "Anything"
+          ],
+          "answer": 1,
+          "why": "В начале предложения → **Nobody**."
+        },
+        {
+          "q": "There isn't ___ in the fridge.",
+          "options": [
+            "nothing",
+            "anything",
+            "nobody"
+          ],
+          "answer": 1,
+          "why": "**isn't ... anything**."
+        },
+        {
+          "q": "— Who called? — ___.",
+          "options": [
+            "No-one",
+            "Nothing",
+            "Anything"
+          ],
+          "answer": 0,
+          "why": "Вопрос **Who?** → **No-one**."
+        },
+        {
+          "q": "She didn't say ___.",
+          "options": [
+            "anything",
+            "nothing",
+            "anybody"
+          ],
+          "answer": 0,
+          "why": "**didn't say anything**."
+        },
+        {
+          "q": "I've got ___ to wear!",
+          "options": [
+            "anything",
+            "nothing",
+            "anybody"
+          ],
+          "answer": 1,
+          "why": "Положительный глагол → **nothing**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "I don't see nobody.",
+            "I don't see anybody.",
+            "I don't see nothing."
+          ],
+          "answer": 1,
+          "why": "Одно отрицание: **don't ... anybody**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "Nobody knows the answer.",
+            "Anybody doesn't know the answer.",
+            "Nobody doesn't know the answer."
+          ],
+          "answer": 0,
+          "why": "**Nobody** + положительный глагол."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "There is nothing to do here.",
+            "There isn't nothing to do here.",
+            "There isn't something to do here."
+          ],
+          "answer": 0,
+          "why": "**There is nothing**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "He didn't eat nothing.",
+            "He ate nothing.",
+            "He no ate anything."
+          ],
+          "answer": 1,
+          "why": "**ate nothing** или **didn't eat anything**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Что вы не любите есть?",
+          "sample": "I don't like anything with mushrooms."
+        },
+        {
+          "prompt": "Кого вы не знаете на своей работе / в вашей группе?",
+          "sample": "I don't know anybody in my new group."
+        },
+        {
+          "prompt": "Что вы делали вчера вечером? Скажите: ничего особенного.",
+          "sample": "I did nothing special yesterday evening."
+        }
+      ]
+    }
+  ]
+}

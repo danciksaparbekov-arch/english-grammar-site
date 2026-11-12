@@ -1,0 +1,107 @@
+{
+  "id": 25,
+  "title": "I used to ...",
+  "summary": "**used to + глагол** — о том, что было регулярным или верным в прошлом, а теперь уже нет.",
+  "ru": "## Что значит used to\n**used to** говорит о прошлой привычке или состоянии, которых **сейчас нет**. По-русски: «раньше я ...», «бывало, я ...».\n> I **used to play** tennis. Now I play golf. — Раньше я играла в теннис. Теперь играю в гольф.\n> Liz **used to have** long hair. — У Лиз раньше были длинные волосы (теперь короткие).\n> They **used to live** in the same street as us. — Они раньше жили на нашей улице.\n\n## Как образуется\n> подлежащее + **used to** + глагол в начальной форме\n\nФорма одинаковая для всех лиц: I / you / he / she / we / they **used to**.\n> When I was a child, I **used to like** chocolate. — В детстве я любила шоколад.\n> Ann **used to have** a piano. — У Анны раньше было пианино.\n\n## Отрицание и вопрос\nВ них нужен **did**, а у used меняется на **use**.\n> I **didn't use to like** tomatoes. — Я раньше не любила помидоры.\n> **Did** you **use to live** here? — Ты раньше жила здесь?\n> Where **did** you **use to live**? — Где ты жила раньше?\n\n## Только прошлое\n**used to** — всегда про прошлое. В настоящем такой формы нет, используйте обычный present simple.\n- ~~I use to play golf.~~ → I **play** golf these days. / I **used to** play tennis.\n- ~~We use to get up early.~~ → We **usually get up** early. (настоящее)\n\n## Сравнение: used to и past simple\n- **used to work** — раньше работал (много раз, долго, теперь нет): He **used to work** in a factory. Now he works in a supermarket.\n- **worked** — просто факт в прошлом: He **worked** there in 2010.\n\n## Типичные ошибки\n- ~~I didn't used to like it.~~ → I didn't **use** to like it.\n- ~~Did you used to play?~~ → Did you **use** to play?\n- ~~I used to going there.~~ → I used to **go** there.",
+  "en": "## What does used to mean?\nWe use **used to** for things that were true or regular in the past, but are **not true now**.\n> I **used to play** tennis. Now I play golf.\n> Liz **used to have** long hair. (Now it's short.)\n> They **used to live** in the same street as us.\n\n## How to make it\n> subject + **used to** + infinitive\n\nThe form is the same for all persons.\n> When I was a child, I **used to like** chocolate.\n> Ann **used to have** a piano.\n\n## Negative and questions\nWe use **did** and the form changes to **use to**.\n> I **didn't use to like** tomatoes.\n> **Did** you **use to live** here?\n> Where **did** you **use to live**?\n\n## Only for the past\nThere is no present form *use to*. For the present use the present simple.\n- ~~I use to play golf.~~ → I **play** golf these days.\n- ~~We use to get up early.~~ → We **usually get up** early.\n\n## Compare\n- **used to work** = he worked there for some time before, but not now: He **used to work** in a factory. Now he works in a supermarket.\n- **worked** = one fact in the past: He **worked** there in 2010.\n\n## Common mistakes\n- ~~I didn't used to like it.~~ → I didn't **use** to like it.\n- ~~Did you used to play?~~ → Did you **use** to play?\n- ~~I used to going there.~~ → I used to **go** there.",
+  "structure": "## Формы\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| I used to smoke. | I didn't use to smoke. | Did you use to smoke? |\n| She used to be shy. | She didn't use to be shy. | Did she use to be shy? |\n| They used to live here. | They didn't use to live here. | Did they use to live here? |\n\n## Краткие ответы\n- Did you use to play? — Yes, I **did**. / No, I **didn't**.\n\n## Формула\n> **used to** + глагол (инфинитив) — утверждение\n> **didn't use to** + глагол — отрицание\n> **Did** + подлежащее + **use to** + глагол ... ? — вопрос\n\n## Что ещё запомнить\n- used to — **только прошлое**, для настоящего его нет\n- после **did / didn't** пишем **use to** (без -d)\n- используем с глаголами состояния: have, be, like, live\n- обычно сравниваем «раньше — теперь»: **used to ... but now ...**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Раньше и теперь",
+      "instruction": "Допишите предложения с **used to** и глаголом в скобках.",
+      "example": "Now Liz has short hair. (be long) → It used to be long.",
+      "items": [
+        { "text": "Now I live in a city. I {{used to live}} in the country.", "hint": "live" },
+        { "text": "Tom is a teacher now. He {{used to be}} a taxi driver.", "hint": "be" },
+        { "text": "We have a car now. We {{used to go}} everywhere by bus.", "hint": "go" },
+        { "text": "She works in an office now. She {{used to work}} in a shop.", "hint": "work" },
+        { "text": "Now I drink tea. I {{used to drink}} a lot of coffee.", "hint": "drink" },
+        { "text": "He is thin now. He {{used to be}} fat.", "hint": "be" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Отрицания и вопросы",
+      "instruction": "Допишите предложения: **didn't use to** или **did ... use to**.",
+      "items": [
+        { "text": "I {{didn't use to|did not use to}} like fish, but now I love it.", "hint": "not / like" },
+        { "text": "{{Did}} you {{use to}} play the guitar?", "hint": "do / use" },
+        { "text": "She {{didn't use to|did not use to}} wear glasses.", "hint": "not / use" },
+        { "text": "Where {{did}} they {{use to}} live?", "hint": "do / use" },
+        { "text": "We {{didn't use to|did not use to}} have a TV.", "hint": "not / use" },
+        { "text": "{{Did}} he {{use to}} work here?", "hint": "do / use" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "When I was a child, I ___ chocolate.", "options": ["use to eat", "used to eat", "was used to eat"], "answer": 1, "why": "Прошлая привычка → **used to eat**." },
+        { "q": "I ___ tennis. Now I don't.", "options": ["used to play", "use to play", "am playing"], "answer": 0, "why": "Раньше играла, теперь нет → **used to play**." },
+        { "q": "___ you use to live here?", "options": ["Do", "Did", "Were"], "answer": 1, "why": "Вопрос: **Did you use to ...?**" },
+        { "q": "She didn't ___ to like tea.", "options": ["used", "use", "using"], "answer": 1, "why": "После didn't — **use to**." },
+        { "q": "We usually ___ up early these days.", "options": ["get", "used to get", "use to get"], "answer": 0, "why": "Настоящее время → **get** (used to не подходит)." },
+        { "q": "This building ___ a cinema.", "options": ["used to be", "uses to be", "use to be"], "answer": 0, "why": "Раньше было кинотеатром → **used to be**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "«Я раньше жил в деревне».", "options": ["I used to live in a village.", "I use to live in a village.", "I used to living in a village."], "answer": 0, "why": "**used to + инфинитив**." },
+        { "q": "«Раньше она не любила кофе».", "options": ["She didn't used to like coffee.", "She didn't use to like coffee.", "She not used to like coffee."], "answer": 1, "why": "**didn't use to**." },
+        { "q": "«Где вы раньше жили?»", "options": ["Where did you use to live?", "Where you used to live?", "Where do you use to live?"], "answer": 0, "why": "**did + use to**." },
+        { "q": "«Обычно мы рано встаём» (сейчас).", "options": ["We use to get up early.", "We usually get up early.", "We used to usually get up early."], "answer": 1, "why": "Для настоящего used to нет." },
+        { "q": "«У моего дедушки раньше была собака».", "options": ["My grandfather used to have a dog.", "My grandfather used to has a dog.", "My grandfather use to have a dog."], "answer": 0, "why": "**used to have**." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Used to или past simple?",
+      "instruction": "Вставьте **used to** или past simple глагола в скобках.",
+      "items": [
+        { "text": "When I was young, I {{used to climb}} trees every weekend.", "hint": "climb" },
+        { "text": "I {{went}} to Paris last year.", "hint": "go" },
+        { "text": "My grandma {{used to tell|used to read}} us stories every night.", "hint": "tell" },
+        { "text": "We {{bought}} this house in 2018.", "hint": "buy" },
+        { "text": "He {{used to be}} very shy, but now he is very open.", "hint": "be" },
+        { "text": "Yesterday I {{met}} an old friend.", "hint": "meet" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **used to**.",
+      "items": [
+        { "prompt": "(I / play / football / every Saturday)", "answers": ["I used to play football every Saturday."] },
+        { "prompt": "(Dave / work / in a factory)", "answers": ["Dave used to work in a factory."] },
+        { "prompt": "(we / not / have / a TV)", "answers": ["We didn't use to have a TV.", "We did not use to have a TV."] },
+        { "prompt": "(you / live / in a village?)", "answers": ["Did you use to live in a village?"] },
+        { "prompt": "(she / have / long hair)", "answers": ["She used to have long hair."] },
+        { "prompt": "(they / not / like / sports)", "answers": ["They didn't use to like sports.", "They did not use to like sports."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Расскажите о том, что вы раньше делали. Используйте **used to**.",
+      "items": [
+        { "prompt": "Что вы любили делать в детстве?", "sample": "I used to play outside with my friends every day." },
+        { "prompt": "Что вы раньше не любили, а теперь любите?", "sample": "I didn't use to like vegetables, but now I love them." },
+        { "prompt": "Где вы раньше жили?", "sample": "I used to live in a small village." },
+        { "prompt": "Что у вас раньше было, а теперь нет?", "sample": "I used to have a bike, but I sold it." },
+        { "prompt": "Спросите друга, чем он занимался раньше.", "sample": "Did you use to play any sports when you were a child?" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "id": 49,
+  "title": "She said that ... He told me that ...",
+  "summary": "Косвенная речь: как пересказать чужие слова — глагол сдвигается в прошлое (am → was, will → would), и разница между **say** и **tell**.",
+  "ru": "## Как пересказать чужие слова\nКогда мы передаём, что сказал другой человек, глагол обычно «сдвигается» на шаг в прошлое. Сравните прямую речь и пересказ.\n> Diane: «I'm enjoying my new job.» → Diane said (that) she **was enjoying** her new job. — Диана сказала, что ей нравится новая работа.\n> Tom: «I live in Osh.» → Tom said he **lived** in Osh.\n> Anna: «I don't like my job.» → Anna said she **didn't like** her job.\n\n## Что во что превращается\n| Было | Стало |\n|---|---|\n| am / is → | was |\n| are → | were |\n| do / does → | did |\n| have / has → | had |\n| will → | would |\n| can → | could |\n| -ing (is doing) → | was doing |\n| глагол (work) → | worked |\n\n> Steve: «I'll phone you.» → Steve said he **would** phone me.\n> Ann: «I can't find a job.» → Ann said she **couldn't** find a job.\n> Peter: «I have to go early.» → Peter said he **had to** go early.\nМестоимения тоже меняются по смыслу: «I'm tired» → She said **she** was tired.\n\n## say и tell\n- **tell** всегда с тем, кому говорят: **told me / told Ann**.\n- **say** — без адресата: **said that ...**; если нужен адресат, то **say to**.\n> He **told me** that he was tired. = He **said** that he was tired.\n> What did she **say to you**? — What did she **tell you**?\n- ~~He said me that ...~~ → He **told me** that ... / He **said** that ...\n- ~~He told that he was tired.~~ → He **said** that he was tired.\n- ~~I told to Ann.~~ → I **told Ann**.\n\n## Слово that можно опустить\n> Ann told me **that** she didn't like her job. = Ann told me she didn't like her job.\n\n## Типичные ошибки\nВ русском времена в пересказе не сдвигаются («Он сказал, что **устал**»), а в английском сдвигаются: He said he **was** tired.",
+  "en": "## Reporting what people say\nWhen we report what somebody said, the verb usually goes one step back into the past.\n> Diane: 'I'm enjoying my new job.' → Diane said (that) she **was enjoying** her new job.\n> Tom: 'I live in Osh.' → Tom said he **lived** in Osh.\n> Anna: 'I don't like my job.' → Anna said she **didn't like** her job.\n\n## Changes\n| Direct | Reported |\n|---|---|\n| am / is | was |\n| are | were |\n| do / does | did |\n| have / has | had |\n| will | would |\n| can | could |\n| is doing | was doing |\n| work | worked |\n\n> Steve: 'I'll phone you.' → Steve said he **would** phone me.\n> Ann: 'I can't find a job.' → Ann said she **couldn't** find a job.\n> Peter: 'I have to go early.' → Peter said he **had to** go early.\nPronouns change too: 'I'm tired' → She said **she** was tired.\n\n## say and tell\n- **tell** needs a person: **told me / told Ann**.\n- **say** has no person after it: **said that ...** (or **say to** somebody).\n> He **told me** that he was tired. = He **said** that he was tired.\n> What did she **say to you**? = What did she **tell you**?\n- ~~He said me that ...~~ → He **told me** that ...\n- ~~He told that he was tired.~~ → He **said** that he was tired.\n\n## That is optional\n> Ann told me **that** she didn't like her job. = Ann told me she didn't like her job.",
+  "structure": "## Сдвиг времён\n| Прямая речь | Косвенная речь |\n|---|---|\n| I **am** busy. | She said she **was** busy. |\n| We **are** late. | They said they **were** late. |\n| I **work** here. | He said he **worked** there. |\n| I **don't know**. | She said she **didn't know**. |\n| I **have** a car. | He said he **had** a car. |\n| I **will** call. | She said she **would** call. |\n| I **can** swim. | He said he **could** swim. |\n| I'm **working**. | She said she **was working**. |\n\n## say и tell\n| Глагол | Формула | Пример |\n|---|---|---|\n| said | said (that) + предложение | He said (that) he was ill. |\n| said | said to + человек | She said to me ... |\n| told | told + человек (that) + предложение | He told me (that) he was ill. |\n\n## Памятка\n> **tell** + человек всегда: *told me, told them, told Anna*.\n> **say** — без человека: *said that*.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Пересказ: глагол в прошедшем",
+      "instruction": "Вставьте глагол в нужной форме.",
+      "items": [
+        {
+          "text": "'I'm tired.' → He said he {{was}} tired."
+        },
+        {
+          "text": "'We are going to buy a flat.' → They said they {{were}} going to buy a flat."
+        },
+        {
+          "text": "'I don't like fish.' → Sara said she {{didn't|did not}} like fish."
+        },
+        {
+          "text": "'I'll help you.' → Mike said he {{would|'d}} help me."
+        },
+        {
+          "text": "'I can't come.' → Julia said she {{couldn't|could not}} come."
+        },
+        {
+          "text": "'I have a headache.' → Tim said he {{had}} a headache."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "say или tell?",
+      "instruction": "Вставьте **said** или **told**.",
+      "items": [
+        {
+          "text": "She {{told}} me that she was hungry."
+        },
+        {
+          "text": "He {{said}} that he was busy."
+        },
+        {
+          "text": "What did the doctor {{say}} to you?"
+        },
+        {
+          "text": "They {{told}} us the news."
+        },
+        {
+          "text": "Ann {{said}} she didn't know the answer."
+        },
+        {
+          "text": "I {{told}} Tom that the shop was closed."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "Peter: 'I'm very happy.' → Peter said he ___ very happy.",
+          "options": [
+            "is",
+            "was",
+            "were"
+          ],
+          "answer": 1,
+          "why": "am/is → was."
+        },
+        {
+          "q": "Anna: 'I will call you.' → Anna said she ___ call me.",
+          "options": [
+            "will",
+            "would",
+            "can"
+          ],
+          "answer": 1,
+          "why": "will → would."
+        },
+        {
+          "q": "My boss ___ me that I could go home.",
+          "options": [
+            "said",
+            "told",
+            "say"
+          ],
+          "answer": 1,
+          "why": "Есть адресат (me) — tell."
+        },
+        {
+          "q": "She ___ that she liked the film.",
+          "options": [
+            "told",
+            "said",
+            "told to me"
+          ],
+          "answer": 1,
+          "why": "Нет адресата — said."
+        },
+        {
+          "q": "Tom: 'I live in Kazan.' → Tom said he ___ in Kazan.",
+          "options": [
+            "live",
+            "lives",
+            "lived"
+          ],
+          "answer": 2,
+          "why": "Present simple → past simple."
+        },
+        {
+          "q": "Kate: 'I can't swim.' → Kate said she ___ swim.",
+          "options": [
+            "can't",
+            "couldn't",
+            "wasn't"
+          ],
+          "answer": 1,
+          "why": "can't → couldn't."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите ошибку",
+      "instruction": "Выберите правильное предложение.",
+      "items": [
+        {
+          "q": "Как сказать «Он сказал мне, что устал»?",
+          "options": [
+            "He said me that he was tired.",
+            "He told me that he was tired.",
+            "He told that he was tired."
+          ],
+          "answer": 1,
+          "why": "tell + me, а say не принимает me напрямую."
+        },
+        {
+          "q": "Как сказать «Что она тебе сказала?»",
+          "options": [
+            "What did she say you?",
+            "What did she tell to you?",
+            "What did she tell you?"
+          ],
+          "answer": 2,
+          "why": "tell + you без to."
+        },
+        {
+          "q": "Как сказать «Она сказала, что у неё нет времени»?",
+          "options": [
+            "She said she didn't have time.",
+            "She said she doesn't have time yesterday.",
+            "She told she didn't have time."
+          ],
+          "answer": 0,
+          "why": "Сдвиг в прошлое; said без адресата."
+        },
+        {
+          "q": "Как сказать «Я сказал Ане, что опаздываю»?",
+          "options": [
+            "I told to Ann I was late.",
+            "I said Ann I was late.",
+            "I told Ann I was late."
+          ],
+          "answer": 2,
+          "why": "told + Ann, that можно опустить."
+        },
+        {
+          "q": "Как сказать «Они сказали, что будут здесь в пять»?",
+          "options": [
+            "They said they would be here at five.",
+            "They said they will be here at five yesterday.",
+            "They told they would be here at five."
+          ],
+          "answer": 0,
+          "why": "will → would."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Перескажите слова",
+      "instruction": "Перепишите прямую речь в косвенную. Начните: He said (that) ...",
+      "items": [
+        {
+          "prompt": "'I'm learning to drive.'",
+          "answers": [
+            "He said that he was learning to drive.",
+            "He said he was learning to drive."
+          ]
+        },
+        {
+          "prompt": "'My sister lives in Canada.'",
+          "answers": [
+            "He said that his sister lived in Canada.",
+            "He said his sister lived in Canada."
+          ]
+        },
+        {
+          "prompt": "'I can't understand this word.'",
+          "answers": [
+            "He said that he couldn't understand that word.",
+            "He said he couldn't understand that word.",
+            "He said that he couldn't understand this word.",
+            "He said he couldn't understand this word.",
+            "He said that he could not understand that word.",
+            "He said he could not understand that word."
+          ]
+        },
+        {
+          "prompt": "'I'll call you tomorrow.'",
+          "answers": [
+            "He said that he would call me the next day.",
+            "He said he would call me the next day.",
+            "He said that he would call me tomorrow.",
+            "He said he would call me tomorrow.",
+            "He said that he'd call me tomorrow.",
+            "He said he'd call me tomorrow."
+          ]
+        },
+        {
+          "prompt": "'We don't have any money.'",
+          "answers": [
+            "He said that they didn't have any money.",
+            "He said they didn't have any money.",
+            "He said that they did not have any money.",
+            "He said they did not have any money."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Расскажите, что вам недавно сказали. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Что вам сказал друг вчера?",
+          "sample": "My friend said he was very busy."
+        },
+        {
+          "prompt": "Что вам сказал учитель?",
+          "sample": "My teacher told me that I spoke English well."
+        },
+        {
+          "prompt": "Что вам сказала мама?",
+          "sample": "My mother said she would be home at six."
+        },
+        {
+          "prompt": "Что вы сказали другу?",
+          "sample": "I told my friend that I couldn't come."
+        },
+        {
+          "prompt": "Перескажите: 'It is raining.'",
+          "sample": "She said it was raining."
+        }
+      ]
+    }
+  ]
+}

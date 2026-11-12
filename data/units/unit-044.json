@@ -13,12 +13,24 @@
       "instruction": "Задайте вопрос о подлежащем. Начните с **Who** или **What**.",
       "example": "Somebody broke the window. → **Who broke the window?**",
       "items": [
-        { "text": "Somebody called you this morning. → {{Who called you this morning}}?" },
-        { "text": "Something fell off the table. → {{What fell off the table}}?" },
-        { "text": "Somebody wants a coffee. → {{Who wants a coffee}}?" },
-        { "text": "Something made the noise. → {{What made the noise}}?" },
-        { "text": "Somebody is knocking at the door. → {{Who is knocking at the door|Who's knocking at the door}}?" },
-        { "text": "Somebody took my bag. → {{Who took my bag}}?" }
+        {
+          "text": "Somebody called you this morning. → {{Who called you this morning}}?"
+        },
+        {
+          "text": "Something fell off the table. → {{What fell off the table}}?"
+        },
+        {
+          "text": "Somebody wants a coffee. → {{Who wants a coffee}}?"
+        },
+        {
+          "text": "Something made the noise. → {{What made the noise}}?"
+        },
+        {
+          "text": "Somebody is knocking at the door. → {{Who is knocking at the door|Who's knocking at the door}}?"
+        },
+        {
+          "text": "Somebody took my bag. → {{Who took my bag}}?"
+        }
       ]
     },
     {
@@ -27,12 +39,24 @@
       "title": "Who или what — дополнение",
       "instruction": "Задайте вопрос о выделенной части. Не забудьте **do / does / did**.",
       "items": [
-        { "text": "Tom bought something. → What {{did}} Tom buy?" },
-        { "text": "Anna met somebody. → Who {{did}} Anna meet?" },
-        { "text": "My brother likes something. → What {{does}} your brother like?" },
-        { "text": "They invited somebody. → Who {{did}} they invite?" },
-        { "text": "You want something. → What {{do}} you want?" },
-        { "text": "She is waiting for somebody. → Who {{is}} she waiting for?" }
+        {
+          "text": "Tom bought something. → What {{did}} Tom buy?"
+        },
+        {
+          "text": "Anna met somebody. → Who {{did}} Anna meet?"
+        },
+        {
+          "text": "My brother likes something. → What {{does}} your brother like?"
+        },
+        {
+          "text": "They invited somebody. → Who {{did}} they invite?"
+        },
+        {
+          "text": "You want something. → What {{do}} you want?"
+        },
+        {
+          "text": "She is waiting for somebody. → Who {{is}} she waiting for?"
+        }
       ]
     },
     {
@@ -41,12 +65,66 @@
       "title": "Выберите правильный вопрос",
       "instruction": "Выберите один вариант.",
       "items": [
-        { "q": "Somebody broke my phone. ___", "options": ["Who broke my phone?", "Who did break my phone?", "Who did my phone break?"], "answer": 0, "why": "Who — подлежащее, вспомогательный глагол не нужен." },
-        { "q": "Kate saw somebody. ___", "options": ["Who Kate saw?", "Who saw Kate?", "Who did Kate see?"], "answer": 2, "why": "Who — дополнение (кого?), нужен did." },
-        { "q": "___ in this house?", "options": ["Who lives", "Who does live", "Who live"], "answer": 0, "why": "Who — подлежащее, глагол в 3-м лице: lives." },
-        { "q": "You saw somebody at the party. Who ___ at the party?", "options": ["did you see", "saw you", "you saw"], "answer": 0, "why": "Кого ты видел? — дополнение: Who did you see?" },
-        { "q": "What ___ yesterday?", "options": ["did happen", "happened", "happen"], "answer": 1, "why": "What — подлежащее: What happened?" },
-        { "q": "Who ___ your sister call?", "options": ["do", "does", "did"], "answer": 2, "why": "Вопрос в прошлом о дополнении: did." }
+        {
+          "q": "Somebody broke my phone. ___",
+          "options": [
+            "Who broke my phone?",
+            "Who did break my phone?",
+            "Who did my phone break?"
+          ],
+          "answer": 0,
+          "why": "Who — подлежащее, вспомогательный глагол не нужен."
+        },
+        {
+          "q": "Kate saw somebody. ___",
+          "options": [
+            "Who Kate saw?",
+            "Who saw Kate?",
+            "Who did Kate see?"
+          ],
+          "answer": 2,
+          "why": "Who — дополнение (кого?), нужен did."
+        },
+        {
+          "q": "___ in this house?",
+          "options": [
+            "Who lives",
+            "Who does live",
+            "Who live"
+          ],
+          "answer": 0,
+          "why": "Who — подлежащее, глагол в 3-м лице: lives."
+        },
+        {
+          "q": "You saw somebody at the party. Who ___ at the party?",
+          "options": [
+            "did you see",
+            "saw you",
+            "you saw"
+          ],
+          "answer": 0,
+          "why": "Кого ты видел? — дополнение: Who did you see?"
+        },
+        {
+          "q": "What ___ yesterday?",
+          "options": [
+            "did happen",
+            "happened",
+            "happen"
+          ],
+          "answer": 1,
+          "why": "What — подлежащее: What happened?"
+        },
+        {
+          "q": "Who ___ your sister call yesterday?",
+          "options": [
+            "do",
+            "does",
+            "did"
+          ],
+          "answer": 2,
+          "why": "Вопрос в прошлом о дополнении: did."
+        }
       ]
     },
     {
@@ -55,11 +133,56 @@
       "title": "Подлежащее или дополнение?",
       "instruction": "Выберите правильный вопрос к ответу.",
       "items": [
-        { "q": "— ? — Maria. (Maria cooked dinner.)", "options": ["Who cooked dinner?", "Who did cook dinner?", "Who did Maria cook?"], "answer": 0, "why": "Спрашиваем о том, кто готовил, — подлежащее." },
-        { "q": "— ? — A sandwich. (She ate a sandwich.)", "options": ["What ate she?", "What did she eat?", "What she ate?"], "answer": 1, "why": "Спрашиваем о дополнении: What did she eat?" },
-        { "q": "— ? — My uncle. (My uncle lives in Osh.)", "options": ["Who does live in Osh?", "Who does your uncle live?", "Who lives in Osh?"], "answer": 2, "why": "Подлежащее: Who lives in Osh?" },
-        { "q": "— ? — Jazz. (He likes jazz.)", "options": ["What does he like?", "What he likes?", "What likes he?"], "answer": 0, "why": "Дополнение: What does he like?" },
-        { "q": "— ? — The teacher. (The teacher phoned me.)", "options": ["Who did phone you?", "Who did you phone?", "Who phoned you?"], "answer": 2, "why": "Кто позвонил — подлежащее, без did." }
+        {
+          "q": "— ? — Maria. (Maria cooked dinner.)",
+          "options": [
+            "Who cooked dinner?",
+            "Who did cook dinner?",
+            "Who did Maria cook?"
+          ],
+          "answer": 0,
+          "why": "Спрашиваем о том, кто готовил, — подлежащее."
+        },
+        {
+          "q": "— ? — A sandwich. (She ate a sandwich.)",
+          "options": [
+            "What ate she?",
+            "What did she eat?",
+            "What she ate?"
+          ],
+          "answer": 1,
+          "why": "Спрашиваем о дополнении: What did she eat?"
+        },
+        {
+          "q": "— ? — My uncle. (My uncle lives in Osh.)",
+          "options": [
+            "Who does live in Osh?",
+            "Who does your uncle live?",
+            "Who lives in Osh?"
+          ],
+          "answer": 2,
+          "why": "Подлежащее: Who lives in Osh?"
+        },
+        {
+          "q": "— ? — Jazz. (He likes jazz.)",
+          "options": [
+            "What does he like?",
+            "What he likes?",
+            "What likes he?"
+          ],
+          "answer": 0,
+          "why": "Дополнение: What does he like?"
+        },
+        {
+          "q": "— ? — The teacher. (The teacher phoned me.)",
+          "options": [
+            "Who did phone you?",
+            "Who did you phone?",
+            "Who phoned you?"
+          ],
+          "answer": 2,
+          "why": "Кто позвонил — подлежащее, без did."
+        }
       ]
     },
     {
@@ -68,12 +191,43 @@
       "title": "Составьте вопросы",
       "instruction": "Напишите вопрос с **who** или **what**.",
       "items": [
-        { "prompt": "(Jack broke the window.) Кто разбил окно?", "answers": ["Who broke the window?"] },
-        { "prompt": "(I bought a new jacket.) Что ты купила?", "answers": ["What did you buy?"] },
-        { "prompt": "(Somebody is waiting for you.) Кто тебя ждёт?", "answers": ["Who is waiting for you?", "Who's waiting for you?"] },
-        { "prompt": "(Ann met somebody yesterday.) Кого Анна встретила вчера?", "answers": ["Who did Ann meet yesterday?"] },
-        { "prompt": "(Something happened.) Что случилось?", "answers": ["What happened?"] },
-        { "prompt": "(Tom wants something.) Что хочет Том?", "answers": ["What does Tom want?"] }
+        {
+          "prompt": "(Jack broke the window.) Кто разбил окно?",
+          "answers": [
+            "Who broke the window?"
+          ]
+        },
+        {
+          "prompt": "(I bought a new jacket.) Что ты купила?",
+          "answers": [
+            "What did you buy?"
+          ]
+        },
+        {
+          "prompt": "(Somebody is waiting for you.) Кто тебя ждёт?",
+          "answers": [
+            "Who is waiting for you?",
+            "Who's waiting for you?"
+          ]
+        },
+        {
+          "prompt": "(Ann met somebody yesterday.) Кого Анна встретила вчера?",
+          "answers": [
+            "Who did Ann meet yesterday?"
+          ]
+        },
+        {
+          "prompt": "(Something happened.) Что случилось?",
+          "answers": [
+            "What happened?"
+          ]
+        },
+        {
+          "prompt": "(Tom wants something.) Что хочет Том?",
+          "answers": [
+            "What does Tom want?"
+          ]
+        }
       ]
     },
     {
@@ -82,11 +236,26 @@
       "title": "Задайте вопросы другу",
       "instruction": "Напишите вопросы по подсказкам. Проверьте по образцу.",
       "items": [
-        { "prompt": "Спросите, кто живёт с вашим другом.", "sample": "Who lives with you?" },
-        { "prompt": "Спросите, кого он вчера видел.", "sample": "Who did you see yesterday?" },
-        { "prompt": "Спросите, что ему нравится на завтрак.", "sample": "What do you like for breakfast?" },
-        { "prompt": "Спросите, кто учит его английскому.", "sample": "Who teaches you English?" },
-        { "prompt": "Напишите о себе: кто ваш любимый певец и какая у него любимая песня?", "sample": "My favourite singer is Adele. My favourite song is Hello." }
+        {
+          "prompt": "Спросите, кто живёт с вашим другом.",
+          "sample": "Who lives with you?"
+        },
+        {
+          "prompt": "Спросите, кого он вчера видел.",
+          "sample": "Who did you see yesterday?"
+        },
+        {
+          "prompt": "Спросите, что ему нравится на завтрак.",
+          "sample": "What do you like for breakfast?"
+        },
+        {
+          "prompt": "Спросите, кто учит его английскому.",
+          "sample": "Who teaches you English?"
+        },
+        {
+          "prompt": "Напишите о себе: кто ваш любимый певец и какая у него любимая песня?",
+          "sample": "My favourite singer is Adele. My favourite song is Hello."
+        }
       ]
     }
   ]

@@ -1,0 +1,108 @@
+{
+  "id": 23,
+  "title": "be/have/do in present and past tenses",
+  "summary": "Обзор: как глаголы **be**, **have** и **do** работают как вспомогательные в разных временах и какое время они помогают построить.",
+  "ru": "## Три вспомогательных глагола\nВ английском **be, have, do** часто не имеют своего значения, а помогают строить времена, отрицания и вопросы. Главное — понять, **что стоит рядом**.\n\n## be + -ing → continuous\n**am / is / are / was / were + глагол-ing** — действие в процессе.\n> I'm **working** now. — Я сейчас работаю. (present continuous)\n> It wasn't **raining**, so we went out. — Дождя не было, и мы вышли. (past continuous)\n> What are you **doing** this evening? — Что ты делаешь вечером? (планы)\n\n## be + причастие → пассив\n**am / is / are / was / were + причастие** — страдательный залог.\n> The room **is cleaned** every day. — Комнату убирают каждый день.\n> These houses **were built** 100 years ago. — Эти дома построили 100 лет назад.\n> Where **were** you **born**? — Где ты родилась?\n\n## have / has + причастие → present perfect\n> I've **cleaned** my room. — Я убрала комнату.\n> Tom has **lost** his passport. — Том потерял паспорт.\n> Where **have** Paul and Linda **gone**? — Куда ушли Пол и Линда?\n\n## do / does / did + глагол без to\n**do / does** — для отрицаний и вопросов present simple, **did** — для past simple.\n> I **don't like** tea. — Я не люблю чай.\n> **Does** Barbara **live** alone? — Барбара живёт одна?\n> I **didn't watch** TV yesterday. — Вчера я не смотрела телевизор.\n> What time **did** they **go** out? — Во сколько они вышли?\n\n## Типичные ошибки\n- ~~Do you working now?~~ → **Are** you working now? (для -ing нужен be, не do)\n- ~~Does she lives here?~~ → Does she **live** here? (после does — глагол без -s)\n- ~~He didn't went.~~ → He didn't **go**. (после did — начальная форма)\n- ~~I am cleaned my room.~~ → I **have cleaned** my room. / My room **is cleaned**.",
+  "en": "## Three helping verbs\n**be, have** and **do** are often helping (auxiliary) verbs. They help to make tenses, negatives and questions. Look at what comes **next to them**.\n\n## be + -ing = continuous\n**am / is / are / was / were + verb-ing** shows an action in progress.\n> I'm **working** now. (present continuous)\n> It wasn't **raining**, so we went out. (past continuous)\n> What are you **doing** this evening? (plans)\n\n## be + past participle = passive\n> The room **is cleaned** every day.\n> These houses **were built** 100 years ago.\n> Where **were** you **born**?\n\n## have / has + past participle = present perfect\n> I've **cleaned** my room.\n> Tom has **lost** his passport.\n> Where **have** Paul and Linda **gone**?\n\n## do / does / did + infinitive\n**do / does** make present simple negatives and questions; **did** makes past simple negatives and questions.\n> I **don't like** tea.\n> **Does** Barbara **live** alone?\n> I **didn't watch** TV yesterday.\n> What time **did** they **go** out?\n\n## Common mistakes\n- ~~Do you working now?~~ → **Are** you working now?\n- ~~Does she lives here?~~ → Does she **live** here?\n- ~~He didn't went.~~ → He didn't **go**.",
+  "structure": "## Что стоит после вспомогательного глагола\n| Вспомогательный | + что | Время | Пример |\n|---|---|---|---|\n| am / is / are | + -ing | present continuous | She is reading. |\n| was / were | + -ing | past continuous | We were eating. |\n| am / is / are | + past participle | passive (present) | It is made here. |\n| was / were | + past participle | passive (past) | It was made here. |\n| have / has | + past participle | present perfect | I have seen it. |\n| do / does | + infinitive | present simple (− и ?) | I don't know. Does he know? |\n| did | + infinitive | past simple (− и ?) | I didn't see. Did you see? |\n\n## Как выбрать\n1. Глагол с **-ing**? → нужен **be**.\n2. Третья форма (причастие) и действие уже совершено? → **have**.\n3. Причастие, но смысл «делается / сделано кем-то»? → **be** (пассив).\n4. Начальная форма в вопросе или отрицании? → **do / does / did**.\n\n## Формулы\n> be + **-ing** · be + **V3** · have + **V3** · do / does / did + **V1**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "is, are, do или does?",
+      "instruction": "Вставьте **is**, **are**, **do** или **does**.",
+      "items": [
+        { "text": "{{Do}} you work in the evenings?" },
+        { "text": "Where {{are}} they going?" },
+        { "text": "{{Does}} Bill live near you?" },
+        { "text": "Why {{are}} you looking at me?" },
+        { "text": "What time {{do}} the shops close?" },
+        { "text": "{{Is}} Ann working today?" },
+        { "text": "What {{does}} this word mean?" },
+        { "text": "{{Is}} the sun shining?" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Отрицания",
+      "instruction": "Вставьте **am not / isn't / aren't / don't / doesn't**.",
+      "items": [
+        { "text": "I {{don't|do not}} like horror films." },
+        { "text": "She {{isn't|is not}} working today." },
+        { "text": "They {{aren't|are not}} at home." },
+        { "text": "My brother {{doesn't|does not}} drive." },
+        { "text": "I {{am not|'m not}} tired." },
+        { "text": "We {{don't|do not}} have a car." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите вспомогательный глагол",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        { "q": "What ___ you doing at three o'clock yesterday?", "options": ["did", "were", "have"], "answer": 1, "why": "**were + -ing** — past continuous." },
+        { "q": "I ___ seen this film before.", "options": ["have", "am", "do"], "answer": 0, "why": "**have + seen** — present perfect." },
+        { "q": "___ you like coffee?", "options": ["Are", "Have", "Do"], "answer": 2, "why": "Вопрос present simple → **Do you like**." },
+        { "q": "The windows ___ cleaned every week.", "options": ["are", "do", "have"], "answer": 0, "why": "**are + cleaned** — пассив." },
+        { "q": "She ___ come to the party yesterday.", "options": ["wasn't", "didn't", "hasn't"], "answer": 1, "why": "**didn't + come** — past simple, начальная форма." },
+        { "q": "Where ___ Paul and Linda gone?", "options": ["have", "are", "do"], "answer": 0, "why": "**have gone** — present perfect." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "«Ты сейчас работаешь?»", "options": ["Do you work now?", "Are you working now?", "Have you working now?"], "answer": 1, "why": "Сейчас → be + -ing." },
+        { "q": "«Он не ходил в школу вчера».", "options": ["He didn't go to school yesterday.", "He didn't went to school yesterday.", "He wasn't go to school yesterday."], "answer": 0, "why": "**didn't + go**." },
+        { "q": "«Она живёт в Москве?»", "options": ["Is she live in Moscow?", "Does she lives in Moscow?", "Does she live in Moscow?"], "answer": 2, "why": "**Does + начальная форма**." },
+        { "q": "«Мою машину украли».", "options": ["My car was stolen.", "My car did steal.", "My car has steal."], "answer": 0, "why": "Пассив: **was stolen**." },
+        { "q": "«Мы не видели его».", "options": ["We haven't seen him.", "We don't seen him.", "We aren't seen him."], "answer": 0, "why": "**haven't + seen**." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Вспомогательный и глагол",
+      "instruction": "Вставьте вспомогательный глагол и нужную форму глагола в скобках.",
+      "items": [
+        { "text": "I {{am}} {{reading}} a book now.", "hint": "be / read" },
+        { "text": "She {{has}} {{lost}} her bag.", "hint": "have / lose" },
+        { "text": "We {{didn't|did not}} {{go}} out last night.", "hint": "not / go" },
+        { "text": "The cake {{was}} {{eaten}} by the children.", "hint": "be / eat" },
+        { "text": "{{Does}} he {{play}} football?", "hint": "do / play" },
+        { "text": "They {{weren't|were not}} {{sleeping}} when I called.", "hint": "not be / sleep" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения и вопросы",
+      "instruction": "Составьте предложение. Выберите нужное время и вспомогательный глагол.",
+      "items": [
+        { "prompt": "(what / you / do / this evening?)", "answers": ["What are you doing this evening?"] },
+        { "prompt": "(I / not / watch / TV / yesterday)", "answers": ["I didn't watch TV yesterday.", "I did not watch TV yesterday."] },
+        { "prompt": "(Tom / lose / his passport)", "answers": ["Tom has lost his passport.", "Tom's lost his passport."] },
+        { "prompt": "(where / you / born?)", "answers": ["Where were you born?"] },
+        { "prompt": "(Barbara / live / alone?)", "answers": ["Does Barbara live alone?"] },
+        { "prompt": "(this room / clean / every day)", "answers": ["This room is cleaned every day."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе.",
+      "items": [
+        { "prompt": "Что вы делаете прямо сейчас?", "sample": "I'm studying English now." },
+        { "prompt": "Что вы не любите делать?", "sample": "I don't like getting up early." },
+        { "prompt": "Что вы делали вчера в 8 вечера?", "sample": "I was watching TV at eight o'clock yesterday." },
+        { "prompt": "Что вы уже сделали сегодня?", "sample": "I've had breakfast and checked my emails." },
+        { "prompt": "Что вы не делали вчера?", "sample": "I didn't cook dinner yesterday." }
+      ]
+    }
+  ]
+}

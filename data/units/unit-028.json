@@ -1,0 +1,311 @@
+{
+  "id": 28,
+  "title": "will/shall (1)",
+  "summary": "**will + глагол** — для прогнозов и общих утверждений о будущем (**It will be sunny tomorrow**); **shall** с I и we.",
+  "ru": "## Что такое will\n**will** — модальный глагол, который показывает будущее. После него — глагол в начальной форме (без to).\n> Tomorrow she **will be** in Rome. — Завтра она будет в Риме.\n> The birds **will eat** the bread. — Птицы склюют хлеб.\n> You **won't sleep** if you drink coffee at night. — Ты не уснёшь, если выпьешь кофе ночью.\n\n## Краткие формы\n- **'ll** = will: I'll, you'll, she'll, we'll, they'll\n- **won't** = will not: I won't, he won't\n> I'll be at home this evening. — Вечером я буду дома.\n> I **won't** be here tomorrow. — Завтра меня здесь не будет.\n\n## Когда используем will\nДля прогноза, предположения, обещания о будущем — особенно когда мы **не планировали это заранее**.\n> Sue is in Madrid today. Tomorrow she'**ll be** in Rome. — Сегодня Сью в Мадриде, завтра будет в Риме.\n> We'll **probably** go out tonight. — Мы, скорее всего, пойдём гулять вечером.\n> **Will** you be at home this evening? — Ты вечером будешь дома?\n\n## I think ... will\nЧасто говорим «я думаю, что ...».\n> I **think** Diana **will pass** the exam. — Думаю, Диана сдаст экзамен.\n> I **don't think** it **will rain** this afternoon. — Не думаю, что днём пойдёт дождь. (отрицание — в первой части!)\n> Do you think the exam **will be** difficult? — Как думаешь, экзамен будет сложным?\n\n## Когда НЕ will\nЕсли мы уже **договорились или решили** (юниты 26–27), будем использовать другие конструкции.\n> We **are going** to the cinema on Saturday. (не We will go)\n> I'm **not working** tomorrow. (не I won't work)\n> **Are** you **going to** do the exam? (не Will you do)\n\n## shall\nС **I** и **we** иногда используют **shall** (чуть формально): I shall be late. = I'll be late. С he / she / they / you shall **не** говорим.\n- ~~Tom shall be late.~~ → Tom **will** be late.\n\n## Типичные ошибки\n- ~~She will comes.~~ → She will **come**.\n- ~~I will to go.~~ → I will **go**. (без to)\n- ~~I don't think it will not rain.~~ → I **don't think** it will rain.",
+  "en": "## What is will?\n**will** is a modal verb for the future. After **will** we use the infinitive (without to).\n> Tomorrow she **will be** in Rome.\n> The birds **will eat** the bread.\n> You **won't sleep** if you drink coffee at night.\n\n## Short forms\n- **'ll** = will: I'll, you'll, she'll, we'll, they'll\n- **won't** = will not: I won't, he won't\n> I'll be at home this evening.\n> I **won't** be here tomorrow.\n\n## When we use will\nFor predictions and general statements about the future, especially when we haven't planned something.\n> Sue is in Madrid today. Tomorrow she'**ll be** in Rome.\n> We'll **probably** go out tonight.\n> **Will** you be at home this evening?\n\n## I think ... will\n> I **think** Diana **will pass** the exam.\n> I **don't think** it **will rain** this afternoon.\n> Do you think the exam **will be** difficult?\n\n## When we do NOT use will\nFor things we have already arranged or decided (Units 26–27).\n> We **are going** to the cinema on Saturday. (not We will go)\n> I'm **not working** tomorrow. (not I won't work)\n> **Are** you **going to** do the exam? (not Will you do)\n\n## shall\nWith **I** and **we** we can say **shall** (= will): I shall be late. We do **not** use shall with you / they / he / she / it.\n- ~~Tom shall be late.~~ → Tom **will** be late.\n\n## Common mistakes\n- ~~She will comes.~~ → She will **come**.\n- ~~I will to go.~~ → I will **go**.\n- ~~I don't think it will not rain.~~ → I **don't think** it will rain.",
+  "structure": "## Формы\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| I will (I'll) come. | I will not (won't) come. | Will I come? |\n| He will (he'll) come. | He won't come. | Will he come? |\n| We will (we'll) come. | We won't come. | Will we come? |\n\n## Краткие ответы\n- Will you be late? — Yes, I **will**. / No, I **won't**.\n- Will she come? — Yes, she **will**. / No, she **won't**.\n\n## Слова, с которыми часто идёт will\n- probably (стоит между will и глаголом: **will probably go**)\n- I think ... will / I don't think ... will\n- tomorrow, next week, next year, soon\n\n## Формулы\n> подлежащее + **will / 'll / won't** + глагол (без to)\n> **Will** + подлежащее + глагол ... ?\n> I / we + **shall** (= will, формально)\n\n## will и другие конструкции\n| Ситуация | Что использовать |\n|---|---|\n| уже договорились | present continuous: I'm meeting Tom tomorrow. |\n| уже решили, намерение | going to: I'm going to learn English. |\n| прогноз, мысль о будущем | will: It will be sunny. |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вчера, сегодня, завтра",
+      "instruction": "Вставьте **was**, **is** (**'s**) или **will be** (**'ll be**).",
+      "example": "Yesterday Helen was in Paris. Today she's in Rome. Tomorrow she'll be in London.",
+      "items": [
+        {
+          "text": "Yesterday I {{was}} at work. Today I'm at home. Tomorrow I {{will be|'ll be}} at the gym.",
+          "hint": "was / will be"
+        },
+        {
+          "text": "Last night they {{were}} at a restaurant.",
+          "hint": "was / were"
+        },
+        {
+          "text": "It's cold today. I think tomorrow it {{will be|'ll be}} colder.",
+          "hint": "will be"
+        },
+        {
+          "text": "My sister is in Italy now. Next month she {{will be|'ll be}} in Spain.",
+          "hint": "will be"
+        },
+        {
+          "text": "Yesterday it {{was}} sunny. Today it {{is|'s}} rainy.",
+          "hint": "was / is"
+        },
+        {
+          "text": "I {{won't be|will not be}} here tomorrow. I'm on holiday.",
+          "hint": "not be"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "will / won't",
+      "instruction": "Вставьте **will** или **won't** (краткие формы: **'ll**).",
+      "items": [
+        {
+          "text": "Don't drink coffee now. You {{won't|will not}} sleep tonight.",
+          "hint": "not sleep"
+        },
+        {
+          "text": "Leave the bread in the garden. The birds {{will}} eat it.",
+          "hint": "eat"
+        },
+        {
+          "text": "I think Anna {{will|'ll}} pass the exam. She works hard.",
+          "hint": "pass"
+        },
+        {
+          "text": "{{Will}} you be at home tonight?",
+          "hint": "will"
+        },
+        {
+          "text": "It's very cold. I think it {{will|'ll}} snow tomorrow.",
+          "hint": "snow"
+        },
+        {
+          "text": "Don't worry. I {{won't|will not}} tell anybody.",
+          "hint": "not tell"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "I think it ___ rain tomorrow.",
+          "options": [
+            "will",
+            "going",
+            "wills"
+          ],
+          "answer": 0,
+          "why": "Прогноз → **will rain**."
+        },
+        {
+          "q": "I ___ think she will come.",
+          "options": [
+            "not",
+            "don't",
+            "won't"
+          ],
+          "answer": 1,
+          "why": "Отрицание ставим в первую часть: **I don't think ... will**."
+        },
+        {
+          "q": "She ___ be late tomorrow.",
+          "options": [
+            "will",
+            "will to",
+            "wills"
+          ],
+          "answer": 0,
+          "why": "**will + инфинитив без to**."
+        },
+        {
+          "q": "___ you be at home this evening?",
+          "options": [
+            "Do",
+            "Will",
+            "Are"
+          ],
+          "answer": 1,
+          "why": "**Will you be ...?**"
+        },
+        {
+          "q": "I ___ be here tomorrow. I'm on holiday.",
+          "options": [
+            "won't",
+            "don't",
+            "shall not to"
+          ],
+          "answer": 0,
+          "why": "**won't be**."
+        },
+        {
+          "q": "We have tickets for Saturday. We ___ to the concert.",
+          "options": [
+            "will go",
+            "are going",
+            "goes"
+          ],
+          "answer": 1,
+          "why": "Уже договорились → present continuous, а не will."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "«Завтра она будет в Риме».",
+          "options": [
+            "She will be in Rome tomorrow.",
+            "She will is in Rome tomorrow.",
+            "She wills be in Rome tomorrow."
+          ],
+          "answer": 0,
+          "why": "**will be**."
+        },
+        {
+          "q": "«Я не думаю, что он придёт».",
+          "options": [
+            "I not think he will come.",
+            "I don't think he will come.",
+            "I don't think he won't come."
+          ],
+          "answer": 1,
+          "why": "**I don't think ... will**."
+        },
+        {
+          "q": "«Ты будешь дома вечером?»",
+          "options": [
+            "Will you be at home this evening?",
+            "You will be at home this evening?",
+            "Do you will be at home this evening?"
+          ],
+          "answer": 0,
+          "why": "**Will + подлежащее**."
+        },
+        {
+          "q": "«Том опоздает».",
+          "options": [
+            "Tom shall be late.",
+            "Tom will be late.",
+            "Tom will to be late."
+          ],
+          "answer": 1,
+          "why": "С Tom (he) — **will**."
+        },
+        {
+          "q": "«Мы, наверное, пойдём гулять».",
+          "options": [
+            "We'll probably go out.",
+            "We probably will to go out.",
+            "We probably going out."
+          ],
+          "answer": 0,
+          "why": "**We'll probably go**."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Will или другое время?",
+      "instruction": "Вставьте глагол в нужной форме: **will** или другая конструкция (план).",
+      "items": [
+        {
+          "text": "I think the film {{will be}} very good.",
+          "hint": "be"
+        },
+        {
+          "text": "I {{am meeting|'m meeting}} Bill at 6. We arranged it yesterday.",
+          "hint": "meet"
+        },
+        {
+          "text": "Do you think she {{will like}} the present?",
+          "hint": "like"
+        },
+        {
+          "text": "We {{are going|'re going}} to the cinema on Saturday. We've bought the tickets.",
+          "hint": "go"
+        },
+        {
+          "text": "Tomorrow {{will be|'ll be}} a hot day, I think.",
+          "hint": "be"
+        },
+        {
+          "text": "I don't think they {{will win|'ll win}} the match.",
+          "hint": "win"
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **will / won't**.",
+      "items": [
+        {
+          "prompt": "(I / be / at home / this evening)",
+          "answers": [
+            "I'll be at home this evening.",
+            "I will be at home this evening."
+          ]
+        },
+        {
+          "prompt": "(I / not / be / here / tomorrow)",
+          "answers": [
+            "I won't be here tomorrow.",
+            "I will not be here tomorrow."
+          ]
+        },
+        {
+          "prompt": "(you / be / at home / tonight?)",
+          "answers": [
+            "Will you be at home tonight?"
+          ]
+        },
+        {
+          "prompt": "(I / think / Diana / pass / the exam)",
+          "answers": [
+            "I think Diana will pass the exam.",
+            "I think Diana'll pass the exam."
+          ]
+        },
+        {
+          "prompt": "(I / not / think / it / rain)",
+          "answers": [
+            "I don't think it will rain.",
+            "I do not think it will rain.",
+            "I don't think it'll rain."
+          ]
+        },
+        {
+          "prompt": "(they / probably / win)",
+          "answers": [
+            "They will probably win.",
+            "They'll probably win."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Сделайте прогнозы с **will / won't / I think**.",
+      "items": [
+        {
+          "prompt": "Какая погода будет завтра?",
+          "sample": "I think it will be sunny tomorrow."
+        },
+        {
+          "prompt": "Где вы будете завтра в 10 утра?",
+          "sample": "I'll be at work tomorrow at 10 a.m."
+        },
+        {
+          "prompt": "Что вы, скорее всего, будете делать вечером?",
+          "sample": "I'll probably watch a film at home."
+        },
+        {
+          "prompt": "Какой ваш прогноз на следующий год?",
+          "sample": "I think I will learn a lot of new words next year."
+        },
+        {
+          "prompt": "Что вы НЕ будете делать завтра?",
+          "sample": "I won't get up early tomorrow."
+        }
+      ]
+    }
+  ]
+}

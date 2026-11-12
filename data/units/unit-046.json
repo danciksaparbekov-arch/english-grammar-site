@@ -1,0 +1,263 @@
+{
+  "id": 46,
+  "title": "What ...? Which ...? How ...?",
+  "summary": "Как выбрать между **what**, **which** и **how**: what + существительное, which — выбор из немногих, how + прилагательное (how old, how far).",
+  "ru": "## What + существительное\nС **what** можно задавать вопрос о виде, цвете, размере, времени и т. д.\n> **What colour** is your bag? — Какого цвета твоя сумка?\n> **What time** is it? — Который час?\n> **What kind of** music do you like? — Какую музыку ты любишь? (также what type / what sort of)\n> **What size** are your shoes? — Какой у тебя размер обуви?\n\n## Which — выбор из небольшого набора\n**Which** используем, когда понятно, из чего выбирать (из двух, трёх, четырёх вариантов).\n> **Which bus** goes to the centre — number 5 or number 7? — Какой автобус идёт в центр: пятый или седьмой?\n> **Which** is bigger — Canada or Australia? — Что больше?\n- Без существительного **which** — о вещах. О людях говорим **who**: **Who** is taller — Bill or Tom?\n\n## What или which?\n- **what** — вопрос общий, вариантов много: What is the capital of France?\n- **which** — вариантов мало: Which of these two bags is yours?\n> What colour are your eyes? (вариантов много)\n> Which colour do you prefer, pink or yellow? (два варианта)\n\n## How + прилагательное / наречие\n**How** спрашивает «как?», а с прилагательным — «насколько?».\n> **How** was the party? — Как прошла вечеринка?\n> **How old** is your sister? — Сколько лет твоей сестре?\n> **How tall** are you? — Какого ты роста?\n> **How far** is it from here to the station? — Как далеко отсюда до вокзала?\n> **How often** do you go to the gym? — Как часто ты ходишь в зал?\n\n## Типичные ошибки\n- ~~Which colour is your car?~~ (если вариантов много) → **What colour** is your car?\n- ~~How much old are you?~~ → **How old** are you?\n- ~~Which is taller — Ann or Tom?~~ → **Who** is taller — Ann or Tom?",
+  "en": "## What + noun\nWe use **what** + noun to ask about kind, colour, size, time and so on.\n> **What colour** is your bag?\n> **What time** is it?\n> **What kind of** music do you like? (also what type / what sort of)\n> **What size** are your shoes?\n\n## Which: a small number of choices\nWe use **which** when we are thinking about a few possibilities.\n> **Which bus** goes to the centre — number 5 or number 7?\n> **Which** is bigger — Canada or Australia?\n- For people without a noun we use **who**: **Who** is taller — Bill or Tom?\n\n## What or which?\n- **what** is more general: What is the capital of France?\n- **which** is for a small choice: Which of these two bags is yours?\n> What colour are your eyes? (many possible colours)\n> Which colour do you prefer, pink or yellow? (two choices)\n\n## How + adjective / adverb\n> **How** was the party?\n> **How old** is your sister?\n> **How tall** are you?\n> **How far** is it from here to the station?\n> **How often** do you go to the gym?\n\n## Common mistakes\n- ~~How much old are you?~~ → **How old** are you?\n- ~~Which is taller — Ann or Tom?~~ → **Who** is taller — Ann or Tom?",
+  "structure": "## Формулы\n| Вопрос | Пример |\n|---|---|\n| What + существительное | What colour is it? |\n| What kind/type/sort of + сущ. | What kind of film do you like? |\n| Which + существительное | Which road is shorter? |\n| Which (of ...) | Which of these is yours? |\n| How + be | How is your mother? |\n| How + do/does | How do you go to work? |\n\n## How + прилагательное / наречие\n| Выражение | Значение |\n|---|---|\n| How old | сколько лет |\n| How tall | какого роста |\n| How big | какого размера |\n| How far | как далеко |\n| How often | как часто |\n| How much / How many | сколько |\n\n## Памятка\n> **what** — много вариантов; **which** — выбор из немногих; **who** — о людях.\n> **What time ...?** · **What day ...?** · **What kind of ...?**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "What + существительное",
+      "instruction": "Вставьте слово, чтобы получился вопрос.",
+      "items": [
+        {
+          "text": "What {{colour|color}} is your bike? — Red."
+        },
+        {
+          "text": "What {{time}} is the film? — At eight o'clock."
+        },
+        {
+          "text": "What {{day}} is it today? — Thursday."
+        },
+        {
+          "text": "What {{size}} are your jeans? — Medium."
+        },
+        {
+          "text": "What {{kind|type|sort}} of food do you like? — Italian."
+        },
+        {
+          "text": "What {{make|brand}} is your phone? — Samsung."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "What, which или who?",
+      "instruction": "Вставьте **what**, **which** или **who**.",
+      "items": [
+        {
+          "text": "{{What|Which}} is the longest river in Asia?"
+        },
+        {
+          "text": "{{Which}} is cheaper — the red shirt or the blue one?"
+        },
+        {
+          "text": "{{Who}} is older — your brother or your sister?"
+        },
+        {
+          "text": "{{What}} sort of books do you read?"
+        },
+        {
+          "text": "{{Which}} of these two umbrellas is yours?"
+        },
+        {
+          "text": "{{What}} is your favourite sport?"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "How ...?",
+      "instruction": "Выберите правильное окончание вопроса.",
+      "items": [
+        {
+          "q": "How ___ is your brother? — He's 17.",
+          "options": [
+            "old",
+            "much",
+            "long"
+          ],
+          "answer": 0,
+          "why": "Возраст — how old."
+        },
+        {
+          "q": "How ___ is the airport from here? — About 10 km.",
+          "options": [
+            "long",
+            "far",
+            "tall"
+          ],
+          "answer": 1,
+          "why": "Расстояние — how far."
+        },
+        {
+          "q": "How ___ do you play tennis? — Twice a week.",
+          "options": [
+            "often",
+            "far",
+            "old"
+          ],
+          "answer": 0,
+          "why": "Частота — how often."
+        },
+        {
+          "q": "How ___ is this house? — Quite big.",
+          "options": [
+            "big",
+            "often",
+            "far"
+          ],
+          "answer": 0,
+          "why": "Размер — how big."
+        },
+        {
+          "q": "How ___ are you? — 1 metre 75.",
+          "options": [
+            "old",
+            "tall",
+            "big"
+          ],
+          "answer": 1,
+          "why": "Рост человека — how tall."
+        },
+        {
+          "q": "___ was your weekend? — Great!",
+          "options": [
+            "What",
+            "Which",
+            "How"
+          ],
+          "answer": 2,
+          "why": "Спрашиваем «как?» — how."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "What или which?",
+      "instruction": "Выберите лучший вариант.",
+      "items": [
+        {
+          "q": "___ is the capital of Japan?",
+          "options": [
+            "What",
+            "Which",
+            "How"
+          ],
+          "answer": 0,
+          "why": "Общий вопрос, вариантов много — what."
+        },
+        {
+          "q": "There are two roads. ___ road is shorter?",
+          "options": [
+            "Whose",
+            "Which",
+            "Who"
+          ],
+          "answer": 1,
+          "why": "Выбор из двух — which."
+        },
+        {
+          "q": "___ colour do you prefer — green or blue?",
+          "options": [
+            "Whose",
+            "Which",
+            "How"
+          ],
+          "answer": 1,
+          "why": "Два варианта — which."
+        },
+        {
+          "q": "___ colour are your eyes?",
+          "options": [
+            "Which",
+            "What",
+            "How"
+          ],
+          "answer": 1,
+          "why": "Много возможных цветов — what."
+        },
+        {
+          "q": "___ is taller — Anna or Maria?",
+          "options": [
+            "Who",
+            "What",
+            "Which colour"
+          ],
+          "answer": 0,
+          "why": "О людях без существительного — who."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте вопросы",
+      "instruction": "Напишите вопрос к ответу.",
+      "items": [
+        {
+          "prompt": "— ? — She's 30. (возраст сестры)",
+          "answers": [
+            "How old is your sister?",
+            "How old is she?"
+          ]
+        },
+        {
+          "prompt": "— ? — It's black. (цвет машины)",
+          "answers": [
+            "What colour is your car?",
+            "What colour is it?",
+            "What color is your car?",
+            "What color is it?"
+          ]
+        },
+        {
+          "prompt": "— ? — By bus. (как вы ездите на работу)",
+          "answers": [
+            "How do you go to work?",
+            "How do you get to work?"
+          ]
+        },
+        {
+          "prompt": "— ? — Rock music. (какая музыка)",
+          "answers": [
+            "What kind of music do you like?",
+            "What type of music do you like?",
+            "What sort of music do you like?"
+          ]
+        },
+        {
+          "prompt": "— ? — Two kilometres. (как далеко до школы)",
+          "answers": [
+            "How far is it to the school?",
+            "How far is the school?",
+            "How far is it to school?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "What is your favourite colour?",
+          "sample": "My favourite colour is blue."
+        },
+        {
+          "prompt": "What kind of music do you like?",
+          "sample": "I like pop music and jazz."
+        },
+        {
+          "prompt": "How old are you?",
+          "sample": "I'm 22."
+        },
+        {
+          "prompt": "How often do you go shopping?",
+          "sample": "I go shopping once a week."
+        },
+        {
+          "prompt": "How far is it from your home to the centre of your city?",
+          "sample": "It's about five kilometres."
+        }
+      ]
+    }
+  ]
+}

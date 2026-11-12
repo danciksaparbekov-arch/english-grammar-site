@@ -1,0 +1,312 @@
+{
+  "id": 92,
+  "title": "He speaks English very well (word order 1)",
+  "summary": "Порядок слов: глагол и дополнение стоят рядом, а место обычно идёт перед временем.",
+  "ru": "## Глагол и дополнение рядом\nВ русском можно сказать «Он очень хорошо говорит по-английски» или «Он говорит по-английски очень хорошо». В английском **глагол и дополнение стоят рядом**. Слова вроде **very well** идут **после** дополнения.\n> He speaks **English very well**. — Он очень хорошо говорит по-английски.\n> I like **music very much**. — Я очень люблю музыку.\n> ~~He speaks very well English.~~ ~~I like very much music.~~\n\n## Схема: подлежащее + глагол + дополнение + как/где/когда\n> I **met** **Tom** **in town** **yesterday**.\n> Ann **watches** **TV** **every evening**.\n\n## Место перед временем\nЕсли в предложении есть и **место** (где?), и **время** (когда?), обычно ставим сначала **место**, потом **время**.\n> We **went** **to the cinema** **yesterday**. — Мы ходили вчера в кино. (место → время)\n> She **goes** **to work** **at 8 o'clock**. — Она идёт на работу в 8 часов.\n> ~~We went yesterday to the cinema.~~\n\n## Глагол движения + место\nС глаголами go, come, get, arrive место часто идёт сразу после глагола.\n> I **go to school** by bus every day. — Я каждый день езжу в школу на автобусе.\n> He **arrived at the station** at six. — Он приехал на вокзал в шесть.\nПорядок такой: **куда → как → когда**.\n> I **go to work by bus every day**.\n\n## Время в начале\nВремя можно поставить в начало предложения.\n> **Yesterday** we went to the cinema.\n> **Every evening** Ann watches TV.\n\n## Типичные ошибки\n- ~~I like very much pizza.~~ → I like pizza **very much**.\n- ~~She speaks very well English.~~ → She speaks English **very well**.\n- ~~We saw yesterday a film.~~ → We saw a film **yesterday**.\n- ~~I play every day tennis.~~ → I play tennis **every day**.",
+  "en": "## Verb and object together\nIn English the **verb and the object stay together**. Words like **very well** come **after** the object.\n> He speaks **English very well**.\n> I like **music very much**.\n> ~~He speaks very well English.~~ ~~I like very much music.~~\n\n## The pattern: subject + verb + object + how/where/when\n> I **met** **Tom** **in town** **yesterday**.\n> Ann **watches** **TV** **every evening**.\n\n## Place before time\nWhen a sentence has both **place** (where?) and **time** (when?), we usually put the **place** first, then the **time**.\n> We **went** **to the cinema** **yesterday**.\n> She **goes** **to work** **at 8 o'clock**.\n> ~~We went yesterday to the cinema.~~\n\n## Verbs of movement + place\nAfter go, come, get and arrive the place usually comes right after the verb. The order is **where → how → when**.\n> I **go to work by bus every day**.\n> He **arrived at the station at six**.\n\n## Time at the start\nWe can put the time at the start of the sentence.\n> **Yesterday** we went to the cinema.\n> **Every evening** Ann watches TV.\n\n## Common mistakes\n- ~~I like very much pizza.~~ → I like pizza **very much**.\n- ~~She speaks very well English.~~ → She speaks English **very well**.\n- ~~We saw yesterday a film.~~ → We saw a film **yesterday**.",
+  "structure": "## Порядок слов в обычном предложении\n| Подлежащее | Глагол | Дополнение | Как? | Где? | Когда? |\n|---|---|---|---|---|---|\n| He | speaks | English | very well | | |\n| I | like | music | very much | | |\n| We | went | | | to the cinema | yesterday |\n| She | goes | | by bus | to work | every day |\n| Tom | met | Anna | | in the park | on Sunday |\n\n## Главные правила\n- **Глагол + дополнение** — вместе, ничего между ними\n- **Место** → **время** (не наоборот)\n- Время можно вынести в **начало**\n\n## Примеры\n- **I know him well.** — Я хорошо его знаю.\n- **She opened the door slowly.** — Она медленно открыла дверь.\n- **They live in London now.** — Они сейчас живут в Лондоне.",
+  "exercises": [
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Правильный порядок слов",
+      "instruction": "Выберите предложение с правильным порядком слов.",
+      "items": [
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "I like very much music.",
+            "I like music very much.",
+            "I like very music much."
+          ],
+          "answer": 1,
+          "why": "Глагол + дополнение вместе, **very much** — после."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "She speaks English very well.",
+            "She speaks very well English.",
+            "She very well speaks English."
+          ],
+          "answer": 0,
+          "why": "speaks **English** very well."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "We watched yesterday a film.",
+            "We yesterday watched a film.",
+            "We watched a film yesterday."
+          ],
+          "answer": 2,
+          "why": "Время — в конце или в начале."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "Tom goes every day to school.",
+            "Tom goes to school every day.",
+            "Tom every day goes to school."
+          ],
+          "answer": 1,
+          "why": "Место перед временем: **to school every day**."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "I do my homework always in the evening.",
+            "I do always my homework in the evening.",
+            "I do my homework in the evening."
+          ],
+          "answer": 2,
+          "why": "Глагол + дополнение вместе."
+        },
+        {
+          "q": "Выберите верный вариант:",
+          "options": [
+            "He met in the park his friend.",
+            "He met his friend in the park.",
+            "He in the park met his friend."
+          ],
+          "answer": 1,
+          "why": "met **his friend** in the park."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Составьте часть предложения",
+      "instruction": "Допишите предложение, используя слова из скобок в правильном порядке.",
+      "items": [
+        {
+          "text": "(English / well) She speaks {{English well}}.",
+          "hint": "English / well"
+        },
+        {
+          "text": "(pizza / very much) I love {{pizza very much}}.",
+          "hint": "pizza / very much"
+        },
+        {
+          "text": "(the cinema / yesterday) We went to {{the cinema yesterday}}.",
+          "hint": "the cinema / yesterday"
+        },
+        {
+          "text": "(her keys / at home) Anna left {{her keys at home}}.",
+          "hint": "her keys / at home"
+        },
+        {
+          "text": "(TV / every evening) My dad watches {{TV every evening}}.",
+          "hint": "TV / every evening"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Что стоит первым: место или время?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I went ___.",
+          "options": [
+            "to Almaty last week",
+            "last week to Almaty",
+            "yesterday to Almaty"
+          ],
+          "answer": 0,
+          "why": "Место (to Almaty) → время (last week)."
+        },
+        {
+          "q": "She arrived ___.",
+          "options": [
+            "at 5 o'clock at the station",
+            "at the station at 5 o'clock",
+            "at 5 o'clock station at the"
+          ],
+          "answer": 1,
+          "why": "Место (at the station) → время (at 5 o'clock)."
+        },
+        {
+          "q": "They live ___.",
+          "options": [
+            "now in Bishkek",
+            "in Bishkek now",
+            "in now Bishkek"
+          ],
+          "answer": 1,
+          "why": "Место → время."
+        },
+        {
+          "q": "My brother plays ___.",
+          "options": [
+            "football on Sundays",
+            "on Sundays football",
+            "every Sunday football"
+          ],
+          "answer": 0,
+          "why": "Глагол + дополнение (football) вместе."
+        },
+        {
+          "q": "We had lunch ___.",
+          "options": [
+            "at one o'clock in the café",
+            "in the café at one o'clock",
+            "at one o'clock the café in"
+          ],
+          "answer": 1,
+          "why": "Место (in the café) → время (at one o'clock)."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Вставьте слово на правильное место",
+      "instruction": "Допишите предложение. Используйте слова из скобок в правильном порядке.",
+      "items": [
+        {
+          "text": "(very well / the answer) I know {{the answer very well}}.",
+          "hint": "the answer / very well"
+        },
+        {
+          "text": "(the shop / at 9) He opens {{the shop at 9}} every day.",
+          "hint": "the shop / at 9"
+        },
+        {
+          "text": "(her / a lot) Tom loves {{her a lot}}.",
+          "hint": "her / a lot"
+        },
+        {
+          "text": "(by bus / to work) My mother goes {{to work by bus}}.",
+          "hint": "to work / by bus"
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов в правильном порядке.",
+      "items": [
+        {
+          "prompt": "(speaks / Jane / very well / English)",
+          "answers": [
+            "Jane speaks English very well."
+          ]
+        },
+        {
+          "prompt": "(football / I / very much / like)",
+          "answers": [
+            "I like football very much."
+          ]
+        },
+        {
+          "prompt": "(yesterday / went / we / to the museum)",
+          "answers": [
+            "We went to the museum yesterday.",
+            "Yesterday we went to the museum."
+          ]
+        },
+        {
+          "prompt": "(at the station / met / I / Tom / this morning)",
+          "answers": [
+            "I met Tom at the station this morning.",
+            "This morning I met Tom at the station.",
+            "I met Tom this morning at the station."
+          ]
+        },
+        {
+          "prompt": "(my sister / the door / opened / slowly)",
+          "answers": [
+            "My sister opened the door slowly.",
+            "My sister slowly opened the door."
+          ]
+        },
+        {
+          "prompt": "(every day / to school / Max / walks)",
+          "answers": [
+            "Max walks to school every day.",
+            "Every day Max walks to school."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Следите за порядком слов.",
+      "items": [
+        {
+          "prompt": "Я очень люблю шоколад.",
+          "answers": [
+            "I like chocolate very much.",
+            "I love chocolate very much.",
+            "I love chocolate."
+          ]
+        },
+        {
+          "prompt": "Она хорошо говорит по-английски.",
+          "answers": [
+            "She speaks English well.",
+            "She speaks English very well."
+          ]
+        },
+        {
+          "prompt": "Мы вчера были в парке.",
+          "answers": [
+            "We were in the park yesterday.",
+            "Yesterday we were in the park."
+          ]
+        },
+        {
+          "prompt": "Он каждый день ходит на работу пешком.",
+          "answers": [
+            "He walks to work every day.",
+            "Every day he walks to work.",
+            "He goes to work on foot every day."
+          ]
+        },
+        {
+          "prompt": "Я купила хлеб в магазине утром.",
+          "answers": [
+            "I bought bread at the shop this morning.",
+            "I bought bread in the shop this morning.",
+            "I bought bread at the shop in the morning.",
+            "I bought bread in the shop in the morning.",
+            "I bought some bread at the shop this morning.",
+            "I bought some bread in the shop this morning.",
+            "I bought bread this morning at the shop.",
+            "I bought bread this morning in the shop."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Следите за порядком слов.",
+      "items": [
+        {
+          "prompt": "Что вы очень любите?",
+          "sample": "I like tea very much."
+        },
+        {
+          "prompt": "Куда вы ходили на прошлой неделе?",
+          "sample": "I went to the cinema last week."
+        },
+        {
+          "prompt": "Как вы добираетесь до работы/учёбы?",
+          "sample": "I go to work by bus every day."
+        },
+        {
+          "prompt": "Что вы делали вчера вечером?",
+          "sample": "I watched a film at home yesterday evening."
+        }
+      ]
+    }
+  ]
+}

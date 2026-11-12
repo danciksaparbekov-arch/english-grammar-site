@@ -1,0 +1,105 @@
+{
+  "id": 40,
+  "title": "Have you? Are you? Don't you? etc.",
+  "summary": "Мини-вопросы **Have you? Are you? Does he?** показывают интерес или удивление; а **question tags** (**..., isn't it?**) помогают попросить подтверждения.",
+  "ru": "## Мини-вопросы: интерес и удивление\nКогда собеседник рассказывает что-то, мы можем показать интерес коротким вопросом из вспомогательного глагола и подлежащего.\n> I've bought a new car. — **Have you?** — Я купил новую машину. — Правда?\n> I'm writing a book. — **Are you?** — Я пишу книгу. — Да ты что?\n> Tom can't drive. — **Can't he?** — Том не умеет водить. — Правда не умеет?\nЭто не настоящий вопрос, а реакция.\n\n## Правило: позитив → позитив, негатив → негатив\nСмотрим на то, что сказал собеседник, и берём **тот же вспомогательный глагол**, а позитивность/негативность сохраняем.\n> It's raining. — **Is it?**\n> I'm not hungry. — **Aren't you?**\n> She isn't at work. — **Isn't she?**\n> There's a letter for you. — **Is there?**\nДля present simple используем **do / does**, для past simple — **did**.\n> I speak four languages. — **Do you?**\n> Tom doesn't eat meat. — **Doesn't he?**\n> Linda got married last week. — **Did she?**\n\n## Question tags\nМини-вопрос можно поставить в конце собственной фразы. Это **question tag** («...да?», «...не так ли?»). Мы почти уверены, но хотим подтвердить.\n- после **утверждения** — **отрицательный** tag\n- после **отрицания** — **утвердительный** tag\n> It's a nice day, **isn't it**? — Хороший день, правда?\n> You like music, **don't you**? — Ты любишь музыку, да?\n> You aren't tired, **are you**? — Ты не устал, да?\n> They didn't come, **did they**? — Они не пришли, да?\n> Tom can swim, **can't he**? — Том умеет плавать, правда?\nИнтонация: если голос идёт **вниз**, вы просто ждёте согласия; если **вверх**, то это настоящий вопрос.\n\n## Типичные ошибки\n- ~~You like tea, do you?~~ → You like tea, **don't you**? (после + → −)\n- ~~She is late, doesn't she?~~ → She is late, **isn't she**?\n- ~~I speak English. — Do I?~~ → **Do you?** (мини-вопрос задаёт слушающий и говорит «you»)\n- ~~I'm late, amn't I?~~ → I'm late, **aren't I**?",
+  "en": "## Short questions: interest and surprise\nWhen somebody tells us something, we can show interest or surprise with a short question: an auxiliary verb + subject.\n> I've bought a new car. — **Have you?**\n> I'm writing a book. — **Are you?**\n> Tom can't drive. — **Can't he?**\nThis is not a real question. It is a reaction.\n\n## Rule: positive → positive, negative → negative\nWe use the same auxiliary verb. A positive sentence → a positive mini-question. A negative sentence → a negative mini-question.\n> It's raining. — **Is it?**\n> I'm not hungry. — **Aren't you?**\n> She isn't at work. — **Isn't she?**\n> There's a letter for you. — **Is there?**\nFor present simple we use **do / does**. For past simple we use **did**.\n> I speak four languages. — **Do you?**\n> Tom doesn't eat meat. — **Doesn't he?**\n> Linda got married last week. — **Did she?**\n\n## Question tags\nWe can put the mini-question at the end of our own sentence. It is a **question tag**. We think we know the answer, but we want to check.\n- after a **positive** sentence → a **negative** tag\n- after a **negative** sentence → a **positive** tag\n> It's a nice day, **isn't it**?\n> You like music, **don't you**?\n> You aren't tired, **are you**?\n> They didn't come, **did they**?\n> Tom can swim, **can't he**?\nIf your voice goes **down**, you just expect agreement. If it goes **up**, it is a real question.\n\n## Common mistakes\n- ~~You like tea, do you?~~ → You like tea, **don't you**?\n- ~~She is late, doesn't she?~~ → She is late, **isn't she**?\n- ~~I'm late, amn't I?~~ → I'm late, **aren't I**?",
+  "structure": "## Мини-вопросы (реакция)\n| Собеседник говорит | Вы отвечаете |\n|---|---|\n| I'm tired. | Are you? |\n| He isn't here. | Isn't he? |\n| We've got a dog. | Have you? |\n| She can't swim. | Can't she? |\n| They live in Paris. | Do they? |\n| Tom doesn't eat meat. | Doesn't he? |\n| I lost my keys. | Did you? |\n\n## Question tags\n| Основная фраза | Tag |\n|---|---|\n| You're a teacher, | aren't you? |\n| She's late, | isn't she? |\n| They like jazz, | don't they? |\n| He works hard, | doesn't he? |\n| You went out last night, | didn't you? |\n| You aren't tired, | are you? |\n| It doesn't matter, | does it? |\n| He can't drive, | can he? |\n\n## Формулы\n> + предложение, **− tag** (isn't / don't / didn't / can't ...)\n> − предложение, **+ tag** (is / do / did / can ...)\n> Tag = вспомогательный глагол + **местоимение** (he, she, it, they, you...)\n\n## Запомните\n- tag повторяет вспомогательный глагол из основной фразы (is → isn't, do → don't, can → can't);\n- **I am → aren't I?** (особая форма);\n- для present simple → do/does, для past simple → did.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Мини-вопросы",
+      "instruction": "Выразите интерес или удивление коротким вопросом.",
+      "example": "I'm learning Chinese. — **Are you?**",
+      "items": [
+        { "text": "I've got a new job. — {{Have you}}?" },
+        { "text": "It's very cold today. — {{Is it}}?" },
+        { "text": "Anna doesn't like coffee. — {{Doesn't she}}?" },
+        { "text": "I can't swim. — {{Can't you}}?" },
+        { "text": "We went to Paris last year. — {{Did you}}?" },
+        { "text": "Tom works in a bank. — {{Does he}}?" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Question tags",
+      "instruction": "Вставьте question tag.",
+      "items": [
+        { "text": "It's a beautiful day, {{isn't it}}?" },
+        { "text": "You like Italian food, {{don't you}}?" },
+        { "text": "She isn't married, {{is she}}?" },
+        { "text": "They didn't call, {{did they}}?" },
+        { "text": "Tom can play the guitar, {{can't he}}?" },
+        { "text": "You haven't got a pen, {{have you}}?" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную реакцию",
+      "instruction": "Выберите правильный мини-вопрос.",
+      "items": [
+        { "q": "I'm very tired. — ___?", "options": ["Do you", "Are you", "Aren't you"], "answer": 1, "why": "I'm → **Are you**." },
+        { "q": "Sue doesn't eat meat. — ___?", "options": ["Does she", "Doesn't she", "Is she"], "answer": 1, "why": "Негатив → негатив: **Doesn't she**." },
+        { "q": "I saw Tom yesterday. — ___?", "options": ["Do you", "Did you", "Have you"], "answer": 1, "why": "Past simple → **Did you**." },
+        { "q": "They've got three children. — ___?", "options": ["Have they", "Do they", "Are they"], "answer": 0, "why": "have got → **Have they**." },
+        { "q": "My brother can't drive. — ___?", "options": ["Can he", "Can't he", "Doesn't he"], "answer": 1, "why": "**Can't he**." },
+        { "q": "There's a problem. — ___?", "options": ["Is there", "Does there", "Is it"], "answer": 0, "why": "**There's** → **Is there**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный tag",
+      "instruction": "Выберите правильный question tag.",
+      "items": [
+        { "q": "You're a student, ___?", "options": ["are you", "aren't you", "don't you"], "answer": 1, "why": "Утверждение с be → **aren't you**." },
+        { "q": "He plays tennis, ___?", "options": ["isn't he", "doesn't he", "don't he"], "answer": 1, "why": "Present simple, he → **doesn't he**." },
+        { "q": "You didn't see him, ___?", "options": ["did you", "didn't you", "do you"], "answer": 0, "why": "Отрицание → позитивный tag: **did you**." },
+        { "q": "She will come, ___?", "options": ["won't she", "doesn't she", "will she"], "answer": 0, "why": "will → **won't she**." },
+        { "q": "They aren't ready, ___?", "options": ["aren't they", "are they", "do they"], "answer": 1, "why": "Отрицание → **are they**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Реакция на новости",
+      "instruction": "Напишите мини-вопрос в ответ.",
+      "items": [
+        { "prompt": "I'm moving to London. — ?", "answers": ["Are you?", "Are you"] },
+        { "prompt": "Mary hasn't got a phone. — ?", "answers": ["Hasn't she?", "Hasn't she"] },
+        { "prompt": "I broke my leg last year. — ?", "answers": ["Did you?", "Did you"] },
+        { "prompt": "My parents live in the village. — ?", "answers": ["Do they?", "Do they"] },
+        { "prompt": "Ben isn't at work today. — ?", "answers": ["Isn't he?", "Isn't he"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Добавьте question tag",
+      "instruction": "Допишите предложение с question tag.",
+      "items": [
+        { "prompt": "You speak English, ...", "answers": ["You speak English, don't you?", "You speak English, don't you"] },
+        { "prompt": "Today is Monday, ...", "answers": ["Today is Monday, isn't it?", "Today is Monday, isn't it"] },
+        { "prompt": "He doesn't like fish, ...", "answers": ["He doesn't like fish, does he?", "He doesn't like fish, does he"] },
+        { "prompt": "They were late, ...", "answers": ["They were late, weren't they?", "They were late, weren't they"] },
+        { "prompt": "You can't swim, ...", "answers": ["You can't swim, can you?", "You can't swim, can you"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите свои примеры. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Check something with a friend using a tag (about the weather)", "sample": "It's a nice day, isn't it?" },
+        { "prompt": "Check something about a friend's hobby", "sample": "You like football, don't you?" },
+        { "prompt": "React to this: \"I got a new phone.\"", "sample": "Did you?" },
+        { "prompt": "React to this: \"My sister can't cook.\"", "sample": "Can't she?" },
+        { "prompt": "Check a negative: you think a friend isn't busy", "sample": "You aren't busy, are you?" }
+      ]
+    }
+  ]
+}
