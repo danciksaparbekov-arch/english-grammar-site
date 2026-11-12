@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Grammar Essential</title>
+  <meta name="description" content="Грамматика английского по темам Essential Grammar in Use: объяснения на русском и английском, построение и упражнения.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/">Grammar <span>Essential</span></a>
+    <nav class="topnav">
+      <a href="#/">Юниты</a>
+    </nav>
+  </header>
+
+  <main id="app" class="container" aria-live="polite">
+    <p class="muted">Загрузка…</p>
+  </main>
+
+  <footer class="footer container">
+    <p>Учебный сайт по темам <i>Essential Grammar in Use</i> (R. Murphy). Объяснения и упражнения — авторские, прогресс хранится только в вашем браузере.</p>
+  </footer>
+
+  <!-- Чат с ИИ-помощником -->
+  <button id="chat-toggle" class="chat-toggle" aria-label="Открыть чат с помощником" title="Спросить помощника">?</button>
+  <section id="chat-panel" class="chat-panel" hidden aria-label="Чат с помощником">
+    <div class="chat-head">
+      <strong>Помощник по грамматике</strong>
+      <div class="chat-head-actions">
+        <button id="chat-clear" class="link-btn" type="button">Очистить</button>
+        <button id="chat-close" class="icon-btn" type="button" aria-label="Закрыть чат">✕</button>
+      </div>
+    </div>
+    <div id="chat-log" class="chat-log"></div>
+    <form id="chat-form" class="chat-form">
+      <textarea id="chat-input" rows="2" maxlength="1500" placeholder="Задайте вопрос по грамматике…" required></textarea>
+      <button type="submit" class="btn">Отправить</button>
+    </form>
+  </section>
+
+  <script src="js/config.js"></script>
+  <script src="js/md.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/chat.js"></script>
+</body>
+</html>

@@ -1,0 +1,350 @@
+{
+  "id": 58,
+  "title": "I/me he/him they/them etc.",
+  "summary": "Местоимения-подлежащие (**I, he, they**) и местоимения-дополнения (**me, him, them**): когда какое ставить.",
+  "ru": "## Две группы местоимений\nУ английских местоимений две формы. **I, we, you, he, she, it, they** стоят **перед глаголом** (подлежащее — кто делает). **me, us, you, him, her, it, them** стоят **после глагола или предлога** (дополнение — на кого направлено действие).\n> **I** know Ann. — Я знаю Энн.\n> Ann knows **me**. — Энн знает меня.\n> **They** like music. — Они любят музыку.\n> I like **them**. — Я люблю их.\n\n## Таблица соответствий\n- I → **me** (меня, мне)\n- we → **us** (нас, нам)\n- you → **you** (вас, тебя; форма та же)\n- he → **him** (его)\n- she → **her** (её)\n- it → **it** (его, её — о предметах; форма та же)\n- they → **them** (их)\n\n## it и them — для вещей\nПредметы и животные заменяем на **it** (один) и **them** (несколько).\n> I don't want this book. You can have **it**. — Мне не нужна эта книга. Можешь взять её.\n> I never go to parties. I don't like **them**. — Я никогда не хожу на вечеринки. Они мне не нравятся.\n\n## После предлога — тоже me / him / them\nПосле **for, to, with, at, about** и других предлогов всегда форма дополнения.\n> This letter is for **me**. — Это письмо для меня.\n> Why are you looking at **her**? — Почему ты смотришь на неё?\n> Do you want to come with **us**? — Хочешь пойти с нами?\n\n## Типичные ошибки\n- ~~Ann knows I.~~ → Ann knows **me**.\n- ~~Give it to he.~~ → Give it to **him**.\n- ~~I like they.~~ → I like **them**.\n- ~~Me and Tom are friends.~~ → **Tom and I** are friends. (подлежащее — форма I)\n\n## Полезно знать\n- Порядок слов: подлежащее → глагол → дополнение. В английском дополнение не бывает перед глаголом.\n- **Let's** = let us: *Let's go!* — Пойдёмте!\n- **Help me, please.** — Помогите мне, пожалуйста.",
+  "en": "## Two kinds of pronouns\nEnglish has subject pronouns (**I, we, you, he, she, it, they**) and object pronouns (**me, us, you, him, her, it, them**). Subject pronouns go before the verb. Object pronouns go after the verb or after a preposition.\n> **I** know Ann.\n> Ann knows **me**.\n> **They** like music. I like **them**.\n\n## The pairs\n- I → **me**\n- we → **us**\n- you → **you**\n- he → **him**\n- she → **her**\n- it → **it**\n- they → **them**\n\n## Things: it and them\nFor things and animals we use **it** (one) and **them** (more than one).\n> I don't want this book. You can have **it**.\n> I never go to parties. I don't like **them**.\n\n## After a preposition\nAfter **for, to, with, at, about** we use object pronouns.\n> This letter is for **me**.\n> Why are you looking at **her**?\n> Do you want to come with **us**?\n\n## Common mistakes\n- ~~Ann knows I.~~ → Ann knows **me**.\n- ~~Give it to he.~~ → Give it to **him**.\n- ~~I like they.~~ → I like **them**.\n\n## Remember\n- Word order: subject, verb, object.\n- **Let's** = let us.",
+  "structure": "## Подлежащее и дополнение\n| Подлежащее (до глагола) | Дополнение (после глагола / предлога) |\n|---|---|\n| I | me |\n| we | us |\n| you | you |\n| he | him |\n| she | her |\n| it | it |\n| they | them |\n\n## Формула\n> Подлежащее + глагол + **дополнение**\n> **She** loves **him**. · **We** know **them**. · **I** see **you**.\n\n> Подлежащее + глагол + предлог + **дополнение**\n> He talks to **me**. · They wait for **us**. · I live with **her**.\n\n## Что заменяет что\n- Один человек (м.) → **him**; (ж.) → **her**\n- Несколько человек, вещей → **them**\n- Один предмет, животное → **it**\n- Себя говорящего → **me**; говорящего с другими → **us**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Подлежащее -> дополнение",
+      "instruction": "Вставьте местоимение-дополнение вместо слов в скобках.",
+      "example": "I know Ann. Ann knows → **me**",
+      "items": [
+        {
+          "text": "I know Anna. Anna knows {{me}}.",
+          "hint": "I"
+        },
+        {
+          "text": "We know Tom. Tom knows {{us}}.",
+          "hint": "we"
+        },
+        {
+          "text": "He knows my sister. My sister knows {{him}}.",
+          "hint": "he"
+        },
+        {
+          "text": "She knows my brother. My brother knows {{her}}.",
+          "hint": "she"
+        },
+        {
+          "text": "They know Maria. Maria knows {{them}}.",
+          "hint": "they"
+        },
+        {
+          "text": "You know Ali. Ali knows {{you}}.",
+          "hint": "you"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Заменяем слова местоимением",
+      "instruction": "Вставьте **it**, **them**, **him** или **her**.",
+      "example": "I don't like this film. I don't want to see → **it**",
+      "items": [
+        {
+          "text": "I like this song. I listen to {{it}} every day."
+        },
+        {
+          "text": "Where are my keys? I can't find {{them}}."
+        },
+        {
+          "text": "Do you know Mr Brown? I often work with {{him}}."
+        },
+        {
+          "text": "Do you know Kate? I often talk to {{her}}."
+        },
+        {
+          "text": "These shoes are too small. I can't wear {{them}}."
+        },
+        {
+          "text": "My brother is in London. I'm going to visit {{him}} in June."
+        },
+        {
+          "text": "My mother's birthday is tomorrow. I have a present for {{her}}."
+        },
+        {
+          "text": "Look at that dog! Don't touch {{it}}."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "I или me?",
+      "instruction": "Выберите правильную форму.",
+      "items": [
+        {
+          "q": "Please help ___.",
+          "options": [
+            "I",
+            "me",
+            "my"
+          ],
+          "answer": 1,
+          "why": "После глагола — дополнение: **me**."
+        },
+        {
+          "q": "___ like tea.",
+          "options": [
+            "Me",
+            "I",
+            "Mine"
+          ],
+          "answer": 1,
+          "why": "Подлежащее перед глаголом — **I**."
+        },
+        {
+          "q": "This present is for ___.",
+          "options": [
+            "he",
+            "him",
+            "his"
+          ],
+          "answer": 1,
+          "why": "После предлога — **him**."
+        },
+        {
+          "q": "Anna is my friend. I like ___ very much.",
+          "options": [
+            "she",
+            "her",
+            "hers"
+          ],
+          "answer": 1,
+          "why": "Дополнение — **her**."
+        },
+        {
+          "q": "My parents are nice. I live with ___.",
+          "options": [
+            "them",
+            "they",
+            "their"
+          ],
+          "answer": 0,
+          "why": "После предлога — **them**."
+        },
+        {
+          "q": "Are you coming with ___ to the cinema?",
+          "options": [
+            "we",
+            "us",
+            "our"
+          ],
+          "answer": 1,
+          "why": "После предлога — **us**."
+        },
+        {
+          "q": "___ are very tired today.",
+          "options": [
+            "Us",
+            "Them",
+            "We"
+          ],
+          "answer": 2,
+          "why": "Подлежащее — **we**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Верно только одно предложение.",
+      "items": [
+        {
+          "q": "Как сказать «Он любит её»?",
+          "options": [
+            "He loves she.",
+            "Him loves her.",
+            "He loves her."
+          ],
+          "answer": 2,
+          "why": "Подлежащее he, дополнение her."
+        },
+        {
+          "q": "Как сказать «Позвони нам»?",
+          "options": [
+            "Call we.",
+            "Call us.",
+            "Call our."
+          ],
+          "answer": 1,
+          "why": "После глагола — **us**."
+        },
+        {
+          "q": "Как сказать «Я вижу их»?",
+          "options": [
+            "I see them.",
+            "I see they.",
+            "Me see them."
+          ],
+          "answer": 0,
+          "why": "I — подлежащее, them — дополнение."
+        },
+        {
+          "q": "Как сказать «Это для тебя»?",
+          "options": [
+            "It's for you.",
+            "It's for your.",
+            "It's to you for."
+          ],
+          "answer": 0,
+          "why": "После for — **you**."
+        },
+        {
+          "q": "Как сказать «Она с ним»?",
+          "options": [
+            "She is with he.",
+            "She is with him.",
+            "Her is with him."
+          ],
+          "answer": 1,
+          "why": "Подлежащее she, после предлога — **him**."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Диалоги",
+      "instruction": "Вставьте нужные местоимения: **I, me, he, him, she, her, we, us, they, them**.",
+      "items": [
+        {
+          "text": "A: Do you know that man? B: Yes, {{I}} know {{him}}. He is my teacher."
+        },
+        {
+          "text": "A: Where are the children? B: {{They}} are in the garden. Can you see {{them}}?"
+        },
+        {
+          "text": "A: This is Lisa. B: Hello, Lisa! Tom told {{me}} about {{you}}."
+        },
+        {
+          "text": "A: Are you and Ben coming? B: Yes, {{we}} are. Please wait for {{us}}."
+        },
+        {
+          "text": "A: Do you like Maria? B: Yes, {{she}} is nice. I often talk to {{her}}."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов. Замените подчёркнутое слово в скобках местоимением.",
+      "items": [
+        {
+          "prompt": "(I / see / Tom) → I see ___",
+          "answers": [
+            "I see him."
+          ]
+        },
+        {
+          "prompt": "(she / call / Anna and me) → She calls ___",
+          "answers": [
+            "She calls us."
+          ]
+        },
+        {
+          "prompt": "(we / wait for / the bus) → We wait for ___",
+          "answers": [
+            "We wait for it."
+          ]
+        },
+        {
+          "prompt": "(he / like / his shoes) → He likes ___",
+          "answers": [
+            "He likes them."
+          ]
+        },
+        {
+          "prompt": "(they / talk to / my sister) → They talk to ___",
+          "answers": [
+            "They talk to her."
+          ]
+        },
+        {
+          "prompt": "(I / love / my parents) → I love ___",
+          "answers": [
+            "I love them."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Следите за формой местоимения.",
+      "items": [
+        {
+          "prompt": "Я знаю его.",
+          "answers": [
+            "I know him."
+          ]
+        },
+        {
+          "prompt": "Она любит нас.",
+          "answers": [
+            "She loves us."
+          ]
+        },
+        {
+          "prompt": "Они ждут меня.",
+          "answers": [
+            "They are waiting for me.",
+            "They're waiting for me.",
+            "They wait for me."
+          ]
+        },
+        {
+          "prompt": "Это письмо для неё.",
+          "answers": [
+            "This letter is for her.",
+            "It's for her.",
+            "This letter's for her."
+          ]
+        },
+        {
+          "prompt": "Ты хочешь пойти с ними?",
+          "answers": [
+            "Do you want to go with them?",
+            "Do you want to come with them?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте **me, him, her, them, us, it**.",
+      "items": [
+        {
+          "prompt": "Who do you live with? Do you like living with them?",
+          "sample": "I live with my parents. I like living with them."
+        },
+        {
+          "prompt": "Who sometimes calls you?",
+          "sample": "My friend Aida often calls me."
+        },
+        {
+          "prompt": "Do you like football? Do you watch it on TV?",
+          "sample": "I like football. I sometimes watch it on TV."
+        },
+        {
+          "prompt": "What's your favourite song? When do you listen to it?",
+          "sample": "My favourite song is 'Yesterday'. I listen to it in the evening."
+        },
+        {
+          "prompt": "Write about a friend: what do you do with him or her?",
+          "sample": "I have a friend, Dana. I often go shopping with her."
+        }
+      ]
+    }
+  ]
+}

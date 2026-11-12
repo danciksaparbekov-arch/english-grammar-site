@@ -1,0 +1,123 @@
+{
+  "id": 2,
+  "title": "am/is/are (questions)",
+  "summary": "Вопросы с глаголом **be**: меняем порядок слов (**Is she ...?**), добавляем вопросительные слова и отвечаем кратко (**Yes, she is.**).",
+  "ru": "## Как задать вопрос с be\nВ русском вопрос часто отличается только интонацией: «Она дома?». В английском нужно **поставить глагол be перед подлежащим**.\n> She is at home. — Она дома.\n> **Is** she at home? — Она дома?\n> They are tired. — Они устали.\n> **Are** they tired? — Они устали?\n\n## Порядок слов\n**am / is / are + подлежащее + остальное**\n> **Is** your mother at home? — Твоя мама дома?\n> **Are** your shoes new? — Твои туфли новые?\n> **Am** I late? — Я опоздала?\nНельзя ставить подлежащее после слов «at home» или «new» — глагол всегда идёт сразу после вопросительного слова или первым в предложении.\n\n## Вопросительные слова\nСтавим перед be: **Where, What, Who, How, Why, How old, How much**.\n> **Where** is your brother? — Где твой брат?\n> **What colour** is your car? — Какого цвета твоя машина?\n> **How old** are you? — Сколько тебе лет?\n> **Why** are you angry? — Почему ты злишься?\n> **How much** are these apples? — Сколько стоят эти яблоки?\nВ разговоре сокращаем: **Where's, What's, Who's, How's**.\n> What's the time? Who's that man? How's your father?\n\n## Краткие ответы\nНа вопрос «да/нет» отвечаем коротко. В утвердительном ответе краткая форма **не** используется.\n> Are you tired? — **Yes, I am.** (не ~~Yes, I'm.~~)\n> Is Paul at work? — **No, he isn't.** / **No, he's not.**\n> Are they from Spain? — **Yes, they are.**\n\n## Типичные ошибки\n- ~~Is at home your mother?~~ → **Is** your mother at home?\n- ~~You are tired?~~ → **Are you** tired? (в обычном вопросе нужен порядок «be + подлежащее»)\n- ~~Where she is?~~ → Where **is she**?\n- ~~Yes, I'm.~~ → Yes, I **am**.\n- ~~How old you are?~~ → How old **are you**?",
+  "en": "## How to make a question with be\nIn English we put **am / is / are before the subject**.\n> She is at home. → **Is** she at home?\n> They are tired. → **Are** they tired?\n\n## Word order\n**am / is / are + subject + the rest**\n> **Is** your mother at home?\n> **Are** your shoes new?\n> **Am** I late?\nThe verb comes first (or right after the question word), never after the subject.\n\n## Question words\nWe put them before be: **Where, What, Who, How, Why, How old, How much**.\n> **Where** is your brother?\n> **What colour** is your car?\n> **How old** are you?\n> **How much** are these apples?\nShort forms are common: **Where's, What's, Who's, How's**.\n\n## Short answers\n> Are you tired? — **Yes, I am.** / **No, I'm not.**\n> Is Paul at work? — **Yes, he is.** / **No, he isn't.**\n> Are they from Spain? — **Yes, they are.** / **No, they aren't.**\nWe do not use a short form in a positive short answer: not ~~Yes, I'm.~~\n\n## Common mistakes\n- ~~Is at home your mother?~~ → **Is** your mother at home?\n- ~~Where she is?~~ → Where **is she**?\n- ~~Yes, I'm.~~ → Yes, I **am**.",
+  "structure": "## Вопрос\n| Be | Подлежащее | Остальное |\n|---|---|---|\n| Am | I | late? |\n| Is | he / she / it | at home? |\n| Are | we / you / they | ready? |\n\n## С вопросительным словом\n| Вопросительное слово | Be | Подлежащее | |\n|---|---|---|---|\n| Where | is | your bag | ? |\n| What | are | those things | ? |\n| How old | are | you | ? |\n| Why | is | he | angry? |\n\n## Краткие ответы\n| Вопрос | Да | Нет |\n|---|---|---|\n| Am I ...? | Yes, you are. | No, you aren't. / No, you're not. |\n| Is he / she / it ...? | Yes, he is. | No, he isn't. / No, he's not. |\n| Are you ...? | Yes, I am. / Yes, we are. | No, I'm not. / No, we aren't. |\n| Are they ...? | Yes, they are. | No, they aren't. / No, they're not. |\n\n## Формулы\n> **Be + подлежащее + ...?** → Is your sister a nurse?\n> **Вопросительное слово + be + подлежащее?** → Where is your sister?\n\n## Сокращения\n- **what's / who's / how's / where's** = what is / who is / how is / where is\n- В кратком утвердительном ответе: **Yes, it is.** (не *Yes, it's.*)",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Составьте вопрос",
+      "instruction": "Поставьте **am / is / are** в нужное место: напишите только глагол.",
+      "example": "(your mother / at home) → **Is** your mother at home?",
+      "items": [
+        { "text": "{{Is}} the shop open today?", "hint": "the shop / open" },
+        { "text": "{{Are}} your parents at work?", "hint": "your parents / at work" },
+        { "text": "{{Is}} the film interesting?", "hint": "the film / interesting" },
+        { "text": "{{Are}} you interested in sport?", "hint": "you / interested in sport" },
+        { "text": "{{Is}} the post office near here?", "hint": "the post office / near here" },
+        { "text": "{{Are}} your children at school?", "hint": "your children / at school" },
+        { "text": "{{Am}} I in the right place?", "hint": "I / in the right place" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вставьте вопросительное слово",
+      "instruction": "Вставьте **Where, What, Who, How, Why** или **How old**.",
+      "items": [
+        { "text": "{{Where}} is your brother? — He's at the gym." },
+        { "text": "{{How old}} is your sister? — She's 15." },
+        { "text": "{{What}} colour is your bag? — It's green." },
+        { "text": "{{Who}} is that woman? — She's my teacher." },
+        { "text": "{{Why}} are you sad? — Because I'm tired." },
+        { "text": "{{How}} are your parents? — They're fine, thank you." },
+        { "text": "{{What}} is your name? — Alina." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вопрос",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "___ your sister at home?", "options": ["Are", "Is", "Am"], "answer": 1, "why": "your sister = she → **Is**." },
+        { "q": "___ these shoes new?", "options": ["Is", "Am", "Are"], "answer": 2, "why": "these shoes — множественное число → **Are**." },
+        { "q": "Where ___ the keys?", "options": ["is", "are", "am"], "answer": 1, "why": "the keys — множественное число → **are**." },
+        { "q": "___ late?", "options": ["Am I", "I am", "Is I"], "answer": 0, "why": "В вопросе be идёт перед подлежащим: **Am I** late?" },
+        { "q": "How old ___ your grandfather?", "options": ["are", "am", "is"], "answer": 2, "why": "your grandfather = he → **is**." },
+        { "q": "What colour ___ your eyes?", "options": ["is", "are", "do"], "answer": 1, "why": "your eyes — множественное число → **are**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный краткий ответ",
+      "instruction": "Выберите правильный ответ на вопрос.",
+      "items": [
+        { "q": "Are you hungry? — Yes, ___.", "options": ["I'm", "I am", "I be"], "answer": 1, "why": "В утвердительном кратком ответе краткая форма не используется: **Yes, I am.**" },
+        { "q": "Is Tom a doctor? — No, ___.", "options": ["he isn't", "he not", "he aren't"], "answer": 0, "why": "he → is → **isn't**." },
+        { "q": "Are your friends here? — No, ___.", "options": ["they isn't", "they aren't", "they not are"], "answer": 1, "why": "they → are → **aren't**." },
+        { "q": "Is it cold today? — Yes, ___.", "options": ["it's", "it is", "is it"], "answer": 1, "why": "**Yes, it is.** — краткую форму в «Yes» не используем." },
+        { "q": "Am I late? — No, ___.", "options": ["you aren't", "you not", "I aren't"], "answer": 0, "why": "Отвечаем на «Am I?» словом **you**: No, you aren't." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте вопросы",
+      "instruction": "Составьте вопрос из слов. Используйте **is** или **are**.",
+      "items": [
+        { "prompt": "(your mother / at home?)", "answers": ["Is your mother at home?"] },
+        { "prompt": "(your parents / well?)", "answers": ["Are your parents well?"] },
+        { "prompt": "(interesting / your job?)", "answers": ["Is your job interesting?"] },
+        { "prompt": "(the shops / open today?)", "answers": ["Are the shops open today?"] },
+        { "prompt": "(where / your keys?)", "answers": ["Where are your keys?"] },
+        { "prompt": "(how old / your brother?)", "answers": ["How old is your brother?"] },
+        { "prompt": "(why / you / angry?)", "answers": ["Why are you angry?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Ответьте кратко",
+      "instruction": "Ответьте кратко на вопросы: **Yes, ... / No, ...** (по смыслу).",
+      "items": [
+        { "prompt": "Is the sun cold? (No, ...)", "answers": ["No, it isn't.", "No, it's not.", "No, it is not."] },
+        { "prompt": "Are two and two four? (Yes, ...)", "answers": ["Yes, they are."] },
+        { "prompt": "Is Paris in Italy? (No, ...)", "answers": ["No, it isn't.", "No, it's not.", "No, it is not."] },
+        { "prompt": "Are elephants big? (Yes, ...)", "answers": ["Yes, they are."] },
+        { "prompt": "Am I your teacher? (No, ... — отвечает ученица)", "answers": ["No, you aren't.", "No, you're not.", "No, you are not."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите вопросы.",
+      "items": [
+        { "prompt": "Где твоя сестра?", "answers": ["Where is your sister?", "Where's your sister?"] },
+        { "prompt": "Они дома?", "answers": ["Are they at home?"] },
+        { "prompt": "Сколько ему лет?", "answers": ["How old is he?", "How old's he?"] },
+        { "prompt": "Кто эта девушка?", "answers": ["Who is that girl?", "Who's that girl?", "Who is this girl?", "Who's this girl?"] },
+        { "prompt": "Твой телефон новый?", "answers": ["Is your phone new?"] },
+        { "prompt": "Почему ты опаздываешь?", "answers": ["Why are you late?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Задайте вопросы и ответьте",
+      "instruction": "Придумайте вопрос о своём друге или подруге и ответьте на него. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Вопрос о возрасте друга", "sample": "How old is your friend? — She's 20." },
+        { "prompt": "Вопрос о том, где друг живёт", "sample": "Where is your friend from? — He's from Osh." },
+        { "prompt": "Вопрос «Это интересно?» о вашей работе или учёбе", "sample": "Is your job interesting? — Yes, it is." },
+        { "prompt": "Вопрос о погоде сегодня", "sample": "Is it sunny today? — No, it isn't." },
+        { "prompt": "Вопрос о вашей семье", "sample": "Are your parents at home? — Yes, they are." }
+      ]
+    }
+  ]
+}

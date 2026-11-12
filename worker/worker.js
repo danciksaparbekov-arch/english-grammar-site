@@ -1,0 +1,106 @@
+// Cloudflare Worker: прокси к Gemini API для чата на сайте.
+// Ключ хранится в секрете GEMINI_API_KEY (wrangler secret put GEMINI_API_KEY) — в репозитории его нет.
+// Переменные (wrangler.toml → [vars]): ALLOWED_ORIGINS, GEMINI_MODEL.
+// Необязательная привязка LIMITER (Rate Limiting) ограничивает частоту запросов с одного IP.
+
+const SYSTEM_PROMPT = `Ты — дружелюбный репетитор английского языка для русскоязычной ученицы уровня A1–B1.
+Сайт построен по темам учебника Essential Grammar in Use (R. Murphy).
+Правила:
+- Отвечай по-русски, примеры давай на английском (с переводом, если он помогает).
+- Пиши коротко и понятно: правило → 2–4 примера → типичная ошибка, если уместно.
+- Если ученица прислала своё предложение, сначала скажи, верно ли оно, затем исправь и объясни почему.
+- Можно отвечать на любые вопросы по английскому языку (лексика, произношение, перевод), но не уходи в посторонние темы.
+- Не выдумывай: если не уверен, скажи об этом.
+- Форматирование только простое: **жирный**, списки через "- ". Без HTML.`;
+
+const MAX_MESSAGES = 12;
+const MAX_TEXT = 2000;
+const MAX_BODY = 30000;
+
+function corsHeaders(origin) {
+  return {
+    "Access-Control-Allow-Origin": origin,
+    "Access-Control-Allow-Methods": "POST, OPTIONS",
+    "Access-Control-Allow-Headers": "Content-Type",
+    "Access-Control-Max-Age": "86400",
+    "Vary": "Origin"
+  };
+}
+
+function json(data, status, origin) {
+  return new Response(JSON.stringify(data), {
+    status,
+    headers: Object.assign({ "Content-Type": "application/json; charset=utf-8" }, origin ? corsHeaders(origin) : {})
+  });
+}
+
+export default {
+  async fetch(request, env) {
+    const origin = request.headers.get("Origin") || "";
+    const allowed = String(env.ALLOWED_ORIGINS || "").split(",").map(s => s.trim()).filter(Boolean);
+    const originOk = allowed.includes(origin);
+
+    if (request.method === "OPTIONS") {
+      return originOk ? new Response(null, { status: 204, headers: corsHeaders(origin) }) : new Response(null, { status: 403 });
+    }
+    if (request.method !== "POST") return json({ error: "method not allowed" }, 405, originOk ? origin : "");
+    if (!originOk) return json({ error: "forbidden origin" }, 403, "");
+
+    // Ограничение частоты (если привязка настроена)
+    if (env.LIMITER) {
+      const ip = request.headers.get("CF-Connecting-IP") || "unknown";
+      const { success } = await env.LIMITER.limit({ key: ip });
+      if (!success) return json({ error: "слишком много запросов, подождите минуту" }, 429, origin);
+    }
+
+    // Разбор и проверка тела
+    const raw = await request.text();
+    if (raw.length > MAX_BODY) return json({ error: "слишком длинный запрос" }, 413, origin);
+    let body;
+    try { body = JSON.parse(raw); } catch (e) { return json({ error: "bad json" }, 400, origin); }
+
+    const msgs = Array.isArray(body.messages) ? body.messages.slice(-MAX_MESSAGES) : [];
+    const contents = [];
+    for (const m of msgs) {
+      if (!m || (m.role !== "user" && m.role !== "model") || typeof m.text !== "string") continue;
+      const text = m.text.slice(0, MAX_TEXT).trim();
+      if (text) contents.push({ role: m.role, parts: [{ text }] });
+    }
+    // Gemini требует, чтобы диалог начинался с user
+    while (contents.length && contents[0].role !== "user") contents.shift();
+    if (!contents.length || contents[contents.length - 1].role !== "user") {
+      return json({ error: "пустой вопрос" }, 400, origin);
+    }
+
+    const unit = typeof body.unit === "string" ? body.unit.slice(0, 200) : "";
+    const system = SYSTEM_PROMPT + (unit ? `\nСейчас ученица открыла тему: ${unit}.` : "");
+
+    if (!env.GEMINI_API_KEY) return json({ error: "ключ API не настроен" }, 500, origin);
+    const model = env.GEMINI_MODEL || "gemini-2.5-flash";
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
+
+    let r;
+    try {
+      r = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "x-goog-api-key": env.GEMINI_API_KEY },
+        body: JSON.stringify({
+          systemInstruction: { parts: [{ text: system }] },
+          contents,
+          generationConfig: { temperature: 0.5, maxOutputTokens: 1024 }
+        })
+      });
+    } catch (e) {
+      return json({ error: "сервис недоступен" }, 502, origin);
+    }
+
+    const data = await r.json().catch(() => ({}));
+    if (!r.ok) {
+      // Подробности ошибки Google наружу не отдаём
+      return json({ error: r.status === 429 ? "лимит модели исчерпан, попробуйте позже" : "ошибка модели (" + r.status + ")" }, 502, origin);
+    }
+    const reply = (data.candidates?.[0]?.content?.parts || []).map(p => p.text || "").join("").trim();
+    if (!reply) return json({ error: "пустой ответ модели" }, 502, origin);
+    return json({ reply }, 200, origin);
+  }
+};

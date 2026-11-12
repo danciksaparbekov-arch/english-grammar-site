@@ -1,0 +1,343 @@
+{
+  "id": 59,
+  "title": "my/his/their etc.",
+  "summary": "Притяжательные прилагательные **my, your, his, her, our, their, its**: чьё это, и чем они отличаются от русских.",
+  "ru": "## Что это за слова\n**my, your, his, her, its, our, their** показывают, чей предмет или человек. Они всегда стоят **перед существительным**.\n> I like **my** job. — Мне нравится моя работа.\n> She loves **her** children. — Она любит своих детей.\n> We live in **our** new house. — Мы живём в нашем новом доме.\n\n## Таблица\n- I → **my** (мой, моя, моё, мои)\n- you → **your** (твой, ваш)\n- he → **his** (его)\n- she → **her** (её)\n- it → **its** (его, её — для предмета, животного)\n- we → **our** (наш)\n- they → **their** (их)\n\n## Главное отличие от русского\nВ русском есть «свой» (*Он взял свою книгу*). В английском слова «свой» нет — используем **my / his / her / our / their** по подлежащему.\n> He is washing **his** hands. — Он моет свои руки.\n> They live with **their** parents. — Они живут со своими родителями.\nНе говорим *the hands* вместо *his hands* про части тела и вещи человека.\n\n## his и her: кто владелец\nВыбор зависит от **владельца**, а не от предмета.\n> Diane has a car. **Her** car is red. (Diane — она)\n> Andy has a sister. **His** sister is a doctor. (Andy — он)\n> Mr and Mrs Thomson have a son. **Their** son is ten.\n\n## its и it's — не путать!\n- **its** = «его/её» (о предмете): *Oxford is famous for **its** university.*\n- **it's** = it is: *I like Oxford. **It's** a nice city.*\n\n## Типичные ошибки\n- ~~I like me job.~~ → I like **my** job.\n- ~~She loves his children.~~ (если дети её) → She loves **her** children.\n- ~~Is this you book?~~ → Is this **your** book?\n- ~~The dog likes it's food.~~ → The dog likes **its** food.",
+  "en": "## What are they?\n**my, your, his, her, its, our, their** tell us who something belongs to. We always put them **before a noun**.\n> I like **my** job.\n> She loves **her** children.\n> We live in **our** new house.\n\n## The list\n- I → **my**\n- you → **your**\n- he → **his**\n- she → **her**\n- it → **its**\n- we → **our**\n- they → **their**\n\n## No \"own\" word\nRussian has «свой». English does not. We use my / his / her / our / their.\n> He is washing **his** hands.\n> They live with **their** parents.\n\n## his or her?\nIt depends on the **owner**, not on the thing.\n> Diane has a car. **Her** car is red.\n> Andy has a sister. **His** sister is a doctor.\n\n## its or it's?\n- **its** = belongs to it: *Oxford is famous for **its** university.*\n- **it's** = it is: *It's a nice city.*\n\n## Common mistakes\n- ~~I like me job.~~ → I like **my** job.\n- ~~Is this you book?~~ → Is this **your** book?\n- ~~The dog likes it's food.~~ → The dog likes **its** food.",
+  "structure": "## Таблица\n| Подлежащее | Притяжательное | Пример |\n|---|---|---|\n| I | my | my phone |\n| you | your | your bag |\n| he | his | his brother |\n| she | her | her car |\n| it | its | its name |\n| we | our | our house |\n| they | their | their parents |\n\n## Формула\n> **my / your / his / her / its / our / their** + (прилагательное) + существительное\n> **my** new phone · **her** best friend · **their** two children\n\n## Правила\n- Форма **не меняется** по числу: *my book* / *my books*.\n- После притяжательного слова **артикль не ставим**: ~~the my book~~ → **my** book.\n- **its** — без апострофа; **it's** = it is.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Закончите предложения",
+      "instruction": "Вставьте **my, your, his, her, our** или **their**.",
+      "example": "I'm going to wash → **my** hands",
+      "items": [
+        {
+          "text": "I'm going to wash {{my}} hands."
+        },
+        {
+          "text": "She's going to wash {{her}} hands."
+        },
+        {
+          "text": "We're going to wash {{our}} hands."
+        },
+        {
+          "text": "He's going to wash {{his}} hands."
+        },
+        {
+          "text": "They're going to wash {{their}} hands."
+        },
+        {
+          "text": "Are you going to wash {{your}} hands?"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "С кем они живут?",
+      "instruction": "Вставьте притяжательное слово.",
+      "items": [
+        {
+          "text": "He lives with {{his}} parents."
+        },
+        {
+          "text": "They live with {{their}} parents."
+        },
+        {
+          "text": "We live with {{our}} parents."
+        },
+        {
+          "text": "Julia lives with {{her}} parents."
+        },
+        {
+          "text": "I live with {{my}} parents."
+        },
+        {
+          "text": "Do you live with {{your}} parents?"
+        },
+        {
+          "text": "Tom and Ann live with {{their}} grandmother."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Предложения по смыслу",
+      "instruction": "Вставьте **my, your, his, her, its, our** или **their**.",
+      "items": [
+        {
+          "text": "Maria is a teacher. {{Her}} husband is a doctor."
+        },
+        {
+          "text": "This is my dog. {{Its}} name is Max."
+        },
+        {
+          "text": "John and I are friends. {{Our}} friendship is old."
+        },
+        {
+          "text": "I'm Ali. {{My}} sister is Dana."
+        },
+        {
+          "text": "You and Tom are late. Where is {{your}} car?"
+        },
+        {
+          "text": "Mr and Mrs Lee live here. {{Their}} house is big."
+        },
+        {
+          "text": "Look at the cat! {{Its}} eyes are green."
+        },
+        {
+          "text": "Tom is happy because {{his}} team won."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите слово",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "I like ___ new job.",
+          "options": [
+            "me",
+            "my",
+            "I"
+          ],
+          "answer": 1,
+          "why": "Перед существительным нужно **my**."
+        },
+        {
+          "q": "Sue is at home with ___ children.",
+          "options": [
+            "his",
+            "their",
+            "her"
+          ],
+          "answer": 2,
+          "why": "Sue — она → **her**."
+        },
+        {
+          "q": "Paul and Kate love ___ dog.",
+          "options": [
+            "their",
+            "they",
+            "them"
+          ],
+          "answer": 0,
+          "why": "Paul and Kate = they → **their**."
+        },
+        {
+          "q": "Do you know ___ name?",
+          "options": [
+            "he",
+            "his",
+            "him"
+          ],
+          "answer": 1,
+          "why": "Перед существительным — **his**."
+        },
+        {
+          "q": "Oxford is famous for ___ university.",
+          "options": [
+            "it's",
+            "its",
+            "his"
+          ],
+          "answer": 1,
+          "why": "Принадлежность → **its**; it's = it is."
+        },
+        {
+          "q": "We want to see ___ friends.",
+          "options": [
+            "us",
+            "we",
+            "our"
+          ],
+          "answer": 2,
+          "why": "We → **our**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "its или it's?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "___ a beautiful day today.",
+          "options": [
+            "Its",
+            "It's",
+            "It"
+          ],
+          "answer": 1,
+          "why": "It is a beautiful day → **It's**."
+        },
+        {
+          "q": "The town is small but ___ park is big.",
+          "options": [
+            "its",
+            "it's",
+            "his"
+          ],
+          "answer": 0,
+          "why": "Парк принадлежит городу → **its**."
+        },
+        {
+          "q": "I love this café. ___ very cosy.",
+          "options": [
+            "Its",
+            "It's",
+            "Their"
+          ],
+          "answer": 1,
+          "why": "It is very cosy → **It's**."
+        },
+        {
+          "q": "The bird has a nest. ___ nest is in the tree.",
+          "options": [
+            "It's",
+            "Its",
+            "Their"
+          ],
+          "answer": 1,
+          "why": "Принадлежность → **Its**."
+        },
+        {
+          "q": "___ cold today. Take your coat.",
+          "options": [
+            "It's",
+            "Its",
+            "Our"
+          ],
+          "answer": 0,
+          "why": "It is cold → **It's**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение со словами в скобках и нужным притяжательным словом.",
+      "items": [
+        {
+          "prompt": "(I / love / ... / family)",
+          "answers": [
+            "I love my family."
+          ]
+        },
+        {
+          "prompt": "(she / lose / ... / keys)",
+          "answers": [
+            "She lost her keys.",
+            "She loses her keys.",
+            "She has lost her keys."
+          ]
+        },
+        {
+          "prompt": "(we / clean / ... / room)",
+          "answers": [
+            "We clean our room.",
+            "We are cleaning our room.",
+            "We're cleaning our room."
+          ]
+        },
+        {
+          "prompt": "(they / sell / ... / car)",
+          "answers": [
+            "They sell their car.",
+            "They are selling their car.",
+            "They're selling their car."
+          ]
+        },
+        {
+          "prompt": "(he / call / ... / mother)",
+          "answers": [
+            "He calls his mother.",
+            "He is calling his mother.",
+            "He's calling his mother."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {
+          "prompt": "Это моя сумка.",
+          "answers": [
+            "This is my bag.",
+            "It's my bag.",
+            "That is my bag.",
+            "That's my bag."
+          ]
+        },
+        {
+          "prompt": "Её брат живёт в Москве.",
+          "answers": [
+            "Her brother lives in Moscow."
+          ]
+        },
+        {
+          "prompt": "Наш дом очень большой.",
+          "answers": [
+            "Our house is very big."
+          ]
+        },
+        {
+          "prompt": "Они любят свою работу.",
+          "answers": [
+            "They love their job.",
+            "They like their job.",
+            "They love their work.",
+            "They like their work."
+          ]
+        },
+        {
+          "prompt": "Как её зовут?",
+          "answers": [
+            "What's her name?",
+            "What is her name?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите о себе и семье, используя **my, his, her, our, their**.",
+      "items": [
+        {
+          "prompt": "What's your mother's name?",
+          "sample": "My mother's name is Aigul."
+        },
+        {
+          "prompt": "Where do your parents work?",
+          "sample": "My parents work in a school."
+        },
+        {
+          "prompt": "Do you have a brother or a sister? What's his / her name?",
+          "sample": "I have a sister. Her name is Dana."
+        },
+        {
+          "prompt": "Describe your home.",
+          "sample": "Our flat is small but nice. Its windows are big."
+        },
+        {
+          "prompt": "What do you like about your job or school?",
+          "sample": "I like my school. My classmates are friendly."
+        }
+      ]
+    }
+  ]
+}

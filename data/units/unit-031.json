@@ -1,0 +1,104 @@
+{
+  "id": 31,
+  "title": "can and could",
+  "summary": "**can** — «могу, умею» (сейчас), **could** — «мог, умел» (в прошлом); а также вежливые просьбы: **Can/Could you ...?**",
+  "ru": "## can: умею или могу\n**can + глагол** говорит, что мы умеем что-то делать или что это возможно.\n> I can swim. — Я умею плавать.\n> Sara can speak French. — Сара говорит по-французски.\n> We can't come tomorrow. — Мы не сможем прийти завтра.\n\n## Как строится\n- **can** одинаково для всех лиц, без -s: *he can* (не ~~he cans~~)\n- после can — глагол без **to**: ~~I can to swim~~ → I can swim\n- отрицание: **can't** (cannot)\n- вопрос: **Can** you swim? — Yes, I can. / No, I can't.\n\n## could — прошлое от can\nО прошлом говорим **could / couldn't** («мог / не мог»).\n> When I was five, I could read. — Когда мне было пять, я умел читать.\n> I was tired, but I couldn't sleep. — Я устала, но не могла уснуть.\n> Could you swim when you were ten? — Ты умел плавать в десять лет?\n\n## Просьбы: Can you ...? Could you ...?\nМожно просить людей сделать что-то: **Can you ...?** или чуть вежливее **Could you ...?**\n> Can you open the window, please? — Открой окно, пожалуйста.\n> Could you help me, please? — Не могли бы вы мне помочь?\n\n## Разрешение: Can I ...? Could I ...?\nЧтобы спросить разрешения, говорим **Can I ...? / Could I ...?**\n> Can I sit here? — Можно мне здесь сесть?\n> Could I use your phone? — Можно воспользоваться вашим телефоном?\nCould I ...? звучит вежливее.\n\n## Типичные ошибки\n- ~~He cans swim.~~ → He **can** swim.\n- ~~I can to help you.~~ → I can help you.\n- ~~Do you can swim?~~ → **Can** you swim?\n- ~~I can't to sleep.~~ → I **can't** sleep.\n- ~~Yesterday I can't come.~~ → Yesterday I **couldn't** come.",
+  "en": "## can: ability and possibility\nWe use **can** to say that someone knows how to do something, or that something is possible.\n> I can swim.\n> Sara can speak French.\n> We can't come tomorrow.\n\n## How to make it\n- **can** is the same for all persons: *he can* (not ~~he cans~~)\n- no **to** after can: ~~I can to swim~~ → I can swim\n- negative: **can't** (cannot)\n- question: **Can** you swim? — Yes, I can. / No, I can't.\n\n## could: the past of can\nFor the past we use **could / couldn't**.\n> When I was five, I could read.\n> I was tired, but I couldn't sleep.\n> Could you swim when you were ten?\n\n## Asking people to do things\nWe say **Can you ...?** or, more politely, **Could you ...?**\n> Can you open the window, please?\n> Could you help me, please?\n\n## Asking for permission\nWe say **Can I ...? / Could I ...?** **Could I ...?** is more polite.\n> Can I sit here?\n> Could I use your phone?\n\n## Common mistakes\n- ~~He cans swim.~~ → He **can** swim.\n- ~~Do you can swim?~~ → **Can** you swim?\n- ~~Yesterday I can't come.~~ → Yesterday I **couldn't** come.",
+  "structure": "## Утверждение и отрицание\n| Подлежащее | can / could | Глагол |\n|---|---|---|\n| I / you / we / they | can / can't | swim |\n| he / she / it | can / can't | swim |\n| I / he / she / we / you / they | could / couldn't | swim |\n\n## Вопрос и краткие ответы\n| Вопрос | Краткие ответы |\n|---|---|\n| Can you swim? | Yes, I can. / No, I can't. |\n| Can she cook? | Yes, she can. / No, she can't. |\n| Could you run fast? | Yes, I could. / No, I couldn't. |\n\n## Формулы\n> Подлежащее + **can / can't** + глагол без to\n> **Can** + подлежащее + глагол?\n> Просьба: **Can / Could you** + глагол, please?\n> Разрешение: **Can / Could I** + глагол?\n\n## Запомните\n- **can't = cannot** (пишется слитно, не ~~can not~~);\n- время только одно: **can** (сейчас) и **could** (раньше);\n- в будущем вместо can говорят **will be able to** (позже).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "can или can't",
+      "instruction": "Вставьте **can** или **can't** по смыслу.",
+      "items": [
+        { "text": "A fish {{can}} swim, but it {{can't|cannot}} walk." },
+        { "text": "Anna is only two. She {{can't|cannot}} read yet." },
+        { "text": "I {{can}} play the guitar. I learned it at school." },
+        { "text": "Birds {{can}} fly, but dogs {{can't|cannot}}." },
+        { "text": "My grandfather is 90. He {{can't|cannot}} run fast now." },
+        { "text": "{{Can}} you help me with this bag, please?" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "can, can't, could или couldn't",
+      "instruction": "Вставьте **can**, **can't**, **could** или **couldn't**.",
+      "items": [
+        { "text": "Last night I was very tired. I {{couldn't|could not}} stay awake." },
+        { "text": "When Tom was young, he {{could}} run very fast." },
+        { "text": "I'm sorry, I {{can't|cannot}} come to your party tomorrow." },
+        { "text": "The shop was closed yesterday. We {{couldn't|could not}} buy bread." },
+        { "text": "Now I {{can}} understand English films, but a year ago I {{couldn't|could not}}." },
+        { "text": "{{Could}} you speak English when you were ten?" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "My brother ___ speak three languages.", "options": ["cans", "can", "can to"], "answer": 1, "why": "can не меняется и после него нет to." },
+        { "q": "___ you swim?", "options": ["Do you can", "Can", "Are"], "answer": 1, "why": "Вопрос с can: **Can** you ...?" },
+        { "q": "I ___ find my keys yesterday.", "options": ["can't", "couldn't", "can"], "answer": 1, "why": "yesterday → прошлое → **couldn't**." },
+        { "q": "I'm sorry, I ___ help you right now.", "options": ["can't", "couldn't", "don't can"], "answer": 0, "why": "Сейчас → **can't**." },
+        { "q": "She ___ cook very well when she was 12.", "options": ["can", "could", "cans"], "answer": 1, "why": "when she was 12 → прошлое → **could**." },
+        { "q": "___ I open the window? It's hot.", "options": ["Can", "Do", "Am"], "answer": 0, "why": "Просьба о разрешении: **Can I ...?**" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Просьбы и разрешение",
+      "instruction": "Выберите вариант, который верен и вежлив.",
+      "items": [
+        { "q": "Вы просите соседа выключить музыку.", "options": ["Could you turn off the music, please?", "Do you can turn off the music?", "You can to turn off the music."], "answer": 0, "why": "Вежливая просьба: **Could you ... , please?**" },
+        { "q": "Вы хотите взять чужую ручку.", "options": ["Can I borrow your pen?", "Do I can borrow your pen?", "Can I to borrow your pen?"], "answer": 0, "why": "**Can I + глагол?** без to." },
+        { "q": "Ответ «Нет, я не умею».", "options": ["No, I don't can.", "No, I can't.", "No, I not can."], "answer": 1, "why": "Краткий отрицательный ответ: **No, I can't.**" },
+        { "q": "Вы просите официанта принести счёт (очень вежливо).", "options": ["Could I have the bill, please?", "Can I having the bill?", "I could the bill."], "answer": 0, "why": "**Could I have ...?** — вежливая просьба." },
+        { "q": "Какое предложение верное?", "options": ["He can plays tennis.", "He can play tennis.", "He cans play tennis."], "answer": 1, "why": "can + глагол без -s." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение или вопрос из слов.",
+      "items": [
+        { "prompt": "(Mark / can / play / chess)", "answers": ["Mark can play chess."] },
+        { "prompt": "(you / can / drive / a car / ?)", "answers": ["Can you drive a car?"] },
+        { "prompt": "(I / couldn't / find / my phone / yesterday)", "answers": ["I couldn't find my phone yesterday.", "I could not find my phone yesterday.", "Yesterday I couldn't find my phone.", "Yesterday I could not find my phone."] },
+        { "prompt": "(she / can't / come / to the party)", "answers": ["She can't come to the party.", "She cannot come to the party."] },
+        { "prompt": "(could / you / open / the door / , please / ?)", "answers": ["Could you open the door, please?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **can**, **can't**, **could** или **couldn't**.",
+      "items": [
+        { "prompt": "Я умею хорошо готовить.", "answers": ["I can cook well.", "I can cook very well.", "I can cook."] },
+        { "prompt": "Он не умеет плавать.", "answers": ["He can't swim.", "He cannot swim."] },
+        { "prompt": "Вчера мы не смогли найти кафе.", "answers": ["We couldn't find the cafe yesterday.", "We could not find the cafe yesterday.", "Yesterday we couldn't find the cafe.", "We couldn't find the café yesterday.", "Yesterday we couldn't find the café.", "Yesterday we could not find the cafe.", "Yesterday we could not find the café.", "We could not find the café yesterday."] },
+        { "prompt": "Ты можешь мне помочь?", "answers": ["Can you help me?", "Could you help me?"] },
+        { "prompt": "Можно мне сесть здесь?", "answers": ["Can I sit here?", "Could I sit here?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте о себе полными предложениями. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Three things you can do well", "sample": "I can cook, I can draw and I can swim." },
+        { "prompt": "One thing you can't do", "sample": "I can't play the piano." },
+        { "prompt": "What could you do when you were 5?", "sample": "When I was five, I could ride a bike." },
+        { "prompt": "What couldn't you do when you were a child?", "sample": "I couldn't read long books." },
+        { "prompt": "Ask a friend politely to help you with something", "sample": "Could you help me with my homework, please?" }
+      ]
+    }
+  ]
+}

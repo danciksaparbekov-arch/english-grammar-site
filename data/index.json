@@ -1,0 +1,574 @@
+{
+ "book": "Essential Grammar in Use",
+ "sections": [
+  {
+   "title": "Настоящее время",
+   "units": [
+    {
+     "id": 1,
+     "title": "am/is/are"
+    },
+    {
+     "id": 2,
+     "title": "am/is/are (questions)"
+    },
+    {
+     "id": 3,
+     "title": "I am doing (present continuous)"
+    },
+    {
+     "id": 4,
+     "title": "are you doing? (present continuous questions)"
+    },
+    {
+     "id": 5,
+     "title": "I do/work/like etc. (present simple)"
+    },
+    {
+     "id": 6,
+     "title": "I don't ... (present simple negative)"
+    },
+    {
+     "id": 7,
+     "title": "Do you ...? (present simple questions)"
+    },
+    {
+     "id": 8,
+     "title": "I am doing and I do (present continuous and present simple)"
+    },
+    {
+     "id": 9,
+     "title": "I have ... / I've got ..."
+    }
+   ]
+  },
+  {
+   "title": "Прошедшее время",
+   "units": [
+    {
+     "id": 10,
+     "title": "was/were"
+    },
+    {
+     "id": 11,
+     "title": "worked/got/went etc. (past simple)"
+    },
+    {
+     "id": 12,
+     "title": "I didn't ... Did you ...? (past simple negative and questions)"
+    },
+    {
+     "id": 13,
+     "title": "I was doing (past continuous)"
+    },
+    {
+     "id": 14,
+     "title": "I was doing (past continuous) and I did (past simple)"
+    }
+   ]
+  },
+  {
+   "title": "Present perfect",
+   "units": [
+    {
+     "id": 15,
+     "title": "I have done (present perfect 1)"
+    },
+    {
+     "id": 16,
+     "title": "I've just ... I've already ... I haven't ... yet (present perfect 2)"
+    },
+    {
+     "id": 17,
+     "title": "Have you ever ...? (present perfect 3)"
+    },
+    {
+     "id": 18,
+     "title": "How long have you ...? (present perfect 4)"
+    },
+    {
+     "id": 19,
+     "title": "for since ago"
+    },
+    {
+     "id": 20,
+     "title": "I have done (present perfect) and I did (past simple)"
+    }
+   ]
+  },
+  {
+   "title": "Страдательный залог",
+   "units": [
+    {
+     "id": 21,
+     "title": "is done was done (passive 1)"
+    },
+    {
+     "id": 22,
+     "title": "is being done has been done (passive 2)"
+    }
+   ]
+  },
+  {
+   "title": "Формы глаголов, used to",
+   "units": [
+    {
+     "id": 23,
+     "title": "be/have/do in present and past tenses"
+    },
+    {
+     "id": 24,
+     "title": "Regular and irregular verbs"
+    },
+    {
+     "id": 25,
+     "title": "I used to ..."
+    }
+   ]
+  },
+  {
+   "title": "Будущее",
+   "units": [
+    {
+     "id": 26,
+     "title": "What are you doing tomorrow?"
+    },
+    {
+     "id": 27,
+     "title": "I'm going to ..."
+    },
+    {
+     "id": 28,
+     "title": "will/shall (1)"
+    },
+    {
+     "id": 29,
+     "title": "will/shall (2)"
+    }
+   ]
+  },
+  {
+   "title": "Модальные глаголы",
+   "units": [
+    {
+     "id": 30,
+     "title": "might"
+    },
+    {
+     "id": 31,
+     "title": "can and could"
+    },
+    {
+     "id": 32,
+     "title": "must mustn't needn't"
+    },
+    {
+     "id": 33,
+     "title": "should"
+    },
+    {
+     "id": 34,
+     "title": "I have to ..."
+    },
+    {
+     "id": 35,
+     "title": "Would you like ...? I'd like ..."
+    }
+   ]
+  },
+  {
+   "title": "there и it",
+   "units": [
+    {
+     "id": 36,
+     "title": "there is there are"
+    },
+    {
+     "id": 37,
+     "title": "there was/were there has/have been"
+    },
+    {
+     "id": 38,
+     "title": "It ..."
+    }
+   ]
+  },
+  {
+   "title": "Краткие ответы и согласие",
+   "units": [
+    {
+     "id": 39,
+     "title": "I am I don't etc."
+    },
+    {
+     "id": 40,
+     "title": "Have you? Are you? Don't you? etc."
+    },
+    {
+     "id": 41,
+     "title": "too/either so am I / neither do I etc."
+    }
+   ]
+  },
+  {
+   "title": "Отрицания и вопросы",
+   "units": [
+    {
+     "id": 42,
+     "title": "isn't haven't don't etc. (negatives)"
+    },
+    {
+     "id": 43,
+     "title": "is it ...? have you ...? do they ...? etc. (questions 1)"
+    },
+    {
+     "id": 44,
+     "title": "Who saw you? Who did you see? (questions 2)"
+    },
+    {
+     "id": 45,
+     "title": "Who is she talking to? What is it like? (questions 3)"
+    },
+    {
+     "id": 46,
+     "title": "What ...? Which ...? How ...?"
+    },
+    {
+     "id": 47,
+     "title": "How long does it take ...?"
+    },
+    {
+     "id": 48,
+     "title": "Do you know where ...? I don't know what ... etc."
+    }
+   ]
+  },
+  {
+   "title": "Косвенная речь",
+   "units": [
+    {
+     "id": 49,
+     "title": "She said that ... He told me that ..."
+    }
+   ]
+  },
+  {
+   "title": "-ing и инфинитив",
+   "units": [
+    {
+     "id": 50,
+     "title": "work/working go/going do/doing"
+    },
+    {
+     "id": 51,
+     "title": "to ... (I want to do) and -ing (I enjoy doing)"
+    },
+    {
+     "id": 52,
+     "title": "I want you to ... I told you to ..."
+    },
+    {
+     "id": 53,
+     "title": "I went to the shop to ..."
+    }
+   ]
+  },
+  {
+   "title": "go, get, do, have",
+   "units": [
+    {
+     "id": 54,
+     "title": "go to ... go on ... go for ... going"
+    },
+    {
+     "id": 55,
+     "title": "get"
+    },
+    {
+     "id": 56,
+     "title": "do and make"
+    },
+    {
+     "id": 57,
+     "title": "have"
+    }
+   ]
+  },
+  {
+   "title": "Местоимения и притяжательные формы",
+   "units": [
+    {
+     "id": 58,
+     "title": "I/me he/him they/them etc."
+    },
+    {
+     "id": 59,
+     "title": "my/his/their etc."
+    },
+    {
+     "id": 60,
+     "title": "Whose is this? It's mine/yours/hers etc."
+    },
+    {
+     "id": 61,
+     "title": "I/me/my/mine"
+    },
+    {
+     "id": 62,
+     "title": "myself/yourself/themselves etc."
+    },
+    {
+     "id": 63,
+     "title": "-'s (Ann's camera / my brother's car) etc."
+    }
+   ]
+  },
+  {
+   "title": "Артикли и существительные",
+   "units": [
+    {
+     "id": 64,
+     "title": "a/an ..."
+    },
+    {
+     "id": 65,
+     "title": "flower(s) bus(es) (singular and plural)"
+    },
+    {
+     "id": 66,
+     "title": "a car / some money (countable/uncountable 1)"
+    },
+    {
+     "id": 67,
+     "title": "a car / some money (countable/uncountable 2)"
+    },
+    {
+     "id": 68,
+     "title": "a/an and the"
+    },
+    {
+     "id": 69,
+     "title": "the ..."
+    },
+    {
+     "id": 70,
+     "title": "go to work / go home / go to the cinema"
+    },
+    {
+     "id": 71,
+     "title": "I like music, I hate exams"
+    },
+    {
+     "id": 72,
+     "title": "the ... (names of places)"
+    }
+   ]
+  },
+  {
+   "title": "Определители и количество",
+   "units": [
+    {
+     "id": 73,
+     "title": "this/that/these/those"
+    },
+    {
+     "id": 74,
+     "title": "one/ones"
+    },
+    {
+     "id": 75,
+     "title": "some and any"
+    },
+    {
+     "id": 76,
+     "title": "not + any no none"
+    },
+    {
+     "id": 77,
+     "title": "not + anybody/anyone/anything nobody/no-one/nothing"
+    },
+    {
+     "id": 78,
+     "title": "somebody/anything/nowhere etc."
+    },
+    {
+     "id": 79,
+     "title": "every and all"
+    },
+    {
+     "id": 80,
+     "title": "all most some any no/none"
+    },
+    {
+     "id": 81,
+     "title": "both either neither"
+    },
+    {
+     "id": 82,
+     "title": "a lot much many"
+    },
+    {
+     "id": 83,
+     "title": "(a) little (a) few"
+    }
+   ]
+  },
+  {
+   "title": "Прилагательные, наречия, сравнения",
+   "units": [
+    {
+     "id": 84,
+     "title": "old/nice/interesting etc. (adjectives)"
+    },
+    {
+     "id": 85,
+     "title": "quickly/badly/suddenly etc. (adverbs)"
+    },
+    {
+     "id": 86,
+     "title": "old/older expensive/more expensive"
+    },
+    {
+     "id": 87,
+     "title": "older than ... more expensive than ..."
+    },
+    {
+     "id": 88,
+     "title": "not as ... as"
+    },
+    {
+     "id": 89,
+     "title": "the oldest the most expensive"
+    },
+    {
+     "id": 90,
+     "title": "enough"
+    },
+    {
+     "id": 91,
+     "title": "too"
+    }
+   ]
+  },
+  {
+   "title": "Порядок слов",
+   "units": [
+    {
+     "id": 92,
+     "title": "He speaks English very well (word order 1)"
+    },
+    {
+     "id": 93,
+     "title": "always/usually/often etc. (word order 2)"
+    },
+    {
+     "id": 94,
+     "title": "still yet already"
+    },
+    {
+     "id": 95,
+     "title": "Give me that book! Give it to me!"
+    }
+   ]
+  },
+  {
+   "title": "Предлоги времени",
+   "units": [
+    {
+     "id": 96,
+     "title": "at 8 o'clock on Monday in April"
+    },
+    {
+     "id": 97,
+     "title": "from ... to until since for"
+    },
+    {
+     "id": 98,
+     "title": "before after during while"
+    }
+   ]
+  },
+  {
+   "title": "Предлоги места и другие предлоги",
+   "units": [
+    {
+     "id": 99,
+     "title": "in at on (places 1)"
+    },
+    {
+     "id": 100,
+     "title": "in at on (places 2)"
+    },
+    {
+     "id": 101,
+     "title": "to in at (places 3)"
+    },
+    {
+     "id": 102,
+     "title": "under behind opposite etc. (prepositions)"
+    },
+    {
+     "id": 103,
+     "title": "up over through etc. (prepositions)"
+    },
+    {
+     "id": 104,
+     "title": "on at by with about (prepositions)"
+    },
+    {
+     "id": 105,
+     "title": "afraid of ... good at ... etc. (preposition + -ing)"
+    },
+    {
+     "id": 106,
+     "title": "listen to ... look at ... etc. (verb + preposition)"
+    }
+   ]
+  },
+  {
+   "title": "Фразовые глаголы",
+   "units": [
+    {
+     "id": 107,
+     "title": "go in, fall off, run away etc. (phrasal verbs 1)"
+    },
+    {
+     "id": 108,
+     "title": "put on your shoes / put your shoes on (phrasal verbs 2)"
+    }
+   ]
+  },
+  {
+   "title": "Союзы, условные и относительные придаточные",
+   "units": [
+    {
+     "id": 109,
+     "title": "and but or so because"
+    },
+    {
+     "id": 110,
+     "title": "When ..."
+    },
+    {
+     "id": 111,
+     "title": "If we go ... If you see ... etc."
+    },
+    {
+     "id": 112,
+     "title": "If I had ... If we went ... etc."
+    },
+    {
+     "id": 113,
+     "title": "a person who ... a thing that/which ... (relative clauses 1)"
+    },
+    {
+     "id": 114,
+     "title": "the people we met, the hotel you stayed at (relative clauses 2)"
+    }
+   ]
+  }
+ ],
+ "ready": [
+  1
+ ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": 100,
+  "title": "in at on (places 2)",
+  "summary": "Устойчивые сочетания с предлогами **in / at / on** для мест: in bed, at work, on a bus, on the first floor и т. д.",
+  "ru": "## Зачем это учить\nМногие сочетания с предлогами места нужно просто запомнить: по-русски мы говорим «в больнице», «на работе», «в автобусе / на автобусе», а по-английски предлог часто другой.\n> She's **in** hospital. — Она в больнице.\n> He's **at** work. — Он на работе.\n> I'm **on** the bus. — Я еду в автобусе.\n\n## in\n- **in bed**, **in hospital**, **in prison** — в постели, в больнице, в тюрьме\n- **in a street**, **in the sky**, **in the world** — на улице, в небе, в мире\n- **in a newspaper / book / photo / picture** — в газете, в книге, на фото, на картинке\n- **in a car / in a taxi** — в машине, в такси\n- **in the middle (of)** — посередине\n> There's a lamp **in the middle of** the room. — Посреди комнаты стоит лампа.\n\n## at\n- **at home, at work, at school, at university, at college** — дома, на работе, в школе, в университете\n- **at the station / the airport / the bus stop** — на вокзале, в аэропорту, на остановке\n- **at Anna's, at the doctor's, at the hairdresser's** — у Анны, у врача, в парикмахерской\n- **at a party / concert / match** — на вечеринке, на концерте, на матче\n> Is Tom **at the airport**? — Том в аэропорту?\n> We were **at a concert** last night. — Вчера вечером мы были на концерте.\nДля зданий (отель, ресторан) можно и **in**, и **at**: *We stayed at / in a nice hotel.*\n\n## on\n- **on a bus / train / plane / ship** — в автобусе, поезде, самолёте, на корабле\n- **on the ground floor / first floor / second floor** — на первом, втором, третьем этаже (по-английски ground floor — это 1-й этаж, first floor — 2-й)\n- **on the way (to ...) / on the way home** — по дороге (куда-то / домой)\n> Our flat is **on the third floor**. — Наша квартира на третьем этаже по английской нумерации.\n\n## Типичные ошибки\n- ~~She's on hospital.~~ → She's **in** hospital.\n- ~~I'm in the bus.~~ → I'm **on** the bus. (но **in a car / in a taxi**)\n- ~~The office is in the first floor.~~ → The office is **on** the first floor.\n- ~~I'm in work.~~ → I'm **at** work.",
+  "en": "## Why learn these?\nMany place expressions are fixed. The preposition is not always the one you expect.\n> She's **in** hospital.\n> He's **at** work.\n> I'm **on** the bus.\n\n## in\n- **in bed**, **in hospital**, **in prison**\n- **in a street**, **in the sky**, **in the world**\n- **in a newspaper / book / photo / picture**\n- **in a car / in a taxi**\n- **in the middle (of)**\n> There's a lamp **in the middle of** the room.\n\n## at\n- **at home, at work, at school, at university, at college**\n- **at the station / the airport / the bus stop**\n- **at Anna's, at the doctor's, at the hairdresser's**\n- **at a party / concert / match**\nFor buildings such as hotels and restaurants you can use **in** or **at**: *We stayed at / in a nice hotel.*\n\n## on\n- **on a bus / train / plane / ship**\n- **on the ground floor / first floor / second floor**\n- **on the way (to ...) / on the way home**\n> Our flat is **on the third floor**.\n\n## Common mistakes\n- ~~She's on hospital.~~ → She's **in** hospital.\n- ~~I'm in the bus.~~ → I'm **on** the bus.\n- ~~The office is in the first floor.~~ → The office is **on** the first floor.",
+  "structure": "## Быстрая таблица\n| Предлог | Сочетания |\n|---|---|\n| **in** | in bed, in hospital, in prison, in a street, in the sky, in the world, in a book, in a photo, in a car, in a taxi, in the middle of |\n| **at** | at home, at work, at school, at university, at the station, at the airport, at a party, at a concert, at Anna's, at the doctor's |\n| **on** | on a bus, on a train, on a plane, on a ship, on the first floor, on the way |\n\n## Формула\n> Подлежащее + be + **in / at / on** + место\n> She **is in** hospital. · They **are at** a party. · I **am on** a train.\n\n## Запомните\n- **in a car / taxi**, но **on a bus / train / plane**.\n- **at Anna's** = у Анны дома; **at the dentist's** = у стоматолога.\n- **on the way** — без артикля после *way*: **on the way home** (не ~~on the way to home~~).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "in, at или on?",
+      "instruction": "Вставьте **in**, **at** или **on**.",
+      "items": [
+        { "text": "My brother is ill. He's {{in}} bed." },
+        { "text": "I'll meet you {{at}} the station at six." },
+        { "text": "We were {{on}} the train when it stopped." },
+        { "text": "Peter's father is {{in}} hospital." },
+        { "text": "Is Mary {{at}} work today?" },
+        { "text": "Their flat is {{on}} the second floor." },
+        { "text": "I like the picture {{in}} the middle of the wall." },
+        { "text": "There were a lot of people {{at}} the concert." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Где они?",
+      "instruction": "Допишите предложение: **in / at / on** + слово из скобок (с артиклем, если нужно).",
+      "example": "Where's Ben? (bed) → He's **in bed**.",
+      "items": [
+        { "text": "Where is Lisa? (the doctor's) → She's {{at the doctor's}}." },
+        { "text": "Where are the Smiths? (a plane) → They're {{on a plane|on the plane}}." },
+        { "text": "Where is Tom? (home) → He's {{at home}}." },
+        { "text": "Where is your dad? (a taxi) → He's {{in a taxi|in the taxi}}." },
+        { "text": "Where are the children? (school) → They're {{at school}}." },
+        { "text": "Where is Kate? (the hairdresser's) → She's {{at the hairdresser's}}." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите предлог",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        { "q": "I read about it ___ the newspaper.", "options": ["in", "at", "on"], "answer": 0, "why": "В газете — **in the newspaper**." },
+        { "q": "We came here ___ the bus.", "options": ["in", "on", "at"], "answer": 1, "why": "Общественный транспорт (bus, train, plane) — **on**." },
+        { "q": "Where's Dan? — He's ___ university.", "options": ["in", "on", "at"], "answer": 2, "why": "**at university** — учится в университете." },
+        { "q": "The shop is ___ the ground floor.", "options": ["on", "in", "at"], "answer": 0, "why": "Этаж — **on the ... floor**." },
+        { "q": "She's the best player ___ the world.", "options": ["on", "in", "at"], "answer": 1, "why": "**in the world** — в мире." },
+        { "q": "I met Jack ___ the way home.", "options": ["in", "at", "on"], "answer": 2, "why": "**on the way home** — по дороге домой." },
+        { "q": "My uncle is ___ prison.", "options": ["in", "at", "on"], "answer": 0, "why": "**in prison** — в тюрьме." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Она сейчас на работе»?", "options": ["She's in work.", "She's at work.", "She's on work."], "answer": 1, "why": "**at work**." },
+        { "q": "Как сказать «Он едет в такси»?", "options": ["He's on a taxi.", "He's at a taxi.", "He's in a taxi."], "answer": 2, "why": "Такси и машина — **in**." },
+        { "q": "Как сказать «Мы были на вечеринке»?", "options": ["We were at a party.", "We were in a party.", "We were on a party."], "answer": 0, "why": "События — **at a party / concert**." },
+        { "q": "Как сказать «Офис на втором этаже»?", "options": ["The office is in the second floor.", "The office is on the second floor.", "The office is at the second floor."], "answer": 1, "why": "Этаж — **on**." },
+        { "q": "Как сказать «Он в больнице»?", "options": ["He's at hospital.", "He's on hospital.", "He's in hospital."], "answer": 2, "why": "**in hospital** — лежит в больнице." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Письмо подруге",
+      "instruction": "Вставьте **in**, **at** или **on** в короткий текст.",
+      "items": [
+        { "text": "Hi Nora! I'm writing this {{on}} the train. I'm on my way to Osh." },
+        { "text": "My sister is {{in}} hospital, so I'm going to see her." },
+        { "text": "She is a nurse, but she isn't {{at}} work now." },
+        { "text": "I'll be {{at}} the station at four o'clock." },
+        { "text": "Her room is {{on}} the first floor." },
+        { "text": "There is a lovely photo of us {{in}} the middle of her table." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение со словами в скобках и подходящим предлогом.",
+      "items": [
+        { "prompt": "(my parents / at / home / now)", "answers": ["My parents are at home now.", "My parents are at home now"] },
+        { "prompt": "(the picture / in / the middle of / the wall)", "answers": ["The picture is in the middle of the wall."] },
+        { "prompt": "(we / on / the bus / to school)", "answers": ["We are on the bus to school.", "We're on the bus to school."] },
+        { "prompt": "(Tom's mother / in / hospital)", "answers": ["Tom's mother is in hospital.", "Tom's mother's in hospital."] },
+        { "prompt": "(I / at / the airport / now)", "answers": ["I'm at the airport now.", "I am at the airport now."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите, выбрав правильный предлог.",
+      "items": [
+        { "prompt": "Моя сестра в университете.", "answers": ["My sister is at university.", "My sister's at university.", "My sister is at the university.", "My sister's at the university."] },
+        { "prompt": "Мы в автобусе.", "answers": ["We're on the bus.", "We are on the bus.", "We're on a bus.", "We are on a bus."] },
+        { "prompt": "Я видела этого человека в газете.", "answers": ["I saw this man in the newspaper.", "I saw that man in the newspaper.", "I saw this man in a newspaper.", "I saw this person in the newspaper."] },
+        { "prompt": "Она у врача.", "answers": ["She's at the doctor's.", "She is at the doctor's."] },
+        { "prompt": "Моя квартира на пятом этаже.", "answers": ["My flat is on the fifth floor.", "My apartment is on the fifth floor.", "My flat's on the fifth floor."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Where are you now?", "sample": "I'm at home. I'm in my room." },
+        { "prompt": "Where do you usually spend the day? (at work / at university ...)", "sample": "I'm at university from nine to three." },
+        { "prompt": "How do you go to work or school? (on a bus / in a car ...)", "sample": "I go to school on the bus." },
+        { "prompt": "On which floor do you live?", "sample": "I live on the fourth floor." },
+        { "prompt": "Where were you last Saturday evening?", "sample": "I was at my friend's." }
+      ]
+    }
+  ]
+}

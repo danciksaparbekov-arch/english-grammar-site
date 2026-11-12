@@ -1,0 +1,104 @@
+{
+  "id": 30,
+  "title": "might",
+  "summary": "**might** + глагол: что-то возможно, но не точно («может быть, возможно»). Используем, когда говорим о планах и событиях, в которых не уверены.",
+  "ru": "## Когда используем might\nКогда мы **не уверены**, что что-то случится или так и есть, мы говорим **might** («может быть, возможно»).\n> I might go to the cinema tonight. — Возможно, я схожу в кино вечером.\n> It might rain. — Может пойти дождь.\n> She might be at home. — Возможно, она дома.\n\n## Как строится\n**might + глагол в начальной форме** (без to, без -s). Для всех лиц форма одна и та же.\n> He **might come** to the party. — Он, возможно, придёт на вечеринку.\n> They **might be** late. — Они, возможно, опоздают.\nВнимание: ~~He mights come.~~ → He **might** come. ~~She might to go.~~ → She might go.\n\n## Уверен или нет?\nСравните «точно» и «возможно»:\n> I'm playing tennis tomorrow. — Я играю в теннис завтра. (всё решено)\n> I **might** play tennis tomorrow. — Возможно, я сыграю в теннис завтра. (пока не знаю)\n> Anna is going to call me. — Анна позвонит мне. (точно)\n> Anna **might** call me. — Анна, возможно, позвонит. (не точно)\n\n## Отрицание: might not\n**might not** значит «возможно, не…» — это не «нельзя».\n> I might not go to work tomorrow. — Возможно, я не пойду завтра на работу.\n> Sam might not come. — Сэм, возможно, не придёт.\nКраткая форма *mightn't* встречается редко — лучше говорить **might not**.\n\n## Короткий ответ\nМожно ответить одним словом **I might.**\n> Are you going out tonight? — I might. (= I might go out.)\n> Will she say yes? — She might. (= Она, возможно, согласится.)\n\n## might и may\nПочти то же самое можно сказать через **may**: I may go = I might go.\n> It may snow tomorrow. = It might snow tomorrow.\nНо в вопросах **might** не используем: ~~Might you come?~~ → Are you going to come? / Will you come?\n\n## Типичные ошибки\n- ~~I might to be late.~~ → I might **be** late.\n- ~~She might comes.~~ → She might **come**.\n- ~~Maybe he might to help.~~ → He **might** help. (достаточно одного слова: maybe ИЛИ might)",
+  "en": "## When do we use might?\nWe use **might** when something is possible, but we are not sure. It means \"perhaps\".\n> I might go to the cinema tonight.\n> It might rain.\n> She might be at home.\n\n## How to make it\n**might + base verb** (no to, no -s). The form is the same for every person.\n> He **might come** to the party.\n> They **might be** late.\nNot: ~~He mights come.~~ ~~She might to go.~~\n\n## Sure or not sure?\n> I'm playing tennis tomorrow. (it is arranged)\n> I **might** play tennis tomorrow. (it is possible)\n> Anna is going to call me. (sure)\n> Anna **might** call me. (not sure)\n\n## Negative: might not\n> I might not go to work tomorrow. (= perhaps I won't go)\n> Sam might not come.\n\n## Short answers\n> Are you going out tonight? — I might.\n> Will she say yes? — She might.\n\n## might and may\nYou can use **may** in the same way: I may go = I might go.\n> It may snow tomorrow. = It might snow tomorrow.\n\n## Common mistakes\n- ~~I might to be late.~~ → I might **be** late.\n- ~~She might comes.~~ → She might **come**.",
+  "structure": "## Утверждение\n| Подлежащее | might | Глагол |\n|---|---|---|\n| I / we / you / they | might | go / play / be |\n| he / she / it | might | come / rain / be |\n\n## Отрицание\n| Подлежащее | might not | Глагол |\n|---|---|---|\n| I / we / you / they | might not | go / be |\n| he / she / it | might not | come / rain |\n\n## Формула\n> Подлежащее + **might (not)** + глагол без to\n> We **might go** out. · He **might not know** the answer.\n\n## Важно\n- после **might** никогда не ставим **to**, и никогда не добавляем **-s**;\n- в вопросе вместо might говорим **Do you think ... will ...?** или **Are you going to ...?**;\n- **might** = **may** в значении «возможно»;\n- **I might.** — короткий ответ («Возможно.»).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Продолжите предложение с might",
+      "instruction": "Вставьте **might** или **might not** и глагол из подсказки.",
+      "example": "I'm not sure if he's busy. → He **might be** busy.",
+      "items": [
+        { "text": "I haven't decided yet. I {{might go|might travel}} to Almaty next week.", "hint": "go / travel" },
+        { "text": "The sky is grey. It {{might rain}} later.", "hint": "rain" },
+        { "text": "I don't know where Dan is. He {{might be}} in the garden.", "hint": "be" },
+        { "text": "Take a coat. It {{might be}} cold in the evening.", "hint": "be" },
+        { "text": "Kate is very tired. She {{might not come|might not go}} to the party.", "hint": "not / come" },
+        { "text": "We {{might not have}} enough time to visit the museum.", "hint": "not / have" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Короткие ответы",
+      "instruction": "Ответьте коротко: **I might** или **I might not**, как подсказано в скобках.",
+      "items": [
+        { "text": "Are you going shopping? — {{I might}}. (возможно, пойду)" },
+        { "text": "Will you stay at home tonight? — {{I might not}}. (возможно, нет)" },
+        { "text": "Is Lisa coming with us? — She {{might}}. (возможно, да)" },
+        { "text": "Do you want to see this film? — {{I might}}. (возможно, да)" },
+        { "text": "Are they going to win the game? — They {{might not}}. (возможно, нет)" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Уверен или не уверен",
+      "instruction": "Выберите вариант, который подходит по смыслу.",
+      "items": [
+        { "q": "I don't know my plans. I ___ visit my aunt on Sunday.", "options": ["am visiting", "might visit", "visits"], "answer": 1, "why": "Не уверен → **might visit**." },
+        { "q": "I've bought the tickets. We ___ to Rome on Friday.", "options": ["might fly", "might to fly", "are flying"], "answer": 2, "why": "Всё решено, билеты куплены → точный план: **are flying**." },
+        { "q": "Be careful! You ___ fall.", "options": ["might fall", "might falls", "might to fall"], "answer": 0, "why": "После might — глагол без -s и без to." },
+        { "q": "He ___ know the answer. Let's ask him.", "options": ["mights", "might", "might to"], "answer": 1, "why": "Форма **might** одинакова для всех лиц." },
+        { "q": "Perhaps they will be late. = They ___ late.", "options": ["might be", "might are", "might to be"], "answer": 0, "why": "might + **be**." },
+        { "q": "Sam isn't sure about the trip. He ___ go.", "options": ["doesn't might", "might not", "not might"], "answer": 1, "why": "Отрицание — **might not**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Возможно, она придёт»?", "options": ["She might comes.", "She might come.", "She might to come."], "answer": 1, "why": "might + глагол без -s и без to." },
+        { "q": "Как сказать «Возможно, я не пойду»?", "options": ["I don't might go.", "I might not go.", "I not might go."], "answer": 1, "why": "Отрицание ставится после might: **might not**." },
+        { "q": "Как ответить на «Are you hungry?» («Возможно»)?", "options": ["I might.", "I mights.", "I might to."], "answer": 0, "why": "Короткий ответ: **I might.**" },
+        { "q": "Какое предложение значит «Я точно играю завтра»?", "options": ["I might play tomorrow.", "I'm playing tomorrow.", "I might not play tomorrow."], "answer": 1, "why": "Точный план — present continuous: **I'm playing**." },
+        { "q": "Какое предложение верное?", "options": ["It might rains.", "It might raining.", "It might rain."], "answer": 2, "why": "После might — только начальная форма: **rain**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение с **might** из слов.",
+      "items": [
+        { "prompt": "(Tom / might / be / at work)", "answers": ["Tom might be at work."] },
+        { "prompt": "(we / might / go / to the beach / tomorrow)", "answers": ["We might go to the beach tomorrow.", "Tomorrow we might go to the beach."] },
+        { "prompt": "(I / might not / have / time)", "answers": ["I might not have time."] },
+        { "prompt": "(it / might / snow / tonight)", "answers": ["It might snow tonight.", "Tonight it might snow."] },
+        { "prompt": "(they / might not / come / to the meeting)", "answers": ["They might not come to the meeting."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **might**.",
+      "items": [
+        { "prompt": "Возможно, он дома.", "answers": ["He might be at home.", "He might be home."] },
+        { "prompt": "Возможно, завтра пойдёт дождь.", "answers": ["It might rain tomorrow.", "Tomorrow it might rain."] },
+        { "prompt": "Я, возможно, куплю новый телефон.", "answers": ["I might buy a new phone.", "I might buy a new mobile phone."] },
+        { "prompt": "Они, возможно, не придут.", "answers": ["They might not come."] },
+        { "prompt": "Она, возможно, голодна.", "answers": ["She might be hungry."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте о себе предложениями с **might**. Проверьте по образцу.",
+      "items": [
+        { "prompt": "What might you do this weekend?", "sample": "I might visit my friends. I might also watch a film." },
+        { "prompt": "Where might you go on holiday this year?", "sample": "I might go to the mountains." },
+        { "prompt": "Something you might buy soon", "sample": "I might buy a new bag." },
+        { "prompt": "Something you might not do tomorrow", "sample": "I might not get up early." },
+        { "prompt": "What might the weather be like tomorrow?", "sample": "It might be sunny, but it might also be windy." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": 16,
+  "title": "I've just ... I've already ... I haven't ... yet (present perfect 2)",
+  "summary": "Present perfect со словами **just** (только что), **already** (уже) и **yet** (ещё не / уже ли) — о событиях, которые важны сейчас.",
+  "ru": "## Три слова, три смысла\nК present perfect (**have / has + причастие**) часто добавляют маленькие слова. Они показывают, насколько недавно что-то произошло или ждём ли мы этого.\n- **just** — «только что», совсем недавно\n- **already** — «уже» (раньше, чем ожидали)\n- **yet** — «ещё (не)» в отрицании и «уже (ли)» в вопросе\n\n## just — только что\nСтавим между **have/has** и причастием.\n> I've **just** finished my homework. — Я только что закончила домашку.\n> He's **just** left. — Он только что ушёл.\n> They've **just** arrived. — Они только что приехали.\n\n## already — уже\nТоже стоит перед причастием (иногда в конце предложения). Часто в нём есть оттенок «так быстро!» или «раньше, чем я думала».\n> It's only 8 o'clock and she has **already** gone to work. — Всего 8 часов, а она уже ушла на работу.\n> I've **already** seen this film. — Я уже видела этот фильм.\n\n## yet — ещё не / уже ли\n**yet** используем только в отрицаниях и вопросах, и стоит он **в конце** предложения.\n> I haven't called her **yet**. — Я ещё не позвонила ей. (но собираюсь)\n> Has the film started **yet**? — Фильм уже начался?\n> — Have you eaten **yet**? — No, **not yet**. — Ты уже поела? — Нет, ещё нет.\n\n## Сравнение с русским\nПо-русски мы говорим «я только что поела» или «я уже поела» в прошедшем времени. В английском для результата «сейчас» нужно present perfect, а не past simple (в британском варианте).\n\n## Типичные ошибки\n- ~~I have yet finished.~~ → I haven't finished **yet**. (yet — в конце, в отрицании)\n- В вопросе «уже ли?» обычно говорят **Have you eaten yet?** (already в вопросе звучит как удивление).\n- ~~She just has arrived.~~ → She has **just** arrived. (слово после have)\n- ~~I haven't done it already.~~ → I haven't done it **yet**.",
+  "en": "## Three small words\nWe often add **just**, **already** and **yet** to the present perfect (**have / has + past participle**). They tell us how recent something is, or whether we expect it.\n- **just** = a very short time ago\n- **already** = before we expected\n- **yet** = until now (in negative sentences and questions)\n\n## just\nIt goes between **have/has** and the past participle.\n> I've **just** finished my homework.\n> He's **just** left.\n> They've **just** arrived.\n\n## already\nIt also goes before the past participle. It often means \"sooner than expected\".\n> It's only 8 o'clock and she has **already** gone to work.\n> I've **already** seen this film.\n\n## yet\nWe use **yet** in negative sentences and in questions. It is usually at the **end**.\n> I haven't called her **yet**. (but I will soon)\n> Has the film started **yet**?\n> — Have you eaten **yet**? — No, **not yet**.\n\n## Common mistakes\n- ~~I have yet finished.~~ → I haven't finished **yet**.\n- ~~She just has arrived.~~ → She has **just** arrived.\n- ~~I haven't done it already.~~ → I haven't done it **yet**.",
+  "structure": "## Положение слов\n| Слово | Где стоит | Пример |\n|---|---|---|\n| just | между have/has и причастием | I've **just** woken up. |\n| already | между have/has и причастием (или в конце) | She's **already** left. |\n| yet | в конце (в отрицании и вопросе) | They haven't come **yet**. |\n\n## Формы\n| Утверждение | Отрицание | Вопрос |\n|---|---|---|\n| I've just eaten. | I haven't eaten yet. | Have you eaten yet? |\n| She has already gone. | She hasn't gone yet. | Has she gone yet? |\n\n## Краткие ответы\n- Yes, I have. / No, I haven't.\n- Yes, she has. / No, she hasn't.\n- **No, not yet.** — Нет, ещё нет.\n\n## Формула\n> have / has + (**just / already**) + past participle · have / has + not + past participle + **yet**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Just: что только что произошло",
+      "instruction": "Поставьте глагол в скобках в present perfect и добавьте **just**.",
+      "example": "She (arrive) → She has **just arrived**.",
+      "items": [
+        { "text": "I {{have just finished|'ve just finished}} my lunch.", "hint": "finish" },
+        { "text": "He {{has just gone|'s just gone}} out.", "hint": "go" },
+        { "text": "We {{have just bought|'ve just bought}} a new car.", "hint": "buy" },
+        { "text": "The shop {{has just opened|'s just opened}}.", "hint": "open" },
+        { "text": "They {{have just seen|'ve just seen}} a very good film.", "hint": "see" },
+        { "text": "My sister {{has just called|'s just called}} me.", "hint": "call" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Already: так быстро!",
+      "instruction": "Напишите предложение с **already** в present perfect.",
+      "example": "Do you want some coffee? (I / drink) → I've already drunk some.",
+      "items": [
+        { "text": "Please clean your room. — I {{have already cleaned|'ve already cleaned}} it.", "hint": "clean" },
+        { "text": "Are you going to phone Tom? — I {{have already phoned|'ve already phoned}} him.", "hint": "phone" },
+        { "text": "When will Anna come? — She {{has already come|'s already come}}.", "hint": "come" },
+        { "text": "Don't forget your keys. — I {{have already taken|'ve already taken}} them.", "hint": "take" },
+        { "text": "Let's watch this film. — I {{have already seen|'ve already seen}} it twice.", "hint": "see" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите слово",
+      "instruction": "Выберите **just**, **already** или **yet**.",
+      "items": [
+        { "q": "I haven't read this book ___.", "options": ["just", "already", "yet"], "answer": 2, "why": "В отрицании «ещё не» — **yet** в конце." },
+        { "q": "Wait a minute! I've ___ come home, I'm tired.", "options": ["just", "yet", "already"], "answer": 0, "why": "«Только что» — **just**." },
+        { "q": "Have you done your homework ___?", "options": ["just", "yet", "already"], "answer": 1, "why": "В вопросе «уже ли» — **yet** в конце." },
+        { "q": "It's 6 a.m. and he has ___ started working.", "options": ["already", "yet", "ever"], "answer": 0, "why": "Раньше, чем ожидали — **already**." },
+        { "q": "Is Kate here? — No, she hasn't arrived ___.", "options": ["already", "just", "yet"], "answer": 2, "why": "Отрицание + «ещё» → **yet**." },
+        { "q": "Don't tell me the story. I've ___ heard it.", "options": ["yet", "already", "not"], "answer": 1, "why": "Утверждение «уже» → **already**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "«Он ещё не позвонил».", "options": ["He hasn't called yet.", "He hasn't yet called already.", "He doesn't call yet."], "answer": 0, "why": "have/has + not + причастие + **yet**." },
+        { "q": "«Они только что вышли».", "options": ["They just have left.", "They have just left.", "They have left just."], "answer": 1, "why": "**just** стоит между have и причастием." },
+        { "q": "«Ты уже видела этот фильм?»", "options": ["Do you see this film yet?", "Have you seen this film yet?", "Did you have seen this film yet?"], "answer": 1, "why": "Вопрос в present perfect: **Have you seen ... yet?**" },
+        { "q": "«Я уже поел».", "options": ["I have already eaten.", "I already am eating.", "I have eaten yet."], "answer": 0, "why": "**already** между have и причастием." },
+        { "q": "Ответ «Нет, ещё нет».", "options": ["No, not already.", "No, not yet.", "No, yet."], "answer": 1, "why": "Краткий ответ — **No, not yet.**" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Yet: отрицание и вопрос",
+      "instruction": "Допишите предложения с **yet**.",
+      "items": [
+        { "text": "I'm hungry. I {{haven't eaten|have not eaten}} {{yet}}.", "hint": "not / eat" },
+        { "text": "{{Has}} Ben {{arrived}} yet?", "hint": "have / arrive" },
+        { "text": "They {{haven't decided|have not decided}} what to do {{yet}}.", "hint": "not / decide" },
+        { "text": "{{Have}} you {{paid}} the bill yet?", "hint": "have / pay" },
+        { "text": "She {{hasn't finished|has not finished}} her book {{yet}}.", "hint": "not / finish" },
+        { "text": "{{Have}} the children {{gone}} to bed yet?", "hint": "have / go" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение в present perfect со словом в скобках.",
+      "items": [
+        { "prompt": "(Tom / just / go / home)", "answers": ["Tom has just gone home.", "Tom's just gone home."] },
+        { "prompt": "(we / not / see / that film / yet)", "answers": ["We haven't seen that film yet.", "We have not seen that film yet."] },
+        { "prompt": "(she / already / write / the letter)", "answers": ["She has already written the letter.", "She's already written the letter."] },
+        { "prompt": "(you / do / the shopping / yet?)", "answers": ["Have you done the shopping yet?"] },
+        { "prompt": "(I / just / lose / my phone)", "answers": ["I've just lost my phone.", "I have just lost my phone."] },
+        { "prompt": "(they / not / come / yet)", "answers": ["They haven't come yet.", "They have not come yet."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя **just / already / yet**.",
+      "items": [
+        { "prompt": "Что вы только что сделали?", "sample": "I've just had breakfast." },
+        { "prompt": "Что вы уже сделали сегодня?", "sample": "I've already checked my email and washed the dishes." },
+        { "prompt": "Что вы ещё не сделали сегодня?", "sample": "I haven't called my friend yet." },
+        { "prompt": "Спросите друга, ужинал ли он.", "sample": "Have you had dinner yet?" },
+        { "prompt": "Что вы уже сделали на этой неделе?", "sample": "I've already finished two big tasks at work." }
+      ]
+    }
+  ]
+}

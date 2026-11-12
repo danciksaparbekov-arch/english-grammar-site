@@ -1,0 +1,108 @@
+{
+  "id": 86,
+  "title": "old/older expensive/more expensive",
+  "summary": "Сравнительная степень прилагательных: **older**, **more expensive** — когда мы говорим, что кто-то или что-то «более …».",
+  "ru": "## Что такое сравнительная степень\nКогда мы сравниваем двух людей или две вещи, прилагательное меняет форму. В русском: «старый → старше», «дорогой → дороже». В английском есть два способа: добавить **-er** или поставить слово **more** перед прилагательным.\n> My bag is **heavier** than yours. — Моя сумка тяжелее твоей.\n> This book is **more interesting**. — Эта книга интереснее.\n\n## Короткие слова: -er\nОдносложные прилагательные получают **-er**.\n> old → **older** · slow → **slower** · cheap → **cheaper**\n- если слово заканчивается на **-e**, добавляем только **-r**: nice → **nicer**, late → **later**\n- одна гласная + одна согласная в конце — согласную удваиваем: big → **bigger**, hot → **hotter**\n- слова на **-y** меняют y на **-ier**: easy → **easier**, heavy → **heavier**\n> Today is **hotter** than yesterday. — Сегодня жарче, чем вчера.\n\n## Длинные слова: more\nПрилагательные из двух и более слогов (особенно на -ful, -ous, -ing, -ant) используют **more**. Окончание **-er** к ним не добавляем.\n> careful → **more careful** · modern → **more modern** · expensive → **more expensive**\n> You must be **more careful**. — Ты должен быть осторожнее.\n\n## Особые формы\n- good / well → **better**\n- bad → **worse**\n- far → **further** (или farther)\n> I feel **better** today. — Сегодня я чувствую себя лучше.\n> The weather is **worse** than yesterday. — Погода хуже, чем вчера.\n\n## Типичные ошибки\n- ~~more old~~ → **older** (короткое слово — только -er)\n- ~~more cheap~~ → **cheaper**\n- ~~more easy~~ → **easier**\n- ~~more good~~ → **better**\n- ~~interestinger~~ → **more interesting**\n- ~~more better~~ → **better** (два сравнения сразу — ошибка)",
+  "en": "## What is a comparative?\nWe use a comparative when we compare two people or things. The adjective changes its form. There are two ways: add **-er** or put **more** before the adjective.\n> My bag is **heavier** than yours.\n> This book is **more interesting**.\n\n## Short words: -er\nOne-syllable adjectives take **-er**.\n> old → **older** · slow → **slower** · cheap → **cheaper**\n- ending in -e: add -r only: nice → **nicer**\n- one vowel + one consonant: double the consonant: big → **bigger**, hot → **hotter**\n- ending in -y: change y to **-ier**: easy → **easier**, heavy → **heavier**\n\n## Long words: more\nAdjectives with two or more syllables (careful, modern, expensive, interesting) use **more**. We don't add -er to them.\n> careful → **more careful** · expensive → **more expensive**\n> You must be **more careful**.\n\n## Special forms\n- good / well → **better**\n- bad → **worse**\n- far → **further**\n> I feel **better** today. The weather is **worse** than yesterday.\n\n## Common mistakes\n- ~~more old~~ → **older**\n- ~~more cheap~~ → **cheaper**\n- ~~more good~~ → **better**\n- ~~more better~~ → **better**",
+  "structure": "## Как образуется сравнительная степень\n| Тип слова | Правило | Пример |\n|---|---|---|\n| 1 слог | + **-er** | old → older, slow → slower |\n| 1 слог на -e | + **-r** | nice → nicer, late → later |\n| 1 слог: гласная + согласная | удвоить согласную + **-er** | big → bigger, hot → hotter |\n| на -y | **-ier** | easy → easier, heavy → heavier |\n| 2+ слога | **more** + слово | careful → more careful |\n| исключения | особые формы | good → better, bad → worse, far → further |\n\n## Формула\n> Подлежащее + be + **comparative** (+ than ...)\n> My room is **bigger**. · This film is **more boring**.\n\n## Полезные примеры\n- **Is it cheaper to go by bus?** — Дешевле ли ехать на автобусе?\n- **I want a bigger flat.** — Я хочу квартиру побольше.\n- **Do you feel better?** — Тебе лучше?",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Напишите сравнительную степень",
+      "instruction": "Напишите сравнительную форму прилагательного.",
+      "example": "old → **older**",
+      "items": [
+        { "text": "strong → {{stronger}}" },
+        { "text": "happy → {{happier}}" },
+        { "text": "modern → {{more modern}}" },
+        { "text": "large → {{larger}}" },
+        { "text": "good → {{better}}" },
+        { "text": "serious → {{more serious}}" },
+        { "text": "pretty → {{prettier}}" },
+        { "text": "crowded → {{more crowded}}" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Закончите предложения",
+      "instruction": "Вставьте сравнительную степень слова в скобках.",
+      "items": [
+        { "text": "My phone is very old. I want a {{newer}} one.", "hint": "new" },
+        { "text": "This exercise is too easy. I want something {{more difficult}}.", "hint": "difficult" },
+        { "text": "You're not very tall. Your brother is {{taller}}.", "hint": "tall" },
+        { "text": "It's cold today, but yesterday it was {{colder}}.", "hint": "cold" },
+        { "text": "I don't like this place. It's too noisy. I want a {{quieter}} place.", "hint": "quiet" },
+        { "text": "My English is bad, but my brother's English is {{worse}}.", "hint": "bad" },
+        { "text": "Is it {{cheaper}} to go by bus or by train?", "hint": "cheap" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "This bag is ___ than that one.", "options": ["heavier", "more heavy", "heavyer"], "answer": 0, "why": "Слово на -y: y → **ier**: heavy → **heavier**." },
+        { "q": "Be ___! The glass is very thin.", "options": ["carefuler", "more careful", "more carefully"], "answer": 1, "why": "Длинное прилагательное → **more careful**." },
+        { "q": "The weather today is ___ than yesterday.", "options": ["more good", "gooder", "better"], "answer": 2, "why": "good → **better** (особая форма)." },
+        { "q": "My new flat is ___ than my old one.", "options": ["more big", "bigger", "biger"], "answer": 1, "why": "big → **bigger** (удваиваем g)." },
+        { "q": "Math is ___ than English for me.", "options": ["more hard", "harder", "hardder"], "answer": 1, "why": "Короткое слово hard → **harder**." },
+        { "q": "I feel ill. Yesterday I felt bad, today I feel ___.", "options": ["worse", "more bad", "badder"], "answer": 0, "why": "bad → **worse**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Рим старше, чем Лондон»?", "options": ["Rome is more old than London.", "Rome is older than London.", "Rome is olderer than London."], "answer": 1, "why": "old → **older**." },
+        { "q": "Как сказать «Эта книга интереснее»?", "options": ["This book is more interesting.", "This book is interestinger.", "This book is more interester."], "answer": 0, "why": "Длинное слово → **more interesting**." },
+        { "q": "Как сказать «Дальше»?", "options": ["farer", "further", "more far"], "answer": 1, "why": "far → **further**." },
+        { "q": "Как сказать «Позже»?", "options": ["later", "latter than", "more late"], "answer": 0, "why": "late → **later**." },
+        { "q": "Как сказать «Она счастливее»?", "options": ["She is more happy.", "She is happier.", "She is happyer."], "answer": 1, "why": "happy → **happier**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Напишите противоположное",
+      "instruction": "Напишите слово с противоположным значением (сравнительная степень).",
+      "example": "younger → **older**",
+      "items": [
+        { "prompt": "colder", "answers": ["hotter", "warmer"] },
+        { "prompt": "cheaper", "answers": ["more expensive"] },
+        { "prompt": "better", "answers": ["worse"] },
+        { "prompt": "easier", "answers": ["harder", "more difficult"] },
+        { "prompt": "nearer", "answers": ["further", "farther"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте сравнительную степень.",
+      "items": [
+        { "prompt": "Эта сумка тяжелее.", "answers": ["This bag is heavier.", "This bag's heavier."] },
+        { "prompt": "Мне нужна квартира побольше.", "answers": ["I need a bigger flat.", "I need a bigger apartment.", "I want a bigger flat.", "I want a bigger apartment."] },
+        { "prompt": "Сегодня холоднее.", "answers": ["It's colder today.", "It is colder today.", "Today it's colder.", "Today it is colder."] },
+        { "prompt": "Это более интересно.", "answers": ["It's more interesting.", "It is more interesting.", "This is more interesting.", "That's more interesting."] },
+        { "prompt": "Мне сегодня лучше.", "answers": ["I feel better today.", "I'm better today.", "I am better today."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте сравнительную степень.",
+      "items": [
+        { "prompt": "Что дешевле в вашем городе: автобус или такси?", "sample": "A bus is cheaper than a taxi." },
+        { "prompt": "Какое время года для вас лучше всего? Почему? (используйте comparative)", "sample": "Summer is better than winter. It's warmer." },
+        { "prompt": "Хотите ли вы что-то более интересное, чем ваша работа/учёба?", "sample": "I want something more interesting." },
+        { "prompt": "Сравните двух членов вашей семьи.", "sample": "My brother is taller than my sister." }
+      ]
+    }
+  ]
+}

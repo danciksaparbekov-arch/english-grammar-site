@@ -1,0 +1,91 @@
+{
+  "id": 45,
+  "title": "Who is she talking to? What is it like? (questions 3)",
+  "summary": "В вопросах с who / what / where / which предлог идёт в конец; вопрос **What is it like?** значит «Какой он / она / оно?».",
+  "ru": "## Предлог в конце вопроса\nВ русском предлог стоит перед вопросительным словом: «**С кем** она говорит?», «**О чём** ты думаешь?». В английском предлог обычно уходит **в конец** вопроса.\n> Julia is talking to somebody. → **Who** is she talking **to**? — С кем она говорит?\n> What are you thinking **about**? — О чём ты думаешь?\n> Where are you **from**? — Откуда ты?\n> Which hall is the concert **in**? — В каком зале концерт?\n> Who do these keys belong **to**? — Кому принадлежат эти ключи?\n\n## Короткие вопросы\nВ разговоре часто хватает двух слов:\n> I'm going on holiday. — **Who with?** — С кем?\n> I need to talk to you. — **What about?** — О чём?\n\n## What is it like?\nВопрос **What is it like?** значит «Какой он? Расскажи о нём». Здесь **like** — предлог («подобный чему?»), а не глагол «нравиться».\n> A: There's a new café near my house. B: **What's it like?** — Какое оно?\n> A: **What's** your new teacher **like**? B: She's very kind. — Какая у тебя новая учительница?\n> A: **What was** the weather **like**? B: It was sunny. — Какая была погода?\n> **What are** your neighbours **like**? — Какие у тебя соседи?\n\n## Сравните: like как глагол\n- **Do you like** your new flat? — Тебе нравится твоя новая квартира? (глагол like, нужен do)\n- **What's** your new flat **like**? — Какая у тебя новая квартира? (предлог like, нужен be)\n\n## Типичные ошибки\n- ~~To whom are you talking?~~ звучит слишком формально → **Who are you talking to?**\n- ~~Who you are talking to?~~ → **Who are you talking to?**\n- ~~What is she like?~~ ≠ ~~What does she like?~~ — это разные вопросы!",
+  "en": "## Prepositions at the end\nIn questions with who, what, where and which, the preposition (to, from, with, about, in ...) usually goes at the end.\n> Julia is talking to somebody. → **Who** is she talking **to**?\n> What are you thinking **about**?\n> Where are you **from**?\n> Which hall is the concert **in**?\n> Who do these keys belong **to**?\n\n## Short questions\n> I'm going on holiday. — **Who with?**\n> I need to talk to you. — **What about?**\n\n## What is it like?\nWe use **What is it like?** to ask for a description. Here **like** is a preposition, not the verb *like*.\n> A: There's a new café near my house. B: **What's it like?**\n> **What's** your new teacher **like**? — She's very kind.\n> **What was** the weather **like**? — It was sunny.\n> **What are** your neighbours **like**?\n\n## Compare\n- **Do you like** your new flat? (verb like, we need do)\n- **What's** your new flat **like**? (preposition like, we need be)\n\n## Common mistakes\n- ~~Who you are talking to?~~ → **Who are you talking to?**\n- ~~What does she like?~~ is not the same as **What is she like?**",
+  "structure": "## Порядок слов\n| Вопросительное слово | Вспом. глагол | Подлежащее | Глагол | Предлог |\n|---|---|---|---|---|\n| Who | is | she | talking | to? |\n| What | are | you | looking | at? |\n| Where | do | you | come | from? |\n| Which bus | did | you | go | on? |\n\n## What is ... like?\n| Вопрос | Значение |\n|---|---|\n| What's the food like? | Какая там еда? |\n| What are your parents like? | Какие у тебя родители? |\n| What was the film like? | Какой был фильм? |\n\n## Формулы\n> **Who/What/Where** + be/do + подлежащее + глагол + **предлог**\n> **What** + be + подлежащее + **like**?\n\n## Полезные глаголы с предлогами\n- look **at**, look **for**, listen **to**, talk **to**, wait **for**, think **about**, be afraid **of**, belong **to**, be **from**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вопрос о недостающей информации",
+      "instruction": "Вставьте нужное слово, чтобы получился вопрос.",
+      "items": [
+        { "text": "The letter is from somebody. → Who is the letter {{from}}?" },
+        { "text": "I'm looking for something. → What are you looking {{for}}?" },
+        { "text": "I went to the cinema with somebody. → Who did you go to the cinema {{with}}?" },
+        { "text": "The film was about something. → What was the film {{about}}?" },
+        { "text": "She gave the money to somebody. → Who did she give the money {{to}}?" },
+        { "text": "They are waiting for somebody. → Who are they {{waiting}} for?" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "What ... like?",
+      "instruction": "Вставьте **is / are / was / were** или **like**.",
+      "items": [
+        { "text": "A: What's your new job {{like}}? B: It's interesting." },
+        { "text": "A: What {{are}} your neighbours like? B: They're very nice." },
+        { "text": "A: What {{was}} the hotel like? B: It was clean but small." },
+        { "text": "A: What {{were}} the shops like? B: They were expensive." },
+        { "text": "A: What's the weather {{like}} today? B: It's rainy." },
+        { "text": "A: What {{is|'s}} your sister like? B: She's funny and friendly." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вопрос",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "I'm afraid of something. ___", "options": ["What are you afraid of?", "Of what you are afraid?", "What you are afraid of?"], "answer": 0, "why": "Предлог уходит в конец: What are you afraid of?" },
+        { "q": "I'm going to a party with somebody. ___", "options": ["With who you are going?", "Who are you going with?", "Who you are going with?"], "answer": 1, "why": "Who + be + подлежащее + глагол + предлог." },
+        { "q": "I want to talk to you. — ___", "options": ["What about?", "About what you?", "What to?"], "answer": 0, "why": "Короткий вопрос: What about?" },
+        { "q": "Your friend visited a new city. You want to hear about it. ___", "options": ["Does the city like?", "What's the city like?", "What does the city like?"], "answer": 1, "why": "Просим описание: What's the city like?" },
+        { "q": "___ is she from? — Italy.", "options": ["Where", "What", "Who"], "answer": 0, "why": "Страна — место: Where is she from?" },
+        { "q": "Do you like your new flat? — это вопрос о...", "options": ["вашем мнении", "описании квартиры", "её цене"], "answer": 0, "why": "Do you like...? спрашивает, нравится ли, а What is it like? просит описание." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "like: глагол или предлог",
+      "instruction": "Выберите вопрос по смыслу русского предложения.",
+      "items": [
+        { "q": "Какой у тебя новый начальник?", "options": ["Do you like your new boss?", "What's your new boss like?", "What does your new boss like?"], "answer": 1, "why": "Просим описание — What is ... like?" },
+        { "q": "Тебе нравится твой новый начальник?", "options": ["What's your new boss like?", "Do you like your new boss?", "How do you like?"], "answer": 1, "why": "Тебе нравится — глагол like, нужен do." },
+        { "q": "Какая вчера была погода?", "options": ["What was the weather like yesterday?", "Did the weather like yesterday?", "What did the weather like?"], "answer": 0, "why": "Описание — What was ... like?" },
+        { "q": "Что любит твой кот?", "options": ["What is your cat like?", "What does your cat like?", "How is your cat like?"], "answer": 1, "why": "Что любит — глагол like, нужен does." },
+        { "q": "Какие у тебя родители?", "options": ["What are your parents like?", "What do your parents like?", "Do your parents like?"], "answer": 0, "why": "Описание людей — What are ... like?" }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте вопросы",
+      "instruction": "Напишите вопрос. Предлог поставьте в конец.",
+      "items": [
+        { "prompt": "(Kate is going on holiday with somebody.) С кем Кейт едет в отпуск?", "answers": ["Who is Kate going on holiday with?", "Who's Kate going on holiday with?"] },
+        { "prompt": "(I'm thinking about something.) О чём ты думаешь?", "answers": ["What are you thinking about?"] },
+        { "prompt": "(He comes from a small town.) Откуда он?", "answers": ["Where does he come from?", "Where is he from?", "Where's he from?"] },
+        { "prompt": "(They are listening to something.) Что они слушают?", "answers": ["What are they listening to?"] },
+        { "prompt": "Спросите, какая у друга новая квартира.", "answers": ["What's your new flat like?", "What is your new flat like?", "What's your new apartment like?", "What is your new apartment like?"] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Диалог о себе",
+      "instruction": "Ответьте на вопросы. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Where are you from?", "sample": "I'm from Bishkek." },
+        { "prompt": "Who do you live with?", "sample": "I live with my parents and my brother." },
+        { "prompt": "What's your city like?", "sample": "It's big and green. There are many parks." },
+        { "prompt": "What are your friends like?", "sample": "They're friendly and funny." },
+        { "prompt": "What are you interested in?", "sample": "I'm interested in music and films." }
+      ]
+    }
+  ]
+}

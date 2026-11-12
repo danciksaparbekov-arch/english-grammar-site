@@ -1,0 +1,287 @@
+{
+  "id": 72,
+  "title": "the ... (names of places)",
+  "summary": "Когда перед названием места нужен артикль the (моря, реки, множественные названия, отели, музеи), а когда нет (страны, города, улицы).",
+  "ru": "## Когда the не нужен\nБольшинство названий мест — стран, городов, континентов, островов, озёр — употребляются **без артикля**.\n> Kyrgyzstan is a beautiful country. — Кыргызстан — красивая страна.\n> Bishkek is the capital. — Бишкек — столица.\n> Madagascar is an island. — Мадагаскар — остров.\n> My uncle lives in South America. — Мой дядя живёт в Южной Америке.\n\n## Когда the нужен: названия во множественном числе и «объединения»\n- Страны, острова, горы во **множественном числе**: **the Netherlands, the Maldives, the Alps, the Andes**.\n- Названия со словами *republic, states, kingdom, union*: **the United States, the United Kingdom, the Czech Republic**.\n> We went to the Maldives last winter. — Прошлой зимой мы ездили на Мальдивы.\n> She works in the United Kingdom. — Она работает в Великобритании.\n\n## Моря, океаны, реки, каналы\nЗдесь **the** нужен почти всегда.\n> the Pacific (Ocean), the Black Sea, the Volga, the Panama Canal\n> The Nile is a very long river. — Нил — очень длинная река.\nОзёра и отдельные горы — без the: **Lake Issyk-Kul, Mount Everest**.\n\n## Улицы, площади, аэропорты, вокзалы\nБез the: **Oxford Street, Red Square, Heathrow Airport, Paddington Station, Oxford University**.\n> Where is Baker Street, please? — Где находится Бейкер-стрит?\nА вот гостиницы, рестораны, кинотеатры, театры, музеи — обычно **с the**: **the Ritz (Hotel), the Odeon, the British Museum, the Bolshoi Theatre**.\n\n## Названия с of\nЕсли в названии есть **of**, используем **the**: **the Bank of England, the Tower of London, the Republic of Korea**.\nТакже: **the north / the south / the east / the west (of ...)**.\n> It is cold in the north of the country. — На севере страны холодно.\n\n## Типичные ошибки\n- ~~I live in the Kyrgyzstan.~~ → I live in Kyrgyzstan.\n- ~~We visited Netherlands.~~ → We visited **the** Netherlands.\n- ~~Thames is a river.~~ → **The** Thames is a river.\n- ~~We stayed at Hilton.~~ → We stayed at **the** Hilton.",
+  "en": "## No the with most places\nWe do not use **the** with the names of most countries, cities, continents and single islands or lakes.\n> Kyrgyzstan is a beautiful country.\n> Bishkek is the capital.\n> Madagascar is an island.\n> My uncle lives in South America.\n\n## Use the with\n- **plural** names of countries, islands and mountains: **the Netherlands, the Maldives, the Alps, the Andes**\n- names with *republic, states, kingdom, union*: **the United States, the United Kingdom**\n\n## Seas, oceans, rivers, canals\nWe use **the**: **the Pacific, the Black Sea, the Volga, the Panama Canal**. But lakes and single mountains have no the: **Lake Issyk-Kul, Mount Everest**.\n\n## Streets, stations, airports\nNo the: **Oxford Street, Red Square, Heathrow Airport, Paddington Station, Oxford University**.\nBut we usually use **the** with hotels, restaurants, cinemas, theatres and museums: **the Ritz, the Odeon, the British Museum**.\n\n## Names with of\n**the Bank of England, the Tower of London, the Republic of Korea**. Also **the north / south / east / west of ...**.\n\n## Common mistakes\n- ~~I live in the Kyrgyzstan.~~ → I live in Kyrgyzstan.\n- ~~We visited Netherlands.~~ → We visited **the** Netherlands.\n- ~~We stayed at Hilton.~~ → We stayed at **the** Hilton.",
+  "structure": "## Схема выбора\n| Название | Артикль | Пример |\n|---|---|---|\n| страна, город, континент | — | Japan, Paris, Asia |\n| остров, озеро, одна гора | — | Cyprus, Lake Baikal, Mount Elbrus |\n| множественное число (страны, острова, горы) | the | the Philippines, the Alps |\n| republic / states / kingdom | the | the United States, the UK |\n| океан, море, река, канал | the | the Atlantic, the Red Sea, the Thames |\n| улица, площадь, парк | — | Park Street, Times Square |\n| аэропорт, вокзал, университет, замок | — | Kennedy Airport, Cambridge University |\n| гостиница, ресторан, кинотеатр, музей | the | the Hilton, the Odeon, the Louvre |\n| название с of | the | the Tower of London |\n\n## Формула\n> **the** + название во мн. числе / с *of* / море, река, океан\n> **без the** + одиночное название места\n\n## Стороны света\n> **the north / the south / the east / the west (of ...)**\n> We live in the south of Spain.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "the или ничего?",
+      "instruction": "Вставьте **the**, если он нужен. Если артикль не нужен, напишите **-**.",
+      "example": "Tokyo is in Japan. → Tokyo is in **-** Japan.",
+      "items": [
+        {
+          "text": "I'd like to visit {{-}} Canada."
+        },
+        {
+          "text": "We crossed {{the}} Atlantic by ship."
+        },
+        {
+          "text": "{{The}} Alps are in Europe."
+        },
+        {
+          "text": "Lisa lives in {{-}} Oxford Street."
+        },
+        {
+          "text": "Have you ever been to {{the}} Philippines?"
+        },
+        {
+          "text": "{{-}} Heathrow Airport is very busy."
+        },
+        {
+          "text": "{{The}} Volga is the longest river in Europe."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Улицы, отели, музеи",
+      "instruction": "Вставьте **the** или **-** (если артикль не нужен).",
+      "items": [
+        {
+          "text": "We stayed at {{the}} Grand Hotel."
+        },
+        {
+          "text": "Let's meet in {{-}} Victoria Station."
+        },
+        {
+          "text": "My sister works at {{the}} Natural History Museum."
+        },
+        {
+          "text": "Is there a bank in {{-}} High Street?"
+        },
+        {
+          "text": "We had dinner at {{the}} Golden Dragon (a restaurant)."
+        },
+        {
+          "text": "I studied at {{-}} Moscow University."
+        },
+        {
+          "text": "Let's go to {{the}} Odeon tonight."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        {
+          "q": "My cousin lives in ___ Netherlands.",
+          "options": [
+            "-",
+            "the",
+            "a"
+          ],
+          "answer": 1,
+          "why": "Netherlands — множественное по форме название → **the Netherlands**."
+        },
+        {
+          "q": "We visited ___ Lake Baikal last summer.",
+          "options": [
+            "the",
+            "-",
+            "a"
+          ],
+          "answer": 1,
+          "why": "Озёра обычно без артикля: **Lake Baikal**."
+        },
+        {
+          "q": "Where is ___ Red Square?",
+          "options": [
+            "the",
+            "a",
+            "-"
+          ],
+          "answer": 2,
+          "why": "Площади — без артикля: **Red Square**."
+        },
+        {
+          "q": "___ Danube flows through many countries.",
+          "options": [
+            "The",
+            "-",
+            "A"
+          ],
+          "answer": 0,
+          "why": "Реки — с **the**: **the Danube**."
+        },
+        {
+          "q": "He comes from ___ United States.",
+          "options": [
+            "-",
+            "the",
+            "a"
+          ],
+          "answer": 1,
+          "why": "United States — **the United States**."
+        },
+        {
+          "q": "I'd like to climb ___ Mount Everest.",
+          "options": [
+            "the",
+            "-",
+            "a"
+          ],
+          "answer": 1,
+          "why": "Одиночная гора — без артикля: **Mount Everest**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        {
+          "q": "Что верно?",
+          "options": [
+            "I flew to the Italy.",
+            "I flew to Italy.",
+            "I flew to an Italy."
+          ],
+          "answer": 1,
+          "why": "Страна в ед. числе — без артикля."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "We sailed across Black Sea.",
+            "We sailed across the Black Sea.",
+            "We sailed across a Black Sea."
+          ],
+          "answer": 1,
+          "why": "Моря — с **the**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "She works in the Bank of England.",
+            "She works in Bank of England.",
+            "She works in a Bank of England."
+          ],
+          "answer": 0,
+          "why": "Название с **of** — с **the**."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "The Kennedy Airport is big.",
+            "Kennedy Airport is big.",
+            "A Kennedy Airport is big."
+          ],
+          "answer": 1,
+          "why": "Аэропорты — без артикля."
+        },
+        {
+          "q": "Что верно?",
+          "options": [
+            "We live in the north of Kazakhstan.",
+            "We live in north of the Kazakhstan.",
+            "We live in the north of the Kazakhstan."
+          ],
+          "answer": 0,
+          "why": "**the north of** + страна без артикля."
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Вставьте названия",
+      "instruction": "Вставьте **the** там, где нужно, или напишите **-**.",
+      "items": [
+        {
+          "text": "{{-}} Japan is an island country."
+        },
+        {
+          "text": "{{The}} Pacific is the biggest ocean."
+        },
+        {
+          "text": "{{The}} Andes are in South America."
+        },
+        {
+          "text": "I want to see {{the}} Tower of London."
+        },
+        {
+          "text": "Her uncle lives in {{the}} UK."
+        },
+        {
+          "text": "{{-}} Bishkek is near {{-}} Ala-Too Square."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение. Не забудьте **the**, если он нужен.",
+      "items": [
+        {
+          "prompt": "(the Nile / in / Africa / flow)",
+          "answers": [
+            "The Nile flows in Africa.",
+            "The Nile is in Africa."
+          ]
+        },
+        {
+          "prompt": "(we / stay / the Hilton)",
+          "answers": [
+            "We stay at the Hilton.",
+            "We stayed at the Hilton.",
+            "We are staying at the Hilton."
+          ]
+        },
+        {
+          "prompt": "(Lake Issyk-Kul / very / beautiful)",
+          "answers": [
+            "Lake Issyk-Kul is very beautiful."
+          ]
+        },
+        {
+          "prompt": "(she / live / the Netherlands)",
+          "answers": [
+            "She lives in the Netherlands."
+          ]
+        },
+        {
+          "prompt": "(where / Baker Street?)",
+          "answers": [
+            "Where is Baker Street?",
+            "Where's Baker Street?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        {
+          "prompt": "Какая ваша страна и её столица?",
+          "sample": "I live in Kyrgyzstan. The capital is Bishkek."
+        },
+        {
+          "prompt": "Какие моря/реки/озёра вы знаете в своей стране?",
+          "sample": "There is Lake Issyk-Kul in my country. The Chu is a river."
+        },
+        {
+          "prompt": "Какое место вы хотите посетить?",
+          "sample": "I want to visit the Maldives."
+        },
+        {
+          "prompt": "Где вы учитесь или работаете?",
+          "sample": "I study at Bishkek University. / I work near Ala-Too Square."
+        }
+      ]
+    }
+  ]
+}

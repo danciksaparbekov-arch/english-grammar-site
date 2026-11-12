@@ -1,0 +1,125 @@
+{
+  "id": 1,
+  "title": "am/is/are",
+  "summary": "Глагол **be** в настоящем времени: «быть, являться, находиться». В русском его часто пропускают, в английском — никогда.",
+  "ru": "## Зачем нужен am / is / are\nВ русском мы говорим «Я студент», «Она дома» — без глагола. В английском глагол **be** обязателен: он связывает подлежащее с тем, кто/какой/где он.\n> I **am** a student. — Я студент.\n> She **is** at home. — Она дома.\n> We **are** tired. — Мы устали.\n\n## Какую форму выбрать\n- **am** — только с **I**\n- **is** — с **he / she / it** и с одним человеком или предметом (my sister, the car)\n- **are** — с **we / you / they** и со множественным числом (my parents, these shoes)\n> My brother **is** a doctor. — Мой брат врач.\n> The shops **are** closed. — Магазины закрыты.\n\n## Краткие формы\nВ разговоре почти всегда сокращаем: **I'm, he's, she's, it's, we're, you're, they're**.\n> I'm hungry. It's cold today. They're from Spain.\n\n## Отрицание: добавляем not\n> I'm **not** ready. — Я не готова.\n> He **isn't** (= is not) at work. — Его нет на работе.\n> We **aren't** (= are not) late. — Мы не опаздываем.\nВнимание: *I amn't* не бывает — только **I'm not**.\n\n## Типичные ошибки\n- ~~She a teacher.~~ → She **is** a teacher. (глагол нельзя пропускать)\n- ~~I is happy.~~ → I **am** happy.\n- ~~They is my friends.~~ → They **are** my friends.\n- ~~I have 20 years.~~ → I **am** 20 (years old). Возраст говорим через **be**!\n- ~~I am agree.~~ → I agree. (agree — сам глагол, be не нужен)\n\n## Где ещё встречается be\n- возраст: **I'm 25.**\n- погода: **It's sunny.**\n- чувства и состояния: **I'm cold / hungry / tired / afraid.**\n- происхождение: **She's from Kazakhstan.**",
+  "en": "## What is am / is / are?\nThese are the present forms of the verb **be**. We use them to say who or what something is, how it is, or where it is. In English we can't leave out the verb.\n> I **am** a student.\n> She **is** at home.\n> We **are** tired.\n\n## Which form?\n- **am** — with **I** only\n- **is** — with **he / she / it** and singular nouns (my sister, the car)\n- **are** — with **we / you / they** and plural nouns (my parents, these shoes)\n\n## Short forms\nIn speaking and informal writing we usually say **I'm, he's, she's, it's, we're, you're, they're**.\n> I'm hungry. It's cold today. They're from Spain.\n\n## Negative: add not\n> I'm **not** ready.\n> He **isn't** at work.\n> We **aren't** late.\nThere is no *amn't* — say **I'm not**.\n\n## Common mistakes\n- ~~She a teacher.~~ → She **is** a teacher.\n- ~~I have 20 years.~~ → I **am** 20.\n- ~~I am agree.~~ → I agree.\n\n## We also use be for\n- age: **I'm 25.**\n- weather: **It's sunny.**\n- feelings: **I'm cold / hungry / tired / afraid.**\n- where you come from: **She's from Kazakhstan.**",
+  "structure": "## Утверждение\n| Подлежащее | Полная форма | Краткая форма |\n|---|---|---|\n| I | I am | I'm |\n| he / she / it | he is | he's / she's / it's |\n| we / you / they | we are | we're / you're / they're |\n\n## Отрицание\n| Подлежащее | Полная форма | Краткие формы |\n|---|---|---|\n| I | I am not | I'm not |\n| he / she / it | he is not | he's not / he isn't |\n| we / you / they | they are not | they're not / they aren't |\n\n## Формула\n> Подлежащее + **am / is / are** + существительное / прилагательное / место\n> My name **is** Aida. · The coffee **is** hot. · We **are** in the park.\n\n## Полезные конструкции\n- **That's right.** / **That's true.** — Верно.\n- **It's late.** — Уже поздно.\n- **I'm 20 (years old).** — Мне 20 лет.\n- **What's your name?** — **My name's …**",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Краткие формы",
+      "instruction": "Напишите краткую форму.",
+      "example": "she is → **she's**",
+      "items": [
+        { "text": "they are → {{they're}}" },
+        { "text": "it is not → {{it isn't|it's not}}" },
+        { "text": "I am → {{I'm}}" },
+        { "text": "we are not → {{we aren't|we're not}}" },
+        { "text": "he is → {{he's}}" },
+        { "text": "I am not → {{I'm not}}" },
+        { "text": "you are → {{you're}}" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "am, is или are?",
+      "instruction": "Вставьте **am**, **is** или **are**.",
+      "items": [
+        { "text": "The weather {{is}} very nice today." },
+        { "text": "I {{am}} not tired." },
+        { "text": "These bags {{are}} heavy." },
+        { "text": "The concert {{is}} at seven o'clock." },
+        { "text": "My parents {{are}} at work." },
+        { "text": "Look! There's Anna. She {{is}} with her friends." },
+        { "text": "I {{am}} interested in music." },
+        { "text": "This book {{is}} very boring." },
+        { "text": "Dinner {{is}} ready!" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "My sister ___ a nurse.", "options": ["am", "is", "are"], "answer": 1, "why": "My sister = she → **is**." },
+        { "q": "You and Tom ___ late again!", "options": ["is", "am", "are"], "answer": 2, "why": "You and Tom = you (вы) → **are**." },
+        { "q": "I ___ from Bishkek.", "options": ["am", "is", "are"], "answer": 0, "why": "С **I** — только **am**." },
+        { "q": "The windows ___ open.", "options": ["is", "are", "am"], "answer": 1, "why": "The windows — множественное число → **are**." },
+        { "q": "It ___ hot in here. Open the door, please.", "options": ["are", "'s", "'m"], "answer": 1, "why": "It is = **it's**." },
+        { "q": "My keys ___ in my bag. I can't find them.", "options": ["isn't", "aren't", "am not"], "answer": 1, "why": "My keys = they → **aren't**." },
+        { "q": "How old are you? — I ___.", "options": ["have 19 years", "am 19", "is 19"], "answer": 1, "why": "Возраст в английском — через be: **I'm 19**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант грамматически верный.",
+      "items": [
+        { "q": "Как сказать «Она учитель»?", "options": ["She teacher.", "She is a teacher.", "She are a teacher."], "answer": 1, "why": "Глагол be пропускать нельзя, + артикль **a** перед профессией." },
+        { "q": "Как сказать «Я согласна»?", "options": ["I am agree.", "I agree.", "I'm agreeing."], "answer": 1, "why": "**agree** — глагол сам по себе, be не нужен." },
+        { "q": "Как сказать «Мне холодно»?", "options": ["I am cold.", "Me is cold.", "I have cold."], "answer": 0, "why": "Состояния — через be: **I'm cold**." },
+        { "q": "Как сказать «Мы не дома»?", "options": ["We not at home.", "We aren't at home.", "We isn't at home."], "answer": 1, "why": "we → **are** → **aren't**." },
+        { "q": "Как сказать «Это правда»?", "options": ["That's true.", "That true.", "That are true."], "answer": 0, "why": "That is = **That's**." }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Утверждение или отрицание",
+      "instruction": "Напишите правильную форму (утвердительную или отрицательную) по смыслу. Используйте краткие формы.",
+      "items": [
+        { "text": "It's 30 degrees today. It {{isn't|is not|'s not}} cold." },
+        { "text": "The museum is open on Sunday, but it {{isn't|is not|'s not}} open on Monday." },
+        { "text": "I've got no money. I {{am not|'m not}} rich." },
+        { "text": "My shoes are dirty. They {{aren't|are not|'re not}} clean." },
+        { "text": "Paris {{is|'s}} in France. It {{isn't|is not|'s not}} in Italy." },
+        { "text": "I {{am|'m}} hungry. Let's eat something." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение из слов. Используйте **am / is / are**.",
+      "items": [
+        { "prompt": "(my brother / a / student)", "answers": ["My brother is a student.", "My brother's a student."] },
+        { "prompt": "(these flowers / beautiful)", "answers": ["These flowers are beautiful."] },
+        { "prompt": "(I / not / afraid of dogs)", "answers": ["I'm not afraid of dogs.", "I am not afraid of dogs."] },
+        { "prompt": "(the station / not / far from here)", "answers": ["The station isn't far from here.", "The station is not far from here.", "The station's not far from here."] },
+        { "prompt": "(we / in the kitchen)", "answers": ["We're in the kitchen.", "We are in the kitchen."] },
+        { "prompt": "(your phone / on the table)", "answers": ["Your phone is on the table.", "Your phone's on the table."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Не забудьте про **am / is / are**.",
+      "items": [
+        { "prompt": "Мне 22 года.", "answers": ["I'm 22.", "I am 22.", "I'm 22 years old.", "I am 22 years old.", "I'm twenty-two.", "I am twenty-two."] },
+        { "prompt": "Моя мама дома.", "answers": ["My mum is at home.", "My mother is at home.", "My mom is at home.", "My mum's at home.", "My mother's at home.", "My mom's at home."] },
+        { "prompt": "Мы не голодны.", "answers": ["We aren't hungry.", "We're not hungry.", "We are not hungry."] },
+        { "prompt": "Сегодня солнечно.", "answers": ["It's sunny today.", "It is sunny today.", "Today it's sunny.", "Today it is sunny."] },
+        { "prompt": "Эти джинсы слишком дорогие.", "answers": ["These jeans are too expensive.", "These jeans are very expensive."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями о себе. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Name / age", "sample": "My name's Aida. I'm 22." },
+        { "prompt": "Where are you from?", "sample": "I'm from Bishkek." },
+        { "prompt": "Job or studies", "sample": "I'm a student. / I'm a designer." },
+        { "prompt": "How are you today? (tired / happy / hungry …)", "sample": "I'm a bit tired today, but I'm happy." },
+        { "prompt": "Your favourite place in your city", "sample": "My favourite place is a small café near my home. It's very cosy." }
+      ]
+    }
+  ]
+}

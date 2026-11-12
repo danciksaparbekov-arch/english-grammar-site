@@ -1,0 +1,103 @@
+{
+  "id": 87,
+  "title": "older than ... more expensive than ...",
+  "summary": "Слово **than** после сравнительной степени («старше, чем …»), а также **a bit / much / a lot** для усиления и смягчения сравнения.",
+  "ru": "## than = «чем»\nКогда мы называем второго участника сравнения, после сравнительной степени ставим **than**.\n> Athens is **older than** Rome. — Афины старше, чем Рим.\n> Are oranges **more expensive than** bananas? — Апельсины дороже бананов?\n> It's **easier to phone than to write**. — Проще позвонить, чем писать.\n\n## than + местоимение\nПосле **than** в разговоре обычно ставим форму **me / him / her / us / them**. Но можно сказать и полным предложением.\n> I can run **faster than him**. = I can run faster than **he can**.\n> You are a better singer **than me**. = ... than **I am**.\n> She got up earlier **than us**. = ... than **we did**.\n\n## more than / less than\nМожно сравнивать и количество.\n> It cost **more than** £30. — Это стоило больше 30 фунтов.\n> The film was **less than** an hour. — Фильм шёл меньше часа.\n> You go out **more than me**. — Ты выходишь гулять чаще, чем я.\n\n## a bit / much / a lot / far\nЧтобы показать, **насколько** разница, ставим слово перед сравнительной степенью.\n- **a bit**, **a little**, **slightly** — чуть-чуть\n- **much**, **a lot**, **far** — намного\n> Box A is **a bit bigger** than Box B. — Коробка А чуть больше.\n> Canada is **much bigger** than France. — Канада намного больше Франции.\n> The hotel was **much more expensive** than I expected. — Отель был гораздо дороже, чем я ожидала.\n\n## Типичные ошибки\n- ~~older as Rome~~ → older **than** Rome\n- ~~more big than~~ → **bigger than**\n- ~~very bigger~~ → **much bigger** (very с сравнительной степенью не ставим)\n- ~~more good than~~ → **better than**",
+  "en": "## than\nWhen we name the second thing in a comparison, we use **than** after the comparative.\n> Athens is **older than** Rome.\n> Are oranges **more expensive than** bananas?\n> It's **easier to phone than to write**.\n\n## than + pronoun\nAfter **than** we usually say **me / him / her / us / them** in speaking. You can also use a full clause.\n> I can run **faster than him**. = I can run faster than **he can**.\n> You are a better singer **than me**. = ... than **I am**.\n\n## more than / less than\nWe can compare amounts too.\n> It cost **more than** £30.\n> The film was **less than** an hour.\n> You go out **more than me**.\n\n## a bit / much / a lot\nWe put these words before the comparative to show the size of the difference.\n- **a bit**, **a little**, **slightly** — a small difference\n- **much**, **a lot**, **far** — a big difference\n> Box A is **a bit bigger** than Box B.\n> Canada is **much bigger** than France.\n\n## Common mistakes\n- ~~older as Rome~~ → older **than** Rome\n- ~~very bigger~~ → **much bigger**\n- ~~more good than~~ → **better than**",
+  "structure": "## Формула\n> Подлежащее + be + **comparative** + **than** + то, с чем сравниваем\n> My sister is **taller than** me. · This bag is **more expensive than** that one.\n\n## Усиление и смягчение\n| Слово | Смысл | Пример |\n|---|---|---|\n| a bit / a little / slightly | чуть-чуть | a bit older than me |\n| much / a lot / far | намного | much more difficult than I thought |\n\n## После than\n| Разговорная форма | Полная форма |\n|---|---|\n| than **me** | than **I am / do** |\n| than **him / her** | than **he / she is / does** |\n| than **us / them** | than **we / they are / do** |\n\n## Количество\n- **more than** 50 people — больше 50 человек\n- **less than** an hour — меньше часа\n- **more** money **than** I need — больше денег, чем мне нужно",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Сравните людей",
+      "instruction": "Вставьте сравнительную степень слова в скобках и **than**.",
+      "example": "Tom is 25. Ann is 22. Tom is **older than** Ann.",
+      "items": [
+        { "text": "Kate is 1.70 m tall. Ben is 1.80 m. Ben is {{taller than}} Kate.", "hint": "tall" },
+        { "text": "Sara gets up at 6. Max gets up at 8. Sara gets up {{earlier than}} Max.", "hint": "early" },
+        { "text": "I pay 300 euros. My friend pays 400 euros. My friend's flat is {{more expensive than}} mine.", "hint": "expensive" },
+        { "text": "Anna is a very good dancer. I'm not. Anna is a {{better}} dancer {{than}} me.", "hint": "good" },
+        { "text": "A bus takes 20 minutes. A taxi takes 10 minutes. A taxi is {{faster than}} a bus.", "hint": "fast" },
+        { "text": "A cat is 4 kg. A dog is 20 kg. A dog is {{heavier than}} a cat.", "hint": "heavy" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "much или a bit?",
+      "instruction": "Вставьте **a bit** (небольшая разница) или **much** (большая разница) и сравнительную степень.",
+      "items": [
+        { "text": "My sister is 20 and I am 21. I'm {{a bit older}} than her.", "hint": "a bit / old" },
+        { "text": "A car costs £15,000. A bike costs £300. A car is {{much more expensive}} than a bike.", "hint": "much / expensive" },
+        { "text": "Today it's 21 degrees. Yesterday it was 20. Today is {{a bit warmer}}.", "hint": "a bit / warm" },
+        { "text": "Moscow has 12 million people. Bishkek has 1 million. Moscow is {{much bigger}} than Bishkek.", "hint": "much / big" },
+        { "text": "My room is 15 metres. Yours is 14. Mine is {{a bit bigger}}.", "hint": "a bit / big" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "than, as или that?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        { "q": "She is taller ___ me.", "options": ["than", "as", "that"], "answer": 0, "why": "После сравнительной степени — **than**." },
+        { "q": "I got up earlier ___ her.", "options": ["as", "than", "from"], "answer": 1, "why": "earlier **than** her." },
+        { "q": "Today is ___ colder than yesterday.", "options": ["very", "a lot", "more"], "answer": 1, "why": "Перед сравнительной степенью: **a lot / much**, но не very." },
+        { "q": "The test was ___ than I expected.", "options": ["more easy", "easier", "easyer"], "answer": 1, "why": "easy → **easier**." },
+        { "q": "You speak English better than ___.", "options": ["I", "me", "mine"], "answer": 1, "why": "В разговоре: than **me** (или than I do)." },
+        { "q": "It cost ___ £50. I paid £60.", "options": ["more than", "than more", "more as"], "answer": 0, "why": "**more than** £50." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант верный.",
+      "items": [
+        { "q": "Как сказать «Он бегает быстрее меня»?", "options": ["He runs faster than me.", "He runs more fast than me.", "He runs faster as me."], "answer": 0, "why": "fast → **faster than** me." },
+        { "q": "Как сказать «Это намного дороже»?", "options": ["It's very more expensive.", "It's much more expensive.", "It's much expensiver."], "answer": 1, "why": "**much** + more expensive." },
+        { "q": "Как сказать «Меньше часа»?", "options": ["less than an hour", "less as an hour", "more less an hour"], "answer": 0, "why": "**less than**." },
+        { "q": "Как сказать «Он чуть старше, чем она»?", "options": ["He's a bit older than her.", "He's a bit more old than her.", "He's a bit older that her."], "answer": 0, "why": "old → **older**, затем **than**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Составьте предложения",
+      "instruction": "Составьте предложение со сравнительной степенью и **than**.",
+      "items": [
+        { "prompt": "(Liz / older / Ben)", "answers": ["Liz is older than Ben."] },
+        { "prompt": "(Ben / a better swimmer / Liz)", "answers": ["Ben is a better swimmer than Liz."] },
+        { "prompt": "(Liz / taller / Ben)", "answers": ["Liz is taller than Ben."] },
+        { "prompt": "(Ben / start work / later / Liz)", "answers": ["Ben starts work later than Liz."] },
+        { "prompt": "(Ben / have / more money / Liz)", "answers": ["Ben has more money than Liz.", "Ben has got more money than Liz.", "Ben's got more money than Liz."] },
+        { "prompt": "(Liz / more patient / Ben)", "answers": ["Liz is more patient than Ben."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте **than**.",
+      "items": [
+        { "prompt": "Мой брат старше меня.", "answers": ["My brother is older than me.", "My brother is older than I am.", "My brother's older than me."] },
+        { "prompt": "Этот фильм намного интереснее той книги.", "answers": ["This film is much more interesting than that book.", "This movie is much more interesting than that book.", "This film is a lot more interesting than that book.", "This movie is a lot more interesting than that book."] },
+        { "prompt": "Сегодня чуть теплее, чем вчера.", "answers": ["Today is a bit warmer than yesterday.", "It's a bit warmer today than yesterday.", "It is a bit warmer today than yesterday."] },
+        { "prompt": "Он работает больше, чем я.", "answers": ["He works more than me.", "He works more than I do."] },
+        { "prompt": "Это стоило меньше 10 долларов.", "answers": ["It cost less than 10 dollars.", "It cost less than $10.", "It cost less than ten dollars."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями. Используйте **than**.",
+      "items": [
+        { "prompt": "Сравните себя с другом или сестрой/братом (возраст, рост).", "sample": "I'm a bit taller than my sister." },
+        { "prompt": "Ваш город и другой город: что больше, дороже?", "sample": "Bishkek is bigger than Osh." },
+        { "prompt": "Что вы любите больше: чай или кофе?", "sample": "I like tea more than coffee." },
+        { "prompt": "Сравните две свои профессии, хобби или учебные предметы.", "sample": "English is easier than maths for me." }
+      ]
+    }
+  ]
+}

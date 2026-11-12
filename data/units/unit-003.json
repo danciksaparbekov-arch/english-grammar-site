@@ -1,0 +1,107 @@
+{
+  "id": 3,
+  "title": "I am doing (present continuous)",
+  "summary": "Present continuous (**am/is/are + -ing**) — действие, которое происходит **прямо сейчас**, в момент речи.",
+  "ru": "## Когда используем\nPresent continuous говорит о том, что **происходит сейчас** (в момент речи или вокруг него). В русском это обычное настоящее время: «Я работаю», «Идёт дождь».\n> Please be quiet. I'**m working**. — Тише, пожалуйста. Я работаю (сейчас).\n> Look! It'**s raining**. — Смотри! Идёт дождь.\n> The children **are playing** in the park. — Дети играют в парке.\n\n## Как образуется\n**am / is / are + глагол с -ing**\n> I **am** read**ing**. He **is** work**ing**. They **are** watch**ing** TV.\nОтрицание: добавляем **not** после be.\n> She **isn't** eating. — Она не ест (сейчас).\n> I'**m not** watching TV. — Я не смотрю телевизор.\n\n## Правила написания -ing\n- Обычно просто **+ ing**: work → working, play → playing.\n- Глагол на **-e**: убираем e → **come → coming, write → writing, dance → dancing**.\n- Одна гласная + одна согласная: **удваиваем** согласную → **run → running, sit → sitting, swim → swimming**.\n- **lie → lying**.\n\n## Слова-подсказки\n**now, at the moment, today, Look!, Listen!**\n> Where is Tom? — He's having a shower **at the moment**.\n\n## Типичные ошибки\n- ~~I working now.~~ → I **am** working now. (be обязателен)\n- ~~She is work now.~~ → She is **working** now.\n- ~~He is comeing.~~ → He is **coming**.\n- ~~They are runing.~~ → They are **running**.\n- ~~I am wanting a coffee.~~ → I **want** a coffee. (want, like, know в continuous не используем — см. unit 8)",
+  "en": "## When do we use it?\nWe use the present continuous for something that is **happening now**, at the moment of speaking.\n> Please be quiet. I'**m working**.\n> Look! It'**s raining**.\n> The children **are playing** in the park.\n\n## How to make it\n**am / is / are + verb + -ing**\n> I **am** read**ing**. He **is** work**ing**. They **are** watch**ing** TV.\nNegative: put **not** after be.\n> She **isn't** eating.\n> I'**m not** watching TV.\n\n## Spelling of -ing\n- Most verbs: **+ ing** (work → working).\n- Verbs ending in **-e**: drop the e (**come → coming, write → writing**).\n- One vowel + one consonant: double the consonant (**run → running, sit → sitting, swim → swimming**).\n- **lie → lying**.\n\n## Time words\n**now, at the moment, today, Look!, Listen!**\n\n## Common mistakes\n- ~~I working now.~~ → I **am** working now.\n- ~~He is comeing.~~ → He is **coming**.\n- ~~They are runing.~~ → They are **running**.",
+  "structure": "## Утверждение и отрицание\n| Подлежащее | be | + -ing | Краткие формы |\n|---|---|---|---|\n| I | am (not) | working | I'm working / I'm not working |\n| he / she / it | is (not) | working | he's working / he isn't working |\n| we / you / they | are (not) | working | they're working / they aren't working |\n\n## Формула\n> Подлежащее + **am / is / are (not)** + глагол**-ing**\n> Tom **is cooking** dinner. · We **aren't watching** TV.\n\n## Правила написания\n| Правило | Пример |\n|---|---|\n| + ing | work → working, play → playing |\n| -e → убираем e | come → coming, write → writing, make → making |\n| удвоение согласной | run → running, sit → sitting, swim → swimming, stop → stopping |\n| -ie → -ying | lie → lying |\n\n## Сигнальные слова\n- **now, at the moment, today, these days**\n- **Look!**, **Listen!**\n\n## Две формы отрицания\n- She **isn't** eating. = She**'s not** eating.\n- They **aren't** working. = They**'re not** working.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Что они делают?",
+      "instruction": "Поставьте глагол в скобках в форму present continuous (утверждение).",
+      "example": "She (eat) an apple. → She **is eating** an apple.",
+      "items": [
+        { "text": "He {{is waiting|'s waiting}} for a bus.", "hint": "wait" },
+        { "text": "They {{are playing|'re playing}} football.", "hint": "play" },
+        { "text": "I {{am sitting|'m sitting}} on the floor.", "hint": "sit" },
+        { "text": "We {{are having|'re having}} breakfast.", "hint": "have" },
+        { "text": "She {{is swimming|'s swimming}} in the river.", "hint": "swim" },
+        { "text": "The cat {{is lying|'s lying}} on the table.", "hint": "lie" },
+        { "text": "Anna {{is writing|'s writing}} a letter.", "hint": "write" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Утверждение или отрицание",
+      "instruction": "Поставьте глагол в present continuous: утвердительно или отрицательно — по смыслу.",
+      "items": [
+        { "text": "Please be quiet. I {{am working|'m working}}.", "hint": "work" },
+        { "text": "It's sunny now. It {{isn't raining|is not raining|'s not raining}}.", "hint": "not / rain" },
+        { "text": "Tom is in the kitchen. He {{is cooking|'s cooking}} dinner.", "hint": "cook" },
+        { "text": "You can turn off the TV. I {{am not watching|'m not watching}} it.", "hint": "not / watch" },
+        { "text": "Listen! Somebody {{is singing|'s singing}} in the street.", "hint": "sing" },
+        { "text": "The children {{aren't sleeping|are not sleeping|'re not sleeping}}. They're in the garden.", "hint": "not / sleep" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите один вариант.",
+      "items": [
+        { "q": "Look! The baby ___.", "options": ["is sleeping", "sleeping", "are sleeping"], "answer": 0, "why": "The baby = it → **is** + sleeping." },
+        { "q": "They ___ to music now.", "options": ["listen", "is listening", "are listening"], "answer": 2, "why": "they → **are** + listening." },
+        { "q": "I ___ my homework at the moment.", "options": ["am doing", "doing", "does"], "answer": 0, "why": "I → **am** + doing." },
+        { "q": "She ___ a hat today.", "options": ["wears", "is wearing", "wearing"], "answer": 1, "why": "Сейчас, сегодня → is + wearing." },
+        { "q": "We ___ any food now.", "options": ["aren't eating", "isn't eating", "not eating"], "answer": 0, "why": "we → **aren't** + eating." },
+        { "q": "Правильное написание: he is ___.", "options": ["runing", "running", "runnig"], "answer": 1, "why": "run → удваиваем n: **running**." }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите правильное предложение",
+      "instruction": "Только один вариант грамматически верный.",
+      "items": [
+        { "q": "Как сказать «Он пишет письмо»?", "options": ["He writing a letter.", "He is writeing a letter.", "He is writing a letter."], "answer": 2, "why": "write → убираем e: **writing**; be обязателен." },
+        { "q": "Как сказать «Мы танцуем»?", "options": ["We are dancing.", "We dancing.", "We are danceing."], "answer": 0, "why": "dance → **dancing**." },
+        { "q": "Как сказать «Я не работаю сейчас»?", "options": ["I don't working now.", "I'm not working now.", "I not am working now."], "answer": 1, "why": "Отрицание: **am not + -ing**." },
+        { "q": "Как сказать «Идёт дождь»?", "options": ["It rains now.", "It is raining.", "It are raining."], "answer": 1, "why": "it → **is** + raining." },
+        { "q": "Как сказать «Они сидят»?", "options": ["They are siting.", "They are sitting.", "They sitting."], "answer": 1, "why": "sit → удваиваем t: **sitting**." }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Напишите предложения",
+      "instruction": "Составьте предложение в present continuous из слов.",
+      "items": [
+        { "prompt": "(she / have / a shower)", "answers": ["She is having a shower.", "She's having a shower."] },
+        { "prompt": "(they / build / a new house)", "answers": ["They are building a new house.", "They're building a new house."] },
+        { "prompt": "(I / not / watch / TV)", "answers": ["I'm not watching TV.", "I am not watching TV.", "I'm not watching TV now.", "I am not watching TV now."] },
+        { "prompt": "(Tom / stand / on my foot)", "answers": ["Tom is standing on my foot.", "Tom's standing on my foot."] },
+        { "prompt": "(we / not / go / to the party)", "answers": ["We aren't going to the party.", "We're not going to the party.", "We are not going to the party."] },
+        { "prompt": "(the sun / shine)", "answers": ["The sun is shining.", "The sun's shining."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите. Используйте present continuous.",
+      "items": [
+        { "prompt": "Я читаю книгу.", "answers": ["I'm reading a book.", "I am reading a book."] },
+        { "prompt": "Мама готовит ужин.", "answers": ["Mum is cooking dinner.", "Mum's cooking dinner.", "My mum is cooking dinner.", "My mum's cooking dinner.", "My mother is cooking dinner.", "My mother's cooking dinner.", "Mom is cooking dinner.", "Mom's cooking dinner.", "My mom is cooking dinner.", "My mom's cooking dinner.", "Mother is cooking dinner.", "Mother's cooking dinner."] },
+        { "prompt": "Дети не спят.", "answers": ["The children aren't sleeping.", "The children are not sleeping.", "The kids aren't sleeping.", "The kids are not sleeping."] },
+        { "prompt": "Мы ждём автобус.", "answers": ["We're waiting for a bus.", "We are waiting for a bus.", "We're waiting for the bus.", "We are waiting for the bus."] },
+        { "prompt": "Ты сидишь на моём стуле.", "answers": ["You're sitting on my chair.", "You are sitting on my chair."] }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Что вы делаете сейчас?",
+      "instruction": "Напишите о себе, о том, что происходит сейчас. Проверьте по образцу.",
+      "items": [
+        { "prompt": "Что вы делаете прямо сейчас?", "sample": "I'm studying English." },
+        { "prompt": "Где вы сейчас находитесь и что вы носите?", "sample": "I'm at home. I'm wearing a T-shirt." },
+        { "prompt": "Что делает ваша мама / ваш друг прямо сейчас?", "sample": "My mum is cooking dinner." },
+        { "prompt": "Какая сейчас погода?", "sample": "It's raining. The sun isn't shining." },
+        { "prompt": "Что вы НЕ делаете сейчас?", "sample": "I'm not watching TV." }
+      ]
+    }
+  ]
+}
