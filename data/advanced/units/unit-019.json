@@ -13,7 +13,7 @@
       "instruction": "Вставьте нужную форму. Допустимые варианты засчитываются.",
       "items": [
         {
-          "text": "You {{needn't|don't need to|do not need to|need not}} wait for me; I'll catch up later.",
+          "text": "You {{needn't|don't need to|do not need to|need not|don't have to|do not have to}} wait for me; I'll catch up later.",
           "hint": "не обязательно"
         },
         {
@@ -21,7 +21,7 @@
           "hint": "формально, модальный"
         },
         {
-          "text": "She {{doesn't need to|does not need to|needn't|need not}} worry about money any more.",
+          "text": "She {{doesn't need to|does not need to|needn't|need not|doesn't have to|does not have to}} worry about money any more.",
           "hint": "нет необходимости"
         },
         {
@@ -37,7 +37,7 @@
           "hint": "незачем"
         },
         {
-          "text": "Employees {{don't have to|do not have to}} wear a tie, but many choose to.",
+          "text": "Employees {{don't have to|do not have to|don't need to|do not need to|needn't|need not}} wear a tie, but many choose to.",
           "hint": "нет требования"
         }
       ]
@@ -61,7 +61,7 @@
           "hint": "необязательно"
         },
         {
-          "text": "I {{needn't|don't need to|need not}} tell you how important this is.",
+          "text": "I {{needn't|don't need to|need not|do not need to|don't have to|do not have to}} tell you how important this is.",
           "hint": "нет необходимости"
         },
         {
@@ -69,7 +69,7 @@
           "hint": "обычный глагол"
         },
         {
-          "text": "{{Need}} you really talk so loudly?",
+          "text": "{{Need|Must}} you really talk so loudly?",
           "hint": "раздражение, модальный"
         },
         {

@@ -9,7 +9,7 @@
     {
       "type": "gap",
       "source": "book",
-      "title": "one, ones, it или них?",
+      "title": "one, ones, it или theirs?",
       "instruction": "Вставьте одно слово по подсказке: one, ones, it, theirs.",
       "items": [
         {
@@ -70,7 +70,7 @@
           "hint": "those / the ones"
         },
         {
-          "text": "Which {{one}} do you prefer, the red scarf or the green?",
+          "text": "Which {{one}} do you prefer, the red scarf or the green one?",
           "hint": "one / ones"
         },
         {
@@ -232,15 +232,19 @@
           ]
         },
         {
-          "prompt": "My old laptop is slow, so I bought a new laptop. Перепишите второе предложение.",
+          "prompt": "My old laptop is slow, so I bought a new laptop. Перепишите вторую часть (после so).",
           "answers": [
-            "I bought a new one."
+            "I bought a new one.",
+            "So I bought a new one.",
+            "My old laptop is slow, so I bought a new one."
           ]
         },
         {
           "prompt": "These boots are too tight. Can I try some larger boots? Перепишите вопрос.",
           "answers": [
-            "Can I try some larger ones?"
+            "Can I try some larger ones?",
+            "Can I try larger ones?",
+            "Can I try on some larger ones?"
           ]
         },
         {
@@ -253,7 +257,9 @@
           "prompt": "The students who work hard get better results than the students who don't. Замените второе the students.",
           "answers": [
             "The students who work hard get better results than the ones who don't.",
-            "The students who work hard get better results than those who don't."
+            "The students who work hard get better results than those who don't.",
+            "The students who work hard get better results than the ones who do not.",
+            "The students who work hard get better results than those who do not."
           ]
         },
         {
@@ -275,8 +281,8 @@
           "answers": [
             "I like the red shoes, not the blue ones.",
             "I like red shoes, not blue ones.",
-            "I like the red shoes, not the blue ones",
-            "I like the red ones, not the blue ones."
+            "I like the red ones, not the blue ones.",
+            "I like the red shoes rather than the blue ones."
           ]
         },
         {
@@ -293,7 +299,9 @@
           "answers": [
             "Which one is yours?",
             "Which one's yours?",
-            "Which is yours?"
+            "Which is yours?",
+            "Which of them is yours?",
+            "Which one of them is yours?"
           ]
         },
         {
@@ -324,7 +332,7 @@
         },
         {
           "prompt": "Which season do you like best? Compare it with another one.",
-          "sample": "I like autumn best. It's better than the hot ones."
+          "sample": "I like autumn best. It's a far nicer season than the cold, dark one that comes after it."
         },
         {
           "prompt": "Describe a shop you often go to and say why it is better than other ones.",

@@ -58,7 +58,7 @@
       "instruction": "Вставьте глагол в нужной форме.",
       "items": [
         {
-          "text": "I {{am wondering|'m wondering|wonder}} if you could lend me your notes from the lecture.",
+          "text": "I {{am wondering|'m wondering|wonder|was wondering}} if you could lend me your notes from the lecture.",
           "hint": "wonder (вежливо)"
         },
         {
@@ -71,7 +71,7 @@
         },
         {
           "text": "The article {{says}} that the deadline is Friday.",
-          "hint": "say"
+          "hint": "say (present simple)"
         },
         {
           "text": "In this scene, Hamlet {{finds}} his father's ghost on the battlements.",
@@ -82,7 +82,7 @@
           "hint": "accept (формально)"
         },
         {
-          "text": "I'm sorry, I {{don't remember|do not remember}} your name.",
+          "text": "I'm sorry, I {{don't remember|do not remember|can't remember|cannot remember}} your name.",
           "hint": "not / remember"
         },
         {
@@ -100,12 +100,12 @@
         {
           "q": "Sam ___ his keys - it's so annoying!",
           "options": [
-            "always loses",
+            "always is losing",
             "is always losing",
             "always lose"
           ],
           "answer": 1,
-          "why": "Раздражение выражаем **is always + V-ing**; always loses — нейтральная констатация привычки."
+          "why": "Раздражение выражаем **is always + V-ing**, причём always стоит после is; always lose не согласуется с Sam (нужно -s)."
         },
         {
           "q": "I hereby ___ you that the flight has been cancelled.",
@@ -160,12 +160,12 @@
         {
           "q": "I ___ to apply for the position of project manager.",
           "options": [
-            "write",
+            "wrote",
             "am writing",
             "have written"
           ],
           "answer": 1,
-          "why": "В деловом письме действие совершается прямо сейчас — **I am writing to...**"
+          "why": "В начале делового письма действие происходит прямо сейчас — **I am writing to...**; wrote и have written говорили бы об уже написанном письме."
         },
         {
           "q": "I can ___ someone playing the piano next door.",

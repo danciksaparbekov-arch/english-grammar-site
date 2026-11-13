@@ -14,7 +14,7 @@
       "example": "The thief is believed (escape) through a window. → The thief is believed **to have escaped** through a window.",
       "items": [
         { "text": "The company is said {{to be}} in financial trouble.", "hint": "be" },
-        { "text": "The tunnel is expected {{to be opened}} next spring.", "hint": "open" },
+        { "text": "The tunnel is expected {{to be opened}} by the mayor next spring.", "hint": "open" },
         { "text": "She is thought {{to have left}} the country in 2019.", "hint": "leave" },
         { "text": "The two sides are reported {{to be negotiating}} at this very moment.", "hint": "negotiate" },
         { "text": "He is believed {{to have been working}} on the novel for a decade.", "hint": "work" },
@@ -129,7 +129,7 @@
       "type": "write",
       "source": "book",
       "title": "Перепишите с личным подлежащим",
-      "instruction": "Перепишите предложение, начиная со слов в стрелке, и используйте пассив с to-infinitive.",
+      "instruction": "Перепишите предложение, начиная со слов после стрелки, и используйте пассив с to-infinitive.",
       "items": [
         {
           "prompt": "People say that the owner is extremely wealthy. → The owner ...",
@@ -165,7 +165,7 @@
       "items": [
         {
           "prompt": "The factory is said to be closing. → It ...",
-          "answers": ["It is said that the factory is closing.", "It's said that the factory is closing."]
+          "answers": ["It is said that the factory is closing.", "It's said that the factory is closing.", "It is said the factory is closing.", "It's said the factory is closing."]
         },
         {
           "prompt": "Говорят, что он живёт в Лондоне. (say) → He ...",
@@ -181,7 +181,7 @@
         },
         {
           "prompt": "Ожидается, что цены вырастут. (expect / prices / rise)",
-          "answers": ["Prices are expected to rise.", "It is expected that prices will rise."]
+          "answers": ["Prices are expected to rise.", "It is expected that prices will rise.", "It's expected that prices will rise.", "It is expected prices will rise.", "It's expected prices will rise."]
         },
         {
           "prompt": "It is believed that she has won a fortune. → She ...",
@@ -200,7 +200,7 @@
           "sample": "My city is said to be one of the greenest in the region."
         },
         {
-          "prompt": "Что, по слухам, скоро изменится в вашей стране? (is expected to)",
+          "prompt": "Что, как ожидается, скоро изменится в вашей стране? (is expected to)",
           "sample": "Public transport fares are expected to go up next year."
         },
         {

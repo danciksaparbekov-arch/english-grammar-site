@@ -63,7 +63,7 @@
         {"q": "Fresh fruit is good ___ your health.", "options": ["at", "for", "to"], "answer": 1, "why": "good **for** — полезно для."},
         {"q": "He has always been very good ___ his younger brother.", "options": ["to", "at", "of"], "answer": 0, "why": "good **to** sb — добр к кому-то."},
         {"q": "I'm worried ___ my sister; she hasn't called in days.", "options": ["of", "about", "to"], "answer": 1, "why": "worried **about** — беспокоиться."},
-        {"q": "The two proposals are identical ___ each other.", "options": ["to", "with", "from"], "answer": 0, "why": "identical **to**."},
+        {"q": "The two proposals are identical ___ each other.", "options": ["to", "as", "from"], "answer": 0, "why": "identical **to** (ср. the same **as**)."},
         {"q": "I'm tired ___ his excuses.", "options": ["from", "of", "at"], "answer": 1, "why": "tired **of** — надоело; tired from — устал от усилий."},
         {"q": "This laptop is superior ___ the previous model.", "options": ["than", "to", "from"], "answer": 1, "why": "superior **to**, а не than."},
         {"q": "The company is responsible ___ the damage.", "options": ["for", "of", "to"], "answer": 0, "why": "responsible **for**."}
@@ -104,11 +104,11 @@
       "title": "Переведите на английский",
       "instruction": "Переведите на английский.",
       "items": [
-        {"prompt": "Она увлечена фотографией.", "answers": ["She is keen on photography.", "She's keen on photography.", "She is passionate about photography.", "She's passionate about photography.", "She is fond of photography.", "She's fond of photography."]},
-        {"prompt": "Я не знал об этой проблеме.", "answers": ["I wasn't aware of this problem.", "I was not aware of this problem.", "I wasn't aware of the problem.", "I was not aware of the problem."]},
+        {"prompt": "Она увлечена фотографией.", "answers": ["She is keen on photography.", "She's keen on photography.", "She is passionate about photography.", "She's passionate about photography.", "She is fond of photography.", "She's fond of photography.", "She is enthusiastic about photography.", "She's enthusiastic about photography."]},
+        {"prompt": "Я не знал об этой проблеме.", "answers": ["I wasn't aware of this problem.", "I was not aware of this problem.", "I wasn't aware of the problem.", "I was not aware of the problem.", "I didn't know about this problem.", "I did not know about this problem.", "I didn't know about the problem.", "I did not know about the problem.", "I wasn't aware of that problem.", "I was not aware of that problem.", "I didn't know about that problem.", "I did not know about that problem."]},
         {"prompt": "Мой брат женат на француженке.", "answers": ["My brother is married to a Frenchwoman.", "My brother is married to a French woman.", "My brother is married to a French girl."]},
         {"prompt": "Мы гордимся нашей командой.", "answers": ["We are proud of our team.", "We're proud of our team."]},
-        {"prompt": "Любезно с вашей стороны, что вы пришли.", "answers": ["It was kind of you to come.", "It's kind of you to come.", "It is kind of you to come."]}
+        {"prompt": "Любезно с вашей стороны, что вы пришли.", "answers": ["It was kind of you to come.", "It's kind of you to come.", "It is kind of you to come.", "It was very kind of you to come.", "It was nice of you to come.", "It's very kind of you to come.", "It is very kind of you to come.", "It's nice of you to come.", "It is nice of you to come.", "It was very nice of you to come."]}
       ]
     },
     {

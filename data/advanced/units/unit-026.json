@@ -106,7 +106,7 @@
           "why": "Принадлежность → **whose** + существительное."
         },
         {
-          "q": "How ___ is the Eiffel Tower?",
+          "q": "How ___ is the Eiffel Tower? — About 330 metres.",
           "options": ["much", "many", "tall"],
           "answer": 2,
           "why": "Рост/высота → how + **tall**; much/many — для количества."
@@ -137,7 +137,7 @@
         },
         {
           "prompt": "Somebody has taken my umbrella. (спросите о том, кто) → ...",
-          "answers": ["Who has taken my umbrella?"]
+          "answers": ["Who has taken my umbrella?", "Who's taken my umbrella?"]
         },
         {
           "prompt": "The red folder belongs to Dmitri. (спросите о владельце) → Whose ...",
@@ -145,7 +145,7 @@
         },
         {
           "prompt": "The conference lasts three days. (спросите о длительности) → How ...",
-          "answers": ["How long does the conference last?"]
+          "answers": ["How long does the conference last?", "How long is the conference?"]
         },
         {
           "prompt": "Of the three candidates, only Olga was shortlisted. → Which ...",

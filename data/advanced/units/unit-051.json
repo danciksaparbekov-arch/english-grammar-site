@@ -184,7 +184,7 @@
         },
         {
           "prompt": "(Use any) She has no friends in the city.",
-          "answers": ["She doesn't have any friends in the city.", "She does not have any friends in the city.", "She hasn't any friends in the city.", "She hasn't got any friends in the city."]
+          "answers": ["She doesn't have any friends in the city.", "She does not have any friends in the city.", "She hasn't any friends in the city.", "She hasn't got any friends in the city.", "She has not got any friends in the city."]
         },
         {
           "prompt": "(Use no) He isn't any better than the others.",
@@ -204,7 +204,7 @@
       "items": [
         {
           "prompt": "(Use none of) We interviewed twenty candidates, and not one of them was suitable.",
-          "answers": ["We interviewed twenty candidates, and none of them was suitable.", "We interviewed twenty candidates, and none of them were suitable."]
+          "answers": ["We interviewed twenty candidates, and none of them was suitable.", "We interviewed twenty candidates, and none of them were suitable.", "We interviewed twenty candidates and none of them was suitable.", "We interviewed twenty candidates and none of them were suitable."]
         },
         {
           "prompt": "(Use no) The report doesn't contain any references to the incident.",
@@ -216,11 +216,11 @@
         },
         {
           "prompt": "(Use none) Of the five proposals, not a single one was approved.",
-          "answers": ["Of the five proposals, none was approved.", "Of the five proposals, none were approved."]
+          "answers": ["Of the five proposals, none was approved.", "Of the five proposals, none were approved.", "None of the five proposals was approved.", "None of the five proposals were approved.", "Of the five proposals none was approved.", "Of the five proposals none were approved."]
         },
         {
           "prompt": "(Use not any) We have no information about the delay.",
-          "answers": ["We don't have any information about the delay.", "We do not have any information about the delay.", "We haven't got any information about the delay.", "We have not got any information about the delay."]
+          "answers": ["We don't have any information about the delay.", "We do not have any information about the delay.", "We haven't got any information about the delay.", "We have not got any information about the delay.", "We haven't any information about the delay."]
         },
         {
           "prompt": "(Use no) There isn't any possibility of a refund.",

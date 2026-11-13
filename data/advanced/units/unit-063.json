@@ -172,14 +172,14 @@
           "why": "Подлежащее и дополнение совпадают: **myself**."
         },
         {
-          "q": "Look after ___, and call me when you land.",
+          "q": "Look after ___, Mum, and call me when you land.",
           "options": [
             "you",
             "yourself",
             "yourselves"
           ],
           "answer": 1,
-          "why": "Обращение к одному человеку: **yourself**."
+          "why": "Обращение к одному человеку (*Mum*): **yourself**."
         },
         {
           "q": "The film ___ is not great, but the soundtrack is superb.",
@@ -259,7 +259,9 @@
             "I myself fixed the bike.",
             "I myself fixed my bike.",
             "I repaired the bike myself.",
-            "I repaired my bike myself."
+            "I repaired my bike myself.",
+            "I repaired the bike by myself.",
+            "I repaired my bike by myself."
           ]
         },
         {

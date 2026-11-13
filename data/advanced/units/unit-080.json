@@ -35,7 +35,7 @@
         {"text": "{{Once|When|After}} you understand the rule, the exercises are easy.", "hint": "once / while"},
         {"text": "She was walking home {{when|as}} it started to rain.", "hint": "when / while"},
         {"text": "{{As}} the economy recovered, unemployment fell steadily.", "hint": "as / until"},
-        {"text": "She phoned me {{the moment|the minute|as soon as|immediately}} she heard the news.", "hint": "the m... / as soon as"},
+        {"text": "She phoned me {{the moment|the minute|as soon as|immediately}} she heard the news.", "hint": "the moment / as soon as"},
         {"text": "We didn't realise the problem {{until|till}} we checked the data again.", "hint": "until / since"}
       ]
     },
@@ -76,12 +76,12 @@
       "title": "Соедините предложения",
       "instruction": "Соедините два предложения, используя союз в скобках. Время глаголов — естественное.",
       "items": [
-        {"prompt": "She finished the report. Then she went home. (after)", "answers": ["After she finished the report, she went home.", "After she had finished the report, she went home.", "She went home after she finished the report.", "She went home after she had finished the report."]},
+        {"prompt": "She finished the report. Then she went home. (after)", "answers": ["After she finished the report, she went home.", "After she had finished the report, she went home.", "She went home after she finished the report.", "She went home after she had finished the report.", "After she'd finished the report, she went home.", "She went home after she'd finished the report.", "After finishing the report, she went home.", "She went home after finishing the report."]},
         {"prompt": "I will see him. I'll give him your message. (when)", "answers": ["I'll give him your message when I see him.", "I will give him your message when I see him.", "When I see him, I'll give him your message.", "When I see him, I will give him your message."]},
-        {"prompt": "The film started. We arrived. (by the time)", "answers": ["By the time we arrived, the film had started.", "The film had started by the time we arrived."]},
+        {"prompt": "The film started. We arrived. (by the time)", "answers": ["By the time we arrived, the film had started.", "The film had started by the time we arrived.", "By the time we arrived, the film had already started.", "The film had already started by the time we arrived."]},
         {"prompt": "I haven't had a holiday. I started this job. (since)", "answers": ["I haven't had a holiday since I started this job.", "I have not had a holiday since I started this job.", "Since I started this job, I haven't had a holiday.", "Since I started this job, I have not had a holiday."]},
         {"prompt": "Don't open the box. The inspector will arrive. (until)", "answers": ["Don't open the box until the inspector arrives.", "Do not open the box until the inspector arrives.", "Don't open the box until the inspector has arrived.", "Do not open the box until the inspector has arrived."]},
-        {"prompt": "She was driving. She heard the news. (while)", "answers": ["She heard the news while she was driving.", "While she was driving, she heard the news."]}
+        {"prompt": "She was driving. She heard the news. (while)", "answers": ["She heard the news while she was driving.", "While she was driving, she heard the news.", "While driving, she heard the news.", "She heard the news while driving."]}
       ]
     },
     {
@@ -93,7 +93,7 @@
         {"prompt": "Позвони мне, как только приедешь. (as soon as)", "answers": ["Call me as soon as you arrive.", "Call me as soon as you get there.", "Call me as soon as you get here.", "Phone me as soon as you arrive.", "Give me a call as soon as you arrive."]},
         {"prompt": "Пока я готовил, она читала. (while)", "answers": ["While I was cooking, she was reading.", "While I cooked, she read.", "She was reading while I was cooking.", "She read while I cooked."]},
         {"prompt": "Когда я приду, всё будет готово. (by the time)", "answers": ["By the time I arrive, everything will be ready.", "By the time I get there, everything will be ready.", "By the time I come, everything will be ready.", "By the time I get here, everything will be ready."]},
-        {"prompt": "Я не знал об этом, пока ты не сказал. (until)", "answers": ["I didn't know about it until you told me.", "I didn't know about this until you told me.", "I did not know about it until you told me.", "I did not know about this until you told me.", "I didn't know until you told me.", "I did not know until you told me."]},
+        {"prompt": "Я не знал об этом, пока ты не сказал. (until)", "answers": ["I didn't know about it until you told me.", "I didn't know about this until you told me.", "I did not know about it until you told me.", "I did not know about this until you told me.", "I didn't know until you told me.", "I did not know until you told me.", "I didn't know about that until you told me.", "I did not know about that until you told me."]},
         {"prompt": "Каждый раз, когда идёт дождь, он берёт зонт.", "answers": ["Every time it rains, he takes an umbrella.", "Every time it rains he takes an umbrella.", "Whenever it rains, he takes an umbrella.", "Whenever it rains he takes an umbrella.", "Every time it rains, he takes his umbrella.", "Whenever it rains, he takes his umbrella."]}
       ]
     },

@@ -109,7 +109,7 @@
           "why": "Исполнитель — другой человек: **have the tyres changed**."
         },
         {
-          "q": "She ___ while she was abroad.",
+          "q": "She ___ while she was abroad, so she had to cancel all her cards.",
           "options": [
             "had her purse stolen",
             "stole her purse",
@@ -151,7 +151,7 @@
         {
           "q": "I need this report ___ by tomorrow.",
           "options": [
-            "finishing",
+            "finish",
             "finished",
             "to finishing"
           ],
@@ -237,14 +237,14 @@
           "why": "**want + объект + V3**."
         },
         {
-          "q": "Have you ___ your flu jab yet?",
+          "q": "Have you ___ your car serviced yet?",
           "options": [
             "have",
             "had",
             "having"
           ],
           "answer": 1,
-          "why": "Present perfect: **have you had ... done**."
+          "why": "Present perfect: **have you had** + объект + V3."
         },
         {
           "q": "Would you like your coffee ___ strong?",
@@ -305,7 +305,9 @@
           "prompt": "My dentist should check my teeth twice a year. → I should ...",
           "answers": [
             "I should have my teeth checked twice a year.",
-            "I should get my teeth checked twice a year."
+            "I should get my teeth checked twice a year.",
+            "I should have my teeth checked by my dentist twice a year.",
+            "I should get my teeth checked by my dentist twice a year."
           ]
         }
       ]
@@ -347,7 +349,10 @@
             "Have you had your eyes checked yet?",
             "Have you had your eyes checked?",
             "Have you got your eyes tested yet?",
-            "Have you gotten your eyes tested yet?"
+            "Have you gotten your eyes tested yet?",
+            "Have you already had your eyes tested?",
+            "Have you had your eyes tested already?",
+            "Have you already had your eyes checked?"
           ]
         },
         {
@@ -356,7 +361,11 @@
             "She had her bike stolen.",
             "She had her bicycle stolen.",
             "She got her bike stolen.",
-            "She got her bicycle stolen."
+            "She got her bicycle stolen.",
+            "She's had her bike stolen.",
+            "She has had her bike stolen.",
+            "She's had her bicycle stolen.",
+            "She has had her bicycle stolen."
           ]
         },
         {

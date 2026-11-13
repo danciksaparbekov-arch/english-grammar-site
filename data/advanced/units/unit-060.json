@@ -91,9 +91,9 @@
       "items": [
         {
           "q": "The students ___ at the back couldn't hear.",
-          "options": ["sitting", "sat", "sit"],
+          "options": ["sitting", "were sitting", "sit"],
           "answer": 0,
-          "why": "Активное действие (= who were sitting) → **-ing**."
+          "why": "Активное действие (= who were sitting) → **-ing** без местоимения и вспомогательного глагола; **were sitting** без **who** превращает фразу во второе сказуемое."
         },
         {
           "q": "The email ___ yesterday contained an error.",
@@ -105,7 +105,7 @@
           "q": "The documents ___ by the committee are confidential.",
           "options": ["preparing", "prepared", "prepare"],
           "answer": 1,
-          "why": "Документы готовят, а не готовят сами → **-ed**."
+          "why": "Документы готовит комитет, сами они ничего не делают (пассив) → **-ed**."
         },
         {
           "q": "She was the first woman ___ the prize.",
@@ -127,7 +127,7 @@
         },
         {
           "q": "Everyone ___ the meeting must register at the desk.",
-          "options": ["attending", "attended", "to attend"],
+          "options": ["attending", "attended", "attends"],
           "answer": 0,
           "why": "Активное действие (= who attends / is attending) → **attending**."
         }
@@ -140,10 +140,10 @@
       "instruction": "Выберите правильный вариант.",
       "items": [
         {
-          "q": "Most of the people ___ about the changes were unhappy.",
+          "q": "Most of the people ___ in the survey said they were unhappy.",
           "options": ["asking", "asked", "to ask"],
           "answer": 1,
-          "why": "Людей спрашивали (пассив, = who were asked) → **asked**."
+          "why": "Людей опросили (пассив, = who were asked) → **asked**; *people asking in the survey* не имеет смысла."
         },
         {
           "q": "Какой вариант верный?",
@@ -227,7 +227,7 @@
         },
         {
           "prompt": "I need a book. It is about Roman history.",
-          "answers": ["I need a book about Roman history."]
+          "answers": ["I need a book about Roman history.", "I need a book on Roman history."]
         },
         {
           "prompt": "I found a hotel. The hotel is near the station.",
@@ -239,7 +239,7 @@
         },
         {
           "prompt": "(Use to-infinitive) Here is a good place where we can eat.",
-          "answers": ["Here is a good place to eat."]
+          "answers": ["Here is a good place to eat.", "Here's a good place to eat.", "Here is a good place for us to eat.", "Here's a good place for us to eat."]
         },
         {
           "prompt": "(Use -ing) A law which forbids smoking in cars came into force.",

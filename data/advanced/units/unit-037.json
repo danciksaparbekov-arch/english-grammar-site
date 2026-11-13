@@ -2,7 +2,7 @@
   "id": 37,
   "title": "Reporting statements (2): verb tenses in that-clauses",
   "summary": "Согласование времён в придаточных косвенной речи: сдвиг **backshift**, неизменяемые формы, случаи, когда сдвиг не нужен.",
-  "ru": "## Основное правило: сдвиг времён (backshift)\nЕсли вводный глагол стоит в прошедшем времени (**said, told, explained, thought**), то глагол в придаточном обычно «отодвигается» на один шаг назад:\n- present simple → **past simple**: > \"I work here.\" → She said she **worked** there.\n- present continuous → **past continuous**: > \"I'm leaving.\" → He said he **was leaving**.\n- present perfect → **past perfect**: > \"We've signed it.\" → They said they **had signed** it.\n- past simple → **past perfect** (или остаётся past simple): > \"I lost the key.\" → She said she **had lost** the key.\n- past continuous → **past perfect continuous** (или остаётся): > \"It was raining.\" → He said it **had been raining**.\n- **will → would**, **can → could**, **may → might**, **shall → should**, **is going to → was going to**, **must → had to**.\nЭто не «механическое» правило: цель — показать, что слова были сказаны в прошлом.\n\n## Что не меняется\n- **would, could, should, might, ought to, used to, had better, needn't, mustn't**: > \"You should rest.\" → She said I **should** rest.\n- **past perfect** остаётся: *\"I had already left.\"* → *He said he **had** already left.*\n- **Условные и гипотетические формы**: > \"If I were you, I'd apply.\" → She said that if she **were** me, she'd apply.\n- **must** для вывода (предположение): > \"She must be tired.\" → I thought she **must be** tired.\n\n## Когда сдвиг не обязателен\nСдвиг не нужен, если:\n1. вводный глагол в настоящем времени или present perfect: *He **says** he is busy. She **has told** me she can't come.*\n2. сообщаемое **всё ещё верно** или относится к будущему и говорится вскоре после слов: > \"The meeting starts at six.\" → She said the meeting **starts** at six. (и это ещё актуально)\n3. это **общеизвестный факт**: > The teacher explained that water **boils** at 100°C.\n4. прошедшее время и так ясно из контекста: *He said he **went** to Rome last year.* (достаточно past simple вместо past perfect, потому что есть **last year**).\nНо если сомневаетесь, сдвиг **всегда допустим**: *She said she lived in Oslo* корректно в любом случае. Не сдвигайте лишь там, где сдвиг дал бы противоречие или неясность.\n\n## Будущее в прошедшем и модальные глаголы\n- **will → would**: > \"I'll help.\" → He said he **would** help. **is going to → was going to**.\n- **can't → couldn't**, **may** (возможность) → **might**: > \"It may rain.\" → He said it **might** rain.\n- **must** (обязанность) → **had to**: > \"I must go.\" → She said she **had to** go. (**must** остаётся, если обязанность актуальна.)\n- **shall** (предложение) → **would** / **should**. Разговорные: **has to → had to**, **need to** остаётся.\n\n## Типичные ошибки\n- ~~She said she will come.~~ (о событии в прошлом) → She said she **would** come.\n- ~~He said he has finished.~~ → He said he **had** finished.\n- ~~She told me she is tired yesterday.~~ → ...she **was** tired.\n- ~~He said he can swim.~~ (в рассказе о прошлом) → he **could** swim.\n- ~~They said they would have been late.~~ → They said they **would be** late.",
+  "ru": "## Основное правило: сдвиг времён (backshift)\nЕсли вводный глагол стоит в прошедшем времени (**said, told, explained, thought**), то глагол в придаточном обычно «отодвигается» на один шаг назад:\n- present simple → **past simple**: > \"I work here.\" → She said she **worked** there.\n- present continuous → **past continuous**: > \"I'm leaving.\" → He said he **was leaving**.\n- present perfect → **past perfect**: > \"We've signed it.\" → They said they **had signed** it.\n- past simple → **past perfect** (или остаётся past simple): > \"I lost the key.\" → She said she **had lost** the key.\n- past continuous → **past perfect continuous** (или остаётся): > \"It was raining.\" → He said it **had been raining**.\n- **will → would**, **can → could**, **may → might**, **shall → should**, **is going to → was going to**, **must → had to**.\nЭто не «механическое» правило: цель — показать, что слова были сказаны в прошлом.\n\n## Что не меняется\n- **would, could, should, might, ought to, used to, had better, needn't, mustn't**: > \"You should rest.\" → She said I **should** rest.\n- **past perfect** остаётся: *\"I had already left.\"* → *He said he **had** already left.*\n- **Условные и гипотетические формы**: > \"If I were you, I'd apply.\" → She said that if she **were** me, she'd apply.\n- **must** для вывода (предположение): > \"She must be tired.\" → I thought she **must be** tired.\n\n## Когда сдвиг не обязателен\nСдвиг не нужен, если:\n1. вводный глагол в настоящем времени или present perfect: *He **says** he is busy. She **has told** me she can't come.*\n2. сообщаемое **всё ещё верно** или относится к будущему и говорится вскоре после слов: > \"The meeting starts at six.\" → She said the meeting **starts** at six. (и это ещё актуально)\n3. это **общеизвестный факт**: > The teacher explained that water **boils** at 100°C.\n4. прошедшее время и так ясно из контекста: *He said he **went** to Rome last year.* (достаточно past simple вместо past perfect, потому что есть **last year**).\nНо если сомневаетесь, сдвиг **всегда допустим**: *She said she lived in Oslo* корректно в любом случае. Не сдвигайте лишь там, где сдвиг дал бы противоречие или неясность.\n\n## Будущее в прошедшем и модальные глаголы\n- **will → would**: > \"I'll help.\" → He said he **would** help. **is going to → was going to**.\n- **can't → couldn't**, **may** (возможность) → **might**: > \"It may rain.\" → He said it **might** rain.\n- **must** (обязанность) → **had to**: > \"I must go.\" → She said she **had to** go. (**must** остаётся, если обязанность актуальна.)\n- **shall** (предложение) → **would** / **should**. Также: **has to → had to**, **need to → needed to** (а **needn't** может остаться).\n\n## Типичные ошибки\n- ~~She said she will come.~~ (о событии в прошлом) → She said she **would** come.\n- ~~He said he has finished.~~ → He said he **had** finished.\n- ~~She told me she is tired yesterday.~~ → ...she **was** tired.\n- ~~He said he can swim.~~ (в рассказе о прошлом) → he **could** swim.\n- ~~They said they would have been late.~~ (о словах \"We'll be late\") → They said they **would be** late.",
   "en": "## The basic rule: backshift\nWhen the reporting verb is in the past (**said, told, explained, thought**), the verb in the that-clause usually moves one step back in time:\n- present simple → **past simple**: > \"I work here.\" → She said she **worked** there.\n- present continuous → **past continuous**: > \"I'm leaving.\" → He said he **was leaving**.\n- present perfect → **past perfect**: > \"We've signed it.\" → They said they **had signed** it.\n- past simple → **past perfect** (or stays past simple): > \"I lost the key.\" → She said she **had lost** the key.\n- past continuous → **past perfect continuous** (or stays): > \"It was raining.\" → He said it **had been raining**.\n- **will → would**, **can → could**, **may → might**, **shall → should**, **is going to → was going to**, **must → had to**.\nThe point is to show that the words were spoken in the past.\n\n## What does not change\n- **would, could, should, might, ought to, used to, had better, needn't, mustn't**: > \"You should rest.\" → She said I **should** rest.\n- **past perfect** stays: *\"I had already left.\"* → *He said he **had** already left.*\n- **Hypothetical forms**: > \"If I were you, I'd apply.\" → She said that if she **were** me, she'd apply.\n- **must** for deduction: > \"She must be tired.\" → I thought she **must be** tired.\n\n## When backshift is optional\nWe do not have to shift when:\n1. the reporting verb is in the present or present perfect: *He **says** he is busy. She **has told** me she can't come.*\n2. what was said is **still true** or still in the future, and we report it soon after: > \"The meeting starts at six.\" → She said the meeting **starts** at six.\n3. it is a **general fact**: > The teacher explained that water **boils** at 100°C.\n4. the past is clear from the context: *He said he **went** to Rome last year.* (past simple is enough because of **last year**).\nIf in doubt, backshift is **always possible**: *She said she lived in Oslo* is correct in any case. Do not shift only when it would cause a contradiction or confusion.\n\n## Future in the past and modals\n- **will → would**: > \"I'll help.\" → He said he **would** help. **is going to → was going to**.\n- **can't → couldn't**, **may** (possibility) → **might**: > \"It may rain.\" → He said it **might** rain.\n- **must** (obligation) → **had to**: > \"I must go.\" → She said she **had to** go. (**must** stays if the obligation is still current.)\n- **shall** (offer) → **would** / **should**.\n\n## Common mistakes\n- ~~She said she will come.~~ (about a past event) → She said she **would** come.\n- ~~He said he has finished.~~ → He said he **had** finished.\n- ~~She told me she is tired yesterday.~~ → ...she **was** tired.\n- ~~He said he can swim.~~ (in a story about the past) → he **could** swim.",
   "structure": "## Сдвиг времён\n| Прямая речь | Косвенная речь |\n|---|---|\n| present simple: *I work* | past simple: *she said she worked* |\n| present continuous: *I'm working* | past continuous: *she was working* |\n| present perfect: *I've worked* | past perfect: *she had worked* |\n| past simple: *I worked* | past perfect (или past simple): *she had worked* |\n| past continuous: *I was working* | past perfect continuous (или past continuous) |\n| will | would |\n| can | could |\n| may | might |\n| must | had to (must) |\n| is / are going to | was / were going to |\n\n## Не меняются\n| Форма | Пример |\n|---|---|\n| would, could, should, might, ought to | He said I **should** rest. |\n| past perfect | She said she **had** left. |\n| were в условных | He said if he **were** me... |\n| must — вывод | I thought she **must be** tired. |\n\n## Правило выбора\n> reporting verb в **прошедшем** → сдвиг (всегда допустим)\n> reporting verb в **настоящем / present perfect** → без сдвига\n> факт **всё ещё верен** → сдвиг не обязателен",
   "exercises": [
@@ -30,7 +30,7 @@
         },
         {
           "text": "'Kate is going to resign,' he said. → He said Kate {{was going to}} resign.",
-          "hint": "go to"
+          "hint": "be going to"
         },
         {
           "text": "'We drove all night,' they said. → They said they {{had driven|drove}} all night.",
@@ -103,17 +103,17 @@
           "why": "Сообщаем позже → past continuous."
         },
         {
-          "q": "'I have never seen it,' he said. → He said he ___ never seen it.",
+          "q": "(Before his trip to Norway last winter.) 'I have never seen snow,' Tom said. → Tom said he ___ never seen snow.",
           "options": [
             "has",
             "had",
             "have"
           ],
           "answer": 1,
-          "why": "present perfect → **past perfect**."
+          "why": "present perfect → **past perfect**; **has** не подходит: после поездки это уже неправда."
         },
         {
-          "q": "'I'll help you,' she said. → She said she ___ help me.",
+          "q": "(The move was last month.) 'I'll help you with the move,' she said. → She said she ___ help me with the move.",
           "options": [
             "will",
             "would",
@@ -153,7 +153,7 @@
           "why": "**can't → couldn't**."
         },
         {
-          "q": "'I must go,' said Ann. → Ann said she ___ go.",
+          "q": "(Reported the next day.) 'I must go now,' said Ann. → Ann said she ___ go.",
           "options": [
             "had to",
             "has to",
@@ -181,14 +181,14 @@
       "instruction": "Выберите правильный вариант.",
       "items": [
         {
-          "q": "(Reported long afterwards.) 'I'm working on a novel,' she said. → She said she ___ on a novel.",
+          "q": "(Reported years later; the novel came out long ago.) 'I'm working on a novel,' she said. → She said she ___ on a novel.",
           "options": [
             "was working",
             "is working",
             "has worked"
           ],
           "answer": 0,
-          "why": "Сообщаем много позже — используем **was working**."
+          "why": "Работа над романом давно закончена — сдвиг обязателен: **was working**."
         },
         {
           "q": "'You mustn't open it,' he warned. → He warned me I ___ open it.",
@@ -266,7 +266,7 @@
       "type": "write",
       "source": "book",
       "title": "Передайте слова в косвенной речи",
-      "instruction": "Передайте слова (вводный глагол в прошедшем). Допускаются варианты с that и без него.",
+      "instruction": "Передайте слова с согласованием времён (вводный глагол в прошедшем; рассказ ведётся позже, сказанное уже неактуально). Допускаются варианты с that и без него.",
       "items": [
         {
           "prompt": "'I'm studying for my exams,' Zara told me. Begin: Zara told me ...",
@@ -302,7 +302,11 @@
             "Dev said he would send the files that night.",
             "Dev said he would send the files that evening.",
             "Dev said he'd send the files that night.",
-            "Dev said he'd send the files that evening."
+            "Dev said he'd send the files that evening.",
+            "Dev said that he would send the files last night.",
+            "Dev said that he'd send the files last night.",
+            "Dev said he would send the files last night.",
+            "Dev said he'd send the files last night."
           ]
         },
         {
@@ -341,7 +345,9 @@
             "He said he must finish it that day.",
             "He said he must finish it the same day.",
             "He said he must finish that that day.",
-            "He said he must finish that the same day."
+            "He said he must finish that the same day.",
+            "He said that he had to finish it yesterday.",
+            "He said he had to finish it yesterday."
           ]
         },
         {

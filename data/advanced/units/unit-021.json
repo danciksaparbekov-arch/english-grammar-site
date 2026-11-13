@@ -129,7 +129,7 @@
       "type": "write",
       "source": "book",
       "title": "Перефразируйте с seem / appear",
-      "instruction": "Перепишите предложение, начиная со слов в стрелке, и сохраните смысл. Можно использовать seem или appear.",
+      "instruction": "Перепишите предложение, начиная со слов после стрелки, и сохраните смысл. Можно использовать seem или appear.",
       "items": [
         {
           "prompt": "It seems that the manager has resigned. → The manager ...",

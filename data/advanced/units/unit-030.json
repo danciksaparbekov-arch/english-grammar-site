@@ -11,16 +11,16 @@
       "source": "book",
       "title": "to-infinitive или -ing?",
       "instruction": "Поставьте глагол в скобках в нужную форму (to do или doing).",
-      "example": "He stopped (smoke) ten years ago. → He stopped **smoking** ten years ago.",
+      "example": "She stopped (drink) coffee last year. → She stopped **drinking** coffee last year.",
       "items": [
-        { "text": "I remember {{locking}} the door, so the key must be inside.", "hint": "lock" },
+        { "text": "I remember {{locking|having locked}} the door, so the burglar must have got in through a window.", "hint": "lock" },
         { "text": "Remember {{to lock}} the door when you leave.", "hint": "lock" },
         { "text": "She stopped {{to buy}} a newspaper on her way to work.", "hint": "buy" },
         { "text": "He stopped {{smoking}} ten years ago.", "hint": "smoke" },
         { "text": "We regret {{to inform}} you that the flight has been cancelled.", "hint": "inform" },
         { "text": "I regret {{not studying|not having studied}} harder at school.", "hint": "not / study" },
         { "text": "After finishing the budget, she went on {{to prepare}} the schedule.", "hint": "prepare" },
-        { "text": "I tried {{to open}} the window, but it was jammed.", "hint": "open" }
+        { "text": "I tried as hard as I could {{to open}} the window, but it was jammed.", "hint": "open" }
       ]
     },
     {
@@ -58,7 +58,7 @@
           "why": "Событие из прошлого → **forget doing**."
         },
         {
-          "q": "Mark stopped ___ at the petrol station.",
+          "q": "The tank was almost empty, so Mark stopped ___ at the petrol station.",
           "options": ["to refuel", "refuelling", "refuel"],
           "answer": 0,
           "why": "Остановился, чтобы заправиться (цель) → **stop to do**."
@@ -70,10 +70,10 @@
           "why": "Продолжала то же самое → **go on doing**."
         },
         {
-          "q": "I tried ___ the file, but the computer froze.",
-          "options": ["to open", "opening", "open"],
+          "q": "I tried my best ___ calm, but in the end I lost my temper.",
+          "options": ["to stay", "staying", "stay"],
           "answer": 0,
-          "why": "Усилие, которое не удалось → **try to do**."
+          "why": "Усилие (tried my best), которое не удалось → **try to do**; try doing — «попробовать как способ», здесь не подходит."
         },
         {
           "q": "This new schedule means ___ at 6 a.m. every day.",
@@ -139,11 +139,11 @@
         },
         {
           "prompt": "I remember that I met her at a conference in 2015. (remember) → I ...",
-          "answers": ["I remember meeting her at a conference in 2015."]
+          "answers": ["I remember meeting her at a conference in 2015.", "I remember having met her at a conference in 2015."]
         },
         {
           "prompt": "I'm sorry that I have to tell you that your application was rejected. (regret) → I ...",
-          "answers": ["I regret to tell you that your application was rejected.", "I regret to inform you that your application was rejected."]
+          "answers": ["I regret to tell you that your application was rejected.", "I regret to inform you that your application was rejected.", "I regret to tell you your application was rejected.", "I regret to inform you your application was rejected."]
         },
         {
           "prompt": "Taking the job will involve moving abroad. (mean) → Taking the job ...",
@@ -151,7 +151,7 @@
         },
         {
           "prompt": "He was a smoker before, but now he isn't. (used to) → He ...",
-          "answers": ["He used to smoke."]
+          "answers": ["He used to smoke.", "He used to be a smoker."]
         },
         {
           "prompt": "I experimented with taking cold showers every morning. (try) → I ...",
@@ -187,7 +187,7 @@
         },
         {
           "prompt": "Мы продолжили работать после обеда. (go on / work / after lunch)",
-          "answers": ["We went on working after lunch.", "We carried on working after lunch.", "We continued working after lunch.", "We continued to work after lunch."]
+          "answers": ["We went on working after lunch.", "We carried on working after lunch.", "We continued working after lunch.", "We continued to work after lunch.", "After lunch we went on working.", "After lunch, we went on working."]
         }
       ]
     },

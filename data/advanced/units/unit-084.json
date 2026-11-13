@@ -38,7 +38,7 @@
           "hint": "we / win"
         },
         {
-          "text": "If {{you have finished|you've finished}} the report, please send it to me.",
+          "text": "If {{you have finished|you've finished|you finish}} the report, please send it to me.",
           "hint": "you / finish"
         },
         {
@@ -134,24 +134,24 @@
           "why": "Нереальное прошлое (третий тип) — past perfect."
         },
         {
-          "q": "I'd have called you if I ___ your number.",
+          "q": "I'd have called you if I ___ your number at the time.",
           "options": [
             "had had",
             "would have had",
             "had"
           ],
           "answer": 0,
-          "why": "Третий тип: if + past perfect (had had = past perfect от have)."
+          "why": "Третий тип: if + past perfect (had had = past perfect от have); at the time указывает на прошлое."
         },
         {
-          "q": "If he ___ the sales manager, he would know the figures.",
+          "q": "If he ___ the sales manager, he would know the figures, but he's only an intern.",
           "options": [
             "is",
             "were",
             "would be"
           ],
           "answer": 1,
-          "why": "Нереальное настоящее: **were** (допустимо и was, но в тесте — were)."
+          "why": "Он не менеджер — нереальное настоящее: **were** (допустимо и was, но в тесте — were)."
         },
         {
           "q": "If I ___ to the meeting yesterday, I'd know what was agreed.",
@@ -164,7 +164,7 @@
           "why": "Смешанный тип: прошлое условие (past perfect), результат сейчас (would know)."
         },
         {
-          "q": "If it rains tomorrow, we ___ the match.",
+          "q": "If it rains tomorrow, I think we ___ the match.",
           "options": [
             "cancel",
             "will cancel",
@@ -291,7 +291,9 @@
             "If she spoke Spanish, she could work in Madrid.",
             "If she spoke Spanish, she would be able to work in Madrid.",
             "If she spoke Spanish she could work in Madrid.",
-            "If she spoke Spanish she would be able to work in Madrid."
+            "If she spoke Spanish she would be able to work in Madrid.",
+            "If she spoke Spanish, she'd be able to work in Madrid.",
+            "If she spoke Spanish she'd be able to work in Madrid."
           ]
         },
         {
@@ -319,7 +321,9 @@
             "If Tom wore a coat he would not be cold.",
             "If Tom were wearing a coat he wouldn't be cold.",
             "If Tom was wearing a coat he wouldn't be cold.",
-            "If Tom were wearing a coat he would not be cold."
+            "If Tom were wearing a coat he would not be cold.",
+            "If Tom was wearing a coat, he would not be cold.",
+            "If Tom was wearing a coat he would not be cold."
           ]
         },
         {
@@ -391,7 +395,11 @@
             "If I were the manager I could approve the budget.",
             "If I was the manager I could approve the budget.",
             "If I were the manager I would be able to approve the budget.",
-            "If I was the manager I would be able to approve the budget."
+            "If I was the manager I would be able to approve the budget.",
+            "If I were the manager, I'd be able to approve the budget.",
+            "If I was the manager, I'd be able to approve the budget.",
+            "If I were the manager I'd be able to approve the budget.",
+            "If I was the manager I'd be able to approve the budget."
           ]
         }
       ]

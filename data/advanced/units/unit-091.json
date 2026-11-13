@@ -41,7 +41,7 @@
           "hint": "between / among"
         },
         {
-          "text": "The inheritance was divided {{among}} the forty members of the family.",
+          "text": "There was a feeling of panic {{among}} the passengers when the engine failed.",
           "hint": "between / among"
         }
       ]
@@ -163,14 +163,14 @@
           "why": "После предлога — объектная форма: **between you and me**."
         },
         {
-          "q": "The grant will be shared ___ hundreds of small charities.",
+          "q": "Free food parcels were handed out ___ the crowd outside the stadium.",
           "options": [
             "among",
             "between",
             "besides"
           ],
           "answer": 0,
-          "why": "Много получателей, безликая масса — **among**."
+          "why": "Безликая масса людей (the crowd) — только **among**."
         }
       ]
     },
@@ -213,12 +213,12 @@
         {
           "q": "Какой вариант верный?",
           "options": [
-            "The rumour circulated between the employees.",
-            "The rumour circulated among the employees.",
-            "The rumour circulated beside the employees."
+            "The rumour circulated between the whole workforce.",
+            "The rumour circulated among the whole workforce.",
+            "The rumour circulated beside the whole workforce."
           ],
           "answer": 1,
-          "why": "Слух ходит в массе людей — **among**."
+          "why": "Слух ходит внутри безликой массы (the whole workforce) — **among**; between требует отдельных, различимых участников."
         },
         {
           "q": "Какой вариант верный?",
@@ -284,7 +284,11 @@
           "prompt": "Rewrite with **between**: The share of women in the team is somewhere from 40 to 50 per cent.",
           "answers": [
             "The share of women in the team is between 40 and 50 per cent.",
-            "The share of women in the team is between 40 and 50 percent."
+            "The share of women in the team is between 40 and 50 percent.",
+            "The share of women in the team is between 40% and 50%.",
+            "The share of women in the team is between 40 and 50%.",
+            "The share of women in the team is between 40 per cent and 50 per cent.",
+            "The share of women in the team is between 40 percent and 50 percent."
           ]
         }
       ]
@@ -307,7 +311,16 @@
             "It will remain between us.",
             "It remains between us.",
             "That stays between us.",
-            "That will stay between us."
+            "That will stay between us.",
+            "This stays between you and me.",
+            "This will stay between you and me.",
+            "It stays between you and me.",
+            "It will stay between you and me.",
+            "This will remain between you and me.",
+            "That will remain between us.",
+            "That remains between us.",
+            "That stays between you and me.",
+            "That will stay between you and me."
           ]
         },
         {
@@ -327,7 +340,9 @@
             "The difference between these two words is small.",
             "The difference between the two words is small.",
             "There is little difference between these words.",
-            "There is little difference between these two words."
+            "There is little difference between these two words.",
+            "There's little difference between these words.",
+            "There's little difference between these two words."
           ]
         },
         {
@@ -337,7 +352,12 @@
             "Besides her work, she has two hobbies.",
             "Besides her job, she has two hobbies.",
             "Besides work, she has two other hobbies.",
-            "Besides her work, she has two other hobbies."
+            "Besides her work, she has two other hobbies.",
+            "Besides work she has two hobbies.",
+            "Besides her work she has two hobbies.",
+            "Besides her job she has two hobbies.",
+            "Besides work she has two other hobbies.",
+            "Besides her work she has two other hobbies."
           ]
         },
         {

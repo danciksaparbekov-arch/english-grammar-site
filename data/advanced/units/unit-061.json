@@ -21,7 +21,7 @@
           "hint": "not / know"
         },
         {
-          "text": "{{Opening}} the envelope, she found a cheque inside.",
+          "text": "{{Opening|Having opened}} the envelope, she found a cheque inside.",
           "hint": "open"
         },
         {
@@ -50,7 +50,7 @@
       "instruction": "Дополните предложение причастным оборотом, равным придаточному в первой части.",
       "items": [
         {
-          "text": "After she had checked the schedule, Lena booked a flight. → {{Having checked}} the schedule, Lena booked a flight.",
+          "text": "After she had checked the schedule, Lena booked a flight. → {{Having checked|After checking|After having checked}} the schedule, Lena booked a flight.",
           "hint": "check"
         },
         {
@@ -270,7 +270,10 @@
           "prompt": "Не зная, что делать, она позвонила начальнику. (know / call / boss)",
           "answers": [
             "Not knowing what to do, she called her boss.",
-            "Not knowing what to do, she called the boss."
+            "Not knowing what to do, she called the boss.",
+            "Not knowing what to do, she phoned her boss.",
+            "Not knowing what to do, she phoned the boss.",
+            "Not knowing what to do, she rang her boss."
           ]
         },
         {
@@ -278,15 +281,17 @@
           "answers": [
             "Having read the letter, he called the lawyer.",
             "Having read the letter, he called a lawyer.",
-            "Having read the letter, he called his lawyer."
+            "Having read the letter, he called his lawyer.",
+            "Having read the letter, he phoned the lawyer.",
+            "Having read the letter, he phoned a lawyer.",
+            "Having read the letter, he phoned his lawyer."
           ]
         },
         {
           "prompt": "Родившись в Бишкеке, она хорошо знает горы. (be born / know)",
           "answers": [
             "Having been born in Bishkek, she knows the mountains well.",
-            "Born in Bishkek, she knows the mountains well.",
-            "Being born in Bishkek, she knows the mountains well."
+            "Born in Bishkek, she knows the mountains well."
           ]
         },
         {
@@ -296,7 +301,10 @@
             "Not having received an answer, we wrote again.",
             "Not having received a response, we wrote again.",
             "Not having received a reply, we wrote once more.",
-            "Not having received an answer, we wrote once more."
+            "Not having received an answer, we wrote once more.",
+            "Having not received a reply, we wrote again.",
+            "Having not received an answer, we wrote again.",
+            "Having not received a response, we wrote again."
           ]
         },
         {
@@ -305,7 +313,11 @@
             "Built in 1950, the building will soon be pulled down.",
             "The building, built in 1950, will soon be pulled down.",
             "Built in 1950, the building will soon be demolished.",
-            "The building, built in 1950, will soon be demolished."
+            "The building, built in 1950, will soon be demolished.",
+            "Built in 1950, the building will be pulled down soon.",
+            "The building, built in 1950, will be pulled down soon.",
+            "Built in 1950, the building will be demolished soon.",
+            "The building, built in 1950, will be demolished soon."
           ]
         }
       ]
@@ -334,7 +346,7 @@
         },
         {
           "prompt": "Напишите, что вы сделали вчера, с оборотом ..., leaving / making / causing ...",
-          "sample": "I missed the bus, making me late for the first lesson."
+          "sample": "My train was cancelled yesterday, leaving me stuck at the station for two hours."
         }
       ]
     }

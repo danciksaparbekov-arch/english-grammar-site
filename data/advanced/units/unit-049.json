@@ -100,7 +100,7 @@
           "why": "Общее понятие без артикля: Hard work."
         },
         {
-          "q": "My daughter is still at ___.",
+          "q": "My daughter is still at ___. (она ещё учится, не окончила школу)",
           "options": ["school", "the school", "a school"],
           "answer": 0,
           "why": "Учится — at school (по назначению)."
@@ -261,7 +261,9 @@
           "answers": [
             "He is in prison for five years.",
             "He's in prison for five years.",
-            "He was in prison for five years."
+            "He was in prison for five years.",
+            "He has been in prison for five years.",
+            "He's been in prison for five years."
           ]
         },
         {

@@ -33,7 +33,7 @@
         {"text": "She told me she had visited Rome two years {{before}}.", "hint": "ago / before"},
         {"text": "We have lived here {{since}} 2018.", "hint": "for / since"},
         {"text": "We have lived here {{for}} six years.", "hint": "for / since"},
-        {"text": "Haven't you finished {{yet}}?", "hint": "yet / already"},
+        {"text": "The results haven't been published {{yet}}.", "hint": "yet / already"},
         {"text": "It's {{already}} midnight, and we haven't had dinner.", "hint": "yet / already"},
         {"text": "He hasn't replied {{yet}}, so I'll call him.", "hint": "yet / still"},
         {"text": "She has {{just}} left, so you may catch her.", "hint": "just / yet"}
@@ -94,7 +94,7 @@
         {"prompt": "Мы пошли домой пешком.", "answers": ["We walked home.", "We went home on foot.", "We walked back home."]},
         {"prompt": "Он больше здесь не работает.", "answers": ["He doesn't work here any more.", "He doesn't work here anymore.", "He no longer works here.", "He does not work here any more.", "He does not work here anymore."]},
         {"prompt": "Я проверяю почту дважды в день.", "answers": ["I check my email twice a day.", "I check my mail twice a day.", "I check my e-mail twice a day.", "I check my emails twice a day."]},
-        {"prompt": "Мы в конце концов нашли ключ.", "answers": ["We finally found the key.", "We eventually found the key.", "In the end, we found the key.", "In the end we found the key.", "At last we found the key.", "At last, we found the key.", "Finally, we found the key.", "Eventually, we found the key."]}
+        {"prompt": "Мы в конце концов нашли ключ.", "answers": ["We finally found the key.", "We eventually found the key.", "In the end, we found the key.", "In the end we found the key.", "At last we found the key.", "At last, we found the key.", "Finally, we found the key.", "Eventually, we found the key.", "Finally we found the key.", "Eventually we found the key.", "We found the key in the end.", "We found the key eventually.", "We found the key at last."]}
       ]
     },
     {

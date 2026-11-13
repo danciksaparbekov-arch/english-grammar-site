@@ -78,8 +78,8 @@
           "hint": "few of / a few of / a little of"
         },
         {
-          "text": "The express checkout is for ten items or {{fewer}}.",
-          "hint": "fewer / less"
+          "text": "The express checkout is for ten items or {{fewer|less}}.",
+          "hint": "fewer / less (на табличках встречаются оба; строже — fewer)"
         }
       ]
     },
@@ -191,7 +191,7 @@
       "items": [
         {
           "prompt": "(Use few) Hardly any tourists visit this island in winter.",
-          "answers": ["Few tourists visit this island in winter."]
+          "answers": ["Few tourists visit this island in winter.", "Very few tourists visit this island in winter."]
         },
         {
           "prompt": "(Use little) There isn't much hope of a quick agreement.",
@@ -207,11 +207,11 @@
         },
         {
           "prompt": "(Use a little) We have some milk left, but not much.",
-          "answers": ["We have a little milk left.", "We've got a little milk left.", "We have got a little milk left."]
+          "answers": ["We have a little milk left.", "We've got a little milk left.", "We have got a little milk left.", "There is a little milk left.", "There's a little milk left."]
         },
         {
           "prompt": "(Use few of) Hardly any of the employees knew about the plan.",
-          "answers": ["Few of the employees knew about the plan."]
+          "answers": ["Few of the employees knew about the plan.", "Very few of the employees knew about the plan."]
         }
       ]
     },

@@ -25,7 +25,7 @@
           "hint": "предлог"
         },
         {
-          "text": "The residents complained {{about}} the noise.",
+          "text": "The residents complained {{about|of}} the noise.",
           "hint": "предлог"
         },
         {
@@ -264,7 +264,8 @@
           "prompt": "'You didn't tell me the truth!' she said to him. (accuse, not tell)",
           "answers": [
             "She accused him of not telling her the truth.",
-            "She accused him of not telling the truth."
+            "She accused him of not telling the truth.",
+            "She accused him of not having told her the truth."
           ]
         },
         {
@@ -278,7 +279,9 @@
           "prompt": "'Yes, I read Anna's email,' said Joe. (admit + -ing)",
           "answers": [
             "Joe admitted reading Anna's email.",
-            "Joe admitted having read Anna's email."
+            "Joe admitted having read Anna's email.",
+            "Joe admitted to reading Anna's email.",
+            "Joe admitted to having read Anna's email."
           ]
         },
         {

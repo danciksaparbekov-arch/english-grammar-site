@@ -29,7 +29,7 @@
       "title": "The more..., the more...",
       "instruction": "Поставьте слова из скобок в нужную форму сравнения.",
       "items": [
-        {"text": "The {{more}} I read about the case, the {{less}} I understood.", "hint": "more / little"},
+        {"text": "The {{more}} I read about the case, the {{less}} I understood.", "hint": "much / little"},
         {"text": "The {{harder}} you train, the {{better}} you'll perform.", "hint": "hard / good"},
         {"text": "The {{longer}} the delay, the {{angrier|more angry}} the passengers became.", "hint": "long / angry"},
         {"text": "Traffic is getting {{heavier}} and {{heavier}} every year.", "hint": "heavy / heavy"},
@@ -75,12 +75,12 @@
       "title": "Перефразируйте",
       "instruction": "Перепишите предложение, используя указанные слова.",
       "items": [
-        {"prompt": "Mark is 30 and Sue is 60. → Sue is ...", "answers": ["Sue is twice as old as Mark.", "Sue is twice Mark's age."]},
+        {"prompt": "Mark is 30 and Sue is 60. → Sue is ...", "answers": ["Sue is twice as old as Mark.", "Sue is twice Mark's age.", "Sue is twice the age of Mark."]},
         {"prompt": "I didn't think the exam would be so hard. → The exam was harder ...", "answers": ["The exam was harder than I thought.", "The exam was harder than I had thought.", "The exam was harder than I'd thought.", "The exam was harder than I expected.", "The exam was harder than I had expected.", "The exam was harder than I'd expected."]},
         {"prompt": "Our flat is 40 square metres; theirs is 80. → Their flat is twice ...", "answers": ["Their flat is twice as big as ours.", "Their flat is twice as large as ours.", "Their flat is twice the size of ours."]},
         {"prompt": "As the weather got colder, fewer people came. → The colder ...", "answers": ["The colder the weather got, the fewer people came.", "The colder the weather became, the fewer people came.", "The colder it got, the fewer people came.", "The colder it became, the fewer people came."]},
-        {"prompt": "The situation gets worse each day. (and) → The situation is getting ...", "answers": ["The situation is getting worse and worse each day."]},
-        {"prompt": "The train takes 40 minutes and so does the bus. (as long as) → The train ...", "answers": ["The train takes as long as the bus.", "The train takes as long as the bus does."]}
+        {"prompt": "The situation gets worse each day. (and) → The situation is getting ...", "answers": ["The situation is getting worse and worse each day.", "The situation is getting worse and worse every day.", "The situation is getting worse and worse."]},
+        {"prompt": "The train takes 40 minutes and so does the bus. (as long as) → The train ...", "answers": ["The train takes as long as the bus.", "The train takes as long as the bus does.", "The train takes just as long as the bus.", "The train takes just as long as the bus does."]}
       ]
     },
     {
@@ -91,7 +91,7 @@
       "items": [
         {"prompt": "Чем раньше, тем лучше.", "answers": ["The sooner, the better.", "The sooner the better.", "The earlier, the better.", "The earlier the better."]},
         {"prompt": "Он зарабатывает вдвое больше меня.", "answers": ["He earns twice as much as I do.", "He earns twice as much as me.", "He earns twice as much as I.", "He earns double what I do.", "He earns twice what I do.", "He earns double what I earn.", "He earns twice what I earn."]},
-        {"prompt": "Экзамен был не таким трудным, как я думал. (think)", "answers": ["The exam wasn't as difficult as I thought.", "The exam was not as difficult as I thought.", "The exam wasn't as difficult as I had thought.", "The exam was not as difficult as I had thought.", "The exam wasn't as difficult as I'd thought.", "The exam wasn't so difficult as I thought.", "The exam was not so difficult as I thought."]},
+        {"prompt": "Экзамен был не таким трудным, как я думал. (think)", "answers": ["The exam wasn't as difficult as I thought.", "The exam wasn't as difficult as I had thought.", "The exam wasn't as difficult as I'd thought.", "The exam wasn't so difficult as I thought.", "The exam wasn't so difficult as I had thought.", "The exam wasn't so difficult as I'd thought.", "The exam was not as difficult as I thought.", "The exam was not as difficult as I had thought.", "The exam was not as difficult as I'd thought.", "The exam was not so difficult as I thought.", "The exam was not so difficult as I had thought.", "The exam was not so difficult as I'd thought.", "The exam wasn't as hard as I thought.", "The exam wasn't as hard as I had thought.", "The exam wasn't as hard as I'd thought.", "The exam wasn't so hard as I thought.", "The exam wasn't so hard as I had thought.", "The exam wasn't so hard as I'd thought.", "The exam was not as hard as I thought.", "The exam was not as hard as I had thought.", "The exam was not as hard as I'd thought.", "The exam was not so hard as I thought.", "The exam was not so hard as I had thought.", "The exam was not so hard as I'd thought."]},
         {"prompt": "Чем больше я читаю, тем больше хочу знать. (want)", "answers": ["The more I read, the more I want to know.", "The more I read the more I want to know."]},
         {"prompt": "Погода становится всё лучше и лучше. (get)", "answers": ["The weather is getting better and better.", "The weather's getting better and better.", "The weather gets better and better."]},
         {"prompt": "Он не столько учёный, сколько писатель.", "answers": ["He is not so much a scientist as a writer.", "He's not so much a scientist as a writer.", "He isn't so much a scientist as a writer.", "He is less a scientist than a writer.", "He's less a scientist than a writer."]}

@@ -34,7 +34,7 @@
           "hint": "walk"
         },
         {
-          "text": "I don't know when the committee {{will announce|is going to announce|'ll announce}} its decision.",
+          "text": "I don't know when the committee {{will announce|is going to announce|'ll announce|is announcing}} its decision.",
           "hint": "announce"
         },
         {
@@ -94,10 +94,10 @@
           "options": [
             "Until",
             "As",
-            "Since"
+            "During"
           ],
           "answer": 1,
-          "why": "**As** показывает два параллельных процесса, развивающихся вместе; until и since здесь по смыслу не подходят."
+          "why": "**As** показывает два параллельных процесса, развивающихся вместе; until здесь не подходит по смыслу, а during — предлог, после него не может стоять предложение."
         },
         {
           "q": "I'll text you as soon as I ___ at the hotel.",
@@ -120,14 +120,14 @@
           "why": "Действие произошло **до** момента прибытия в прошлом — past perfect."
         },
         {
-          "q": "Tell me when you ___ ready.",
+          "q": "Give me a call when you ___ ready.",
           "options": [
             "will be",
             "are",
             "would be"
           ],
           "answer": 1,
-          "why": "В придаточном времени после when — present simple, не will."
+          "why": "В придаточном времени после when — present simple, не will (call me when... = «позвони, когда будешь готов»)."
         },
         {
           "q": "No sooner had she put down the phone ___ it rang again.",
@@ -265,8 +265,7 @@
           "prompt": "As soon as the curtain rose, the audience fell silent. → Hardly ...",
           "answers": [
             "Hardly had the curtain risen when the audience fell silent.",
-            "Hardly had the curtain risen before the audience fell silent.",
-            "Hardly had the curtain risen than the audience fell silent."
+            "Hardly had the curtain risen before the audience fell silent."
           ]
         },
         {
@@ -339,7 +338,11 @@
             "Since I moved here I haven't seen snow.",
             "Since I moved here I have not seen snow.",
             "Since I moved here I haven't seen any snow.",
-            "Since I moved here I have not seen any snow."
+            "Since I moved here I have not seen any snow.",
+            "I haven't seen snow since I moved here.",
+            "I have not seen snow since I moved here.",
+            "I haven't seen any snow since I moved here.",
+            "I have not seen any snow since I moved here."
           ]
         },
         {
@@ -357,8 +360,7 @@
           "prompt": "As soon as we left, it began to snow. → Scarcely ...",
           "answers": [
             "Scarcely had we left when it began to snow.",
-            "Scarcely had we left before it began to snow.",
-            "Scarcely had we left than it began to snow."
+            "Scarcely had we left before it began to snow."
           ]
         }
       ]

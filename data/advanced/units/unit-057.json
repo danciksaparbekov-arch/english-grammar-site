@@ -42,7 +42,7 @@
           "hint": "whose / who's"
         },
         {
-          "text": "There are cases {{where|in which}} the rule doesn't apply.",
+          "text": "There are cases {{where|in which|when}} the rule doesn't apply.",
           "hint": "when / where / why"
         }
       ]
@@ -213,7 +213,7 @@
       "items": [
         {
           "prompt": "(Use whereby) A system has been introduced. By this system, employees can choose their hours.",
-          "answers": ["A system has been introduced whereby employees can choose their hours."]
+          "answers": ["A system has been introduced whereby employees can choose their hours.", "A system whereby employees can choose their hours has been introduced."]
         },
         {
           "prompt": "(Use whose) It's a novel. The ending of it shocked readers.",

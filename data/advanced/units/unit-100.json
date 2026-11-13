@@ -274,7 +274,8 @@
         {
           "prompt": "Start with **Had**: If we hadn't missed the bus, we would have arrived on time.",
           "answers": [
-            "Had we not missed the bus, we would have arrived on time."
+            "Had we not missed the bus, we would have arrived on time.",
+            "Had we not missed the bus, we'd have arrived on time."
           ]
         },
         {
@@ -309,7 +310,8 @@
         {
           "prompt": "Start with **Were it not for**: If it weren't for your advice, I would have made a terrible mistake.",
           "answers": [
-            "Were it not for your advice, I would have made a terrible mistake."
+            "Were it not for your advice, I would have made a terrible mistake.",
+            "Were it not for your advice, I'd have made a terrible mistake."
           ]
         },
         {
@@ -348,7 +350,11 @@
             "Should anyone call, say that I'm out.",
             "Should anyone call, say I'm out.",
             "Should anyone call, tell them that I'm out.",
-            "Should anyone call, tell them I'm out."
+            "Should anyone call, tell them I'm out.",
+            "Should anyone call, say that I am out.",
+            "Should anyone call, say I am out.",
+            "Should anyone call, tell them that I am out.",
+            "Should anyone call, tell them I am out."
           ]
         }
       ]

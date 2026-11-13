@@ -57,7 +57,7 @@
           "hint": "предлог"
         },
         {
-          "text": "The road {{blocked}} by fallen trees, drivers had to turn back.",
+          "text": "The road {{blocked|being blocked|having been blocked}} by fallen trees, drivers had to turn back.",
           "hint": "block"
         },
         {
@@ -191,7 +191,7 @@
           "why": "**Judging by** — устойчивый оборот, не требует совпадения подлежащего."
         },
         {
-          "q": "With the exams ___, the students celebrated.",
+          "q": "With all the exams ___ and marked, the students celebrated.",
           "options": [
             "finished",
             "finishing",
@@ -244,7 +244,8 @@
         {
           "prompt": "Although he was feeling dizzy, Tom finished the race. Начните: Although",
           "answers": [
-            "Although feeling dizzy, Tom finished the race."
+            "Although feeling dizzy, Tom finished the race.",
+            "Although dizzy, Tom finished the race."
           ]
         },
         {
