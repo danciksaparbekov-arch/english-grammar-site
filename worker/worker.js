@@ -89,8 +89,9 @@ export default {
       generationConfig: { temperature: 0.5, maxOutputTokens: 4096 }
     });
 
-    let r, data = {};
+    let r, data = {}, used = "";
     for (const model of models) {
+      used = model;
       const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
       try {
         r = await fetch(url, {
@@ -113,6 +114,7 @@ export default {
     }
     const reply = (data.candidates?.[0]?.content?.parts || []).filter(p => !p.thought).map(p => p.text || "").join("").trim();
     if (!reply) return json({ error: "пустой ответ модели" }, 502, origin);
-    return json({ reply }, 200, origin);
+    // какая модель ответила — для диагностики (видно в ответе, ключ не раскрывает)
+    return json({ reply, model: data.modelVersion || used }, 200, origin);
   }
 };

@@ -5,9 +5,9 @@ compatibility_date = "2025-06-01"
 [vars]
 # Через запятую: адреса, с которых разрешены запросы (без слэша в конце)
 ALLOWED_ORIGINS = "https://danciksaparbekov-arch.github.io,http://localhost:8000"
-GEMINI_MODEL = "gemini-3.8-flash"
+GEMINI_MODEL = "gemini-4-hydrogen"
 # Запасные модели, если основная перегружена (503) или недоступна (404)
-GEMINI_FALLBACK = "gemini-3.5-flash,gemini-3.1-flash-lite"
+GEMINI_FALLBACK = "gemini-3.8-flash,gemini-3.5-flash"
 
 # Ограничение: не больше 15 запросов в минуту с одного IP
 [[ratelimits]]
