@@ -1,0 +1,360 @@
+{
+  "id": 67,
+  "title": "Leaving out words after auxiliary verbs",
+  "summary": "Опущение слов после вспомогательных глаголов (I can't, but she can), so / neither + aux + S, запрет сокращения в конце фразы, британское do.",
+  "ru": "## Идея: оставляем только вспомогательный глагол\nЧтобы не повторять уже известное, после **вспомогательного или модального глагола** остальная часть сказуемого опускается, если из контекста ясно, что имелось в виду.\n> A: Have you finished? B: Yes, I **have**. — Да.\n> She can't swim, but her brother **can**. — ...а её брат умеет.\n> He said he would call, and he **did**.\n> I'd help you if I **could**.\nВ русском ту же роль играет «да / умею / сделал»; в английском нужен именно **вспомогательный глагол** в правильном времени и лице, а не просто *yes*.\n\n## Какой глагол оставить\n| В первой части | Что остаётся | Пример |\n|---|---|---|\n| модальный (can, will, should) | тот же модальный | I can't come, but Tom **can**. |\n| have / has + V3 | have / has | I haven't been there, but she **has**. |\n| be (глагол и вспомогательный) | be | He isn't tired, but I **am**. |\n| простое время, без вспомогательного | **do / does / did** | She doesn't swim, but he **does**. |\nЕсли оригинал был сложным (*might have been waiting*), обычно оставляют **первый** вспомогательный или первые два: *A: Could she have been lost? B: She might (have).* Форма вспомогательного может отличаться от первой части: *I didn't phone, but I **should have**.*\n\n## Нельзя: краткая форма в конце\nЕсли вспомогательный стоит **последним** в предложении, его нельзя сокращать (на конце ударение).\n- ~~Yes, I've.~~ → Yes, I **have**.\n- ~~Is he coming? I think he's.~~ → I think he **is**.\n- ~~Tom's tired, and I'm.~~ → ...and I **am**.\nОтрицательные краткие формы допустимы: *No, I haven't. · No, he isn't.*\n\n## so, neither, nor + вспомогательный + подлежащее\nТак мы соглашаемся: **so + aux + S** (утверждение) и **neither / nor + aux + S** (отрицание). Вспомогательный должен соответствовать глаголу исходной фразы.\n> A: I love hiking. B: So **do** I. — Я тоже.\n> A: She's very talented. B: So **is** her brother.\n> A: I haven't seen it. B: Neither **have** I. / Nor **have** I.\n> A: He can't cook. B: Neither **can** I.\nПараллельно: *I do too. · I don't either. · Me too. · Me neither.* (разговорно).\nВажное различие: **So it is / So I did** (подлежащее перед вспомогательным) — не согласие, а **подтверждение**, часто с лёгким удивлением: *A: It's freezing. B: So it is!*\n\n## Британский вариант с do\nВ британском английском после модального глагола можно оставить **do**: *A: Are you going? B: I might **do**. · I haven't seen it, but I should **do**.* В американском английском так не говорят.\n\n## Типичные ошибки\n- ~~Do you like it? — Yes, I like.~~ → Yes, I **do**.\n- ~~She hasn't called, and neither she has.~~ → ...and neither **has** her sister.\n- ~~I can't swim and neither I can.~~ → ...and neither **can** I.\n- ~~A: I'm tired. B: So I do.~~ → So **am** I.",
+  "en": "## The idea: keep only the auxiliary\nTo avoid repeating what is already clear, we can leave out everything after an **auxiliary or modal verb**.\n> A: Have you finished? B: Yes, I **have**.\n> She can't swim, but her brother **can**.\n> He said he would call, and he **did**.\n> I'd help you if I **could**.\nIn Russian \"да / умеет / сделал\" would do; in English you need an auxiliary in the right tense and person, not just *yes*.\n\n## Which verb stays\n| In the first part | What stays | Example |\n|---|---|---|\n| modal (can, will, should) | the same modal | I can't come, but Tom **can**. |\n| have / has + past participle | have / has | I haven't been there, but she **has**. |\n| be (main verb or auxiliary) | be | He isn't tired, but I **am**. |\n| simple tense, no auxiliary | **do / does / did** | She doesn't swim, but he **does**. |\nIf the original was complex (*might have been waiting*), we usually keep the **first** auxiliary or the first two: *A: Could she have been lost? B: She might (have).* The auxiliary may differ from the first part: *I didn't phone, but I **should have**.*\n\n## Not allowed: a contraction at the end\nAn auxiliary at the very end of a clause is stressed and cannot be contracted.\n- ~~Yes, I've.~~ → Yes, I **have**.\n- ~~Is he coming? I think he's.~~ → I think he **is**.\n- ~~Tom's tired, and I'm.~~ → ...and I **am**.\nNegative contractions are fine: *No, I haven't. · No, he isn't.*\n\n## so, neither, nor + auxiliary + subject\nWe agree with **so + aux + S** (positive) and **neither / nor + aux + S** (negative). The auxiliary matches the original verb.\n> A: I love hiking. B: So **do** I.\n> A: She's very talented. B: So **is** her brother.\n> A: I haven't seen it. B: Neither **have** I. / Nor **have** I.\n> A: He can't cook. B: Neither **can** I.\nInformal: *I do too. · I don't either. · Me too. · Me neither.*\nNote the difference: **So it is / So I did** (subject before the auxiliary) is not agreement but **confirmation**, often with mild surprise: *A: It's freezing. B: So it is!*\n\n## British do after modals\nBritish English allows **do** after a modal: *A: Are you going? B: I might **do**. · I haven't seen it, but I should **do**.* This is not used in American English.\n\n## Common mistakes\n- ~~Do you like it? — Yes, I like.~~ → Yes, I **do**.\n- ~~I can't swim and neither I can.~~ → ...and neither **can** I.\n- ~~A: I'm tired. B: So I do.~~ → So **am** I.",
+  "structure": "## Что остаётся после опущения\n| Оригинал | Короткий вариант |\n|---|---|\n| can swim | ... but he can. |\n| has finished | ... but she has. |\n| is working | ... but I am. |\n| works / worked | ... but he does / did. |\n| should have phoned | ... but I should have. |\n| might have been waiting | ... she might (have). |\n\n## Согласие\n| Утверждение | Согласие | Пример |\n|---|---|---|\n| positive | So + aux + S | So do I. · So is she. |\n| negative | Neither / Nor + aux + S | Neither can he. |\n| разг. | I do too. / I don't either. | Me too. · Me neither. |\n\n## Подтверждение\n| Форма | Значение |\n|---|---|\n| So + S + aux | «Да, так и есть» — So it is! |\n\n## Формулы\n> **S + aux**, but **S + aux** (контраст)  ·  **So + aux + S**  ·  **Neither + aux + S**\n> В конце предложения: **I have** (не I've), **he is** (не he's).",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Оставьте только вспомогательный",
+      "instruction": "Вставьте вспомогательный или модальный глагол.",
+      "items": [
+        {
+          "text": "He hasn't been to Japan, but I {{have}}.",
+          "hint": "aux"
+        },
+        {
+          "text": "She said she would call, and she {{did}}.",
+          "hint": "aux"
+        },
+        {
+          "text": "I don't like jazz, but my husband {{does}}.",
+          "hint": "aux"
+        },
+        {
+          "text": "A: Are you tired? B: No, I'm not, but Sam {{is}}.",
+          "hint": "aux"
+        },
+        {
+          "text": "They didn't arrive on time, but we {{did}}.",
+          "hint": "aux"
+        },
+        {
+          "text": "My sister doesn't speak Spanish, but her friend {{does}}.",
+          "hint": "aux"
+        },
+        {
+          "text": "I can't drive, but my sister {{can}}.",
+          "hint": "aux"
+        },
+        {
+          "text": "A: Was the film good? B: It {{was}}, actually. I was surprised.",
+          "hint": "aux"
+        }
+      ],
+      "example": "I can't swim, but Tom (can / does). → ... but Tom **can**."
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "so, neither, nor",
+      "instruction": "Вставьте нужное слово (вспомогательный глагол или neither / nor).",
+      "items": [
+        {
+          "text": "A: I love hiking. B: So {{do}} I.",
+          "hint": "aux"
+        },
+        {
+          "text": "A: I haven't seen it. B: Neither {{have}} I.",
+          "hint": "aux"
+        },
+        {
+          "text": "A: She's very talented. B: So {{is}} her brother.",
+          "hint": "aux"
+        },
+        {
+          "text": "He can't cook, and {{neither|nor}} can I.",
+          "hint": "слово"
+        },
+        {
+          "text": "A: I'd like to travel. B: So {{would}} I.",
+          "hint": "aux"
+        },
+        {
+          "text": "A: I didn't enjoy it. B: {{Neither|Nor}} did I.",
+          "hint": "слово"
+        },
+        {
+          "text": "She hasn't called, and {{neither|nor}} has her sister.",
+          "hint": "слово"
+        },
+        {
+          "text": "I wasn't invited, and {{neither|nor}} was Tom.",
+          "hint": "слово"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Какой глагол?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "A: Have you finished? B: Yes, I ___.",
+          "options": [
+            "have",
+            "'ve",
+            "am"
+          ],
+          "answer": 0,
+          "why": "На конце предложения вспомогательный не сокращается: **I have**."
+        },
+        {
+          "q": "A: Is she coming? B: I think she ___.",
+          "options": [
+            "is",
+            "'s",
+            "does"
+          ],
+          "answer": 0,
+          "why": "Полная форма в конце: **she is**."
+        },
+        {
+          "q": "I didn't tell anyone, but I wish I ___.",
+          "options": [
+            "had",
+            "would",
+            "did"
+          ],
+          "answer": 0,
+          "why": "Сожаление о прошлом: **I wish I had** (= told)."
+        },
+        {
+          "q": "A: You haven't been to Rome. B: No, but my wife ___.",
+          "options": [
+            "has",
+            "is",
+            "does"
+          ],
+          "answer": 0,
+          "why": "Первая часть с *have been* — оставляем **has**."
+        },
+        {
+          "q": "Tom can't swim, but Kate ___.",
+          "options": [
+            "can",
+            "does",
+            "is"
+          ],
+          "answer": 0,
+          "why": "Модальный глагол повторяем: **can**."
+        },
+        {
+          "q": "A: Didn't you lock it? B: Yes, I ___.",
+          "options": [
+            "did",
+            "have",
+            "was"
+          ],
+          "answer": 0,
+          "why": "Вопрос с *didn't* (Past Simple) — отвечаем **did**."
+        },
+        {
+          "q": "She isn't a nurse, but her sister ___.",
+          "options": [
+            "is",
+            "does",
+            "has"
+          ],
+          "answer": 0,
+          "why": "Исходный глагол *be* — остаётся **is**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Согласие и ловушки",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "Какой вариант НЕверен? A: Have you met Anna? B: ...",
+          "options": [
+            "Yes, I have.",
+            "Yes, I've.",
+            "No, I haven't."
+          ],
+          "answer": 1,
+          "why": "В конце предложения *have* не сокращается: ~~Yes, I've~~."
+        },
+        {
+          "q": "A: I'm exhausted. B: ___",
+          "options": [
+            "So am I.",
+            "So do I.",
+            "Neither am I."
+          ],
+          "answer": 0,
+          "why": "Согласие с *be*: **So am I**."
+        },
+        {
+          "q": "A: I can't hear a thing. B: ___",
+          "options": [
+            "Neither can I.",
+            "So can't I.",
+            "Neither I can."
+          ],
+          "answer": 0,
+          "why": "Отрицательное согласие: **Neither can I**."
+        },
+        {
+          "q": "A: It's freezing! B: ___ (подтверждаю, чуть удивлён)",
+          "options": [
+            "So it is!",
+            "So is it!",
+            "So does it!"
+          ],
+          "answer": 0,
+          "why": "**So it is** — подлежащее перед вспомогательным значит подтверждение."
+        },
+        {
+          "q": "She's never been to Spain, but ___.",
+          "options": [
+            "I have",
+            "I've",
+            "I did"
+          ],
+          "answer": 0,
+          "why": "Оставляем *have* без сокращения: **I have**."
+        },
+        {
+          "q": "A: I don't like olives. B: ___",
+          "options": [
+            "Neither do I.",
+            "So do I.",
+            "Nor I do."
+          ],
+          "answer": 0,
+          "why": "Отрицательное согласие с *do*: **Neither do I**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Сократите",
+      "instruction": "Перепишите предложение, убрав лишнее повторение.",
+      "items": [
+        {
+          "prompt": "I haven't seen the film, but Dan has seen the film.",
+          "answers": [
+            "I haven't seen the film, but Dan has.",
+            "I have not seen the film, but Dan has."
+          ]
+        },
+        {
+          "prompt": "She doesn't eat meat, but her husband eats meat.",
+          "answers": [
+            "She doesn't eat meat, but her husband does.",
+            "She does not eat meat, but her husband does."
+          ]
+        },
+        {
+          "prompt": "I didn't go to the meeting, but my colleague went to the meeting.",
+          "answers": [
+            "I didn't go to the meeting, but my colleague did.",
+            "I did not go to the meeting, but my colleague did."
+          ]
+        },
+        {
+          "prompt": "He isn't tired, but I am tired.",
+          "answers": [
+            "He isn't tired, but I am.",
+            "He is not tired, but I am."
+          ]
+        },
+        {
+          "prompt": "A: I love Italian food. B: (Согласитесь, используя so.)",
+          "answers": [
+            "So do I."
+          ]
+        },
+        {
+          "prompt": "A: I haven't been to London. B: (Согласитесь, используя neither.)",
+          "answers": [
+            "Neither have I.",
+            "Nor have I."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский. Ключевые слова даны.",
+      "items": [
+        {
+          "prompt": "Я не умею готовить, и он тоже. (cook)",
+          "answers": [
+            "I can't cook, and neither can he.",
+            "I can't cook, and nor can he.",
+            "I can't cook, and he can't either.",
+            "I can't cook and neither can he.",
+            "I cannot cook, and neither can he."
+          ]
+        },
+        {
+          "prompt": "Она сказала, что поможет, и помогла. (help)",
+          "answers": [
+            "She said she would help, and she did.",
+            "She said she'd help, and she did."
+          ]
+        },
+        {
+          "prompt": "— Ты закончил? — Да. (have)",
+          "answers": [
+            "Yes, I have.",
+            "Yes I have."
+          ]
+        },
+        {
+          "prompt": "— Мне нравится этот город. — Мне тоже.",
+          "answers": [
+            "So do I.",
+            "I do too."
+          ]
+        },
+        {
+          "prompt": "Он не пришёл, а должен был. (should)",
+          "answers": [
+            "He didn't come, but he should have.",
+            "He did not come, but he should have."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Напишите реплики-ответы. Образцы — для самопроверки.",
+      "items": [
+        {
+          "prompt": "Agree: 'I can't live without coffee.'",
+          "sample": "Neither can I. / So can I."
+        },
+        {
+          "prompt": "Disagree: 'I've never been abroad.'",
+          "sample": "I have, actually. I went to Turkey last year."
+        },
+        {
+          "prompt": "Напишите контраст о себе и друге: «Я не люблю..., а он ...»",
+          "sample": "I don't like horror films, but my friend does."
+        },
+        {
+          "prompt": "Напишите, что вы собирались сделать, но не сделали.",
+          "sample": "I was going to call my aunt, but I didn't."
+        },
+        {
+          "prompt": "Напишите диалог из двух реплик с so или neither.",
+          "sample": "A: I'm really hungry. B: So am I."
+        }
+      ]
+    }
+  ]
+}

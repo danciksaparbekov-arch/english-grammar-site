@@ -1,0 +1,489 @@
+{
+  "id": 37,
+  "title": "Reporting statements (2): verb tenses in that-clauses",
+  "summary": "Согласование времён в придаточных косвенной речи: сдвиг **backshift**, неизменяемые формы, случаи, когда сдвиг не нужен.",
+  "ru": "## Основное правило: сдвиг времён (backshift)\nЕсли вводный глагол стоит в прошедшем времени (**said, told, explained, thought**), то глагол в придаточном обычно «отодвигается» на один шаг назад:\n- present simple → **past simple**: > \"I work here.\" → She said she **worked** there.\n- present continuous → **past continuous**: > \"I'm leaving.\" → He said he **was leaving**.\n- present perfect → **past perfect**: > \"We've signed it.\" → They said they **had signed** it.\n- past simple → **past perfect** (или остаётся past simple): > \"I lost the key.\" → She said she **had lost** the key.\n- past continuous → **past perfect continuous** (или остаётся): > \"It was raining.\" → He said it **had been raining**.\n- **will → would**, **can → could**, **may → might**, **shall → should**, **is going to → was going to**, **must → had to**.\nЭто не «механическое» правило: цель — показать, что слова были сказаны в прошлом.\n\n## Что не меняется\n- **would, could, should, might, ought to, used to, had better, needn't, mustn't**: > \"You should rest.\" → She said I **should** rest.\n- **past perfect** остаётся: *\"I had already left.\"* → *He said he **had** already left.*\n- **Условные и гипотетические формы**: > \"If I were you, I'd apply.\" → She said that if she **were** me, she'd apply.\n- **must** для вывода (предположение): > \"She must be tired.\" → I thought she **must be** tired.\n\n## Когда сдвиг не обязателен\nСдвиг не нужен, если:\n1. вводный глагол в настоящем времени или present perfect: *He **says** he is busy. She **has told** me she can't come.*\n2. сообщаемое **всё ещё верно** или относится к будущему и говорится вскоре после слов: > \"The meeting starts at six.\" → She said the meeting **starts** at six. (и это ещё актуально)\n3. это **общеизвестный факт**: > The teacher explained that water **boils** at 100°C.\n4. прошедшее время и так ясно из контекста: *He said he **went** to Rome last year.* (достаточно past simple вместо past perfect, потому что есть **last year**).\nНо если сомневаетесь, сдвиг **всегда допустим**: *She said she lived in Oslo* корректно в любом случае. Не сдвигайте лишь там, где сдвиг дал бы противоречие или неясность.\n\n## Будущее в прошедшем и модальные глаголы\n- **will → would**: > \"I'll help.\" → He said he **would** help. **is going to → was going to**.\n- **can't → couldn't**, **may** (возможность) → **might**: > \"It may rain.\" → He said it **might** rain.\n- **must** (обязанность) → **had to**: > \"I must go.\" → She said she **had to** go. (**must** остаётся, если обязанность актуальна.)\n- **shall** (предложение) → **would** / **should**. Разговорные: **has to → had to**, **need to** остаётся.\n\n## Типичные ошибки\n- ~~She said she will come.~~ (о событии в прошлом) → She said she **would** come.\n- ~~He said he has finished.~~ → He said he **had** finished.\n- ~~She told me she is tired yesterday.~~ → ...she **was** tired.\n- ~~He said he can swim.~~ (в рассказе о прошлом) → he **could** swim.\n- ~~They said they would have been late.~~ → They said they **would be** late.",
+  "en": "## The basic rule: backshift\nWhen the reporting verb is in the past (**said, told, explained, thought**), the verb in the that-clause usually moves one step back in time:\n- present simple → **past simple**: > \"I work here.\" → She said she **worked** there.\n- present continuous → **past continuous**: > \"I'm leaving.\" → He said he **was leaving**.\n- present perfect → **past perfect**: > \"We've signed it.\" → They said they **had signed** it.\n- past simple → **past perfect** (or stays past simple): > \"I lost the key.\" → She said she **had lost** the key.\n- past continuous → **past perfect continuous** (or stays): > \"It was raining.\" → He said it **had been raining**.\n- **will → would**, **can → could**, **may → might**, **shall → should**, **is going to → was going to**, **must → had to**.\nThe point is to show that the words were spoken in the past.\n\n## What does not change\n- **would, could, should, might, ought to, used to, had better, needn't, mustn't**: > \"You should rest.\" → She said I **should** rest.\n- **past perfect** stays: *\"I had already left.\"* → *He said he **had** already left.*\n- **Hypothetical forms**: > \"If I were you, I'd apply.\" → She said that if she **were** me, she'd apply.\n- **must** for deduction: > \"She must be tired.\" → I thought she **must be** tired.\n\n## When backshift is optional\nWe do not have to shift when:\n1. the reporting verb is in the present or present perfect: *He **says** he is busy. She **has told** me she can't come.*\n2. what was said is **still true** or still in the future, and we report it soon after: > \"The meeting starts at six.\" → She said the meeting **starts** at six.\n3. it is a **general fact**: > The teacher explained that water **boils** at 100°C.\n4. the past is clear from the context: *He said he **went** to Rome last year.* (past simple is enough because of **last year**).\nIf in doubt, backshift is **always possible**: *She said she lived in Oslo* is correct in any case. Do not shift only when it would cause a contradiction or confusion.\n\n## Future in the past and modals\n- **will → would**: > \"I'll help.\" → He said he **would** help. **is going to → was going to**.\n- **can't → couldn't**, **may** (possibility) → **might**: > \"It may rain.\" → He said it **might** rain.\n- **must** (obligation) → **had to**: > \"I must go.\" → She said she **had to** go. (**must** stays if the obligation is still current.)\n- **shall** (offer) → **would** / **should**.\n\n## Common mistakes\n- ~~She said she will come.~~ (about a past event) → She said she **would** come.\n- ~~He said he has finished.~~ → He said he **had** finished.\n- ~~She told me she is tired yesterday.~~ → ...she **was** tired.\n- ~~He said he can swim.~~ (in a story about the past) → he **could** swim.",
+  "structure": "## Сдвиг времён\n| Прямая речь | Косвенная речь |\n|---|---|\n| present simple: *I work* | past simple: *she said she worked* |\n| present continuous: *I'm working* | past continuous: *she was working* |\n| present perfect: *I've worked* | past perfect: *she had worked* |\n| past simple: *I worked* | past perfect (или past simple): *she had worked* |\n| past continuous: *I was working* | past perfect continuous (или past continuous) |\n| will | would |\n| can | could |\n| may | might |\n| must | had to (must) |\n| is / are going to | was / were going to |\n\n## Не меняются\n| Форма | Пример |\n|---|---|\n| would, could, should, might, ought to | He said I **should** rest. |\n| past perfect | She said she **had** left. |\n| were в условных | He said if he **were** me... |\n| must — вывод | I thought she **must be** tired. |\n\n## Правило выбора\n> reporting verb в **прошедшем** → сдвиг (всегда допустим)\n> reporting verb в **настоящем / present perfect** → без сдвига\n> факт **всё ещё верен** → сдвиг не обязателен",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Сдвиг времён",
+      "instruction": "Примените сдвиг времён (backshift): вводный глагол стоит в прошедшем, слова переданы позже.",
+      "items": [
+        {
+          "text": "'I'm working on a new project,' said Lena. → Lena said she {{was working}} on a new project.",
+          "hint": "work"
+        },
+        {
+          "text": "'We've finished the report,' they told us. → They told us they {{had finished|'d finished}} the report.",
+          "hint": "finish"
+        },
+        {
+          "text": "'I'll call you after the meeting,' she said. → She said she {{would call|would phone|'d call|'d phone}} me after the meeting.",
+          "hint": "call"
+        },
+        {
+          "text": "'I can't open the file,' said Dan. → Dan said he {{couldn't|could not}} open the file.",
+          "hint": "can't / open"
+        },
+        {
+          "text": "'Kate is going to resign,' he said. → He said Kate {{was going to}} resign.",
+          "hint": "go to"
+        },
+        {
+          "text": "'We drove all night,' they said. → They said they {{had driven|drove}} all night.",
+          "hint": "drive"
+        },
+        {
+          "text": "'I must leave early,' said Ana. → Ana said she {{had to|must}} leave early.",
+          "hint": "must"
+        },
+        {
+          "text": "'It was raining when I left,' he told me. → He told me it {{had been raining|was raining}} when he left.",
+          "hint": "rain"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Что не меняется",
+      "instruction": "Впишите слово, которое в косвенной речи остаётся без изменений.",
+      "items": [
+        {
+          "text": "'You should rest,' the doctor said. → The doctor said I {{should}} rest.",
+          "hint": "should"
+        },
+        {
+          "text": "'I used to live here,' he said. → He said he {{used to}} live there.",
+          "hint": "used to"
+        },
+        {
+          "text": "'We might be late,' she said. → She said we {{might}} be late.",
+          "hint": "might"
+        },
+        {
+          "text": "'She must be exhausted,' I thought. → I thought she {{must|had to}} be exhausted.",
+          "hint": "must"
+        },
+        {
+          "text": "'If I were you, I'd apply,' she said. → She said that if she {{were|was}} me, she'd apply.",
+          "hint": "were"
+        },
+        {
+          "text": "'We ought to leave,' he said. → He said we {{ought to}} leave.",
+          "hint": "ought to"
+        },
+        {
+          "text": "'You needn't come,' she said. → She said I {{needn't|need not}} come.",
+          "hint": "needn't"
+        },
+        {
+          "text": "'He had already left,' she told me. → She told me he {{had}} already left.",
+          "hint": "had"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Какая форма?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "(Reported after Friday.) 'I'm leaving on Friday,' she said. → She said she ___ on Friday.",
+          "options": [
+            "was leaving",
+            "is leaving",
+            "has left"
+          ],
+          "answer": 0,
+          "why": "Сообщаем позже → past continuous."
+        },
+        {
+          "q": "'I have never seen it,' he said. → He said he ___ never seen it.",
+          "options": [
+            "has",
+            "had",
+            "have"
+          ],
+          "answer": 1,
+          "why": "present perfect → **past perfect**."
+        },
+        {
+          "q": "'I'll help you,' she said. → She said she ___ help me.",
+          "options": [
+            "will",
+            "would",
+            "shall"
+          ],
+          "answer": 1,
+          "why": "**will → would**."
+        },
+        {
+          "q": "The newspaper says the minister ___ resign tomorrow.",
+          "options": [
+            "will",
+            "would",
+            "had"
+          ],
+          "answer": 0,
+          "why": "Вводный глагол в настоящем (**says**) — сдвига нет."
+        },
+        {
+          "q": "'We were waiting for hours,' they complained. → They complained that they ___ for hours.",
+          "options": [
+            "had been waiting",
+            "would be waiting",
+            "had waited being"
+          ],
+          "answer": 0,
+          "why": "past continuous → past perfect continuous."
+        },
+        {
+          "q": "In the story, 'I can't find the key,' he said. → He said he ___ find the key.",
+          "options": [
+            "can't",
+            "couldn't",
+            "won't"
+          ],
+          "answer": 1,
+          "why": "**can't → couldn't**."
+        },
+        {
+          "q": "'I must go,' said Ann. → Ann said she ___ go.",
+          "options": [
+            "had to",
+            "has to",
+            "must to"
+          ],
+          "answer": 0,
+          "why": "**must** (обязанность) → **had to**."
+        },
+        {
+          "q": "'He was sleeping when I came,' she said. → She said he ___ when she came.",
+          "options": [
+            "had been sleeping",
+            "has been sleeping",
+            "is sleeping"
+          ],
+          "answer": 0,
+          "why": "past continuous → past perfect continuous."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Сдвиг, модальные и исключения",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "(Reported long afterwards.) 'I'm working on a novel,' she said. → She said she ___ on a novel.",
+          "options": [
+            "was working",
+            "is working",
+            "has worked"
+          ],
+          "answer": 0,
+          "why": "Сообщаем много позже — используем **was working**."
+        },
+        {
+          "q": "'You mustn't open it,' he warned. → He warned me I ___ open it.",
+          "options": [
+            "mustn't",
+            "hadn't to",
+            "didn't must"
+          ],
+          "answer": 0,
+          "why": "**mustn't** не меняется."
+        },
+        {
+          "q": "'If I were you, I'd apply,' she said. → She said that if she ___ me, she'd apply.",
+          "options": [
+            "were",
+            "had been",
+            "would be"
+          ],
+          "answer": 0,
+          "why": "Гипотетическое **were** не меняется."
+        },
+        {
+          "q": "The article says that the company ___ 200 jobs next year.",
+          "options": [
+            "will cut",
+            "would have cut",
+            "had cut"
+          ],
+          "answer": 0,
+          "why": "Вводный глагол **says** в настоящем — сдвига нет."
+        },
+        {
+          "q": "(Reported later.) 'I've been waiting since noon,' he said. → He said he ___ since noon.",
+          "options": [
+            "had been waiting",
+            "has waited",
+            "waited been"
+          ],
+          "answer": 0,
+          "why": "present perfect continuous → past perfect continuous."
+        },
+        {
+          "q": "(Reported after six o'clock.) 'I'll be there at six,' she said. → She said she ___ there at six.",
+          "options": [
+            "would be",
+            "will be",
+            "is"
+          ],
+          "answer": 0,
+          "why": "**will → would**."
+        },
+        {
+          "q": "'Kate may be late,' he said. → He said Kate ___ be late.",
+          "options": [
+            "might",
+            "mayn't",
+            "might to"
+          ],
+          "answer": 0,
+          "why": "**may → might**."
+        },
+        {
+          "q": "'She must be joking,' I thought. → I thought she ___ joking.",
+          "options": [
+            "must be",
+            "had to been",
+            "must been"
+          ],
+          "answer": 0,
+          "why": "**must** для вывода не меняется."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Передайте слова в косвенной речи",
+      "instruction": "Передайте слова (вводный глагол в прошедшем). Допускаются варианты с that и без него.",
+      "items": [
+        {
+          "prompt": "'I'm studying for my exams,' Zara told me. Begin: Zara told me ...",
+          "answers": [
+            "Zara told me that she was studying for her exams.",
+            "Zara told me she was studying for her exams."
+          ]
+        },
+        {
+          "prompt": "'We haven't received your payment,' the clerk said. Begin: The clerk said ...",
+          "answers": [
+            "The clerk said that they hadn't received my payment.",
+            "The clerk said that they hadn't received our payment.",
+            "The clerk said that they hadn't received the payment.",
+            "The clerk said that they had not received my payment.",
+            "The clerk said that they had not received our payment.",
+            "The clerk said that they had not received the payment.",
+            "The clerk said they hadn't received my payment.",
+            "The clerk said they hadn't received our payment.",
+            "The clerk said they hadn't received the payment.",
+            "The clerk said they had not received my payment.",
+            "The clerk said they had not received our payment.",
+            "The clerk said they had not received the payment."
+          ]
+        },
+        {
+          "prompt": "'I'll send the files tonight,' said Dev. (reported next day) Begin: Dev said ...",
+          "answers": [
+            "Dev said that he would send the files that night.",
+            "Dev said that he would send the files that evening.",
+            "Dev said that he'd send the files that night.",
+            "Dev said that he'd send the files that evening.",
+            "Dev said he would send the files that night.",
+            "Dev said he would send the files that evening.",
+            "Dev said he'd send the files that night.",
+            "Dev said he'd send the files that evening."
+          ]
+        },
+        {
+          "prompt": "'They are going to build a new bridge,' the mayor announced. Begin: The mayor announced ...",
+          "answers": [
+            "The mayor announced that they were going to build a new bridge.",
+            "The mayor announced they were going to build a new bridge.",
+            "The mayor announced that they would build a new bridge.",
+            "The mayor announced they would build a new bridge."
+          ]
+        },
+        {
+          "prompt": "'I can't reach the manager,' she said. Begin: She said ...",
+          "answers": [
+            "She said that she couldn't reach the manager.",
+            "She said that she could not reach the manager.",
+            "She said she couldn't reach the manager.",
+            "She said she could not reach the manager."
+          ]
+        },
+        {
+          "prompt": "'I must finish this today,' he said. (reported next day) Begin: He said ...",
+          "answers": [
+            "He said that he had to finish it that day.",
+            "He said that he had to finish it the same day.",
+            "He said that he had to finish that that day.",
+            "He said that he had to finish that the same day.",
+            "He said that he must finish it that day.",
+            "He said that he must finish it the same day.",
+            "He said that he must finish that that day.",
+            "He said that he must finish that the same day.",
+            "He said he had to finish it that day.",
+            "He said he had to finish it the same day.",
+            "He said he had to finish that that day.",
+            "He said he had to finish that the same day.",
+            "He said he must finish it that day.",
+            "He said he must finish it the same day.",
+            "He said he must finish that that day.",
+            "He said he must finish that the same day."
+          ]
+        },
+        {
+          "prompt": "'We left before the storm began,' they told us. Begin: They told us ...",
+          "answers": [
+            "They told us that they had left before the storm had begun.",
+            "They told us that they had left before the storm began.",
+            "They told us that they left before the storm had begun.",
+            "They told us that they left before the storm began.",
+            "They told us they had left before the storm had begun.",
+            "They told us they had left before the storm began.",
+            "They told us they left before the storm had begun.",
+            "They told us they left before the storm began."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский, используя косвенную речь.",
+      "items": [
+        {
+          "prompt": "Она сказала, что работает над проектом.",
+          "answers": [
+            "She said that she was working on a project.",
+            "She said that she was working on the project.",
+            "She said that she is working on a project.",
+            "She said that she is working on the project.",
+            "She said she was working on a project.",
+            "She said she was working on the project.",
+            "She said she is working on a project.",
+            "She said she is working on the project."
+          ]
+        },
+        {
+          "prompt": "Он сказал, что уже закончил.",
+          "answers": [
+            "He said that he had already finished.",
+            "He said that he had finished.",
+            "He said he had already finished.",
+            "He said he had finished.",
+            "He said that he had finished already.",
+            "He said he had finished already.",
+            "He said that he'd already finished.",
+            "He said that he'd finished.",
+            "He said he'd already finished.",
+            "He said he'd finished."
+          ]
+        },
+        {
+          "prompt": "Мы думали, что опоздаем.",
+          "answers": [
+            "We thought that we would be late.",
+            "We thought that we'd be late.",
+            "We thought that we were going to be late.",
+            "We thought we would be late.",
+            "We thought we'd be late.",
+            "We thought we were going to be late."
+          ]
+        },
+        {
+          "prompt": "Врач сказал, что курение вредно (используйте harmful).",
+          "answers": [
+            "The doctor said that smoking is harmful.",
+            "The doctor said that smoking was harmful.",
+            "The doctor said smoking is harmful.",
+            "The doctor said smoking was harmful."
+          ]
+        },
+        {
+          "prompt": "Она сказала, что не может найти ключи.",
+          "answers": [
+            "She said that she couldn't find her keys.",
+            "She said that she couldn't find the keys.",
+            "She said that she could not find her keys.",
+            "She said that she could not find the keys.",
+            "She said that she can't find her keys.",
+            "She said that she can't find the keys.",
+            "She said that she cannot find her keys.",
+            "She said that she cannot find the keys.",
+            "She said she couldn't find her keys.",
+            "She said she couldn't find the keys.",
+            "She said she could not find her keys.",
+            "She said she could not find the keys.",
+            "She said she can't find her keys.",
+            "She said she can't find the keys.",
+            "She said she cannot find her keys.",
+            "She said she cannot find the keys."
+          ]
+        },
+        {
+          "prompt": "Я сказал ему, что перезвоню позже (call back).",
+          "answers": [
+            "I told him that I would call him back later.",
+            "I told him that I would call back later.",
+            "I told him that I'd call him back later.",
+            "I told him that I'd call back later.",
+            "I told him that I will call him back later.",
+            "I told him that I will call back later.",
+            "I told him that I'll call him back later.",
+            "I told him that I'll call back later.",
+            "I told him I would call him back later.",
+            "I told him I would call back later.",
+            "I told him I'd call him back later.",
+            "I told him I'd call back later.",
+            "I told him I will call him back later.",
+            "I told him I will call back later.",
+            "I told him I'll call him back later.",
+            "I told him I'll call back later."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя косвенную речь.",
+      "items": [
+        {
+          "prompt": "Report what someone told you this morning. Use: He/She said (that) ...",
+          "sample": "My colleague said that the meeting had been moved to Friday."
+        },
+        {
+          "prompt": "Report a promise somebody made you. Use: said (that) ... would ...",
+          "sample": "My brother said he would visit me in the summer."
+        },
+        {
+          "prompt": "Report something you read in the news. Use: the report said (that) ...",
+          "sample": "The report said that prices had risen sharply."
+        },
+        {
+          "prompt": "Report what a teacher or boss said about your work.",
+          "sample": "My teacher said I was making good progress."
+        },
+        {
+          "prompt": "Report what a friend said about their plans.",
+          "sample": "My friend said she was going to study abroad."
+        }
+      ]
+    }
+  ]
+}

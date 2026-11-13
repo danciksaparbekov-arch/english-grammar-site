@@ -1,0 +1,225 @@
+{
+  "id": 24,
+  "title": "Using passives",
+  "summary": "Когда и зачем выбирать пассив вместо актива: неизвестный или неважный исполнитель, порядок «известное → новое», безличный стиль; get-пассив, have something done и глаголы, которые в пассиве не употребляются.",
+  "ru": "## Зачем нужен пассив\nГрамматически почти любое предложение с дополнением можно превратить в пассив, но выбор между активом и пассивом — вопрос **стиля и логики подачи информации**. Пассив уместен, когда:\n- **исполнитель неизвестен, очевиден или неважен**: My car **was stolen** last night. / The suspect **was arrested**.\n- **важен предмет или процесс, а не деятель** — в научных и деловых текстах: The samples **were heated** to 80°C and **left** for an hour.\n- **нужно связать предложения**: в английском принято начинать предложение с уже известного, а новое оставлять в конце. The museum **was designed by a young architect**. It **was completed** in 1998.\n- **нужен безличный, дистанцированный или вежливый тон**: Your application **cannot be processed** without a signature. / Mistakes **were made**. (не называем виновного)\n- **не хотим ставить длинную группу в начало**: ~~A collector who had spent years looking for the painting bought it.~~ → The painting **was bought by a collector** who had spent years looking for it.\n\n## by + исполнитель, with + инструмент\nГруппа **by …** нужна, только если она **добавляет информацию**: This novel **was written by a teenager**. / He **was elected by** 62% of voters. Фразы вроде *by someone, by people, by the police* (когда это и так ясно) лишние.\n> The door **was opened with a key**. — Дверь открыли ключом. (инструмент)\n> The door **was opened by a burglar**. — Дверь открыл взломщик. (исполнитель)\n\n## get-пассив\n**get + V3** — разговорный вариант. Он описывает **событие, изменение, случайность** (часто неприятную, но не обязательно), а не состояние.\n> He **got fired** after the merger. — Его уволили после слияния.\n> We're **getting married** in June. — Мы женимся в июне.\n> Be careful: that vase might **get broken**.\nНе используем get-пассив для состояний и со стативными глаголами: ~~She gets loved by everyone.~~ → She **is loved**. Исполнитель с get-пассивом почти не называют. Иногда get подчёркивает, что подлежащее само «виновато»: He **got himself arrested**.\n\n## have something done\n**have / get + объект + V3** — «сделать что-то (чужими руками)» или «пострадать от чьих-то действий».\n> I **had my car serviced** last week. — Мне обслужили машину. (заказал)\n> She **had her wallet stolen** in Rome. — У неё украли кошелёк в Риме. (неприятность)\nВ американском варианте чаще **get something done**; британцы предпочитают have в нейтральном стиле.\n\n## Что в пассив поставить нельзя\n- **Непереходные глаголы**: happen, occur, arrive, die, exist, seem, belong, remain, consist, depend. ~~The accident was happened.~~ → The accident **happened**.\n- **Стативные переходные глаголы**: have (обладать), fit, suit, resemble, lack, cost, weigh, contain (в значении «вмещать»). ~~He is resembled by his father.~~ → His father **resembles** him. ~~The shoes are fitted by me.~~ → The shoes **fit** me.\n- **Актив с пассивным смыслом** («средний залог»): The tickets **sell** quickly. / This paint **applies** easily. / The door **won't lock**. Здесь пассив был бы неправильным: ~~The tickets are sold quickly~~ (смысл другой — «кто-то их быстро продаёт»).\n\n## Типичные ошибки\n- ~~The meeting was taken place on Monday.~~ → The meeting **took place** on Monday.\n- ~~Many mistakes were made by someone.~~ → Many mistakes **were made**.\n- *She had stolen her wallet* значит «она (раньше) украла кошелёк»; чтобы сказать «у неё украли», нужно **She had her wallet stolen**.\n- Избыток пассивов делает текст тяжёлым: вместо *It was decided by the board that the plan be approved* лучше *The board approved the plan*.",
+  "en": "## Why use the passive?\nAlmost any sentence with an object can be made passive, but the choice between active and passive is a matter of **style and information flow**. We use the passive when:\n- **the doer is unknown, obvious or unimportant**: My car **was stolen** last night.\n- **the process matters more than the doer** — in science and business: The samples **were heated** to 80°C.\n- **we want to link sentences**: start with what is known and end with what is new. The museum **was designed by a young architect**. It **was completed** in 1998.\n- **we want an impersonal or polite tone**: Your application **cannot be processed** without a signature. Mistakes **were made**.\n- **we want to avoid a long subject**: The painting **was bought by a collector** who had spent years looking for it.\n\n## by + agent, with + instrument\nUse **by …** only when it adds information: This novel **was written by a teenager.** Do not add *by someone / by people*.\n> The door **was opened with a key.** (instrument) / The door **was opened by a burglar.** (agent)\n\n## The get-passive\n**get + V3** is informal. It describes an **event or change**, often unplanned, not a state.\n> He **got fired.** We're **getting married** in June. That vase might **get broken.**\nIt is not used for states: ~~She gets loved by everyone.~~ → She **is loved**. The agent is rarely mentioned.\n\n## have something done\n**have / get + object + V3** means «arrange for someone to do something» or «suffer something».\n> I **had my car serviced.** She **had her wallet stolen** in Rome.\nAmericans often prefer **get**.\n\n## Verbs that do not have a passive\n- **Intransitive verbs**: happen, occur, arrive, die, exist, seem, belong, remain, depend. ~~The accident was happened.~~\n- **Stative transitive verbs**: have (own), fit, suit, resemble, lack, cost, weigh. ~~He is resembled by his father.~~\n- **Active verbs with a passive meaning**: The tickets **sell** quickly. This paint **applies** easily. The door **won't lock**.\n\n## Common mistakes\n- ~~The meeting was taken place.~~ → The meeting **took place**.\n- *She had stolen her wallet* means that she was the thief; to say it was taken from her: She **had her wallet stolen**.\n- Too many passives make a text heavy: *The board approved the plan* is better than *It was decided by the board that the plan be approved*.",
+  "structure": "## Когда пассив, когда актив\n| Ситуация | Лучше | Пример |\n|---|---|---|\n| Исполнитель неизвестен | passive | My bag was stolen. |\n| Исполнитель очевиден | passive | The suspect was arrested. |\n| Важен процесс (наука, деловой стиль) | passive | The mixture was heated. |\n| Новая информация — исполнитель | passive + by | It was composed by Ravel. |\n| Нужна живость, ясность | active | The board approved the plan. |\n| Исполнитель важен, подлежащее — он | active | A storm destroyed the harbour. |\n\n## Три способа сказать «что-то случилось»\n| Форма | Формула | Оттенок |\n|---|---|---|\n| be-passive | be + V3 | нейтрально, любое время |\n| get-passive | get + V3 | разговорно, событие / изменение |\n| have something done | have / get + object + V3 | заказал услугу / пострадал |\n\n## Без пассива\n| Тип | Глаголы |\n|---|---|\n| Непереходные | happen, occur, arrive, die, exist, seem, belong, remain, depend |\n| Стативные | have, fit, suit, resemble, lack, cost, weigh |\n| Средний залог | sell, wash, apply, lock, open (The door won't open) |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Актив или пассив?",
+      "instruction": "Поставьте глагол в скобках в активную или пассивную форму (Past Simple, если не указано иное).",
+      "example": "A new species of frog (discover) last year. → A new species of frog **was discovered** last year.",
+      "items": [
+        { "text": "My laptop {{was stolen}} from the train last Friday.", "hint": "steal" },
+        { "text": "The earthquake {{struck}} the coast at dawn, and thousands of homes {{were destroyed}}.", "hint": "strike / destroy" },
+        { "text": "Our flight {{was delayed}} for three hours because of fog.", "hint": "delay" },
+        { "text": "Something strange {{happened}} at the office yesterday.", "hint": "happen" },
+        { "text": "The new regulations {{will be introduced}} next January.", "hint": "introduce" },
+        { "text": "She {{was born}} in Kyoto but {{grew}} up in Lyon.", "hint": "be born / grow" },
+        { "text": "The suspect {{was being questioned}} when the lights went out.", "hint": "question — Past Continuous" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "get-пассив и have something done",
+      "instruction": "Вставьте нужную форму (get + V3 или have + object + V3).",
+      "items": [
+        { "text": "He {{got fired}} after the merger.", "hint": "get / fire" },
+        { "text": "I need to {{have my car serviced|get my car serviced}} before the trip.", "hint": "service" },
+        { "text": "She {{had her wallet stolen|got her wallet stolen}} in Rome.", "hint": "wallet / steal" },
+        { "text": "We're {{getting married}} in June.", "hint": "marry" },
+        { "text": "Last month they {{had their kitchen redesigned|got their kitchen redesigned}}.", "hint": "kitchen / redesign" },
+        { "text": "Be careful with that vase: it {{might get broken}}.", "hint": "might / break" },
+        { "text": "My brother {{got stuck}} in the lift for an hour.", "hint": "get / stick" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Актив или пассив: что логично?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "The earthquake ___ the city in 1906.",
+          "options": ["was destroyed", "destroyed", "has been destroyed"],
+          "answer": 1,
+          "why": "Подлежащее (землетрясение) — деятель, объект (the city) назван → **актив**: destroyed."
+        },
+        {
+          "q": "A: Who built this house? B: It ___ my grandfather.",
+          "options": ["built by", "was built by", "has built"],
+          "answer": 1,
+          "why": "Дом построен — пассив; новая информация (исполнитель) в конце через **by**."
+        },
+        {
+          "q": "This paint ___ easily and dries in an hour.",
+          "options": ["applies", "is applied", "is applying"],
+          "answer": 0,
+          "why": "Средний залог: актив с пассивным смыслом, описывает свойство краски — **applies**."
+        },
+        {
+          "q": "Какое предложение лучше подходит для научного отчёта?",
+          "options": ["The solution was heated to 90°C.", "We heated the solution to 90°C ourselves.", "Heating the solution we did to 90°C."],
+          "answer": 0,
+          "why": "В научном стиле важен процесс, а не исполнитель → **пассив**."
+        },
+        {
+          "q": "The meeting ___ at nine.",
+          "options": ["was happened", "happened", "has been happened"],
+          "answer": 1,
+          "why": "**happen** — непереходный глагол, пассива не имеет."
+        },
+        {
+          "q": "This jacket ___ me perfectly.",
+          "options": ["is fitted", "fits", "is fit"],
+          "answer": 1,
+          "why": "**fit** (подходить по размеру) — стативный глагол, в пассиве не используется."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "be, get, have и глаголы без пассива",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "In the 1990s the author ___ by critics all over Europe.",
+          "options": ["was admired", "got admired", "has admired"],
+          "answer": 0,
+          "why": "Это состояние/оценка, а не событие; get-пассив не подходит, нужен **be**."
+        },
+        {
+          "q": "Honestly, I'm sick of ___ stuck in traffic every morning.",
+          "options": ["getting", "to get", "get"],
+          "answer": 0,
+          "why": "После предлога — герундий: sick of **getting** stuck (get-пассив, событие)."
+        },
+        {
+          "q": "I'm having my hair ___ tomorrow.",
+          "options": ["cut", "cutting", "to cut"],
+          "answer": 0,
+          "why": "have + object + **V3**: услуга, которую делает парикмахер."
+        },
+        {
+          "q": "She had her passport ___ at the airport.",
+          "options": ["stole", "stolen", "stealing"],
+          "answer": 1,
+          "why": "have + object + **V3**; значение «пострадала»: stolen."
+        },
+        {
+          "q": "This sofa ___ more than my car.",
+          "options": ["is cost", "costs", "is costed"],
+          "answer": 1,
+          "why": "**cost** — стативный глагол, пассива не образует."
+        },
+        {
+          "q": "Какое предложение верно?",
+          "options": ["Tom closely resembles his father.", "Tom is closely resembled by his father.", "Tom is closely resembled his father."],
+          "answer": 0,
+          "why": "**resemble** не имеет пассива; подлежащее — тот, о ком говорим."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Уберите неважного исполнителя",
+      "instruction": "Перепишите в пассиве. Исполнитель в скобках остаётся только там, где это указано.",
+      "items": [
+        {
+          "prompt": "Someone has cancelled the 8 o'clock train. → The 8 o'clock train ...",
+          "answers": ["The 8 o'clock train has been cancelled."]
+        },
+        {
+          "prompt": "They will announce the winner at the end of the ceremony. → The winner ...",
+          "answers": ["The winner will be announced at the end of the ceremony."]
+        },
+        {
+          "prompt": "Someone broke into our flat last weekend. → Our flat ...",
+          "answers": ["Our flat was broken into last weekend."]
+        },
+        {
+          "prompt": "Hackers have attacked the bank's servers. (сохраните исполнителя) → The bank's servers ...",
+          "answers": ["The bank's servers have been attacked by hackers."]
+        },
+        {
+          "prompt": "People speak Portuguese in Brazil. → Portuguese ...",
+          "answers": ["Portuguese is spoken in Brazil."]
+        },
+        {
+          "prompt": "The police have arrested three men who tried to rob a jeweller's. → Three men ...",
+          "answers": ["Three men who tried to rob a jeweller's have been arrested.", "Three men who tried to rob a jeweller's have been arrested by the police."]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "have / get something done",
+      "instruction": "Перепишите или переведите, используя have или get + V3.",
+      "items": [
+        {
+          "prompt": "Somebody stole Tom's phone on the metro. → Tom had ...",
+          "answers": ["Tom had his phone stolen on the metro.", "Tom had his phone stolen on the underground."]
+        },
+        {
+          "prompt": "The dentist will check my teeth tomorrow. → I'm having ...",
+          "answers": ["I'm having my teeth checked tomorrow.", "I am having my teeth checked tomorrow."]
+        },
+        {
+          "prompt": "Я постригся на прошлой неделе. (have / hair / cut)",
+          "answers": ["I had my hair cut last week."]
+        },
+        {
+          "prompt": "The firm dismissed her last week without warning. (get / dismiss) → She ...",
+          "answers": ["She got dismissed last week without warning.", "She got dismissed without warning last week."]
+        },
+        {
+          "prompt": "A plumber installed a new boiler for us last week. → We had ...",
+          "answers": ["We had a new boiler installed last week.", "We had a new boiler installed by a plumber last week."]
+        },
+        {
+          "prompt": "Someone has left the lights on all night. (убрать исполнителя) → The lights ...",
+          "answers": ["The lights have been left on all night."]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, выбирая актив или пассив по смыслу.",
+      "items": [
+        {
+          "prompt": "Что недавно было украдено, потеряно или сломано у вас или ваших знакомых?",
+          "sample": "My friend's bicycle was stolen from the courtyard last month."
+        },
+        {
+          "prompt": "Какую услугу вы заказываете у специалистов? (I have my ... done)",
+          "sample": "I have my car serviced twice a year."
+        },
+        {
+          "prompt": "Какое событие в вашей стране или городе сейчас обсуждают? (используйте пассив)",
+          "sample": "A new metro line is being built in the city centre."
+        },
+        {
+          "prompt": "Что с вами случилось неожиданно? (get + V3)",
+          "sample": "Last winter I got stuck in a snowstorm on my way to work."
+        },
+        {
+          "prompt": "Что продаётся или читается у вас в стране особенно хорошо? (sell well)",
+          "sample": "Detective novels sell very well in my country."
+        },
+        {
+          "prompt": "Где проходит или проходил ваш любимый фестиваль или мероприятие? (take place)",
+          "sample": "The film festival takes place in the old town every June."
+        }
+      ]
+    }
+  ]
+}

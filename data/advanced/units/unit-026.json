@@ -1,0 +1,225 @@
+{
+  "id": 26,
+  "title": "Wh-questions with who, whom, which, how and whose",
+  "summary": "Вопросы к подлежащему и к дополнению, who и whom, which против what, how с прилагательными и наречиями, how come, вопросы what…like и how…, а также whose.",
+  "ru": "## Вопрос к подлежащему и вопрос к дополнению\nВ вопросе **к подлежащему** вспомогательный глагол do не нужен: вопросительное слово само является подлежащим, порядок слов остаётся прямым.\n> **Who called** you last night? — Кто звонил тебе вчера вечером?\n> **What happened** to your car? — Что случилось с твоей машиной?\n> **Which team won** the cup? — Какая команда выиграла кубок?\nВ вопросе **к дополнению** нужен вспомогательный глагол и инверсия:\n> **Who did** you call last night? — Кому ты звонил?\n> **What did** she say?\n- ~~Who did call you?~~ → **Who called** you? (did допустим только для усиления: *Who did call?* = «Так кто же всё-таки звонил?»)\n- ~~Which team did win?~~ → Which team **won**?\n\n## who и whom\n**Whom** — форма дополнения, она формальна и в разговоре почти исчезла. После предлога в строгом стиле нужна именно **whom**; в живой речи предлог уходит в конец, а who заменяет whom.\n> **To whom** should the complaint be addressed? (формально)\n> **Who** should I address the complaint **to**? (нейтрально)\n- ~~To who did you speak?~~ → **To whom** did you speak?\n- ~~Whom called?~~ → **Who** called? (whom никогда не бывает подлежащим)\n\n## which и what\n**Which** — выбор из **ограниченного, известного набора**: Which of these two routes is shorter? Which platform does the train leave from? **What** — открытый выбор: What kind of music do you like? What time is it?\n- **which of** + the / these / them / us: Which **of the** candidates impressed you? (~~Which of candidates~~)\n- **which one(s)** уместно, когда существительное уже ясно: Which one do you prefer?\n- ~~What colour of car~~ → What **colour** is your car? / What **kind of** car is it?\n\n## how: how + прилагательное или наречие\nHow + прилагательное/наречие спрашивает о степени: **how long** (длительность, длина), **how far**, **how often**, **how old**, **how tall**, **how fast**, **how well**, **how much / how many**.\n> **How long** does the conference last? — **How often** do the trains run?\n> **How well** do you know him?\nОтдельно:\n- **How come** + прямой порядок слов = «почему же»: **How come** you never told me? (без did!). ~~How come did you leave?~~ — неверно.\n- **How about / What about** + -ing или существительное: How about **visiting** the museum?\n- **What … like?** (характеристика) против **How …?** (состояние, мнение): **What is** your new boss **like**? — Какой он? **How is** your boss? — Как у него дела? **How do you like** it? — Как вам это (нравится ли)?\n\n## whose\n**Whose** + существительное спрашивает о принадлежности: Whose idea was it? Whose turn is it? Можно и без существительного: **Whose** is the red folder? Не путать с **who's** (= who is / who has).\n\n## Усиление\nЧтобы показать удивление или раздражение, добавляют **on earth / in the world / ever**: **What on earth** are you doing? **Who ever** said that?\n\n## Типичные ошибки\n- ~~How you know it?~~ → How **do you know** it?\n- ~~Who's umbrella is this?~~ → **Whose** umbrella is this?\n- ~~Who did you give the keys?~~ → Who did you give the keys **to**? / **To whom** did you give the keys?",
+  "en": "## Subject and object questions\nIn a **subject** question the wh-word is the subject, so we do not use do.\n> **Who called** you last night? **What happened** to your car? **Which team won** the cup?\nIn an **object** question we need an auxiliary and inversion.\n> **Who did** you call? **What did** she say?\n- ~~Who did call you?~~ → **Who called** you? (*did* appears only for emphasis).\n\n## who and whom\n**Whom** is the object form. It is formal and rare in speech. After a preposition formal English requires **whom**; in everyday speech the preposition moves to the end and **who** is used.\n> **To whom** should I address it? (formal) / **Who** should I address it **to**? (neutral)\n- ~~Whom called?~~ → **Who** called? (**whom** is never a subject)\n\n## which and what\n**Which** chooses from a limited, known set: Which of these routes is shorter? **What** is open: What kind of music do you like?\n- **which of** + the / these / them: Which **of the** candidates impressed you?\n- ~~What colour of car~~ → What **colour** is your car?\n\n## how + adjective or adverb\n**how long, how far, how often, how old, how tall, how well, how much / many**: How long does the conference last?\n- **How come** + normal word order = «why on earth»: **How come** you never told me? (no did)\n- **How about** + -ing: How about visiting the museum?\n- **What is …like?** asks for a description; **How is …?** asks about health or progress; **How do you like …?** asks for an opinion.\n\n## whose\n**Whose** + noun: Whose idea was it? Without a noun: **Whose** is the red folder? Do not confuse it with **who's** (= who is).\n\n## Emphasis\nAdd **on earth / in the world / ever**: **What on earth** are you doing?\n\n## Common mistakes\n- ~~How you know it?~~ → How **do you know** it?\n- ~~Who's umbrella is this?~~ → **Whose** umbrella is this?\n- ~~Who did you give the keys?~~ → Who did you give the keys **to**?",
+  "structure": "## Подлежащее и дополнение\n| Тип | Порядок слов | Пример |\n|---|---|---|\n| К подлежащему | wh + V | Who called you? |\n| К дополнению | wh + aux + S + V | Who did you call? |\n| С предлогом (нейтр.) | wh + aux + S + V + prep | Who did you speak to? |\n| С предлогом (формально) | prep + whom + aux + S + V | To whom did you speak? |\n| How come | how come + S + V | How come you left? |\n\n## which vs what\n| Слово | Выбор | Пример |\n|---|---|---|\n| which | из известного набора | Which of these two? |\n| what | из открытого набора | What kind of film? |\n\n## How + ...\n| Вопрос | О чём | Пример |\n|---|---|---|\n| how long | длительность, длина | How long is the film? |\n| how far | расстояние | How far is it? |\n| how often | частота | How often do you travel? |\n| how much / many | количество | How many people came? |\n| how + adj | степень | How tall is she? |\n| what ... like | какой | What is she like? |\n| how is / are | как дела | How is your brother? |\n\n## whose\n> **Whose** + noun + be ...? — Whose bag is this?\n> **Whose** + be + noun? — Whose is this bag?",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Вопросительное слово",
+      "instruction": "Вставьте нужное вопросительное слово (who, whom, which, what, whose, how, how come).",
+      "example": "___ of the two candidates impressed you more? → **Which** of the two candidates impressed you more?",
+      "items": [
+        { "text": "{{Whose}} turn is it to wash up?", "hint": "чей" },
+        { "text": "To {{whom}} should the complaint be addressed?", "hint": "формально, после предлога" },
+        { "text": "{{Which}} of the two routes is shorter?", "hint": "из двух" },
+        { "text": "{{How}} far is it from here to the harbour?", "hint": "расстояние" },
+        { "text": "{{How come}} you never told me about this?", "hint": "почему же" },
+        { "text": "{{Who|Whom}} did you give the keys to?", "hint": "кому" },
+        { "text": "{{What}} kind of music do you listen to when you work?", "hint": "открытый выбор" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Вопрос к подлежащему или к дополнению",
+      "instruction": "Вставьте нужную форму глагола (do / did / does или основной глагол).",
+      "items": [
+        { "text": "Who {{called}} you last night?", "hint": "call — вопрос к подлежащему" },
+        { "text": "Who did you {{call}} last night?", "hint": "call — вопрос к дополнению" },
+        { "text": "What {{happened}} to your car?", "hint": "happen" },
+        { "text": "Which team {{won}} the cup last year?", "hint": "win" },
+        { "text": "How many people {{did}} you invite to the party?", "hint": "вспомогательный глагол" },
+        { "text": "Who {{does}} this phone belong to?", "hint": "вспомогательный глагол, Present Simple" },
+        { "text": "Whose bag {{is}} on the table?", "hint": "be — Present" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Выберите слово",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "___ did you speak to at the reception?",
+          "options": ["Who", "Whose", "What"],
+          "answer": 0,
+          "why": "Спрашиваем о человеке, в разговорной речи **who** + предлог в конце."
+        },
+        {
+          "q": "___ of these two laptops would you recommend?",
+          "options": ["What", "Which", "Who"],
+          "answer": 1,
+          "why": "Выбор из ограниченного набора → **which**."
+        },
+        {
+          "q": "___ does your sister look like?",
+          "options": ["What", "How", "Who"],
+          "answer": 0,
+          "why": "Внешность: **What … look like?**"
+        },
+        {
+          "q": "___ do you like your coffee?",
+          "options": ["How", "What", "Which"],
+          "answer": 0,
+          "why": "Спрашиваем о предпочтении (крепкий, с сахаром): **How do you like…?**"
+        },
+        {
+          "q": "___ you didn't tell me earlier?",
+          "options": ["How come", "How did", "How do come"],
+          "answer": 0,
+          "why": "**How come** + прямой порядок слов, без did."
+        },
+        {
+          "q": "With ___ did you travel?",
+          "options": ["who", "whom", "whose"],
+          "answer": 1,
+          "why": "После предлога в начале вопроса формально нужна **whom**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Какое предложение верно?",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "Какой вариант верный?",
+          "options": ["Who did write this letter?", "Who wrote this letter?", "Whom wrote this letter?"],
+          "answer": 1,
+          "why": "В вопросе к подлежащему нет did, и **whom** не бывает подлежащим."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": ["How long does the film last?", "How long the film lasts?", "How long lasts the film?"],
+          "answer": 0,
+          "why": "Вопрос к дополнению-обстоятельству: how long + **does** + подлежащее + глагол."
+        },
+        {
+          "q": "___ coat is this? — It's Maria's.",
+          "options": ["Who's", "Whose", "Who"],
+          "answer": 1,
+          "why": "Принадлежность → **whose** + существительное."
+        },
+        {
+          "q": "How ___ is the Eiffel Tower?",
+          "options": ["much", "many", "tall"],
+          "answer": 2,
+          "why": "Рост/высота → how + **tall**; much/many — для количества."
+        },
+        {
+          "q": "___ is the capital of Australia, Sydney or Canberra?",
+          "options": ["What", "Which", "Who"],
+          "answer": 1,
+          "why": "Выбор из двух названных → **which**."
+        },
+        {
+          "q": "How about ___ the museum tomorrow?",
+          "options": ["visit", "visiting", "to visit"],
+          "answer": 1,
+          "why": "После **how about** — существительное или **-ing**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Задайте вопрос",
+      "instruction": "Составьте вопрос по заданию в скобках или по предложению.",
+      "items": [
+        {
+          "prompt": "Mark invited Elena to the conference. (спросите о том, кого он пригласил) → ...",
+          "answers": ["Who did Mark invite to the conference?", "Whom did Mark invite to the conference?"]
+        },
+        {
+          "prompt": "Somebody has taken my umbrella. (спросите о том, кто) → ...",
+          "answers": ["Who has taken my umbrella?"]
+        },
+        {
+          "prompt": "The red folder belongs to Dmitri. (спросите о владельце) → Whose ...",
+          "answers": ["Whose is the red folder?", "Whose folder is the red one?", "Whose is that red folder?", "Whose is this red folder?"]
+        },
+        {
+          "prompt": "The conference lasts three days. (спросите о длительности) → How ...",
+          "answers": ["How long does the conference last?"]
+        },
+        {
+          "prompt": "Of the three candidates, only Olga was shortlisted. → Which ...",
+          "answers": ["Which of the three candidates was shortlisted?", "Which of the candidates was shortlisted?", "Which candidate was shortlisted?"]
+        },
+        {
+          "prompt": "He was talking to the new director. (спросите, с кем) → ...",
+          "answers": ["Who was he talking to?", "Whom was he talking to?", "To whom was he talking?"]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите вопросы, используя слова в скобках.",
+      "items": [
+        {
+          "prompt": "Кто позвонил тебе вчера? (call)",
+          "answers": ["Who called you yesterday?"]
+        },
+        {
+          "prompt": "Как часто ты ездишь в командировки? (how often / go / on business trips)",
+          "answers": ["How often do you go on business trips?"]
+        },
+        {
+          "prompt": "Чья это была идея? (whose / idea)",
+          "answers": ["Whose idea was it?", "Whose idea was that?", "Whose idea was this?"]
+        },
+        {
+          "prompt": "Почему же ты мне не сказал? (how come)",
+          "answers": ["How come you didn't tell me?", "How come you did not tell me?"]
+        },
+        {
+          "prompt": "Какой из этих двух отчётов вам нужен? (which / need)",
+          "answers": ["Which of these two reports do you need?", "Which of the two reports do you need?", "Which report do you need?"]
+        },
+        {
+          "prompt": "Какая она, твоя новая начальница? (like)",
+          "answers": ["What is your new boss like?", "What's your new boss like?"]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Придумайте и напишите вопросы к собеседнику, используя слова в скобках.",
+      "items": [
+        {
+          "prompt": "Спросите, как долго человек работает или учится на своём месте. (how long)",
+          "sample": "How long have you been working at this company?"
+        },
+        {
+          "prompt": "Спросите, из какого города человек, и чем он славится. (what / which)",
+          "sample": "Which city are you from, and what is it famous for?"
+        },
+        {
+          "prompt": "Спросите, чей это был совет, который помог. (whose)",
+          "sample": "Whose advice helped you most when you were choosing your career?"
+        },
+        {
+          "prompt": "Спросите, как человек относится к новому проекту. (how do you like)",
+          "sample": "How do you like the new project so far?"
+        },
+        {
+          "prompt": "Спросите, с кем человек обсуждал свои планы. (to whom / who ... to)",
+          "sample": "Who did you discuss your plans with?"
+        },
+        {
+          "prompt": "Спросите, почему вдруг изменилось расписание. (how come)",
+          "sample": "How come the schedule has changed again?"
+        }
+      ]
+    }
+  ]
+}

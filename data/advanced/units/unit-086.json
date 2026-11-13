@@ -1,0 +1,389 @@
+{
+  "id": 86,
+  "title": "If … not and unless; if and whether",
+  "summary": "Когда unless можно заменить на if ... not, а когда нельзя; чем различаются if и whether в косвенных вопросах и когда необходим только whether.",
+  "ru": "## unless = «если только не»\n**Unless** значит **except if** («кроме случая, когда»). В большинстве предложений он взаимозаменяем с **if ... not**:\n> I'll go for a run **unless** it rains. = I'll go for a run **if it doesn't rain**. — Пойду бегать, если не будет дождя.\n> **Unless** you hurry, you'll miss the train. = **If you don't hurry**, you'll miss the train.\nСам **unless** уже содержит отрицание, поэтому второе отрицание не нужно: ~~Unless you don't hurry~~ → **Unless you hurry**.\n\n## Когда unless нельзя\nУ unless есть ограничения, и именно здесь ошибаются продвинутые ученики.\n- **Эмоциональная реакция на то, что не произойдёт.** Если результат — чувство (расстроен, рад, жаль), нужен **if ... not**: *I'll be furious **if** they don't refund me.* (~~unless they refund me~~ значило бы «буду в ярости в любом случае, кроме возврата денег» — смысл другой).\n- **Нереальные условия в прошлом.** В третьем условном обычно **if ... not**: *If you hadn't warned me, I'd have missed it.* (~~Unless you had warned me~~ звучит неестественно.)\n- Вопросы: ~~Unless it rains, will you go?~~ → **If it doesn't rain**, will you go?\n\n## Сокращённые конструкции с unless\nПосле unless можно опустить подлежащее и be в формальных текстах и инструкциях:\n> Don't call me **unless urgent**. — Не звони, если не срочно.\n> **Unless otherwise stated**, all prices include tax. — Если не указано иное, цены включают налог.\n\n## only if\n**Only if** — «только если»: *You can enter **only if** you have a pass.* Когда **only if** в начале, нужна инверсия: ***Only if** you have a pass **can you** enter.*\n\n## if и whether: косвенный вопрос\nПосле **ask, wonder, know, see, not sure, doubt** и подобных для вопроса «да / нет» используем **if** или **whether**. **Whether** формальнее.\n> I asked **if / whether** the report was ready. — Я спросил, готов ли отчёт.\n> I'm not sure **whether / if** she's coming.\n\n## Когда нужен только whether\n- **перед инфинитивом**: We haven't decided **whether to** accept the offer. (~~if to accept~~)\n- **после предлога**: It depends **on whether** the funding is approved. (~~on if~~)\n- **подлежащее / дополнение при be**: **Whether** he agrees is irrelevant. The question is **whether** we can afford it.\n- **сразу перед or not**: I'll let you know **whether or not** I get the job.\n- **после discuss, consider**: *They discussed whether the law should change.*\nКак условный союз **if** («если») — только if: *If it rains, we'll stay in.* Поэтому предложение *Let me know if you need a lift* можно понять двояко, но обычно ясно по контексту.\n\n## Типичные ошибки\n- ~~Unless you don't call me, I'll come.~~ → **Unless you call** me, I'll come.\n- ~~I don't know if to apply.~~ → I don't know **whether to** apply.\n- ~~It depends on if the board approves.~~ → on **whether**.\n- ~~I'll be upset unless they cancel.~~ → I'll be upset **if** they cancel.",
+  "en": "## unless = 'except if'\n**Unless** means **except if**. In most sentences it can replace **if ... not**:\n> I'll go for a run **unless** it rains. = I'll go for a run **if it doesn't rain**.\n> **Unless** you hurry, you'll miss the train. = **If you don't hurry**, you'll miss the train.\n**Unless** already has a negative meaning, so we don't add another one: ~~Unless you don't hurry~~ → **Unless you hurry**.\n\n## When unless is not possible\nThese limits are where advanced learners make mistakes.\n- **Emotional reactions to something that does not happen.** When the result is a feeling, use **if ... not**: *I'll be furious **if** they don't refund me.* (~~unless they refund me~~ would mean 'I'll be furious in every case except a refund', which is different.)\n- **Unreal past conditions.** In the third conditional use **if ... not**: *If you hadn't warned me, I'd have missed it.*\n- **Questions**: ~~Unless it rains, will you go?~~ → **If it doesn't rain**, will you go?\n\n## Shortened clauses with unless\nIn formal texts and instructions we can leave out the subject and be:\n> Don't call me **unless urgent**.\n> **Unless otherwise stated**, all prices include tax.\n\n## only if\n**Only if** = 'only in the case that': *You can enter **only if** you have a pass.* At the start of a sentence it needs inversion: ***Only if** you have a pass **can you** enter.*\n\n## if and whether in indirect questions\nAfter **ask, wonder, know, see, not sure, doubt** and similar words we can use **if** or **whether** for yes / no questions. **Whether** is more formal.\n> I asked **if / whether** the report was ready.\n> I'm not sure **whether / if** she's coming.\n\n## When only whether is possible\n- **before an infinitive**: We haven't decided **whether to** accept the offer. (~~if to accept~~)\n- **after a preposition**: It depends **on whether** the funding is approved. (~~on if~~)\n- **as a subject or after be**: **Whether** he agrees is irrelevant. The question is **whether** we can afford it.\n- **directly before or not**: I'll let you know **whether or not** I get the job.\n- **after discuss, consider**: *They discussed whether the law should change.*\nAs a conditional conjunction ('if it happens') only **if** works: *If it rains, we'll stay in.*\n\n## Common mistakes\n- ~~Unless you don't call me~~ → **Unless you call** me\n- ~~I don't know if to apply.~~ → I don't know **whether to** apply.\n- ~~It depends on if the board approves.~~ → on **whether**\n- ~~I'll be upset unless they cancel.~~ → I'll be upset **if** they cancel.",
+  "structure": "## unless и if ... not\n| Ситуация | unless | if ... not |\n|---|---|---|\n| обычное условие | Unless you hurry, you'll be late. | If you don't hurry, you'll be late. |\n| эмоция в результате | неверно | I'll be sad if you don't come. |\n| нереальное прошлое | неестественно | If you hadn't called, I'd have missed it. |\n| вопрос | неверно | If it doesn't rain, will you go? |\n| краткая форма | Unless urgent, don't call. | — |\n\n## if и whether\n| Позиция | if | whether |\n|---|---|---|\n| после ask / wonder / know | да | да (формальнее) |\n| перед to + инфинитивом | нет | да |\n| после предлога | нет | да |\n| подлежащее / после be | нет | да |\n| перед or not | нет | да |\n| условие («если») | да | нет |\n\n## Формулы\n> **unless** + подлежащее + глагол (без отрицания)\n> **whether** + to + V  ·  **whether** ... **or not**  ·  preposition + **whether** + clause\n> **Only if** + вспомогательный глагол + подлежащее ... (инверсия в начале)",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "unless, if или whether?",
+      "instruction": "Вставьте unless, if или whether (если допустимы оба — достаточно любого).",
+      "example": "I'll take the job ___ the salary is too low. → **unless**",
+      "items": [
+        {
+          "text": "I'll take the job {{unless}} the salary is too low.",
+          "hint": "unless / if"
+        },
+        {
+          "text": "{{Unless}} you hurry, you'll miss the train.",
+          "hint": "unless / if"
+        },
+        {
+          "text": "I'm not sure {{whether|if}} she's coming.",
+          "hint": "whether / if"
+        },
+        {
+          "text": "We haven't decided {{whether}} to accept the offer.",
+          "hint": "whether / if"
+        },
+        {
+          "text": "I'll be disappointed {{if}} you don't come.",
+          "hint": "if / unless"
+        },
+        {
+          "text": "It depends on {{whether}} the funding is approved.",
+          "hint": "whether / if"
+        },
+        {
+          "text": "{{Whether}} or not it rains, the event will take place.",
+          "hint": "whether / if"
+        },
+        {
+          "text": "Don't call me {{unless}} it's urgent.",
+          "hint": "unless / if"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Ещё пропуски",
+      "instruction": "Вставьте нужное слово или словосочетание.",
+      "items": [
+        {
+          "text": "She asked {{if|whether}} I had finished the report.",
+          "hint": "if / whether"
+        },
+        {
+          "text": "You won't be admitted {{unless}} you have a ticket.",
+          "hint": "unless / if"
+        },
+        {
+          "text": "{{Whether}} he agrees is irrelevant.",
+          "hint": "whether / if"
+        },
+        {
+          "text": "I doubt {{whether|if}} they will accept the proposal.",
+          "hint": "whether / if"
+        },
+        {
+          "text": "We'll go ahead with the trip {{whether or not|regardless of whether}} the weather improves.",
+          "hint": "независимо от"
+        },
+        {
+          "text": "Let me know {{if|whether}} you need a lift.",
+          "hint": "if / whether"
+        },
+        {
+          "text": "I'd be grateful {{if}} you could send the document today.",
+          "hint": "if / unless"
+        },
+        {
+          "text": "You can enter {{only if|if}} you have a pass.",
+          "hint": "only if"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите вариант, подходящий по грамматике и смыслу.",
+      "items": [
+        {
+          "q": "It would be a shame ___ you didn't use this chance.",
+          "options": [
+            "unless",
+            "if",
+            "whether"
+          ],
+          "answer": 1,
+          "why": "Реакция-оценка (shame) на невыполнение — нужен **if**, unless тут не подходит."
+        },
+        {
+          "q": "We can't decide ___ to rent or to buy.",
+          "options": [
+            "if",
+            "whether",
+            "unless"
+          ],
+          "answer": 1,
+          "why": "Перед to + инфинитивом — только **whether**."
+        },
+        {
+          "q": "___ you pay the fine, you'll lose your licence.",
+          "options": [
+            "If",
+            "Unless",
+            "Whether"
+          ],
+          "answer": 1,
+          "why": "Нет отрицания в предложении, значит смысл «если не заплатите» передаёт **unless**."
+        },
+        {
+          "q": "I'll let you know ___ or not I get the job.",
+          "options": [
+            "if",
+            "whether",
+            "unless"
+          ],
+          "answer": 1,
+          "why": "Сочетание **whether or not** вплотную — только whether."
+        },
+        {
+          "q": "Don't call the doctor ___ the pain gets worse.",
+          "options": [
+            "if",
+            "unless",
+            "whether"
+          ],
+          "answer": 1,
+          "why": "«Не звони, если только не станет хуже» — **unless**."
+        },
+        {
+          "q": "I wasn't sure ___ to say anything.",
+          "options": [
+            "if",
+            "whether",
+            "unless"
+          ],
+          "answer": 1,
+          "why": "После whether можно поставить to + инфинитив, после if — нет."
+        },
+        {
+          "q": "She'll come ___ she's too busy.",
+          "options": [
+            "if",
+            "unless",
+            "whether"
+          ],
+          "answer": 1,
+          "why": "Смысл «придёт, кроме случая, когда слишком занята» — это **unless**."
+        },
+        {
+          "q": "The discussion focused on ___ the law should change.",
+          "options": [
+            "if",
+            "whether",
+            "unless"
+          ],
+          "answer": 1,
+          "why": "После предлога (on) — только **whether**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите верное предложение",
+      "instruction": "Только одно предложение правильное.",
+      "items": [
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "Unless you don't hurry, we'll be late.",
+            "Unless you hurry, we'll be late.",
+            "If you hurry not, we'll be late."
+          ],
+          "answer": 1,
+          "why": "Unless уже отрицательный — второго not не нужно."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "I'll be sad unless you leave.",
+            "I'll be sad if you leave.",
+            "I'll be sad if you won't leave."
+          ],
+          "answer": 1,
+          "why": "Эмоция в результате — **if**; will / won't в if-части не ставим."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "The question of if we should go remains open.",
+            "The question of whether we should go remains open.",
+            "The question of whether should we go remains open."
+          ],
+          "answer": 1,
+          "why": "После предлога (of) — whether, порядок слов прямой."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "I asked whether to book the flight.",
+            "I asked if to book the flight.",
+            "I asked if booking the flight."
+          ],
+          "answer": 0,
+          "why": "Whether + to + V; if так не сочетается."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "If you hadn't told me, I would have missed the deadline.",
+            "Unless you had told me, I would have missed the deadline.",
+            "Unless you hadn't told me, I would have missed the deadline."
+          ],
+          "answer": 0,
+          "why": "В третьем условном для «если бы не» берём **if ... not**."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "Whether she will accept is unclear.",
+            "If she will accept is unclear.",
+            "Whether will she accept is unclear."
+          ],
+          "answer": 0,
+          "why": "Подлежащее-придаточное начинается с whether, порядок прямой."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "I'll stay unless you need me.",
+            "I'll stay unless you don't need me.",
+            "I'll stay if you won't need me."
+          ],
+          "answer": 0,
+          "why": "Unless + утвердительный глагол; будущее после if / unless не нужно."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Преобразуйте предложения",
+      "instruction": "Выполните преобразование, указанное в скобках.",
+      "items": [
+        {
+          "prompt": "If you don't book in advance, you can't get a seat. (Unless ...)",
+          "answers": [
+            "Unless you book in advance, you can't get a seat.",
+            "Unless you book in advance, you cannot get a seat.",
+            "You can't get a seat unless you book in advance.",
+            "You cannot get a seat unless you book in advance.",
+            "Unless you book in advance you can't get a seat.",
+            "Unless you book in advance you cannot get a seat."
+          ]
+        },
+        {
+          "prompt": "If you don't leave now, you'll miss your train. (unless)",
+          "answers": [
+            "Unless you leave now, you'll miss your train.",
+            "You'll miss your train unless you leave now.",
+            "Unless you leave now you'll miss your train."
+          ]
+        },
+        {
+          "prompt": "I'll stay at home unless the weather improves. (if ... not)",
+          "answers": [
+            "I'll stay at home if the weather doesn't improve.",
+            "I'll stay at home if the weather does not improve.",
+            "I will stay at home if the weather doesn't improve.",
+            "I will stay at home if the weather does not improve."
+          ]
+        },
+        {
+          "prompt": "She asked, 'Is the report ready?' (She asked ...)",
+          "answers": [
+            "She asked if the report was ready.",
+            "She asked whether the report was ready."
+          ]
+        },
+        {
+          "prompt": "He asked, 'Should I sign it?' (He asked whether ...)",
+          "answers": [
+            "He asked whether to sign it.",
+            "He asked whether he should sign it."
+          ]
+        },
+        {
+          "prompt": "It doesn't matter if it rains. We will go ahead. (whether ... or not)",
+          "answers": [
+            "Whether or not it rains, we will go ahead.",
+            "Whether or not it rains, we'll go ahead.",
+            "Whether it rains or not, we will go ahead.",
+            "Whether it rains or not, we'll go ahead.",
+            "We will go ahead whether or not it rains.",
+            "We'll go ahead whether or not it rains.",
+            "We will go ahead whether it rains or not.",
+            "We'll go ahead whether it rains or not.",
+            "Whether or not it rains we will go ahead.",
+            "Whether or not it rains we'll go ahead.",
+            "Whether it rains or not we will go ahead.",
+            "Whether it rains or not we'll go ahead."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Исправьте ошибки",
+      "instruction": "Перепишите предложение без ошибок.",
+      "items": [
+        {
+          "prompt": "Unless you don't call me back, I'll come over.",
+          "answers": [
+            "Unless you call me back, I'll come over.",
+            "If you don't call me back, I'll come over.",
+            "Unless you call me back I'll come over.",
+            "If you don't call me back I'll come over."
+          ]
+        },
+        {
+          "prompt": "I don't know if to apply for the job.",
+          "answers": [
+            "I don't know whether to apply for the job."
+          ]
+        },
+        {
+          "prompt": "The decision depends on if the board approves.",
+          "answers": [
+            "The decision depends on whether the board approves."
+          ]
+        },
+        {
+          "prompt": "We'll be upset unless they cancel the show.",
+          "answers": [
+            "We'll be upset if they cancel the show."
+          ]
+        },
+        {
+          "prompt": "Only if you have a pass you can enter.",
+          "answers": [
+            "Only if you have a pass can you enter."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями.",
+      "items": [
+        {
+          "prompt": "What will you do this weekend unless something unexpected happens? (unless)",
+          "sample": "I'll visit my parents unless I have to work."
+        },
+        {
+          "prompt": "Say how you'd feel if something didn't happen (if ... not).",
+          "sample": "I'd be really disappointed if my team didn't win the final."
+        },
+        {
+          "prompt": "Write about a decision you have not made yet (I haven't decided whether to ...).",
+          "sample": "I haven't decided whether to change jobs or to stay."
+        },
+        {
+          "prompt": "Say what something depends on (It depends on whether ...).",
+          "sample": "My holiday depends on whether I can get time off in August."
+        }
+      ]
+    }
+  ]
+}

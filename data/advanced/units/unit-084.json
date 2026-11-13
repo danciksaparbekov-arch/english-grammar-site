@@ -1,0 +1,424 @@
+{
+  "id": 84,
+  "title": "Conditional sentences (1)",
+  "summary": "Четыре типа условных предложений (zero, first, second, third), выбор между реальным и нереальным условием, were вместо was, смешанные условные и модальные глаголы в главной части.",
+  "ru": "## Реальное или нереальное: как выбрать тип\nВы знаете четыре типа условных предложений. На уровне Advanced главное — понимать, **как говорящий оценивает ситуацию**, а не просто механически подставлять формы.\n- **Zero conditional**: if + present simple, present simple — общие истины и закономерности (if = «всякий раз, когда»). *If you heat ice, it melts.*\n- **First conditional**: if + present, will — реальное, вполне возможное будущее. *If prices rise again, we'll have to cut costs.*\n- **Second conditional**: if + past simple, would — нереальное или маловероятное настоящее / будущее. *If I won the lottery, I'd quit my job.*\n- **Third conditional**: if + past perfect, would have + V3 — нереальное прошлое. *If I had known, I would have helped.*\n\n## Одна ситуация — две оценки\nРазница между first и second — в вероятности, а не во времени:\n> If you **come** tomorrow, I'll show you the lab. — Приходи, вполне возможно; я покажу.\n> If you **came** tomorrow, I'd show you the lab. — Гипотетически (скорее всего, ты не придёшь / это маловероятно).\nПоэтому, когда речь о реальном плане, second conditional звучит холодно или вежливо-дистанцированно: *If you could send the file today, I'd be grateful.*\n\n## If I were … и if I was\nВ формальной речи и в советах используется **were** для всех лиц: *If I **were** you, I'd accept the offer.* В разговоре **was** с I / he / she / it допустимо, но в устойчивой фразе **If I were you** лучше сохранять were. Конструкция **were to + инфинитив** делает событие ещё менее вероятным: *If I were to win, I'd donate the prize.*\n- ~~If I would be you~~ → **If I were you**\n\n## Смешанные условные\nВремя условия и время результата могут не совпадать:\n- **прошлое условие → настоящий результат**: if + past perfect, would + V: *If I **had taken** the job in Dubai, I'd **be living** there now.* — Если бы я тогда согласился на работу в Дубае, жил бы там сейчас.\n- **постоянное свойство → прошлый результат**: if + past simple, would have + V3: *If she **were** less stubborn, she **would have accepted** help.* — Будь она менее упряма, приняла бы помощь.\n~~If I would have known~~ — частая ошибка: **would не ставим** в if-части: If I **had known**.\n\n## Что может стоять в разных частях\n- В главной части вместо will / would: **might, could, may, should, must**, повелительное наклонение. *If you see Tom, tell him to call me. / If it's sunny, we might go sailing.*\n- В if-части возможны **present perfect** (завершённость): *If you've finished the report, send it to me.* и **continuous**: *If you're going to the shop, get some milk.*\n- ~~If it will rain tomorrow, we'll stay in.~~ → If it **rains** tomorrow, we'll stay in.\n\n## Типичные ошибки\n- ~~If I will see her, I'll tell her.~~ → If I **see** her, I'll tell her.\n- ~~If I would know the answer, I'd tell you.~~ → If I **knew** the answer, I'd tell you.\n- ~~If you would have asked, I would have helped.~~ → If you **had asked**, I would have helped.",
+  "en": "## Real or unreal: choosing the type\nYou know the four types of conditional sentences. At Advanced level the key is **how the speaker sees the situation**, not just the forms.\n- **Zero conditional**: if + present simple, present simple. General truths (if = whenever). *If you heat ice, it melts.*\n- **First conditional**: if + present, will. A real, likely future. *If prices rise again, we'll have to cut costs.*\n- **Second conditional**: if + past simple, would. Unreal or unlikely present or future. *If I won the lottery, I'd quit my job.*\n- **Third conditional**: if + past perfect, would have + past participle. Unreal past. *If I had known, I would have helped.*\n\n## One situation, two attitudes\nThe difference between first and second is probability, not time:\n> If you **come** tomorrow, I'll show you the lab. (it is quite possible)\n> If you **came** tomorrow, I'd show you the lab. (it is unlikely / hypothetical)\nSecond conditional can also sound polite and distant: *If you could send the file today, I'd be grateful.*\n\n## If I were ... and if I was\nIn formal English and in advice we use **were** with all persons: *If I **were** you, I'd accept the offer.* In casual speech **was** is possible with I / he / she / it, but keep **were** in **If I were you**. **were to + infinitive** makes the event even less likely: *If I were to win, I'd donate the prize.*\n- ~~If I would be you~~ → **If I were you**\n\n## Mixed conditionals\nThe time of the condition and the time of the result may differ:\n- **past condition → present result**: if + past perfect, would + verb: *If I **had taken** the job in Dubai, I'd **be living** there now.*\n- **permanent quality → past result**: if + past simple, would have + past participle: *If she **were** less stubborn, she **would have accepted** help.*\n~~If I would have known~~ is a common mistake: do **not** use would in the if-part: If I **had known**.\n\n## What can appear in each part\n- In the main clause instead of will / would: **might, could, may, should, must**, or an imperative. *If you see Tom, tell him to call me. / If it's sunny, we might go sailing.*\n- In the if-clause: the **present perfect** (completion) *If you've finished the report, send it to me.* or a **continuous** form: *If you're going to the shop, get some milk.*\n- ~~If it will rain tomorrow~~ → If it **rains** tomorrow\n\n## Common mistakes\n- ~~If I will see her~~ → If I **see** her\n- ~~If I would know the answer~~ → If I **knew** the answer\n- ~~If you would have asked~~ → If you **had asked**",
+  "structure": "## Четыре типа\n| Тип | if-часть | Главная часть | Значение | Пример |\n|---|---|---|---|---|\n| zero | present simple | present simple | закономерность | If you heat ice, it melts. |\n| first | present simple / perfect | will / can / imperative | реальное будущее | If it rains, we'll stay in. |\n| second | past simple (were) | would / could / might + V | нереальное сейчас | If I had time, I'd learn Greek. |\n| third | past perfect | would have + V3 | нереальное прошлое | If I'd known, I'd have called. |\n| mixed (1) | past perfect | would + V | прошлое → сейчас | If I'd gone, I'd be rich now. |\n| mixed (2) | past simple | would have + V3 | сейчас → прошлое | If she were kinder, she'd have helped. |\n\n## Формулы\n> **If** + past perfect, **would** + V (результат сейчас)\n> **If** + past simple, **would have** + V3 (результат в прошлом)\n> **If I were you**, I would + V (совет)\n> **If** + subject + **were to** + V, ... (маловероятное событие)\n\n## Запомните\n- В if-части **не** ставим will / would (кроме вежливых просьб, см. следующий юнит).\n- Сокращения: had → 'd, would → 'd: If I'd known, I'd have called.",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Формы глаголов",
+      "instruction": "Поставьте глагол в скобках в нужную форму (если возможны варианты — достаточно одного).",
+      "example": "If I (know) about the delay, I would have taken a train. → **had known**",
+      "items": [
+        {
+          "text": "If {{I had known|I'd known}} about the delay, I would have taken the train.",
+          "hint": "I / know"
+        },
+        {
+          "text": "If prices {{rise|go up|increase}} again next month, we'll have to cut costs.",
+          "hint": "rise"
+        },
+        {
+          "text": "If she {{were|was}} my colleague, I'd ask her to lead the project.",
+          "hint": "be"
+        },
+        {
+          "text": "Water {{boils}} if you heat it to 100 degrees at sea level.",
+          "hint": "boil"
+        },
+        {
+          "text": "If {{I had taken|I'd taken}} the job in Dubai, I'd be living there now.",
+          "hint": "I / take"
+        },
+        {
+          "text": "{{We would have won|We'd have won}} the match if the goalkeeper hadn't been injured.",
+          "hint": "we / win"
+        },
+        {
+          "text": "If {{you have finished|you've finished}} the report, please send it to me.",
+          "hint": "you / finish"
+        },
+        {
+          "text": "If it {{weren't|were not|wasn't|was not}} so expensive, I'd buy it.",
+          "hint": "be not"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Ещё формы",
+      "instruction": "Вставьте пропущенные слова.",
+      "items": [
+        {
+          "text": "If I {{were|was}} you, I'd accept the offer.",
+          "hint": "be"
+        },
+        {
+          "text": "If the train {{is|gets}} delayed, we'll miss the connection.",
+          "hint": "be / get"
+        },
+        {
+          "text": "If I hadn't missed the flight, I {{would be|'d be}} in Rome now.",
+          "hint": "be"
+        },
+        {
+          "text": "If {{you had told|you'd told}} me earlier, I could have helped.",
+          "hint": "you / tell"
+        },
+        {
+          "text": "If I {{won|were to win|was to win}} the lottery, I'd quit my job.",
+          "hint": "win"
+        },
+        {
+          "text": "If you {{don't water|do not water}} the plants, they die.",
+          "hint": "not water"
+        },
+        {
+          "text": "If we hadn't taken a taxi, we {{would have missed|might have missed|could have missed}} the start.",
+          "hint": "miss"
+        },
+        {
+          "text": "If it {{rains|should rain}} tomorrow, the match will be moved indoors.",
+          "hint": "rain"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Выберите правильный вариант",
+      "instruction": "Выберите форму, подходящую по смыслу и грамматике.",
+      "items": [
+        {
+          "q": "If you ___ the fuse, the lights come back on.",
+          "options": [
+            "will replace",
+            "replace",
+            "replaced"
+          ],
+          "answer": 1,
+          "why": "Закономерность (zero conditional) — present simple в обеих частях."
+        },
+        {
+          "q": "If I ___ more time, I would learn Japanese.",
+          "options": [
+            "have",
+            "had",
+            "would have"
+          ],
+          "answer": 1,
+          "why": "Нереальное настоящее — if + past simple."
+        },
+        {
+          "q": "If I ___ the lottery, I would travel round the world.",
+          "options": [
+            "win",
+            "won",
+            "would win"
+          ],
+          "answer": 1,
+          "why": "Маловероятное будущее — past simple, would в if-части не ставим."
+        },
+        {
+          "q": "If she ___ harder, she would have passed.",
+          "options": [
+            "studied",
+            "had studied",
+            "would study"
+          ],
+          "answer": 1,
+          "why": "Нереальное прошлое (третий тип) — past perfect."
+        },
+        {
+          "q": "I'd have called you if I ___ your number.",
+          "options": [
+            "had had",
+            "would have had",
+            "had"
+          ],
+          "answer": 0,
+          "why": "Третий тип: if + past perfect (had had = past perfect от have)."
+        },
+        {
+          "q": "If he ___ the sales manager, he would know the figures.",
+          "options": [
+            "is",
+            "were",
+            "would be"
+          ],
+          "answer": 1,
+          "why": "Нереальное настоящее: **were** (допустимо и was, но в тесте — were)."
+        },
+        {
+          "q": "If I ___ to the meeting yesterday, I'd know what was agreed.",
+          "options": [
+            "went",
+            "had gone",
+            "would go"
+          ],
+          "answer": 1,
+          "why": "Смешанный тип: прошлое условие (past perfect), результат сейчас (would know)."
+        },
+        {
+          "q": "If it rains tomorrow, we ___ the match.",
+          "options": [
+            "cancel",
+            "will cancel",
+            "would cancel"
+          ],
+          "answer": 1,
+          "why": "Реальное будущее — первый тип, в главной части will."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Найдите верное предложение",
+      "instruction": "Только одно предложение правильное.",
+      "items": [
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "If I will see her, I'll tell her.",
+            "If I see her, I'll tell her.",
+            "If I saw her, I'll tell her."
+          ],
+          "answer": 1,
+          "why": "В if-части — present simple без will; second type не сочетается с will в главной."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "If I would have known, I would have helped.",
+            "If I had known, I would have helped.",
+            "If I knew, I would have helped."
+          ],
+          "answer": 1,
+          "why": "Третий тип: if + **had known**, would в if-части — ошибка."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "If I would be you, I'd apologise.",
+            "If I were you, I'd apologise.",
+            "If I am you, I'd apologise."
+          ],
+          "answer": 1,
+          "why": "Совет в нереальной ситуации — **If I were you**."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "If he had left earlier, he would be here now.",
+            "If he would have left earlier, he would be here now.",
+            "If he leaves earlier, he would be here now."
+          ],
+          "answer": 0,
+          "why": "Смешанный тип: past perfect + would + V."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "If you heat ice, it melts.",
+            "If you will heat ice, it melts.",
+            "If you heated ice, it melts."
+          ],
+          "answer": 0,
+          "why": "Закономерность — present simple в обеих частях."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "If I were taller, I would have joined the police.",
+            "If I would be taller, I would have joined the police.",
+            "If I am taller, I would have joined the police."
+          ],
+          "answer": 0,
+          "why": "Постоянное свойство сейчас → прошлый результат: were + would have + V3."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "If you've finished, you can leave.",
+            "If you'd finished, you can leave.",
+            "If you finished, you will leave."
+          ],
+          "answer": 0,
+          "why": "Present perfect в if-части показывает завершённость; в главной — can / повелительное."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Преобразуйте предложения",
+      "instruction": "Выполните преобразование, указанное в скобках.",
+      "items": [
+        {
+          "prompt": "If I win the prize, I'll buy a boat. (сделайте маловероятным: If I won ...)",
+          "answers": [
+            "If I won the prize, I would buy a boat.",
+            "If I won the prize, I'd buy a boat.",
+            "If I were to win the prize, I would buy a boat.",
+            "If I were to win the prize, I'd buy a boat.",
+            "If I won the prize I would buy a boat.",
+            "If I won the prize I'd buy a boat.",
+            "If I were to win the prize I would buy a boat.",
+            "If I were to win the prize I'd buy a boat."
+          ]
+        },
+        {
+          "prompt": "I didn't study, so I failed. (третий тип: If I ..., I wouldn't have failed.)",
+          "answers": [
+            "If I had studied, I wouldn't have failed.",
+            "If I'd studied, I wouldn't have failed.",
+            "If I had studied, I would not have failed.",
+            "If I'd studied, I would not have failed.",
+            "If I had studied I wouldn't have failed.",
+            "If I'd studied I wouldn't have failed.",
+            "If I had studied I would not have failed.",
+            "If I'd studied I would not have failed."
+          ]
+        },
+        {
+          "prompt": "She doesn't speak Spanish, so she can't work in Madrid. (второй тип)",
+          "answers": [
+            "If she spoke Spanish, she could work in Madrid.",
+            "If she spoke Spanish, she would be able to work in Madrid.",
+            "If she spoke Spanish she could work in Madrid.",
+            "If she spoke Spanish she would be able to work in Madrid."
+          ]
+        },
+        {
+          "prompt": "I took the job, so I live in Berlin now. (смешанный тип: If I hadn't ...)",
+          "answers": [
+            "If I hadn't taken the job, I wouldn't be living in Berlin now.",
+            "If I hadn't taken the job, I wouldn't live in Berlin now.",
+            "If I hadn't taken the job, I wouldn't be living in Berlin.",
+            "If I hadn't taken the job, I wouldn't live in Berlin.",
+            "If I hadn't taken the job I wouldn't be living in Berlin now.",
+            "If I hadn't taken the job I wouldn't live in Berlin now.",
+            "If I hadn't taken the job I wouldn't be living in Berlin.",
+            "If I hadn't taken the job I wouldn't live in Berlin."
+          ]
+        },
+        {
+          "prompt": "Tom doesn't wear a coat, so he's cold. (If Tom ...)",
+          "answers": [
+            "If Tom wore a coat, he wouldn't be cold.",
+            "If Tom wore a coat, he would not be cold.",
+            "If Tom were wearing a coat, he wouldn't be cold.",
+            "If Tom was wearing a coat, he wouldn't be cold.",
+            "If Tom were wearing a coat, he would not be cold.",
+            "If Tom wore a coat he wouldn't be cold.",
+            "If Tom wore a coat he would not be cold.",
+            "If Tom were wearing a coat he wouldn't be cold.",
+            "If Tom was wearing a coat he wouldn't be cold.",
+            "If Tom were wearing a coat he would not be cold."
+          ]
+        },
+        {
+          "prompt": "Дайте совет: You should apologise. (If I were you ...)",
+          "answers": [
+            "If I were you, I'd apologise.",
+            "If I were you, I would apologise.",
+            "If I was you, I'd apologise.",
+            "If I was you, I would apologise.",
+            "If I were you I'd apologise.",
+            "If I were you I would apologise.",
+            "If I was you I'd apologise.",
+            "If I was you I would apologise."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Исправьте ошибки",
+      "instruction": "Перепишите предложение без ошибок.",
+      "items": [
+        {
+          "prompt": "If I will have time, I'll call you.",
+          "answers": [
+            "If I have time, I'll call you.",
+            "If I have time, I will call you.",
+            "If I have time I'll call you.",
+            "If I have time I will call you."
+          ]
+        },
+        {
+          "prompt": "If I would know the answer, I would tell you.",
+          "answers": [
+            "If I knew the answer, I would tell you.",
+            "If I knew the answer, I'd tell you.",
+            "If I knew the answer I would tell you.",
+            "If I knew the answer I'd tell you."
+          ]
+        },
+        {
+          "prompt": "If you would have asked me, I would have helped.",
+          "answers": [
+            "If you had asked me, I would have helped.",
+            "If you'd asked me, I would have helped.",
+            "If you had asked me, I'd have helped.",
+            "If you'd asked me, I'd have helped.",
+            "If you had asked me I would have helped.",
+            "If you'd asked me I would have helped.",
+            "If you had asked me I'd have helped.",
+            "If you'd asked me I'd have helped."
+          ]
+        },
+        {
+          "prompt": "If it will rain tomorrow, the match will be cancelled.",
+          "answers": [
+            "If it rains tomorrow, the match will be cancelled.",
+            "If it rains tomorrow the match will be cancelled."
+          ]
+        },
+        {
+          "prompt": "I'm not the manager, so I can't approve the budget. (If I ...)",
+          "answers": [
+            "If I were the manager, I could approve the budget.",
+            "If I was the manager, I could approve the budget.",
+            "If I were the manager, I would be able to approve the budget.",
+            "If I was the manager, I would be able to approve the budget.",
+            "If I were the manager I could approve the budget.",
+            "If I was the manager I could approve the budget.",
+            "If I were the manager I would be able to approve the budget.",
+            "If I was the manager I would be able to approve the budget."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, выбирая нужный тип условного.",
+      "items": [
+        {
+          "prompt": "What will you do if the weather is good this weekend? (first conditional)",
+          "sample": "If the weather is good this weekend, I'll go cycling in the park."
+        },
+        {
+          "prompt": "What would you do if you could live anywhere in the world? (second conditional)",
+          "sample": "If I could live anywhere, I'd choose a small town by the sea."
+        },
+        {
+          "prompt": "Name a past decision and what might have happened otherwise. (third conditional)",
+          "sample": "If I hadn't studied English, I wouldn't have got this job."
+        },
+        {
+          "prompt": "Describe how a past event affects your life now. (mixed conditional)",
+          "sample": "If I hadn't moved to a new city, I wouldn't be working in IT now."
+        }
+      ]
+    }
+  ]
+}

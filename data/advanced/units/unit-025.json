@@ -1,0 +1,225 @@
+{
+  "id": 25,
+  "title": "It is said that… / He is thought to…",
+  "summary": "Безличные пассивные конструкции с глаголами речи и мнения (say, believe, think, report, expect, know...): модели It is said that… и He is said to be / to have been / to be doing, а также be supposed to.",
+  "ru": "## Две модели для «говорят, считается»\nКогда мнение или информация принадлежит неопределённому кругу людей (СМИ, эксперты, общественность), английский использует пассив глаголов речи и мнения: **say, think, believe, know, understand, report, expect, consider, claim, allege, estimate, rumour, suppose, assume, fear**. Есть две равнозначные модели:\n> **It is believed that** the painting is a forgery.\n> The painting **is believed to be** a forgery. — Считается, что картина — подделка.\nВторая модель компактнее и характерна для новостей, юридических и научных текстов. Подлежащее придаточного (the painting) становится подлежащим всего предложения.\n\n## Какой инфинитив поставить\nФорма инфинитива показывает, **когда происходит действие** по отношению к моменту «считается»:\n- **to + V** — то же время или будущее: He **is thought to live** in Prague. / The president **is expected to resign** next week.\n- **to be + V-ing** — процесс идёт сейчас: The minister **is said to be negotiating** with the unions.\n- **to have + V3** — раньше: The thief **is believed to have escaped** through the window.\n- **to have been + V-ing** — длительность в прошлом: She **is thought to have been working** on the novel for years.\n- **пассивный инфинитив**: The bridge **is expected to be completed** next year. / The vase **is known to have been stolen** twice.\nЕсли глагол мнения в прошедшем, время сдвигается: He **was believed to be** dead (тогда так считали). / She **was said to have left** earlier.\n\n## Есть ли ограничения по глаголам\nНе все глаголы работают в обеих моделях. Только с **It + that-clause** употребляются **suggest, recommend, hope, decide, agree, announce, propose**: It **was announced that** the talks had failed. ~~The talks were announced to fail.~~ — Нельзя. Для **fear** возможна и короткая модель: The climbers **are feared dead** / **feared to have died**.\nС **there**: There **is said to be** a secret passage under the castle. There **are thought to be** about 200 species on the island.\n\n## be supposed to\nЭтот глагол в пассивной форме имеет три значения:\n- **ожидание или долг**: You're **supposed to wear** a helmet. (правила требуют)\n- **план**, который не выполнился: The train **was supposed to arrive** at nine, but it didn't.\n- **репутация, «говорят»**: He's **supposed to be** a brilliant surgeon. — Он, говорят, блестящий хирург (но я не уверен).\nОтрицание: You're **not supposed to park** here — запрещено.\n\n## Стиль и осторожность\nСтруктура позволяет **не называть источник** и сохранять дистанцию: The firm **is alleged to have misled** its customers. В судебной хронике и в журналистике так избегают прямого обвинения. В разговорной речи чаще скажут: *People say that…*, *They say…*\n\n## Типичные ошибки\n- ~~He is said that he is rich.~~ → He **is said to be** rich. / It **is said that** he is rich.\n- ~~It is said him to be rich.~~ → He is said to be rich.\n- ~~She is thought being a spy.~~ → She is thought **to be** a spy.\n- ~~The thief is believed to escape yesterday.~~ → …**to have escaped** yesterday.\n- ~~The merger was decided to go ahead.~~ → It **was decided that** the merger would go ahead.",
+  "en": "## Two patterns for «people say, it is believed»\nWhen an opinion or a piece of news belongs to an unnamed group (the media, experts, the public), English uses the passive of reporting verbs: **say, think, believe, know, understand, report, expect, consider, claim, allege, estimate, suppose, fear**. There are two patterns:\n> **It is believed that** the painting is a forgery.\n> The painting **is believed to be** a forgery.\nThe second is shorter and typical of news, legal and academic writing.\n\n## Which infinitive?\nThe infinitive shows the time of the event compared with the moment of the belief:\n- **to + V** — same time or future: He **is thought to live** in Prague. The president **is expected to resign** next week.\n- **to be + V-ing** — in progress: The minister **is said to be negotiating**.\n- **to have + V3** — earlier: The thief **is believed to have escaped**.\n- **to have been + V-ing** — duration up to now: She **is thought to have been working** on it for years.\n- **passive infinitive**: The bridge **is expected to be completed** next year.\nIf the reporting verb is in the past, the time shifts: He **was believed to be** dead. She **was said to have left** earlier.\n\n## Limits\nSome verbs take only **It + that-clause**: **suggest, recommend, hope, decide, agree, announce, propose**. ~~The talks were announced to fail.~~ → It **was announced that** the talks had failed. With **fear** a short form is possible: The climbers **are feared dead**.\nWith **there**: There **is said to be** a secret passage. There **are thought to be** 200 species.\n\n## be supposed to\n- **duty or rule**: You're **supposed to wear** a helmet.\n- **a plan that failed**: The train **was supposed to arrive** at nine (but it didn't).\n- **reputation**: He's **supposed to be** a brilliant surgeon (people say so, but I am not sure).\n\n## Style\nThe structure lets the writer **leave out the source**: The firm **is alleged to have misled** its customers. In conversation people more often say *They say…* or *People say that…*\n\n## Common mistakes\n- ~~He is said that he is rich.~~ → He **is said to be** rich.\n- ~~She is thought being a spy.~~ → She is thought **to be** a spy.\n- ~~The thief is believed to escape yesterday.~~ → …**to have escaped** yesterday.",
+  "structure": "## Две модели\n| Модель | Формула | Пример |\n|---|---|---|\n| С it | It + be + V3 (reporting) + that + clause | It is said that he is wealthy. |\n| С личным подлежащим | Subject + be + V3 + to-infinitive | He is said to be wealthy. |\n| С there | There + be + V3 + to be | There is thought to be a flaw. |\n\n## Выбор инфинитива\n| Инфинитив | Значение | Пример |\n|---|---|---|\n| to + V | то же время / будущее | She is believed to live abroad. |\n| to be + V-ing | идёт сейчас | They are said to be talking. |\n| to have + V3 | раньше | He is thought to have left. |\n| to have been + V-ing | длилось до сих пор | She is thought to have been lying. |\n| to be / to have been + V3 | пассив | It is known to have been stolen. |\n\n## Глаголы\n| С обеими моделями | Только с it … that |\n|---|---|\n| say, think, believe, know, understand, report, expect, consider, claim, allege, estimate, suppose | suggest, recommend, hope, decide, agree, announce, propose |\n\n## be supposed to\n| Значение | Пример |\n|---|---|\n| Правило / долг | You're not supposed to park here. |\n| Несостоявшийся план | The bus was supposed to leave at six. |\n| Репутация | The film is supposed to be excellent. |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Какой инфинитив?",
+      "instruction": "Вставьте нужную форму инфинитива.",
+      "example": "The thief is believed (escape) through a window. → The thief is believed **to have escaped** through a window.",
+      "items": [
+        { "text": "The company is said {{to be}} in financial trouble.", "hint": "be" },
+        { "text": "The tunnel is expected {{to be opened}} next spring.", "hint": "open" },
+        { "text": "She is thought {{to have left}} the country in 2019.", "hint": "leave" },
+        { "text": "The two sides are reported {{to be negotiating}} at this very moment.", "hint": "negotiate" },
+        { "text": "He is believed {{to have been working}} on the novel for a decade.", "hint": "work" },
+        { "text": "It is rumoured {{that}} the singer is about to retire.", "hint": "that / to" },
+        { "text": "The painting is known {{to have been stolen}} twice.", "hint": "steal" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "there, fear, be supposed to",
+      "instruction": "Вставьте недостающие слова.",
+      "items": [
+        { "text": "There are said {{to be}} over two hundred species of birds on the island.", "hint": "be" },
+        { "text": "The missing hikers are feared {{to have died}}.", "hint": "die" },
+        { "text": "At the time, the building {{was said}} to be the tallest in Europe.", "hint": "say — Past Simple passive" },
+        { "text": "She's supposed {{to be}} a brilliant surgeon, but I have never seen her operate.", "hint": "be" },
+        { "text": "You're not supposed {{to park}} here: it says so on the sign.", "hint": "park" },
+        { "text": "The driver was reported {{to have been injured}} in the crash.", "hint": "injure" },
+        { "text": "Prices are expected {{to rise}} sharply over the next six months.", "hint": "rise" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Выберите форму",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "It is believed ___ the fire started in the kitchen.",
+          "options": ["that", "to", "what"],
+          "answer": 0,
+          "why": "Модель с it: **It is believed that + clause**."
+        },
+        {
+          "q": "The suspect is thought ___ the country last night.",
+          "options": ["to leave", "to have left", "leaving"],
+          "answer": 1,
+          "why": "Событие произошло раньше «считается» → **to have left**."
+        },
+        {
+          "q": "The president is said ___ a statement at the moment.",
+          "options": ["to make", "to be making", "to have made"],
+          "answer": 1,
+          "why": "at the moment — процесс идёт сейчас → **to be making**."
+        },
+        {
+          "q": "It ___ that talks will resume next week.",
+          "options": ["was announced", "is announced to", "announced"],
+          "answer": 0,
+          "why": "**announce** допускает только модель it … that."
+        },
+        {
+          "q": "The company is understood ___ in talks to buy its rival.",
+          "options": ["to be", "being", "that is"],
+          "answer": 0,
+          "why": "Модель с личным подлежащим: **is understood to be**."
+        },
+        {
+          "q": "The new drug ___ to cause serious side effects.",
+          "options": ["alleges", "is alleged", "is alleging"],
+          "answer": 1,
+          "why": "Утверждает неопределённый круг лиц → пассив **is alleged to**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Тонкости значения",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "You're not ___ to use your phone in the exam hall.",
+          "options": ["supposed", "suppose", "supposing"],
+          "answer": 0,
+          "why": "**be supposed to** — правило: вам нельзя."
+        },
+        {
+          "q": "This restaurant is ___ to be the best in town, but I was disappointed.",
+          "options": ["said", "told", "spoken"],
+          "answer": 0,
+          "why": "Безличное «говорят» — **is said to be**; tell требует лица."
+        },
+        {
+          "q": "Какое предложение верно?",
+          "options": ["The minister is announced to resign.", "It was announced that the minister would resign.", "The minister announced to resign."],
+          "answer": 1,
+          "why": "**announce** требует модели с it … that."
+        },
+        {
+          "q": "He is expected ___ the contract tomorrow.",
+          "options": ["to sign", "signing", "that signs"],
+          "answer": 0,
+          "why": "Будущее действие → **to + V**."
+        },
+        {
+          "q": "В каком предложении событие произошло раньше?",
+          "options": ["He is said to live abroad.", "He is said to have lived abroad.", "He is said to be living abroad."],
+          "answer": 1,
+          "why": "**to have lived** — действие предшествует моменту «говорят»."
+        },
+        {
+          "q": "There ___ to be a serious flaw in the design.",
+          "options": ["is thought", "are thought", "thinks"],
+          "answer": 0,
+          "why": "flaw — единственное число: **is thought to be**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Перепишите с личным подлежащим",
+      "instruction": "Перепишите предложение, начиная со слов в стрелке, и используйте пассив с to-infinitive.",
+      "items": [
+        {
+          "prompt": "People say that the owner is extremely wealthy. → The owner ...",
+          "answers": ["The owner is said to be extremely wealthy."]
+        },
+        {
+          "prompt": "Experts believe that the virus originated in bats. → The virus ...",
+          "answers": ["The virus is believed to have originated in bats."]
+        },
+        {
+          "prompt": "Journalists report that the minister is meeting union leaders. → The minister ...",
+          "answers": ["The minister is reported to be meeting union leaders."]
+        },
+        {
+          "prompt": "Everyone expects that the bank will raise interest rates. → The bank ...",
+          "answers": ["The bank is expected to raise interest rates."]
+        },
+        {
+          "prompt": "People thought that the island was uninhabited. → The island ...",
+          "answers": ["The island was thought to be uninhabited."]
+        },
+        {
+          "prompt": "It is claimed that the company has cheated its customers for years. → The company ...",
+          "answers": ["The company is claimed to have cheated its customers for years.", "The company is claimed to have been cheating its customers for years."]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Туда и обратно, перевод",
+      "instruction": "Выполните задание.",
+      "items": [
+        {
+          "prompt": "The factory is said to be closing. → It ...",
+          "answers": ["It is said that the factory is closing.", "It's said that the factory is closing."]
+        },
+        {
+          "prompt": "Говорят, что он живёт в Лондоне. (say) → He ...",
+          "answers": ["He is said to live in London.", "He's said to live in London."]
+        },
+        {
+          "prompt": "Считается, что картина была украдена в 1990 году. (believe) → The painting ...",
+          "answers": ["The painting is believed to have been stolen in 1990."]
+        },
+        {
+          "prompt": "(there / think / be / a connection between the two cases) — Present, passive",
+          "answers": ["There is thought to be a connection between the two cases."]
+        },
+        {
+          "prompt": "Ожидается, что цены вырастут. (expect / prices / rise)",
+          "answers": ["Prices are expected to rise.", "It is expected that prices will rise."]
+        },
+        {
+          "prompt": "It is believed that she has won a fortune. → She ...",
+          "answers": ["She is believed to have won a fortune."]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя конструкции юнита.",
+      "items": [
+        {
+          "prompt": "Чем славится ваш город или регион? (is said to be / is known for)",
+          "sample": "My city is said to be one of the greenest in the region."
+        },
+        {
+          "prompt": "Что, по слухам, скоро изменится в вашей стране? (is expected to)",
+          "sample": "Public transport fares are expected to go up next year."
+        },
+        {
+          "prompt": "Что вы должны или не должны делать по правилам на работе или учёбе? (be supposed to)",
+          "sample": "We are supposed to send the weekly report on Mondays."
+        },
+        {
+          "prompt": "Расскажите о недавней новости с «is reported to». ",
+          "sample": "The government is reported to be planning a new tax on cars."
+        },
+        {
+          "prompt": "Что, как говорят, было раньше в вашем районе? (is thought to have been)",
+          "sample": "The old factory near my house is thought to have been a theatre in the 19th century."
+        },
+        {
+          "prompt": "Какая книга или фильм считаются шедеврами, но вам не понравились? (is considered to be)",
+          "sample": "The film is considered to be a masterpiece, but I found it boring."
+        }
+      ]
+    }
+  ]
+}

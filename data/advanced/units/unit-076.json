@@ -1,0 +1,113 @@
+{
+  "id": 76,
+  "title": "Position of adverbs",
+  "summary": "Куда ставить наречия: начало, середина (между подлежащим и глаголом, после be и первого вспомогательного) и конец предложения; порядок «способ — место — время» и влияние позиции на смысл.",
+  "ru": "## Три позиции\nУ наречия есть три обычных места: **front** (перед подлежащим), **mid** (в середине — рядом с глаголом) и **end** (в конце). Выбор зависит от типа наречия, стиля и смысла.\n> **Yesterday** we met the director. (front)\n> We **briefly** met the director. (mid)\n> We met the director **yesterday**. (end)\n\n## Середина: где именно\nСередина — самая коварная позиция.\n- **После be**: *She is **always** late.* *The results are **probably** correct.*\n- **После первого вспомогательного глагола**: *We have **never** seen it. They will **probably** refuse. He is **still** waiting.*\n- **Перед одиночным смысловым глаголом**: *I **often** read at night. She **quickly** replied.*\n- **Перед отрицанием у подтверждающих наречий**: *She **definitely** doesn't know. He **certainly** won't agree.* (а вот **hardly, scarcely** — после can/could: *I can **hardly** see.*)\n- При усилительном **do** наречие стоит перед ним: **I really do appreciate it.** (сильное утверждение)\n\n## Что нельзя ставить между глаголом и дополнением\nАнглийский не терпит наречия между глаголом и прямым дополнением.\n- ~~She speaks fluently English.~~ → She speaks English **fluently**. / She **fluently** speaks English. (формально, редко)\n- ~~He opened carefully the door.~~ → He opened the door **carefully**.\n- ~~I like very much jazz.~~ → I like jazz **very much**.\n\n## Порядок в конце: способ — место — время\nПри нескольких наречиях в конце обычно идут **manner → place → time**. Длинные и важные элементы стоят в конце.\n> She spoke **calmly at the meeting yesterday**. — Она спокойно выступила вчера на совещании.\n> The conference takes place **in Vienna next June**. — Конференция пройдёт в Вене в июне.\nПосле глаголов движения порядок часто **место → способ**: *He drove home carefully.* А время можно вынести вперёд для связности: *Next June the conference will be in Vienna.*\n\n## Позиция меняет смысл\nНаречия **only, just, even, almost, nearly** ставят непосредственно перед тем, к чему они относятся.\n> **Only** Anna passed. — Прошла только Анна (никто другой).\n> Anna **only** passed. — Анна лишь сдала (не отлично).\n> We **only just** made it. — Мы едва успели.\n> He **almost** failed every exam. / He failed **almost** every exam. — Чуть не провалил каждый / провалил почти каждый.\nНаречия-комментарии (*Unfortunately, ... Probably, ...*) часто стоят в начале, фокусные — рядом с выделяемым словом.\n\n## Типичные ошибки\n- ~~She goes always to bed early.~~ → She **always goes** to bed early.\n- ~~I have seen never such a mess.~~ → I have **never seen** such a mess.\n- ~~He didn't know probably.~~ → He **probably didn't** know.\n- ~~He opened carefully the door.~~ → He opened the door **carefully**.",
+  "en": "## Three positions\nAn adverb has three usual places: **front** (before the subject), **mid** (near the verb) and **end** (at the end of the clause). The choice depends on the type of adverb, style and meaning.\n> **Yesterday** we met the director. (front)\n> We **briefly** met the director. (mid)\n> We met the director **yesterday**. (end)\n\n## Mid position in detail\nThis is the trickiest position.\n- **After be**: *She is **always** late.* *The results are **probably** correct.*\n- **After the first auxiliary**: *We have **never** seen it. They will **probably** refuse. He is **still** waiting.*\n- **Before a single main verb**: *I **often** read at night. She **quickly** replied.*\n- **Before a negative with certainty adverbs**: *She **definitely** doesn't know. He **certainly** won't agree.* (**hardly, scarcely** go after can/could: *I can **hardly** see.*)\n- With emphatic **do**, the adverb stays before it: **I really do appreciate it.**\n\n## Not between verb and object\nEnglish does not allow an adverb between a verb and its direct object.\n- ~~She speaks fluently English.~~ → She speaks English **fluently**. / She **fluently** speaks English. (formal, rare)\n- ~~He opened carefully the door.~~ → He opened the door **carefully**.\n- ~~I like very much jazz.~~ → I like jazz **very much**.\n\n## Order at the end: manner, place, time\nWith several adverbials at the end, the usual order is **manner → place → time**. Long or important elements come last.\n> She spoke **calmly at the meeting yesterday**.\n> The conference takes place **in Vienna next June**.\nAfter verbs of movement, **place → manner** is common: *He drove home carefully.* A time adverbial can be moved to the front: *Next June the conference will be in Vienna.*\n\n## Position can change the meaning\n**only, just, even, almost, nearly** go right before the word they modify.\n> **Only** Anna passed. (no one else did)\n> Anna **only** passed. (she did not get a high mark)\n> We **only just** made it. (we barely made it)\n> He **almost** failed every exam. / He failed **almost** every exam.\nComment adverbs (*Unfortunately, ... Probably, ...*) often come first, and focus adverbs stand next to the word they highlight.\n\n## Common mistakes\n- ~~She goes always to bed early.~~ → She **always goes** to bed early.\n- ~~I have seen never such a mess.~~ → I have **never seen** such a mess.\n- ~~He didn't know probably.~~ → He **probably didn't** know.\n- ~~He opened carefully the door.~~ → He opened the door **carefully**.",
+  "structure": "## Схема позиций\n| Позиция | Место | Пример |\n|---|---|---|\n| **Front** | перед подлежащим | **Fortunately,** nobody was hurt. |\n| **Mid** (be) | после be | She is **always** polite. |\n| **Mid** (aux) | после 1-го вспомогательного | He has **already** left. |\n| **Mid** (verb) | перед смысловым глаголом | They **often** travel. |\n| **End** | после глагола/дополнения | She replied **politely**. |\n\n## Формулы\n> подлежащее + (**наречие**) + глагол + дополнение + **способ** + **место** + **время**\n> **be / aux + adverb**: is **never**, has **often**, will **probably**\n> adverb **before** negative: **definitely** isn't, **probably** won't\n> **hardly, scarcely** — after can / could: can **hardly** hear\n\n## Типичные группы\n| Группа | Примеры | Обычная позиция |\n|---|---|---|\n| Частота | always, usually, often, rarely, never | mid |\n| Степень | almost, nearly, quite, hardly | mid, перед словом |\n| Способ | carefully, slowly, well | end (mid — редко) |\n| Место, время | here, abroad, yesterday | end / front |\n| Комментарий | unfortunately, probably | front / mid |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Порядок слов: наречие и глагол",
+      "instruction": "Поставьте слова из скобок в правильном порядке (вместе с наречием).",
+      "example": "She (usually / doesn't) eat breakfast. → She **doesn't usually** eat breakfast.",
+      "items": [
+        {"text": "She {{doesn't usually|does not usually}} eat breakfast.", "hint": "usually / doesn't"},
+        {"text": "They have {{never been}} to Asia.", "hint": "never / been"},
+        {"text": "The decision {{will probably be}} announced tomorrow.", "hint": "probably / will / be"},
+        {"text": "I {{definitely don't|definitely do not}} want to move abroad.", "hint": "definitely / don't"},
+        {"text": "She {{has always been}} generous with her time.", "hint": "always / has / been"},
+        {"text": "We {{were just leaving}} when the phone rang.", "hint": "just / were / leaving"},
+        {"text": "She {{carefully read}} the contract before signing it.", "hint": "carefully / read"},
+        {"text": "He {{can hardly}} hear anything from the back row.", "hint": "hardly / can"}
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Порядок в конце предложения",
+      "instruction": "Поставьте слова в правильном порядке (способ — место — время; enough после прилагательного).",
+      "items": [
+        {"text": "The room isn't {{big enough}} for twenty people.", "hint": "enough / big"},
+        {"text": "She speaks {{English fluently}}.", "hint": "fluently / English"},
+        {"text": "He drove {{home carefully}} because of the ice.", "hint": "carefully / home"},
+        {"text": "They are meeting {{at the station tomorrow}}.", "hint": "tomorrow / at the station"},
+        {"text": "I {{still haven't|still have not}} received the invoice.", "hint": "still / haven't"},
+        {"text": "We have {{only just}} arrived, so we haven't unpacked.", "hint": "just / only"},
+        {"text": "He {{quietly closed}} the door and left.", "hint": "quietly / closed"},
+        {"text": "I {{really do}} appreciate your help.", "hint": "really / do"}
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Выберите правильное место наречия",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {"q": "She ___ her keys.", "options": ["always loses", "loses always", "always is losing"], "answer": 0, "why": "Наречие частоты — **перед** смысловым глаголом."},
+        {"q": "He ___ the contract before signing.", "options": ["read carefully", "carefully read", "read very carefully"], "answer": 1, "why": "Между глаголом и дополнением наречия нет; поэтому **carefully read the contract**."},
+        {"q": "She speaks ___.", "options": ["fluently French", "French fluently", "fluently in French"], "answer": 1, "why": "Наречие после дополнения: **French fluently**."},
+        {"q": "The meeting is ___.", "options": ["tomorrow in Room 5", "in Room 5 tomorrow", "tomorrow Room 5 in"], "answer": 1, "why": "Место перед временем."},
+        {"q": "Have you ___ to Japan?", "options": ["ever been", "been ever", "ever being"], "answer": 0, "why": "Наречие **ever** после подлежащего, перед смысловым глаголом."},
+        {"q": "The film ___ finished when we arrived.", "options": ["had already", "already had", "had yet"], "answer": 0, "why": "После первого вспомогательного: **had already finished**."},
+        {"q": "I ___ believe him.", "options": ["can't possibly", "possibly can't", "can't possible"], "answer": 0, "why": "**can't possibly** — усиливает отрицание; possible — прилагательное."},
+        {"q": "She ___ managed to be there on time.", "options": ["only just", "just only", "only almost"], "answer": 0, "why": "**only just** — «едва»."}
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Какое предложение верное?",
+      "instruction": "Выберите правильное предложение.",
+      "items": [
+        {"q": "Какой вариант верный?", "options": ["She wrote quickly the report.", "She wrote the report quickly.", "She wrote the quickly report."], "answer": 1, "why": "Наречие способа — после дополнения."},
+        {"q": "Какой вариант верный?", "options": ["I never have been so embarrassed.", "I have been never so embarrassed.", "I have never been so embarrassed."], "answer": 2, "why": "Перед смысловым причастием, после первого вспомогательного."},
+        {"q": "Какой вариант верный?", "options": ["He didn't probably know.", "He probably didn't know.", "He didn't know probably."], "answer": 1, "why": "**probably** — перед отрицанием."},
+        {"q": "Какой вариант верный?", "options": ["The conference will take place next June in Vienna.", "The conference will take place in Vienna next June.", "The conference will take place Vienna in next June."], "answer": 1, "why": "Место — перед временем."},
+        {"q": "Какой вариант верный?", "options": ["She is still waiting for an answer.", "She still is waiting for an answer.", "She is waiting still for an answer."], "answer": 0, "why": "**still** — после be в составе is waiting."},
+        {"q": "Какой вариант верный?", "options": ["He very enjoyed the trip.", "He enjoyed very much the trip.", "He enjoyed the trip very much."], "answer": 2, "why": "Не между глаголом и дополнением; very без much не работает."},
+        {"q": "Какой вариант верный?", "options": ["We go rarely to the cinema.", "We rarely go to the cinema.", "We go to rarely the cinema."], "answer": 1, "why": "Наречие частоты — перед глаголом."}
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Добавьте наречие",
+      "instruction": "Перепишите предложение, поставив наречие из скобок на правильное место. Если допустимо несколько мест, достаточно одного.",
+      "items": [
+        {"prompt": "They have finished. (almost)", "answers": ["They have almost finished."]},
+        {"prompt": "The tickets are available online. (probably)", "answers": ["The tickets are probably available online.", "Probably the tickets are available online."]},
+        {"prompt": "He doesn't understand. (really)", "answers": ["He doesn't really understand.", "He really doesn't understand.", "He does not really understand.", "He really does not understand."]},
+        {"prompt": "We met the director in the lobby. (briefly / yesterday)", "answers": ["We briefly met the director in the lobby yesterday.", "We met the director briefly in the lobby yesterday."]},
+        {"prompt": "She will agree. (never)", "answers": ["She will never agree."]},
+        {"prompt": "She visits her parents. (every weekend)", "answers": ["She visits her parents every weekend.", "Every weekend she visits her parents."]}
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Переведите на английский",
+      "instruction": "Переведите на английский.",
+      "items": [
+        {"prompt": "Я всегда пью кофе утром.", "answers": ["I always drink coffee in the morning.", "I always have coffee in the morning."]},
+        {"prompt": "Она хорошо говорит по-английски.", "answers": ["She speaks English well."]},
+        {"prompt": "Они, вероятно, ещё не приехали.", "answers": ["They probably haven't arrived yet.", "They probably have not arrived yet.", "They have probably not arrived yet."]},
+        {"prompt": "Он очень внимательно прочитал договор.", "answers": ["He read the contract very carefully.", "He read the agreement very carefully.", "He very carefully read the contract.", "He very carefully read the agreement."]},
+        {"prompt": "Совещание состоится завтра в офисе.", "answers": ["The meeting will take place in the office tomorrow.", "The meeting is in the office tomorrow.", "The meeting will be held in the office tomorrow.", "The meeting will be in the office tomorrow.", "The meeting is taking place in the office tomorrow."]}
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями; следите за позицией наречий.",
+      "items": [
+        {"prompt": "What do you always / never do before going to bed?", "sample": "I always check my email before bed, and I never drink coffee after six."},
+        {"prompt": "Describe how you usually travel to work or university (manner, place, time).", "sample": "I usually travel to work by tram, and I arrive at the office at about nine."},
+        {"prompt": "Write about something you have only just learned or finished.", "sample": "I have only just finished reading a very long novel."},
+        {"prompt": "What do you probably not do enough of?", "sample": "I probably don't exercise enough during the week."}
+      ]
+    }
+  ]
+}

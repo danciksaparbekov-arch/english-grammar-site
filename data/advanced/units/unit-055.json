@@ -1,0 +1,273 @@
+{
+  "id": 55,
+  "title": "Relative clauses (1)",
+  "summary": "Определительные придаточные: **who / which / that**, пропуск местоимения-дополнения, различие определяющих (без запятых) и поясняющих (с запятыми) придаточных.",
+  "ru": "## Что делает придаточное определительное\nПридаточное определительное стоит сразу после существительного и отвечает на вопрос «какой?». В английском его вводят **who** (люди), **which** (вещи), **that** (и люди, и вещи, но только в определяющих придаточных). Главное различие — **определяющее (defining)** или **поясняющее (non-defining)**.\n> The doctor **who treated me** was kind. — Врач, который меня лечил, был добр. (какой именно врач)\n> Dr Lee, **who treated me**, was kind. — Доктор Ли, который меня лечил, был добр. (дополнительная информация)\n\n## Определяющее придаточное: без запятых\nУказывает, **о каком именно** предмете или человеке речь; без него предложение теряет смысл. **Запятых нет**, **that** допустим. После **all, everything, something, anything, nothing, the only, the first, the best** и других превосходных степеней принято именно **that**:\n> Everything **that** she told us was true. — Всё, что она нам сказала, было правдой.\n> It was the best meal **that** I've ever had. — Это был лучший обед в моей жизни.\n> There's nothing **that** I can do. — Я ничего не могу сделать.\n- ~~Everything what she said~~ → Everything **that** she said\n\n## Когда местоимение можно опустить\nЕсли местоимение — **дополнение** придаточного (то есть после него есть свой подлежащий), его можно (и в разговорной речи желательно) опустить:\n> The laptop **(that / which)** I bought is already broken. — Ноутбук, который я купил, уже сломался.\n> The candidate **(who / whom / that)** we interviewed first was the best.\n\nЕсли местоимение — **подлежащее** придаточного (за ним сразу глагол), опускать **нельзя**:\n- ~~The man lives next door is rude.~~ → The man **who** lives next door is rude.\n- ~~I know a woman designs bridges.~~ → I know a woman **who** designs bridges.\n\n## Поясняющее придаточное: с запятыми\nДобавляет **дополнительную** информацию; без него смысл предложения сохраняется. Выделяется запятыми (в речи — паузами). **That** здесь **не употребляется**, и местоимение **опустить нельзя**:\n> My brother, **who** lives in Toronto, is a pilot. — Мой брат, который живёт в Торонто, пилот. (брат один)\n> The village, **which** is very old, stands on a hill.\n- ~~My car, that I bought last year, is red.~~ → My car, **which** I bought last year, is red.\n\nЗапятые меняют смысл: *My sister who lives in Rome is a nurse* подразумевает, что сестёр несколько, а *My sister, who lives in Rome, is a nurse* — что сестра одна.\n\n## Согласование и типичные ошибки\nГлагол в придаточном согласуется с существительным, к которому относится местоимение: *She is one of the nurses who **work** nights* (nurses — мн. число), но *She is the only one of the nurses who **works** nights.*\n- ~~The man who he lives next door~~ → The man who lives next door (местоимение не дублируем)\n- ~~The book what I read~~ → The book **that** I read (**what** не заменяет who/which/that)\n- ~~The film that I saw it~~ → The film **that** I saw",
+  "en": "## What a relative clause does\nA relative clause comes straight after a noun and says which one or gives more information. It is introduced by **who** (people), **which** (things) or **that** (people and things, but only in defining clauses). The key distinction is **defining** vs **non-defining**.\n> The doctor **who treated me** was kind. (which doctor)\n> Dr Lee, **who treated me**, was kind. (extra information)\n\n## Defining clauses: no commas\nThey identify **which** person or thing we mean; without them the sentence would be incomplete. There are **no commas**, and **that** is possible. After **all, everything, something, anything, nothing, the only, the first, the best** and other superlatives, **that** is the usual choice:\n> Everything **that** she told us was true.\n> It was the best meal **that** I've ever had.\n> There's nothing **that** I can do.\n- ~~Everything what she said~~ → Everything **that** she said\n\n## When you can leave the pronoun out\nIf the pronoun is the **object** of the clause (another subject follows it), you can leave it out, and in speech usually do:\n> The laptop **(that / which)** I bought is already broken.\n> The candidate **(who / whom / that)** we interviewed first was the best.\n\nIf the pronoun is the **subject** of the clause (a verb follows it directly), you **cannot** leave it out:\n- ~~The man lives next door is rude.~~ → The man **who** lives next door is rude.\n\n## Non-defining clauses: commas\nThey add **extra** information; the sentence still makes sense without them. They are set off by commas (pauses in speech). **That** is **not used**, and the pronoun **cannot be dropped**:\n> My brother, **who** lives in Toronto, is a pilot. (I have one brother)\n> The village, **which** is very old, stands on a hill.\n- ~~My car, that I bought last year, is red.~~ → My car, **which** I bought last year, is red.\n\nCommas change meaning: *My sister who lives in Rome is a nurse* suggests I have more than one sister; *My sister, who lives in Rome, is a nurse* suggests I have one.\n\n## Agreement and common mistakes\nThe verb in the clause agrees with the noun the pronoun refers to: *She is one of the nurses who **work** nights*, but *She is the only one of the nurses who **works** nights.*\n- ~~The man who he lives next door~~ → The man who lives next door (don't repeat the subject)\n- ~~The book what I read~~ → The book **that** I read\n- ~~The film that I saw it~~ → The film **that** I saw",
+  "structure": "## Какое местоимение выбрать\n| Тип | Люди | Вещи | Можно опустить? |\n|---|---|---|---|\n| Определяющее, подлежащее | **who / that** | **which / that** | нет |\n| Определяющее, дополнение | **who / whom / that** | **which / that** | да |\n| Поясняющее (запятые) | **who / whom** | **which** | нет, **that** нельзя |\n\n## Формулы\n> существительное + **who / which / that** + глагол… (подлежащее)\n> существительное + (**that / which / who**) + подлежащее + глагол… (дополнение)\n> существительное**,** + **who / which** + … **,** (поясняющее)\n> all / everything / nothing / the only / superlative + **that**\n\n## Запятые и смысл\n| Без запятых | С запятыми |\n|---|---|\n| My sister **who lives in Rome** is a nurse. (есть и другие сёстры) | My sister**, who lives in Rome,** is a nurse. (сестра одна) |\n| The tourists **who ignored the warning** were fined. (только некоторые) | The tourists**, who ignored the warning,** were fined. (все) |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "who, which или that?",
+      "instruction": "Вставьте **who**, **which**, **that** или **whom**. Если допустимо несколько вариантов, подойдёт любой из них.",
+      "example": "The man ___ called is my uncle. → The man **who** called is my uncle.",
+      "items": [
+        {
+          "text": "The researcher {{who|that}} led the study has received a major prize.",
+          "hint": "who / which / that"
+        },
+        {
+          "text": "This is the only app {{that|which}} works offline.",
+          "hint": "who / which / that"
+        },
+        {
+          "text": "Everything {{that}} she said about the project was true.",
+          "hint": "which / that"
+        },
+        {
+          "text": "The documents {{which|that}} were stolen contained client data.",
+          "hint": "who / which / that"
+        },
+        {
+          "text": "Anyone {{who|that}} wants to join the trip must register by Friday.",
+          "hint": "who / which / that"
+        },
+        {
+          "text": "The report, {{which}} was published last week, caused a huge controversy.",
+          "hint": "which / that (запятые!)"
+        },
+        {
+          "text": "The candidate {{whom|who|that}} we interviewed first was the most impressive.",
+          "hint": "who / whom / that"
+        },
+        {
+          "text": "It was the best meal {{that}} I've ever had.",
+          "hint": "which / that"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Согласование глагола",
+      "instruction": "Поставьте глагол в скобках в правильную форму (present simple, если не указано иначе).",
+      "items": [
+        {
+          "text": "He is one of the few engineers who {{understand}} the whole system. (understand)",
+          "hint": "understand"
+        },
+        {
+          "text": "She is the only one of my friends who {{lives}} abroad. (live)",
+          "hint": "live"
+        },
+        {
+          "text": "The people who {{live}} next door are very quiet. (live)",
+          "hint": "live"
+        },
+        {
+          "text": "Let me know if there is anything that {{needs}} fixing. (need)",
+          "hint": "need"
+        },
+        {
+          "text": "The students who {{were}} late missed the introduction. (be, past simple)",
+          "hint": "be, past simple"
+        },
+        {
+          "text": "Is she the one who {{is|'s}} responsible for the budget? (be)",
+          "hint": "be, present simple"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Выберите вариант",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "The woman ___ lives upstairs is a violinist.",
+          "options": ["which", "who", "whose"],
+          "answer": 1,
+          "why": "Речь о человеке и местоимение — подлежащее придаточного → **who** (или **that**)."
+        },
+        {
+          "q": "The film ___ we watched last night was dull.",
+          "options": ["who", "what", "that"],
+          "answer": 2,
+          "why": "Фильм — вещь: **that** (или **which**); **what** не вводит определительное придаточное."
+        },
+        {
+          "q": "He told me something ___ I couldn't believe.",
+          "options": ["what", "that", "who"],
+          "answer": 1,
+          "why": "После **something / anything / everything** — **that**."
+        },
+        {
+          "q": "The new manager, ___ is from Canada, starts on Monday.",
+          "options": ["that", "who", "which"],
+          "answer": 1,
+          "why": "Поясняющее придаточное (запятые) → **who**; **that** здесь невозможно."
+        },
+        {
+          "q": "The village, ___ is very old, stands on a hill.",
+          "options": ["that", "which", "who"],
+          "answer": 1,
+          "why": "Запятые → **which**; **that** не используется в поясняющих придаточных."
+        },
+        {
+          "q": "Everything ___ they offered was too expensive.",
+          "options": ["which", "what", "that"],
+          "answer": 2,
+          "why": "После **everything** нормой считается **that**."
+        },
+        {
+          "q": "It's the most interesting article ___ I've read this year.",
+          "options": ["what", "that", "whose"],
+          "answer": 1,
+          "why": "После превосходной степени — **that** (местоимение можно и опустить)."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Запятые, пропуск, ошибки",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "В каком предложении местоимение можно опустить?",
+          "options": ["The man who called me is a dentist.", "The man who I called is a dentist.", "The man who lives here is a dentist."],
+          "answer": 1,
+          "why": "В 2-м варианте **who** — дополнение (после него есть подлежащее **I**); в остальных — подлежащее."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": ["The book what I read was good.", "The book that I read was good.", "The book that I read it was good."],
+          "answer": 1,
+          "why": "**What** не вводит определительное придаточное, а **it** дублирует дополнение."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": ["The man who he lives next door is rude.", "The man who lives next door is rude.", "The man lives next door is rude."],
+          "answer": 1,
+          "why": "Подлежащее придаточного нельзя ни дублировать, ни опускать."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": ["My car, that I bought last year, is red.", "My car, which I bought last year, is red.", "My car, I bought last year, is red."],
+          "answer": 1,
+          "why": "Поясняющее придаточное требует **which** и не допускает **that** или пропуска."
+        },
+        {
+          "q": "В каком предложении подразумевается, что у говорящего несколько сестёр?",
+          "options": ["My sister who lives in Rome is a nurse.", "My sister, who lives in Rome, is a nurse.", "My sister, that lives in Rome, is a nurse."],
+          "answer": 0,
+          "why": "Определяющее придаточное без запятых уточняет, о какой из сестёр речь."
+        },
+        {
+          "q": "She is one of the nurses who ___ on night shifts.",
+          "options": ["works", "work", "is working"],
+          "answer": 1,
+          "why": "**Who** относится к **nurses** (мн. число) → **work**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Соедините предложения",
+      "instruction": "Соедините два предложения в одно с помощью определительного придаточного.",
+      "items": [
+        {
+          "prompt": "I met a woman. She designs bridges.",
+          "answers": ["I met a woman who designs bridges.", "I met a woman that designs bridges."]
+        },
+        {
+          "prompt": "The laptop is on the table. I bought it last week.",
+          "answers": ["The laptop that I bought last week is on the table.", "The laptop which I bought last week is on the table.", "The laptop I bought last week is on the table."]
+        },
+        {
+          "prompt": "The scientists have won a prize. They discovered the new species.",
+          "answers": ["The scientists who discovered the new species have won a prize.", "The scientists that discovered the new species have won a prize."]
+        },
+        {
+          "prompt": "Everything was true. She told me it.",
+          "answers": ["Everything that she told me was true.", "Everything she told me was true."]
+        },
+        {
+          "prompt": "It was the funniest play. I have ever seen it.",
+          "answers": ["It was the funniest play that I have ever seen.", "It was the funniest play I have ever seen.", "It was the funniest play that I've ever seen.", "It was the funniest play I've ever seen."]
+        },
+        {
+          "prompt": "I read a report. It criticised the plan.",
+          "answers": ["I read a report that criticised the plan.", "I read a report which criticised the plan."]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Трансформации",
+      "instruction": "Выполните задание в скобках.",
+      "items": [
+        {
+          "prompt": "(Non-defining clause) Mount Elbrus is in Russia. It is the highest peak in Europe.",
+          "answers": ["Mount Elbrus, which is the highest peak in Europe, is in Russia.", "Mount Elbrus, which is in Russia, is the highest peak in Europe."]
+        },
+        {
+          "prompt": "(Non-defining clause) My brother lives in Toronto. He is a pilot.",
+          "answers": ["My brother, who lives in Toronto, is a pilot.", "My brother, who is a pilot, lives in Toronto."]
+        },
+        {
+          "prompt": "(Leave out the pronoun) The film that we saw was boring.",
+          "answers": ["The film we saw was boring."]
+        },
+        {
+          "prompt": "(Leave out the pronoun) The decision which she made was brave.",
+          "answers": ["The decision she made was brave."]
+        },
+        {
+          "prompt": "(Replace which with that) The only thing which matters is safety.",
+          "answers": ["The only thing that matters is safety."]
+        },
+        {
+          "prompt": "(Use who) The tourists were stranded. They had booked through the agency.",
+          "answers": ["The tourists who had booked through the agency were stranded.", "The tourists who booked through the agency were stranded."]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя определительные придаточные.",
+      "items": [
+        {
+          "prompt": "Describe a person who has influenced you. Use who.",
+          "sample": "My old physics teacher, who never gave up on me, taught me to love science."
+        },
+        {
+          "prompt": "Write about the best book that you have ever read.",
+          "sample": "The best book I have ever read is a novel that changed the way I see history."
+        },
+        {
+          "prompt": "Describe a place where you feel relaxed, using which.",
+          "sample": "My grandmother's garden, which is full of apple trees, is where I feel most relaxed."
+        },
+        {
+          "prompt": "Complete: I'm looking for a job that...",
+          "sample": "I'm looking for a job that lets me work from home and travel a little."
+        },
+        {
+          "prompt": "Write about something you own and use every day. Use a clause without a pronoun.",
+          "sample": "The phone I use every day is five years old, but it still works."
+        },
+        {
+          "prompt": "Write about a member of your family. Use a non-defining clause.",
+          "sample": "My mother, who works as a nurse, always finds time to cook on Sundays."
+        }
+      ]
+    }
+  ]
+}

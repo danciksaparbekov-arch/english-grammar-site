@@ -1,0 +1,321 @@
+{
+  "id": 43,
+  "title": "Agreement between subject and verb (1)",
+  "summary": "Согласование подлежащего и глагола: собирательные существительные (the team is / are), подлежащее с and, or / nor, with / as well as, существительные на -s, суммы, расстояния и названия.",
+  "ru": "## Принцип: глагол согласуется с ядром подлежащего\nПравило кажется простым: единственное число → *is / has / works*, множественное → *are / have / work*. Сложности начинаются, когда форма слова и его смысл расходятся, или когда подлежащее состоит из нескольких частей.\n\n## Собирательные существительные: team, committee, government, staff\nСлова, обозначающие группу людей (**team, family, committee, government, staff, audience, council, jury**), в британском варианте могут иметь глагол и в единственном, и во множественном числе.\n- **Единственное число** — группа как единое целое: *The committee **has** reached a decision.*\n- **Множественное число** — акцент на отдельных людях в группе: *The committee **are** divided on the issue.* — Члены комитета расходятся во мнениях.\nВ американском английском обычно ставят **единственное** число: *The team **is** ready.* Если дальше стоит местоимение, оно должно согласоваться с глаголом: ~~The team is playing well, and they are sure to win~~ (не смешивайте в рамках одной фразы) → The team **is** playing well and **it** is sure to win. / The team **are** playing well and **they** are sure to win.\nСлова **police, people, cattle, clergy** всегда требуют множественного числа: *The police **have** arrested a suspect.*\n\n## Подлежащее с and\nДва подлежащих, связанные **and**, обычно дают множественное число: *My manager and her assistant **are** away.* Но есть исключения.\n- Если **and** соединяет то, что воспринимается как **одно понятие**, глагол стоит в единственном числе: *Fish and chips **is** my favourite meal.* / *Bread and butter **is** all we had.*\n- **each / every / no + существительное**: *Every student and teacher **has** been informed.* (единственное)\n- Если речь о **одном человеке** с двумя ролями (артикль один): *The founder and CEO **is** speaking tonight.* — это один человек; а *The founder and the CEO **are** speaking* — это двое.\n\n## or, nor, either … or, neither … nor\nГлагол согласуется с **ближайшим** подлежащим:\n> Neither the manager nor the **employees were** satisfied. — Ни менеджер, ни сотрудники не были довольны.\n> Either the employees or the **manager is** responsible.\nВ разговорной речи при **neither … nor** с местоимениями допускают множественное число: *Neither he nor I **are** going* (формально — *am*).\n\n## with, as well as, together with, along with\nЭти слова **не** образуют сложного подлежащего: глагол согласуется с первым существительным.\n> The director, **together with** his advisers, **is** attending the summit. — Директор вместе с советниками участвует в саммите.\n> The students, as well as their teacher, **were** late.\n\n## Существительные на -s и особые случаи\n- **Единственное число**: *news, economics, physics, politics, measles, athletics; a pair of trousers*.\n- **Множественное число**: *trousers, scissors, glasses, clothes, goods, arms*.\n- **Суммы, расстояния, время** как единое целое: *Ten thousand dollars **is** a lot of money. Three miles **is** too far to walk. Two hours **isn't** enough.*\n- **Названия, заголовки**: *The Netherlands **is** a small country. The Simpsons **has** been on TV for decades.*\n\n## Типичные ошибки\n- ~~The news are bad.~~ → The news **is** bad.\n- ~~The manager, as well as his assistants, are late.~~ → The manager, as well as his assistants, **is** late.\n- ~~Ten euros are too much.~~ → Ten euros **is** too much.",
+  "en": "## The principle: the verb agrees with the head of the subject\nThe rule looks easy: singular → *is / has / works*, plural → *are / have / work*. Problems start when the form of a word and its meaning do not match, or when the subject has several parts.\n\n## Collective nouns: team, committee, government, staff\nWords for groups of people (**team, family, committee, government, staff, audience, council, jury**) can take a singular or a plural verb in British English.\n- **Singular** — the group as a single unit: *The committee **has** reached a decision.*\n- **Plural** — the individual members: *The committee **are** divided on the issue.*\nIn American English a **singular** verb is normal: *The team **is** ready.* Be consistent with pronouns: The team **is** playing well and **it** is sure to win. / The team **are** playing well and **they** are sure to win.\nThe words **police, people, cattle, clergy** are always plural: *The police **have** arrested a suspect.*\n\n## Subjects joined by and\nTwo subjects joined by **and** usually take a plural verb: *My manager and her assistant **are** away.* But there are exceptions.\n- When **and** joins what is thought of as **one idea**, the verb is singular: *Fish and chips **is** my favourite meal.*\n- **each / every / no + noun**: *Every student and teacher **has** been informed.*\n- One person with two roles (one article): *The founder and CEO **is** speaking tonight.* Two people (two articles): *The founder and the CEO **are** speaking.*\n\n## or, nor, either … or, neither … nor\nThe verb agrees with the **nearest** subject:\n> Neither the manager nor the **employees were** satisfied.\n> Either the employees or the **manager is** responsible.\n\n## with, as well as, together with, along with\nThese phrases do **not** form a compound subject; the verb agrees with the first noun.\n> The director, **together with** his advisers, **is** attending the summit.\n> The students, as well as their teacher, **were** late.\n\n## Nouns in -s and special cases\n- **Singular**: *news, economics, physics, politics, measles, athletics; a pair of trousers*.\n- **Plural**: *trousers, scissors, glasses, clothes, goods, arms*.\n- **Sums, distances, time** as a single unit: *Ten thousand dollars **is** a lot of money. Three miles **is** too far to walk.*\n- **Names and titles**: *The Netherlands **is** a small country. The Simpsons **has** been on TV for decades.*\n\n## Common mistakes\n- ~~The news are bad.~~ → The news **is** bad.\n- ~~The manager, as well as his assistants, are late.~~ → The manager, as well as his assistants, **is** late.\n- ~~Ten euros are too much.~~ → Ten euros **is** too much.",
+  "structure": "## Собирательные существительные\n| Слово | Британский вариант | Американский вариант |\n|---|---|---|\n| team, committee, family | is / are (смысл) | is |\n| police, people, cattle | are | are |\n| staff, audience, jury | is / are | is |\n\n## Составное подлежащее\n| Конструкция | Глагол | Пример |\n|---|---|---|\n| A and B | мн. число | Tom and Ann **are** here. |\n| A and B (одно понятие) | ед. число | Fish and chips **is** cheap. |\n| each / every + A and B | ед. число | Every man and woman **was** asked. |\n| A or B / neither A nor B | по ближайшему | Neither he nor they **were** there. |\n| A with / as well as B | по первому (A) | Tom, as well as Ann, **is** late. |\n\n## Особые случаи\n| Тип | Правило | Пример |\n|---|---|---|\n| news, economics | ед. число | The news **is** good. |\n| trousers, scissors | мн. число | My trousers **are** torn. |\n| a pair of trousers | ед. число | A pair of trousers **is** on the bed. |\n| суммы, расстояния | ед. число | Five miles **is** a long way. |\n| название-множественное | ед. число | The Philippines **is** hot. |",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "is или are?",
+      "instruction": "Вставьте нужную форму глагола **be** или **have** (время ясно из предложения).",
+      "example": "The news ___ good. → The news **is** good.",
+      "items": [
+        {
+          "text": "The police {{are}} looking for the missing painting.",
+          "hint": "police"
+        },
+        {
+          "text": "Neither the teacher nor the students {{were}} aware of the change yesterday.",
+          "hint": "ближайшее подлежащее"
+        },
+        {
+          "text": "Bread and butter {{is}} a simple but filling snack.",
+          "hint": "одно понятие"
+        },
+        {
+          "text": "Every manager and employee {{has}} to complete the course.",
+          "hint": "has / have"
+        },
+        {
+          "text": "Three weeks {{is}} too long to wait for an answer.",
+          "hint": "период времени"
+        },
+        {
+          "text": "Either the dean or the lecturers {{are}} responsible for this decision.",
+          "hint": "ближайшее подлежащее"
+        },
+        {
+          "text": "My jeans {{are}} in the wash.",
+          "hint": "jeans"
+        },
+        {
+          "text": "The Netherlands {{is}} famous for its canals.",
+          "hint": "название страны"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Собирательные существительные",
+      "instruction": "Вставьте форму глагола в скобках. Принято британское употребление: если допустимы единственное и множественное число, перечислите оба варианта.",
+      "items": [
+        {
+          "text": "The government {{has|have}} announced new measures.",
+          "hint": "has / have"
+        },
+        {
+          "text": "The audience {{was|were}} deeply moved by the performance.",
+          "hint": "be, прошедшее"
+        },
+        {
+          "text": "The cattle {{are}} grazing in the field.",
+          "hint": "be, настоящее"
+        },
+        {
+          "text": "The committee {{has|have}} not yet reached a decision.",
+          "hint": "has / have"
+        },
+        {
+          "text": "The staff {{is|are}} very friendly here.",
+          "hint": "be, настоящее"
+        },
+        {
+          "text": "The people next door {{are}} very noisy.",
+          "hint": "be, настоящее"
+        },
+        {
+          "text": "My family {{is|are}} planning a trip to Spain.",
+          "hint": "be, настоящее"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Выберите правильную форму",
+      "instruction": "Выберите вариант, в котором глагол согласован с подлежащим.",
+      "items": [
+        {
+          "q": "The director, together with her colleagues, ___ attending the conference.",
+          "options": ["are", "is", "were"],
+          "answer": 1,
+          "why": "together with не образует сложного подлежащего; глагол согласуется с director."
+        },
+        {
+          "q": "Fish and chips ___ a traditional British dish.",
+          "options": ["is", "are", "have been"],
+          "answer": 0,
+          "why": "Два слова воспринимаются как одно блюдо: единственное число."
+        },
+        {
+          "q": "Neither Anna nor her brothers ___ ready to leave.",
+          "options": ["is", "was", "were"],
+          "answer": 2,
+          "why": "Глагол согласуется с ближайшим подлежащим — brothers."
+        },
+        {
+          "q": "Ten kilometres ___ a long walk after work.",
+          "options": ["are", "is", "were"],
+          "answer": 1,
+          "why": "Расстояние как единое целое: единственное число."
+        },
+        {
+          "q": "The police ___ not released the suspect's name yet.",
+          "options": ["has", "have", "is"],
+          "answer": 1,
+          "why": "police всегда множественное число."
+        },
+        {
+          "q": "Physics ___ my favourite subject at school.",
+          "options": ["were", "are", "was"],
+          "answer": 2,
+          "why": "Название науки — единственное число."
+        },
+        {
+          "q": "My trousers ___ too short for me now.",
+          "options": ["is", "are", "was"],
+          "answer": 1,
+          "why": "trousers — множественное число (в отличие от a pair of trousers)."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Найдите верное предложение",
+      "instruction": "Выберите предложение без ошибки в согласовании.",
+      "items": [
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "The manager, as well as his assistants, are late.",
+            "The manager, as well as his assistants, is late.",
+            "The manager, as well as his assistants, were late."
+          ],
+          "answer": 1,
+          "why": "as well as не создаёт сложного подлежащего: manager → is."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "Every student and teacher have been told.",
+            "Every student and teacher has been told.",
+            "Every student and teacher are told."
+          ],
+          "answer": 1,
+          "why": "После every подлежащее воспринимается как единственное число."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "A pair of scissors are on the desk.",
+            "A pair of scissors is on the desk.",
+            "A pair of scissors were on the desk."
+          ],
+          "answer": 1,
+          "why": "Подлежащее — pair; оно в единственном числе."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "Neither the manager nor the engineers is available.",
+            "Neither the manager nor the engineers are available.",
+            "Neither the manager nor the engineers am available."
+          ],
+          "answer": 1,
+          "why": "Ближайшее подлежащее — engineers (множественное число)."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "The news about the strike were alarming.",
+            "The news about the strike was alarming.",
+            "The news about the strike are alarming."
+          ],
+          "answer": 1,
+          "why": "news — единственное число."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": [
+            "Five hundred pounds are too much to pay.",
+            "Five hundred pounds is too much to pay.",
+            "Five hundred pounds were too much to pay."
+          ],
+          "answer": 1,
+          "why": "Сумма денег как единое целое — единственное число."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Соедините предложения",
+      "instruction": "Соедините два предложения в одно с указанным союзом. Следите за глаголом.",
+      "items": [
+        {
+          "prompt": "The director is on holiday. The deputy directors are on holiday too. (as well as) → The director, ...",
+          "answers": [
+            "The director, as well as the deputy directors, is on holiday.",
+            "The director, as well as his deputies, is on holiday.",
+            "The director, as well as the deputy directors, is on holiday too."
+          ]
+        },
+        {
+          "prompt": "The captain was not injured. The players were not injured. (neither ... nor) → Neither the captain ...",
+          "answers": [
+            "Neither the captain nor the players were injured."
+          ]
+        },
+        {
+          "prompt": "Tom is responsible. Or his sisters are responsible. (either ... or) → Either Tom ...",
+          "answers": [
+            "Either Tom or his sisters are responsible."
+          ]
+        },
+        {
+          "prompt": "The teacher is in the room. The students are in the room. (along with) → The teacher, ...",
+          "answers": [
+            "The teacher, along with the students, is in the room.",
+            "The teacher, along with his students, is in the room.",
+            "The teacher, along with her students, is in the room."
+          ]
+        },
+        {
+          "prompt": "(every / teacher and student / has / a parking pass) → Every ...",
+          "answers": [
+            "Every teacher and student has a parking pass."
+          ]
+        },
+        {
+          "prompt": "The manager is not surprised. The employees are not surprised. (neither ... nor) → Neither the manager ...",
+          "answers": [
+            "Neither the manager nor the employees are surprised."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Исправьте ошибки",
+      "instruction": "В каждом предложении есть ошибка согласования. Перепишите предложение верно.",
+      "items": [
+        {
+          "prompt": "The news about the election were unexpected.",
+          "answers": [
+            "The news about the election was unexpected."
+          ]
+        },
+        {
+          "prompt": "Three miles are too far for me to run.",
+          "answers": [
+            "Three miles is too far for me to run."
+          ]
+        },
+        {
+          "prompt": "The police is investigating the burglary.",
+          "answers": [
+            "The police are investigating the burglary."
+          ]
+        },
+        {
+          "prompt": "Neither the pilot nor the passengers was injured.",
+          "answers": [
+            "Neither the pilot nor the passengers were injured."
+          ]
+        },
+        {
+          "prompt": "Mathematics are my daughter's favourite subject.",
+          "answers": [
+            "Mathematics is my daughter's favourite subject."
+          ]
+        },
+        {
+          "prompt": "My glasses is broken again.",
+          "answers": [
+            "My glasses are broken again."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Составьте предложения с согласованием по образцу.",
+      "items": [
+        {
+          "prompt": "Напишите предложение с названием команды, группы или организации (the team / the company ...).",
+          "sample": "The company I work for has about fifty employees."
+        },
+        {
+          "prompt": "Напишите предложение с neither ... nor про ваших друзей или родственников.",
+          "sample": "Neither my brother nor my parents like spicy food."
+        },
+        {
+          "prompt": "Напишите предложение с as well as.",
+          "sample": "My sister, as well as her husband, speaks three languages."
+        },
+        {
+          "prompt": "Напишите про расстояние или время (Ten minutes / Five kilometres ...).",
+          "sample": "Ten minutes is enough time for me to get to work."
+        }
+      ]
+    }
+  ]
+}

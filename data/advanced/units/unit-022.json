@@ -1,0 +1,225 @@
+{
+  "id": 22,
+  "title": "Forming passive sentences (1)",
+  "summary": "Построение страдательного залога во всех временах и с модальными глаголами, пассив глаголов с двумя дополнениями, предложных и фразовых глаголов, а также вопросы и отрицания в пассиве.",
+  "ru": "## Формула и главный принцип\nПассив = **be (в нужной форме) + Past Participle**. Время, модальность и форма (infinitive, -ing) выражает именно **be**, а смысловой глагол всегда стоит в третьей форме.\n> The report **was written** by the audit team. — Отчёт написала группа аудита.\n> The road **is being repaired**. — Дорогу сейчас ремонтируют.\n> The problem **should have been noticed** earlier. — Проблему следовало заметить раньше.\nПодлежащим становится то, что в активе было дополнением: *They closed the airport* → *The airport was closed*. Подлежащее актива (агент) либо опускается, либо вводится через **by**.\n\n## Сложные формы\nВ продвинутом английском важны формы с несколькими вспомогательными глаголами:\n- **Present / Past Continuous**: is / was **being** + V3 — The bridge **is being** inspected.\n- **Perfect**: has / had **been** + V3; **will have been** + V3 — The contract **will have been signed** by Friday.\n- **Модальные**: can / must / should + **be** + V3; в прошлом — **have been** + V3: It **might have been prevented**.\n- **be going to**: The factory **is going to be closed**.\n- **Infinitive и -ing**: to **be** built, **being** built, **having been** built.\nФормы вроде *has been being repaired* (Perfect Continuous passive) грамматичны, но звучат тяжеловесно; носители обычно переформулируют: The roof **has been under repair** since May. / They **have been repairing** the roof…\n\n## Два дополнения: какое делаем подлежащим\nГлаголы give, send, offer, show, tell, award, teach и др. допускают два пассива. Чаще подлежащим становится **лицо**:\n> They offered **her** a promotion. → **She was offered** a promotion. (естественнее) / A promotion was offered **to her**.\nУ глаголов с **for** (buy, make, find, get) подлежащим обычно делают вещь: A new laptop **was bought for her**.\nУ **explain, suggest, describe, announce, say, mention, report** лицо подлежащим быть не может:\n- ~~I was explained the rule.~~ → The rule **was explained to me**.\n- ~~We were suggested a solution.~~ → A solution **was suggested to us**.\n\n## Фразовые и предложные глаголы\nПредлог или частица **остаются при глаголе** и в пассиве оказываются после него:\n> The proposal **was turned down**. — Предложение отклонили.\n> The patient **was operated on** at dawn. — Пациента прооперировали на рассвете.\n> The old man **is looked up to** by everyone. — Старика все уважают.\n> This bed **hasn't been slept in**. — В этой постели не спали.\n- ~~The proposal was turned.~~ → was turned **down**.\n\n## Вопросы и отрицания\nПорядок слов — как в обычных вопросах: вспомогательный глагол выходит вперёд.\n> **Was** the report **sent**? — **Has** the decision **been taken**?\n> **Who was** the novel **written by**? / **By whom was** the novel written? (формально)\n> The files **haven't been backed up**. — Резервные копии не сделаны.\nВопрос к подлежащему без do: **Who was arrested?** (не ~~Who did arrest~~, это был бы актив).\n\n## Формальные модели\nВ официальном стиле встречается **be to + V3-passive**: Applications **are to be submitted** by noon. И повелительный пассив: **Let it be noted that…**, **Be seated.**\n\n## Типичные ошибки\n- ~~The accident was happened.~~ → The accident **happened** (непереходный глагол в пассиве не бывает).\n- ~~The report was wrote by Tom.~~ → was **written**.\n- ~~The house is build now.~~ → is being **built**.\n- ~~I was been told.~~ → I **was told**.",
+  "en": "## The formula\nPassive = **be (correct form) + past participle**. The auxiliary **be** carries the tense, the modality and the form; the main verb is always a past participle.\n> The report **was written** by the audit team.\n> The road **is being repaired**.\n> The problem **should have been noticed** earlier.\nThe object of the active sentence becomes the subject: *They closed the airport* → *The airport was closed*. The old subject (the agent) is dropped or introduced with **by**.\n\n## Complex forms\n- **Continuous**: is / was **being** + V3 — The bridge **is being** inspected.\n- **Perfect**: has / had **been** + V3; will have been + V3.\n- **Modals**: can / must / should + **be** + V3; past: modal + **have been** + V3.\n- **be going to**: The factory **is going to be closed**.\n- **Infinitive and -ing**: to be built, being built, having been built.\nThe perfect continuous passive (*has been being repaired*) is correct but heavy; speakers prefer another structure.\n\n## Two objects\nVerbs like give, send, offer, show, tell, teach allow two passives. The **person** usually becomes the subject: *She was offered a promotion.* With **for**-verbs (buy, make, find) the thing is the subject: *A laptop was bought for her.*\nWith **explain, suggest, describe, announce, say, mention** the person cannot be the subject:\n- ~~I was explained the rule.~~ → The rule **was explained to me**.\n\n## Phrasal and prepositional verbs\nThe particle stays with the verb: The proposal **was turned down**. The patient **was operated on**. This bed **hasn't been slept in**.\n\n## Questions and negatives\n**Was** the report **sent**? **Has** the decision **been taken**? **Who was** it **written by**? (formal: **By whom** was it written?) Subject question: **Who was arrested?** The files **haven't been backed up**.\n\n## Formal patterns\n**be to + be + V3**: Applications **are to be submitted** by noon. Passive imperative: **Let it be noted that…**\n\n## Common mistakes\n- ~~The accident was happened.~~ → The accident **happened** (intransitive verbs have no passive).\n- ~~The report was wrote.~~ → was **written**.\n- ~~I was been told.~~ → I **was told**.",
+  "structure": "## Времена и формы\n| Форма | Формула | Пример |\n|---|---|---|\n| Present simple | am / is / are + V3 | Cars are produced here. |\n| Past simple | was / were + V3 | The deal was signed. |\n| Present continuous | am / is / are being + V3 | The road is being repaired. |\n| Past continuous | was / were being + V3 | He was being questioned. |\n| Present perfect | has / have been + V3 | The data has been lost. |\n| Past perfect | had been + V3 | It had been cancelled. |\n| Future | will be + V3 | It will be announced. |\n| Future perfect | will have been + V3 | It will have been finished. |\n| be going to | is / are going to be + V3 | It is going to be sold. |\n| Modal | modal + be + V3 | It must be done. |\n| Perfect modal | modal + have been + V3 | It could have been avoided. |\n| Infinitive | to be + V3 | to be informed |\n| -ing | being / having been + V3 | being asked; having been warned |\n\n## Вопрос и отрицание\n| Тип | Пример |\n|---|---|\n| Вопрос | Was the report sent? / Has it been checked? |\n| С вопросительным словом | Where was the film shot? / Who was it written by? |\n| Отрицание | The files haven't been saved. / It wasn't announced. |\n| Краткий ответ | Yes, it was. / No, it hasn't. |\n\n## Два дополнения\n> They gave **her** an award. → **She was given** an award. / An award **was given to her**.\n> They explained the rule **to me**. → The rule **was explained to me**. (~~I was explained~~)",
+  "exercises": [
+    {
+      "type": "gap",
+      "source": "book",
+      "title": "Пассив во всех временах",
+      "instruction": "Поставьте глагол в скобках в пассив в нужном времени.",
+      "example": "The film (shoot) in Iceland in 2019. → The film **was shot** in Iceland in 2019.",
+      "items": [
+        { "text": "The bridge {{was designed}} by a Swiss engineer in 1932.", "hint": "design" },
+        { "text": "Sorry about the noise: the road {{is being repaired}} at the moment.", "hint": "repair" },
+        { "text": "By next June the whole system {{will have been replaced}}.", "hint": "replace" },
+        { "text": "The documents {{had been signed|were signed}} before the lawyer arrived.", "hint": "sign" },
+        { "text": "Several protesters {{have been arrested}} since this morning.", "hint": "arrest" },
+        { "text": "The match {{should have been postponed}} because of the weather.", "hint": "should / postpone" },
+        { "text": "The problem {{couldn't be solved|could not be solved}} with the available tools.", "hint": "could / not / solve" }
+      ]
+    },
+    {
+      "type": "gap",
+      "source": "ai",
+      "title": "Фразовые и предложные глаголы в пассиве",
+      "instruction": "Поставьте глагол в пассив, сохранив частицу или предлог.",
+      "items": [
+        { "text": "The proposal {{was turned down}} by the committee last week.", "hint": "turn down" },
+        { "text": "The nurse said that the patient {{had been operated on|was operated on}} the previous night.", "hint": "operate on" },
+        { "text": "This bed {{hasn't been slept in|has not been slept in}} for months.", "hint": "not / sleep in" },
+        { "text": "A decision about the new tunnel {{will be put off}} until the autumn.", "hint": "will / put off" },
+        { "text": "All the tickets {{were sold out}} within an hour.", "hint": "sell out" },
+        { "text": "Such rudeness {{can't be put up with|cannot be put up with}} any longer.", "hint": "can / not / put up with" },
+        { "text": "The meeting {{has been called off|was called off}} because of the strike.", "hint": "call off" }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "book",
+      "title": "Выберите форму",
+      "instruction": "Выберите правильный вариант.",
+      "items": [
+        {
+          "q": "The new museum ___ by the Prime Minister next spring.",
+          "options": ["will open", "will be opened", "will have opened"],
+          "answer": 1,
+          "why": "Музей открывает кто-то другой (by the Prime Minister) → пассив **will be opened**."
+        },
+        {
+          "q": "Don't come in: the floor ___ at the moment.",
+          "options": ["is washed", "is being washed", "has been washing"],
+          "answer": 1,
+          "why": "Процесс идёт сейчас → Present Continuous passive: **is being washed**."
+        },
+        {
+          "q": "She ___ a place at Cambridge, but she turned it down.",
+          "options": ["was offered", "was offered to", "offered"],
+          "answer": 0,
+          "why": "У offer лицо может стать подлежащим: **She was offered** a place."
+        },
+        {
+          "q": "The rule ___ to me twice, but I still don't understand it.",
+          "options": ["was explained", "explained", "was explained me"],
+          "answer": 0,
+          "why": "Подлежащее — вещь, лицо вводится через **to me**; ~~was explained me~~ невозможно."
+        },
+        {
+          "q": "The suspects ___ for questioning since Monday.",
+          "options": ["have been held", "have held", "are being held"],
+          "answer": 0,
+          "why": "since Monday → Present Perfect; подозреваемых держат, поэтому пассив: **have been held**."
+        },
+        {
+          "q": "That accident ___ if the driver had been more careful.",
+          "options": ["could have avoided", "could have been avoided", "could be avoided"],
+          "answer": 1,
+          "why": "Нереальное прошлое + пассив: **could have been avoided**."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "source": "ai",
+      "title": "Какое предложение верно?",
+      "instruction": "Выберите правильное предложение.",
+      "items": [
+        {
+          "q": "Какой вариант верный?",
+          "options": ["The thieves were caught by the police.", "The thieves were catched by the police.", "The thieves was caught by the police."],
+          "answer": 0,
+          "why": "Неправильный глагол catch → caught; подлежащее thieves — множественное → **were**."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": ["The road is being repaired this week.", "The road is repairing this week.", "The road is been repaired this week."],
+          "answer": 0,
+          "why": "Continuous passive: **is being + V3**."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": ["The new rules were described me by the manager.", "The new rules were described to us by the manager.", "We were described the new rules by the manager."],
+          "answer": 1,
+          "why": "После **describe** лицо вводится через **to**; лицо не становится подлежащим."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": ["He was laughed at by the whole class.", "He was laughed by the whole class.", "He laughed at was by the whole class."],
+          "answer": 0,
+          "why": "Предлог **at** остаётся при глаголе: was laughed **at**."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": ["The files have to sent by Friday.", "The files have to be sent by Friday.", "The files have to be send by Friday."],
+          "answer": 1,
+          "why": "После модального выражения: **be + V3** (have to **be sent**)."
+        },
+        {
+          "q": "Какой вариант верный?",
+          "options": ["Nothing was hearing from the expedition for weeks.", "Nothing was hear from the expedition for weeks.", "Nothing was heard from the expedition for weeks."],
+          "answer": 2,
+          "why": "Третья форма неправильного глагола: hear → **heard**."
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "book",
+      "title": "Из актива в пассив",
+      "instruction": "Перепишите в пассиве, начиная со слов после стрелки. Неважного исполнителя можно опустить.",
+      "items": [
+        {
+          "prompt": "Someone has stolen my bicycle. → My bicycle ...",
+          "answers": ["My bicycle has been stolen.", "My bicycle's been stolen."]
+        },
+        {
+          "prompt": "They are building a new stadium near the airport. → A new stadium ...",
+          "answers": ["A new stadium is being built near the airport."]
+        },
+        {
+          "prompt": "The board will announce the results tomorrow. → The results ...",
+          "answers": ["The results will be announced tomorrow.", "The results will be announced by the board tomorrow.", "The results will be announced tomorrow by the board."]
+        },
+        {
+          "prompt": "People should have warned him. → He ...",
+          "answers": ["He should have been warned."]
+        },
+        {
+          "prompt": "The committee gave the author a special award. → The author ...",
+          "answers": ["The author was given a special award.", "The author was given a special award by the committee."]
+        },
+        {
+          "prompt": "Nobody has told us anything about the changes. → We ...",
+          "answers": ["We haven't been told anything about the changes.", "We have not been told anything about the changes.", "We've not been told anything about the changes.", "We have been told nothing about the changes.", "We've been told nothing about the changes."]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Вопросы в пассиве",
+      "instruction": "Составьте вопрос в пассиве из слов в скобках.",
+      "items": [
+        {
+          "prompt": "Спросите, кто написал этот портрет: (who / this portrait / paint / by)",
+          "answers": ["Who was this portrait painted by?", "By whom was this portrait painted?"]
+        },
+        {
+          "prompt": "(the report / send / yet) — Present Perfect",
+          "answers": ["Has the report been sent yet?"]
+        },
+        {
+          "prompt": "(where / the film / shoot) — Past Simple",
+          "answers": ["Where was the film shot?"]
+        },
+        {
+          "prompt": "(how many people / invite / to the wedding) — Past Simple",
+          "answers": ["How many people were invited to the wedding?"]
+        },
+        {
+          "prompt": "(the road / repair / now) — Present Continuous",
+          "answers": ["Is the road being repaired now?"]
+        },
+        {
+          "prompt": "(what / this tool / use / for) — Present Simple",
+          "answers": ["What is this tool used for?", "What's this tool used for?", "For what is this tool used?"]
+        }
+      ]
+    },
+    {
+      "type": "write",
+      "source": "ai",
+      "title": "Напишите о себе",
+      "instruction": "Ответьте полными предложениями, используя пассив.",
+      "items": [
+        {
+          "prompt": "Что было построено или открыто в вашем городе за последние годы?",
+          "sample": "A new shopping centre was built near my house two years ago."
+        },
+        {
+          "prompt": "Что сейчас ремонтируется или строится рядом с вами?",
+          "sample": "The main street is being repaired at the moment."
+        },
+        {
+          "prompt": "Что должно быть сделано на этой неделе у вас на работе или учёбе?",
+          "sample": "The final report has to be finished by Friday."
+        },
+        {
+          "prompt": "Чего вам не рассказали или не объяснили вовремя?",
+          "sample": "We weren't told about the schedule change until the last minute."
+        },
+        {
+          "prompt": "Что можно было бы предотвратить в какой-нибудь известной вам ситуации? (could have been)",
+          "sample": "The delay could have been avoided if the documents had been prepared earlier."
+        },
+        {
+          "prompt": "Какой язык или предмет преподают в вашей школе или вузе? (is / are taught)",
+          "sample": "English and German are taught at my university."
+        }
+      ]
+    }
+  ]
+}
