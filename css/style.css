@@ -57,7 +57,7 @@ h1, h2, h3 { line-height: 1.25; }
 /* ---------- шапка ---------- */
 .topbar {
   position: sticky; top: 0; z-index: 10;
-  display: flex; align-items: center; justify-content: space-between;
+  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 6px 14px;
   padding: 10px 16px;
   background: color-mix(in srgb, var(--bg) 88%, transparent);
   backdrop-filter: blur(8px);
@@ -65,7 +65,44 @@ h1, h2, h3 { line-height: 1.25; }
 }
 .brand { font-weight: 700; text-decoration: none; color: var(--text); font-size: 18px; }
 .brand span { color: var(--accent); }
-.topnav a { text-decoration: none; font-weight: 500; }
+.topnav { display: flex; gap: 14px; flex-wrap: wrap; justify-content: flex-end; }
+.topnav a { text-decoration: none; font-weight: 500; color: var(--muted); padding: 2px 0; border-bottom: 2px solid transparent; }
+.topnav a.active, .topnav a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+@media (max-width: 420px) { .brand { font-size: 16px; } .topnav { gap: 10px; font-size: 15px; } }
+
+/* ---------- библиотека ---------- */
+.book-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; margin: 8px 0 24px; }
+.book-card {
+  display: flex; flex-direction: column; gap: 6px; padding: 18px;
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: var(--shadow); text-decoration: none; color: var(--text);
+}
+.book-card:hover { border-color: var(--accent); }
+.book-card h2 { margin: 0; font-size: 22px; }
+.book-card p { margin: 0; color: var(--muted); flex: 1; }
+.book-card .level { align-self: flex-start; font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 99px; background: var(--accent-soft); color: var(--accent); }
+.book-card .meta { font-size: 13px; color: var(--muted); }
+.book-card.reader { border-style: dashed; }
+.crumb a { color: var(--muted); }
+
+/* ---------- читалка ---------- */
+.reader-tip { font-size: 14px; margin: 0 0 8px; }
+.reader-text { font-family: Georgia, "Times New Roman", serif; font-size: 18px; line-height: 1.7; }
+.reader-text p { margin: 0 0 14px; }
+.w {
+  position: relative; font: inherit; font-weight: 700; color: var(--accent);
+  background: none; border: 0; padding: 0; cursor: pointer;
+  border-bottom: 1px dashed var(--accent);
+}
+.w.open::after {
+  content: attr(data-ru);
+  position: absolute; left: 0; top: calc(100% + 4px); z-index: 5;
+  width: max-content; max-width: min(260px, 80vw);
+  padding: 6px 10px; border-radius: 8px;
+  background: var(--text); color: var(--bg);
+  font: 500 14px/1.35 system-ui, sans-serif; white-space: normal; text-align: left;
+}
+.w.flip.open::after { left: auto; right: 0; }
 
 /* ---------- главная ---------- */
 .hero { padding: 28px 0 8px; }

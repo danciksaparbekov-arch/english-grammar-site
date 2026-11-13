@@ -27,8 +27,8 @@
     log.innerHTML = "";
     const u = window.CURRENT_UNIT;
     bubble("model", u
-      ? `Привет! Сейчас открыта тема **Unit ${u.id}: ${u.title}**. Спрашивайте про правило, примеры или почему ответ в упражнении именно такой.`
-      : "Привет! Я помогу с английской грамматикой: объясню правило, разберу ошибку, приведу примеры.", "intro");
+      ? `Привет! Сейчас открыто: **${u.label}**. Спрашивайте про правило, слово или фразу, примеры или почему ответ именно такой.`
+      : "Привет! Я помогу с английским: объясню правило, разберу ошибку, переведу фразу из книги, приведу примеры.", "intro");
     history.forEach(m => bubble(m.role, m.text));
   }
 
@@ -74,7 +74,7 @@
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          unit: u ? `Unit ${u.id}: ${u.title}` : "",
+          unit: u ? u.label : "",
           messages: history.slice(-MAX_HISTORY)
         })
       });

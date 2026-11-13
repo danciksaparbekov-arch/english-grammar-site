@@ -3,15 +3,17 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Grammar Essential</title>
-  <meta name="description" content="Грамматика английского по темам Essential Grammar in Use: объяснения на русском и английском, построение и упражнения.">
+  <title>Английский по шагам</title>
+  <meta name="description" content="Английская грамматика по темам Essential и Advanced Grammar in Use с упражнениями и адаптированная книга для чтения.">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="#/">Grammar <span>Essential</span></a>
+    <a class="brand" href="#/">English <span>по шагам</span></a>
     <nav class="topnav">
-      <a href="#/">Юниты</a>
+      <a href="#/essential" data-nav="essential">Essential</a>
+      <a href="#/advanced" data-nav="advanced">Advanced</a>
+      <a href="#/read/metamorphosis" data-nav="read">Книга</a>
     </nav>
   </header>
 
@@ -20,14 +22,14 @@
   </main>
 
   <footer class="footer container">
-    <p>Учебный сайт по темам <i>Essential Grammar in Use</i> (R. Murphy). Объяснения и упражнения — авторские, прогресс хранится только в вашем браузере.</p>
+    <p>Учебный сайт по темам <i>Essential</i> и <i>Advanced Grammar in Use</i> (R. Murphy). Объяснения и упражнения авторские. Книга: F. Kafka, <i>Metamorphosis</i>, адаптация по переводу David Wyllie (Project Gutenberg #5200). Прогресс хранится только в вашем браузере.</p>
   </footer>
 
   <!-- Чат с ИИ-помощником -->
   <button id="chat-toggle" class="chat-toggle" aria-label="Открыть чат с помощником" title="Спросить помощника">?</button>
   <section id="chat-panel" class="chat-panel" hidden aria-label="Чат с помощником">
     <div class="chat-head">
-      <strong>Помощник по грамматике</strong>
+      <strong>Помощник по английскому</strong>
       <div class="chat-head-actions">
         <button id="chat-clear" class="link-btn" type="button">Очистить</button>
         <button id="chat-close" class="icon-btn" type="button" aria-label="Закрыть чат">✕</button>
@@ -35,7 +37,7 @@
     </div>
     <div id="chat-log" class="chat-log"></div>
     <form id="chat-form" class="chat-form">
-      <textarea id="chat-input" rows="2" maxlength="1500" placeholder="Задайте вопрос по грамматике…" required></textarea>
+      <textarea id="chat-input" rows="2" maxlength="1500" placeholder="Задайте вопрос по английскому…" required></textarea>
       <button type="submit" class="btn">Отправить</button>
     </form>
   </section>

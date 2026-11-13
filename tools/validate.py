@@ -1,11 +1,15 @@
 # -*- coding: utf-8 -*-
 """Проверка data/units/*.json по tools/SCHEMA.md и обновление списка готовых юнитов в data/index.json.
-Запуск из корня сайта:  python -I tools/validate.py
+Запуск из корня сайта:  python -I tools/validate.py [--book advanced] [--only A-B]
+--book advanced — проверять data/advanced/ (по умолчанию Essential: data/).
 Код возврата 1, если найдены ошибки."""
 import json, os, re, sys, glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-idx_path = os.path.join(ROOT, "data", "index.json")
+DATA = os.path.join(ROOT, "data")
+if "--book" in sys.argv and sys.argv[sys.argv.index("--book") + 1] == "advanced":
+    DATA = os.path.join(DATA, "advanced")
+idx_path = os.path.join(DATA, "index.json")
 idx = json.load(open(idx_path, encoding="utf-8"))
 titles = {u["id"]: u["title"] for s in idx["sections"] for u in s["units"]}
 
@@ -25,7 +29,7 @@ def err(f, msg):
     errors.append(f"{os.path.basename(f)}: {msg}")
 
 
-for f in sorted(glob.glob(os.path.join(ROOT, "data", "units", "unit-*.json"))):
+for f in sorted(glob.glob(os.path.join(DATA, "units", "unit-*.json"))):
     try:
         u = json.load(open(f, encoding="utf-8"))
     except Exception as e:

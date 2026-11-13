@@ -1,0 +1,486 @@
+{
+ "book": "Advanced Grammar in Use",
+ "sections": [
+  {
+   "title": "Времена: настоящее и прошедшее",
+   "units": [
+    {
+     "id": 1,
+     "title": "Present continuous and present simple (1)"
+    },
+    {
+     "id": 2,
+     "title": "Present continuous and present simple (2)"
+    },
+    {
+     "id": 3,
+     "title": "Past simple and present perfect"
+    },
+    {
+     "id": 4,
+     "title": "Past continuous and past simple"
+    },
+    {
+     "id": 5,
+     "title": "Present perfect continuous and present perfect"
+    },
+    {
+     "id": 6,
+     "title": "Past perfect and past simple"
+    },
+    {
+     "id": 7,
+     "title": "Past perfect continuous, past perfect and past continuous"
+    }
+   ]
+  },
+  {
+   "title": "Будущее",
+   "units": [
+    {
+     "id": 8,
+     "title": "Will and going to; shall"
+    },
+    {
+     "id": 9,
+     "title": "Present continuous and present simple for the future"
+    },
+    {
+     "id": 10,
+     "title": "Future continuous and future perfect (continuous)"
+    },
+    {
+     "id": 11,
+     "title": "Be to + infinitive; be about to + infinitive"
+    },
+    {
+     "id": 12,
+     "title": "Other ways of talking about the future"
+    },
+    {
+     "id": 13,
+     "title": "The future seen from the past"
+    }
+   ]
+  },
+  {
+   "title": "Модальные глаголы",
+   "units": [
+    {
+     "id": 14,
+     "title": "Should and ought to"
+    },
+    {
+     "id": 15,
+     "title": "Will and would"
+    },
+    {
+     "id": 16,
+     "title": "Can, could, be able to and be allowed to"
+    },
+    {
+     "id": 17,
+     "title": "May and might"
+    },
+    {
+     "id": 18,
+     "title": "Must and have (got) to"
+    },
+    {
+     "id": 19,
+     "title": "Need(n't), don't need to and don't have to"
+    },
+    {
+     "id": 20,
+     "title": "Necessity: must have, needn't have, didn't need to"
+    }
+   ]
+  },
+  {
+   "title": "Связочные глаголы, пассив, вопросы",
+   "units": [
+    {
+     "id": 21,
+     "title": "Linking verbs: be, appear, seem; become, get"
+    },
+    {
+     "id": 22,
+     "title": "Forming passive sentences (1)"
+    },
+    {
+     "id": 23,
+     "title": "Forming passive sentences (2): verb + -ing or to-infinitive"
+    },
+    {
+     "id": 24,
+     "title": "Using passives"
+    },
+    {
+     "id": 25,
+     "title": "It is said that… / He is thought to…"
+    },
+    {
+     "id": 26,
+     "title": "Wh-questions with who, whom, which, how and whose"
+    },
+    {
+     "id": 27,
+     "title": "Negative questions; echo questions; questions with that-clauses"
+    }
+   ]
+  },
+  {
+   "title": "Глагол + дополнение и инфинитив/-ing",
+   "units": [
+    {
+     "id": 28,
+     "title": "Verbs with and without objects"
+    },
+    {
+     "id": 29,
+     "title": "Verb + to-infinitive or bare infinitive"
+    },
+    {
+     "id": 30,
+     "title": "Verb + to-infinitive or -ing?"
+    },
+    {
+     "id": 31,
+     "title": "Verb + -ing"
+    },
+    {
+     "id": 32,
+     "title": "Verb + wh-clause"
+    },
+    {
+     "id": 33,
+     "title": "Have/get something done; want something done"
+    },
+    {
+     "id": 34,
+     "title": "Verb + two objects"
+    }
+   ]
+  },
+  {
+   "title": "Косвенная речь",
+   "units": [
+    {
+     "id": 35,
+     "title": "Reporting people's words and thoughts"
+    },
+    {
+     "id": 36,
+     "title": "Reporting statements (1): that-clauses"
+    },
+    {
+     "id": 37,
+     "title": "Reporting statements (2): verb tenses in that-clauses"
+    },
+    {
+     "id": 38,
+     "title": "Reporting statements (3): say and tell; verb tense in the reporting clause"
+    },
+    {
+     "id": 39,
+     "title": "Reporting offers, suggestions, orders, intentions"
+    },
+    {
+     "id": 40,
+     "title": "Should in that-clauses; the present subjunctive"
+    },
+    {
+     "id": 41,
+     "title": "Modal verbs in reporting"
+    }
+   ]
+  },
+  {
+   "title": "Существительные и согласование",
+   "units": [
+    {
+     "id": 42,
+     "title": "Countable and uncountable nouns"
+    },
+    {
+     "id": 43,
+     "title": "Agreement between subject and verb (1)"
+    },
+    {
+     "id": 44,
+     "title": "Agreement between subject and verb (2)"
+    },
+    {
+     "id": 45,
+     "title": "The possessive form of nouns"
+    },
+    {
+     "id": 46,
+     "title": "Compound nouns"
+    }
+   ]
+  },
+  {
+   "title": "Артикли и количество",
+   "units": [
+    {
+     "id": 47,
+     "title": "A/an and one"
+    },
+    {
+     "id": 48,
+     "title": "The and a/an (1)"
+    },
+    {
+     "id": 49,
+     "title": "The and a/an (2)"
+    },
+    {
+     "id": 50,
+     "title": "Some and any"
+    },
+    {
+     "id": 51,
+     "title": "No, none (of) and not any"
+    },
+    {
+     "id": 52,
+     "title": "Much (of), many (of), a lot of, lots (of)"
+    },
+    {
+     "id": 53,
+     "title": "All (of), whole, every, each"
+    },
+    {
+     "id": 54,
+     "title": "Few, a few (of), little, a little (of)"
+    }
+   ]
+  },
+  {
+   "title": "Придаточные определительные",
+   "units": [
+    {
+     "id": 55,
+     "title": "Relative clauses (1)"
+    },
+    {
+     "id": 56,
+     "title": "Relative clauses (2)"
+    },
+    {
+     "id": 57,
+     "title": "Other relative pronouns: whose, when, whereby"
+    },
+    {
+     "id": 58,
+     "title": "Prepositions in relative clauses"
+    },
+    {
+     "id": 59,
+     "title": "Adding information to noun phrases (1): additional noun phrases"
+    },
+    {
+     "id": 60,
+     "title": "Adding information to noun phrases (2): prepositional phrases, participle clauses"
+    }
+   ]
+  },
+  {
+   "title": "Причастные обороты",
+   "units": [
+    {
+     "id": 61,
+     "title": "Participle clauses with adverbial meaning (1)"
+    },
+    {
+     "id": 62,
+     "title": "Participle clauses with adverbial meaning (2)"
+    }
+   ]
+  },
+  {
+   "title": "Местоимения, замена и пропуск слов",
+   "units": [
+    {
+     "id": 63,
+     "title": "Reflexive pronouns: herself, himself, themselves"
+    },
+    {
+     "id": 64,
+     "title": "One and ones"
+    },
+    {
+     "id": 65,
+     "title": "So and not as substitutes for clauses"
+    },
+    {
+     "id": 66,
+     "title": "Do so; such"
+    },
+    {
+     "id": 67,
+     "title": "Leaving out words after auxiliary verbs"
+    },
+    {
+     "id": 68,
+     "title": "Leaving out to-infinitives"
+    }
+   ]
+  },
+  {
+   "title": "Прилагательные",
+   "units": [
+    {
+     "id": 69,
+     "title": "Position of adjectives"
+    },
+    {
+     "id": 70,
+     "title": "Gradable and ungradable adjectives"
+    },
+    {
+     "id": 71,
+     "title": "Participle adjectives (-ing and -ed)"
+    },
+    {
+     "id": 72,
+     "title": "Prepositions after adjectives"
+    },
+    {
+     "id": 73,
+     "title": "Adjectives + that-clause or to-infinitive"
+    },
+    {
+     "id": 74,
+     "title": "Comparative and superlative adjectives"
+    },
+    {
+     "id": 75,
+     "title": "Comparative phrases and clauses"
+    }
+   ]
+  },
+  {
+   "title": "Наречия и придаточные обстоятельства",
+   "units": [
+    {
+     "id": 76,
+     "title": "Position of adverbs"
+    },
+    {
+     "id": 77,
+     "title": "Adverbs of place, direction, frequency and time"
+    },
+    {
+     "id": 78,
+     "title": "Degree adverbs: very, too, extremely, quite"
+    },
+    {
+     "id": 79,
+     "title": "Comment adverbs; viewpoint adverbs; focus adverbs"
+    },
+    {
+     "id": 80,
+     "title": "Adverbial clauses of time (1)"
+    },
+    {
+     "id": 81,
+     "title": "Adverbial clauses of time (2)"
+    },
+    {
+     "id": 82,
+     "title": "Giving reasons and purposes: as, because, in order to, so that"
+    },
+    {
+     "id": 83,
+     "title": "Contrasts: although, though, even though, in spite of, despite"
+    }
+   ]
+  },
+  {
+   "title": "Условные предложения и связки",
+   "units": [
+    {
+     "id": 84,
+     "title": "Conditional sentences (1)"
+    },
+    {
+     "id": 85,
+     "title": "Conditional sentences (2)"
+    },
+    {
+     "id": 86,
+     "title": "If … not and unless; if and whether"
+    },
+    {
+     "id": 87,
+     "title": "After waiting…, before taking…"
+    },
+    {
+     "id": 88,
+     "title": "Connecting ideas between and within sentences"
+    }
+   ]
+  },
+  {
+   "title": "Предлоги",
+   "units": [
+    {
+     "id": 89,
+     "title": "At, in and on: prepositions of place"
+    },
+    {
+     "id": 90,
+     "title": "Across, along, over, through; above, below, under"
+    },
+    {
+     "id": 91,
+     "title": "Between, among; by, beside"
+    },
+    {
+     "id": 92,
+     "title": "At, in and on: prepositions of time"
+    },
+    {
+     "id": 93,
+     "title": "During, for, in, over, throughout; by and until"
+    },
+    {
+     "id": 94,
+     "title": "Prepositions after verbs (1)"
+    },
+    {
+     "id": 95,
+     "title": "Prepositions after verbs (2)"
+    },
+    {
+     "id": 96,
+     "title": "Prepositions after verbs (3)"
+    },
+    {
+     "id": 97,
+     "title": "Prepositions after nouns"
+    }
+   ]
+  },
+  {
+   "title": "Фразовые глаголы и инверсия",
+   "units": [
+    {
+     "id": 98,
+     "title": "Two- and three-word verbs: word order"
+    },
+    {
+     "id": 99,
+     "title": "Inversion (1)"
+    },
+    {
+     "id": 100,
+     "title": "Inversion (2)"
+    }
+   ]
+  }
+ ],
+ "ready": []
+}
