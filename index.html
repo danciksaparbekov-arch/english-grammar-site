@@ -6,6 +6,12 @@
   <title>Английский по шагам</title>
   <meta name="description" content="Английская грамматика по темам Essential и Advanced Grammar in Use с упражнениями и адаптированная книга для чтения.">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#2f6f5e">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="English">
 </head>
 <body>
   <header class="topbar">
@@ -15,6 +21,7 @@
       <a href="#/advanced" data-nav="advanced">Advanced</a>
       <a href="#/read/metamorphosis" data-nav="read">Книга</a>
     </nav>
+    <button id="install-btn" class="link-btn" type="button" hidden title="Добавить на рабочий стол">📲 Установить</button>
   </header>
 
   <main id="app" class="container" aria-live="polite">
@@ -46,5 +53,6 @@
   <script src="js/md.js"></script>
   <script src="js/app.js"></script>
   <script src="js/chat.js"></script>
+  <script src="js/pwa.js"></script>
 </body>
 </html>
